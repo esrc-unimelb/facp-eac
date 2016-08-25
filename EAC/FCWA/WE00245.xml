@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-07-23">2015-07-23</eventDateTime>
+<eventDateTime standardDateTime="2016-08-16">2016-08-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -120,7 +120,7 @@ Department of Aboriginal Affairs [predecessors], Records, Department of Aborigin
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00467b.htm">
 <relationEntry localType="Glossary Term">
-Stolen Generations (c. 1981 - )
+Stolen Generations
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01271b.htm">
@@ -213,18 +213,6 @@ Karalundi Mission (1954 - 1974)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000060.htm">
-<relationEntry localType="published">Resource: Mundus Gateway to Missionary Collections in the United Kingdom</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Research Support Libraries Programme</name>
-<title render="italic">Mundus Gateway to Missionary Collections in the United Kingdom</title>
-<extptr linktype="simple" href="http://www.mundus.ac.uk"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000024.htm">
 <relationEntry localType="published">Resource Section: Western Australia Protectors Reports 1899-1959</relationEntry>
 
@@ -247,30 +235,17 @@ Karalundi Mission (1954 - 1974)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001204.htm">
-<relationEntry localType="published">Newspaper Article: Achievement Plus!</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000060.htm">
+<relationEntry localType="published">Resource: Mundus Gateway to Missionary Collections in the United Kingdom</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Achievement Plus!</title>
-<imprint>
-<publisher>General Conference of Seventh-day Adventists</publisher>
-<date>1964</date>
-</imprint>
-<bibseries>
-<title render="italic">Australasian Record and Advent World Survey</title>
-<num type="volume">68</num>
-<num type="issue">45</num>
-<num type="pages">6-7</num>
-</bibseries>
-<extptr linktype="simple" href="http://documents.adventistarchives.org/Periodicals/AAR/AAR19641109-V68-45.pdf"></extptr>
+<name type="author">Research Support Libraries Programme</name>
+<title render="italic">Mundus Gateway to Missionary Collections in the United Kingdom</title>
+<extptr linktype="simple" href="http://www.mundus.ac.uk"></extptr>
 </bibref>
 </objectXMLWrap>
 
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000204.htm">
 <relationEntry localType="published">Resource: Guide to Institutions Attended by Aboriginal People in Western Australia</relationEntry>
@@ -303,6 +278,31 @@ Karalundi Mission (1954 - 1974)
 <publisher>Government of Western Australia</publisher>
 <date>2004</date>
 </imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001204.htm">
+<relationEntry localType="published">Newspaper Article: Achievement Plus!</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Achievement Plus!</title>
+<imprint>
+<publisher>General Conference of Seventh-day Adventists</publisher>
+<date>1964</date>
+</imprint>
+<bibseries>
+<title render="italic">Australasian Record and Advent World Survey</title>
+<num type="volume">68</num>
+<num type="issue">45</num>
+<num type="pages">6-7</num>
+</bibseries>
+<extptr linktype="simple" href="http://documents.adventistarchives.org/Periodicals/AAR/AAR19641109-V68-45.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 

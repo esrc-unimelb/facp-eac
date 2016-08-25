@@ -156,6 +156,11 @@ Service Children
 State Archives Collection of Western Australia (1829 - )
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00862b.htm">
+<relationEntry localType="Archival Collection">
+Perth Protestant Orphanage / Perth Anglican Orphanages, State Library of Western Australia (1872 - 1955)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00407b.htm">
 <relationEntry localType="Legislation">
 State Children Act 1907 (1907 - 1948)
@@ -167,11 +172,6 @@ State Children Act 1907 (1907 - 1948)
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01242b.htm">
 <relationEntry localType="Event">
 Coronial Inquiry into the death of George Jones and the management of Swan Boys' Orphanage, State of Western Australia (1911)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00862b.htm">
-<relationEntry localType="Archival Collection">
-Perth Protestant Orphanage / Perth Anglican Orphanages, State Library of Western Australia (1872 - 1955)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00646b.htm">
@@ -286,21 +286,102 @@ Swan Homes (1943 - 1959)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001184.htm">
-<relationEntry localType="published">Newspaper Article: The Swan Orphanage tragedy [II]</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001182.htm">
+<relationEntry localType="published">Newspaper Article: Swan Orphanage, death of George Jones</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">The Swan Orphanage tragedy [II]</title>
+<title render="quoted">Swan Orphanage, death of George Jones</title>
 <imprint>
 <date>1911</date>
 </imprint>
 <bibseries>
-<title render="italic">Sunday Times</title>
-<num type="pages">16</num>
+<title render="italic">Western Mail</title>
+<num type="pages">43-45</num>
 </bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article57715492"></extptr>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-page3474583"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000017.htm">
+<relationEntry localType="published">Report: Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Western Australia. Charities Department</name>
+<title render="italic">Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</title>
+<imprint>
+<place>Perth, [W.A.]</place>
+<publisher>Government Printer</publisher>
+<date>1899-1907</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000300.htm">
+<relationEntry localType="published">Book: The Noisy Mansions : the story of Swanleigh 1868-1971</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Peterkin, A. Roy</name>
+<title render="italic">The Noisy Mansions : the story of Swanleigh 1868-1971</title>
+<imprint>
+<place>Midland, Western Australia</place>
+<publisher>Perth Diocesan Trustees, Anglican Church of Australia</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001084.htm">
+<relationEntry localType="published">Resource Section: Swanleigh Precinct</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Heritage Council</name>
+<title render="quoted">Swanleigh Precinct</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+<date>2015</date>
+</imprint>
+<bibseries>
+<title render="italic">inHerit: Search Heritage Places</title>
+<name type="author">Western Australia State Heritage Office</name>
+</bibseries>
+<extptr linktype="simple" href="http://inherit.stateheritage.wa.gov.au/public/p/14470"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000570.htm">
+<relationEntry localType="published">Resource Section: Submission No. 319 Inquiry into Children in Institutional Care: Submissions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Submission No. 319 Inquiry into Children in Institutional Care: Submissions</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
+<name type="author">Senate Community Affairs Committee</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -385,56 +466,18 @@ Swan Homes (1943 - 1959)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000300.htm">
-<relationEntry localType="published">Book: The Noisy Mansions : the story of Swanleigh 1868-1971</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000764.htm">
+<relationEntry localType="published">Report: Report by the Superintendent of Poor Houses</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Peterkin, A. Roy</name>
-<title render="italic">The Noisy Mansions : the story of Swanleigh 1868-1971</title>
+<name type="author"></name>
+<title render="italic">Report by the Superintendent of Poor Houses</title>
 <imprint>
-<place>Midland, Western Australia</place>
-<publisher>Perth Diocesan Trustees, Anglican Church of Australia</publisher>
-<date>1986</date>
+<place>Perth</place>
+<publisher>Government Printer</publisher>
+<date>1882-1889</date>
 </imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
-<relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Information Services, Department for Community Development</name>
-<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
-<imprint>
-<publisher>Government of Western Australia</publisher>
-</imprint>
-<extptr linktype="simple" href="http://signposts.cpfs.wa.gov.au/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001084.htm">
-<relationEntry localType="published">Resource Section: Swanleigh Precinct</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Heritage Council</name>
-<title render="quoted">Swanleigh Precinct</title>
-<imprint>
-<publisher>Government of Western Australia</publisher>
-<date>2015</date>
-</imprint>
-<bibseries>
-<title render="italic">inHerit: Search Heritage Places</title>
-<name type="author">Western Australia State Heritage Office</name>
-</bibseries>
-<extptr linktype="simple" href="http://inherit.stateheritage.wa.gov.au/public/p/14470"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -497,27 +540,20 @@ Swan Homes (1943 - 1959)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001180.htm">
-<relationEntry localType="published">Newspaper Article: The Swan boys' coffinage</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
+<relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">The Swan boys' coffinage</title>
+<name type="author">Information Services, Department for Community Development</name>
+<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
 <imprint>
-<date>1908</date>
+<publisher>Government of Western Australia</publisher>
 </imprint>
-<bibseries>
-<title render="italic">Sunday Times</title>
-<num type="pages">5</num>
-</bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article57578265"></extptr>
+<extptr linktype="simple" href="http://signposts.cpfs.wa.gov.au/"></extptr>
 </bibref>
 </objectXMLWrap>
 
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001181.htm">
 <relationEntry localType="published">Newspaper Article: Little Oliver Twists</relationEntry>
@@ -534,48 +570,6 @@ Swan Homes (1943 - 1959)
 <num type="pages">3</num>
 </bibseries>
 <extptr linktype="simple" href="http://nla.gov.au/nla.news-article74888776"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000570.htm">
-<relationEntry localType="published">Resource Section: Submission No. 319 Inquiry into Children in Institutional Care: Submissions</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Submission No. 319 Inquiry into Children in Institutional Care: Submissions</title>
-<imprint>
-<publisher>Commonwealth of Australia</publisher>
-<date>2005</date>
-</imprint>
-<bibseries>
-<title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
-<name type="author">Senate Community Affairs Committee</name>
-</bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001183.htm">
-<relationEntry localType="published">Newspaper Article: Swan Orphanage reforms</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Swan Orphanage reforms</title>
-<imprint>
-<date>1911</date>
-</imprint>
-<bibseries>
-<title render="italic">Western Mail</title>
-<num type="pages">20</num>
-</bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article38831497"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -601,6 +595,47 @@ Swan Homes (1943 - 1959)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001183.htm">
+<relationEntry localType="published">Newspaper Article: Swan Orphanage reforms</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Swan Orphanage reforms</title>
+<imprint>
+<date>1911</date>
+</imprint>
+<bibseries>
+<title render="italic">Western Mail</title>
+<num type="pages">20</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article38831497"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001184.htm">
+<relationEntry localType="published">Newspaper Article: The Swan Orphanage tragedy [II]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Swan Orphanage tragedy [II]</title>
+<imprint>
+<date>1911</date>
+</imprint>
+<bibseries>
+<title render="italic">Sunday Times</title>
+<num type="pages">16</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article57715492"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001185.htm">
 <relationEntry localType="published">Newspaper Article: The Swan Orphanage tragedy [III]</relationEntry>
@@ -763,41 +798,6 @@ Swan Homes (1943 - 1959)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000017.htm">
-<relationEntry localType="published">Report: Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Western Australia. Charities Department</name>
-<title render="italic">Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</title>
-<imprint>
-<place>Perth, [W.A.]</place>
-<publisher>Government Printer</publisher>
-<date>1899-1907</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000764.htm">
-<relationEntry localType="published">Report: Report by the Superintendent of Poor Houses</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Report by the Superintendent of Poor Houses</title>
-<imprint>
-<place>Perth</place>
-<publisher>Government Printer</publisher>
-<date>1882-1889</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001426.htm">
 <relationEntry localType="published">Report: Report by the Superintendent of Poor Relief</relationEntry>
 
@@ -833,21 +833,21 @@ Swan Homes (1943 - 1959)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001182.htm">
-<relationEntry localType="published">Newspaper Article: Swan Orphanage, death of George Jones</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001180.htm">
+<relationEntry localType="published">Newspaper Article: The Swan boys' coffinage</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Swan Orphanage, death of George Jones</title>
+<title render="quoted">The Swan boys' coffinage</title>
 <imprint>
-<date>1911</date>
+<date>1908</date>
 </imprint>
 <bibseries>
-<title render="italic">Western Mail</title>
-<num type="pages">43-45</num>
+<title render="italic">Sunday Times</title>
+<num type="pages">5</num>
 </bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-page3474583"></extptr>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article57578265"></extptr>
 </bibref>
 </objectXMLWrap>
 

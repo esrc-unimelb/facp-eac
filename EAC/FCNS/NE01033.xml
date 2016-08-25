@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-05-10">2016-05-10</eventDateTime>
+<eventDateTime standardDateTime="2016-07-11">2016-07-11</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -63,10 +63,10 @@
 <term>Reformatory</term>
 </function>
 <function>
-<term>Home</term>
+<term>Government-run</term>
 </function>
 <function>
-<term>Government-run</term>
+<term>Home</term>
 </function>
 </functions>
 <biogHist>
@@ -245,6 +245,25 @@ Parramatta Girls Training School (1946 - 1974)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000100.htm">
+<relationEntry localType="published">Article: Reap as you sow</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Matthews, Bernie</name>
+<title render="quoted">Reap as you sow</title>
+<imprint>
+<date>2007</date>
+</imprint>
+<bibseries>
+<title render="italic">The Griffith Review, Edition 16: Unintended Consequences</title>
+<num type="pages">10</num>
+</bibseries>
+<extptr linktype="simple" href="https://griffithreview.com/articles/reap-as-you-sow/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000104.htm">
 <relationEntry localType="published">Report: Marlene's Story</relationEntry>
 
@@ -282,25 +301,6 @@ Parramatta Girls Training School (1946 - 1974)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000100.htm">
-<relationEntry localType="published">Article: Reap as you sow</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Matthews, Bernie</name>
-<title render="quoted">Reap as you sow</title>
-<imprint>
-<date>2007</date>
-</imprint>
-<bibseries>
-<title render="italic">The Griffith Review, Edition 16: Unintended Consequences</title>
-<num type="pages">10</num>
-</bibseries>
-<extptr linktype="simple" href="https://griffithreview.com/articles/reap-as-you-sow/"></extptr>
-</bibref>
-</objectXMLWrap>
-
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000125.htm">
 <relationEntry localType="published">Resource Section: State Secrets</relationEntry>
@@ -351,7 +351,7 @@ Parramatta Girls Training School (1946 - 1974)
 <date>2009</date>
 </imprint>
 <bibseries>
-<title render="italic">Sydney City Council: Dictionary of Sydney</title>
+<title render="italic">Dictionary of Sydney</title>
 </bibseries>
 <extptr linktype="simple" href="http://www.dictionaryofsydney.org/audio/20049?zoom_highlight=parramatta+girls+home"></extptr>
 </bibref>

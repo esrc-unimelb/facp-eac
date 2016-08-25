@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-03-19">2015-03-19</eventDateTime>
+<eventDateTime standardDateTime="2016-07-11">2016-07-11</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -45,6 +45,8 @@
 <nameEntry><part>Our Boys' Home</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
+<nameEntry localType="also known as"><part>The Boys' Home</part>
+</nameEntry>
 </identity>
 <description><existDates>
 <dateRange>
@@ -56,21 +58,22 @@
 </places>
 <functions>
 <function>
-<term>Home</term>
+<term>Non-denominational</term>
 </function>
 <function>
-<term>Non-denominational</term>
+<term>Home</term>
 </function>
 </functions>
 <biogHist>
 <abstract>Our Boys' Home was established in 1890 in Camden by the Society for Providing Homes for Neglected Children. It was a farm training home and closed in 1945.</abstract>
 <p>Our Boys' Home was founded by George Edward Ardill's Society for Providing Homes for Neglected Children, after a gift from Mr WH Paling, of Paling's Music Store in Sydney. It was intended as a farm training home and, like other institutions run by George Edward Ardill, such as the Home of Hope for Friendless and Fallen Women, arranged 'apprenticeships' for boys once they had left the home.</p>
+<p>The Home closed in 1945 and the building was sold in 1946, later becoming known as Macquarie House.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1890-01-01">1890</fromDate>
 <toDate standardDate="1945-12-31">1945</toDate>
 </dateRange>
 <placeEntry>Camden</placeEntry>
-<event>Location - Our Boys' Home was situated at Camden</event>
+<event>Address - Our Boys' Home was situated at 56A Ferguson Road, Camden</event>
 </chronItem>
 </chronList>
 
@@ -103,6 +106,68 @@ Integricare (2011 - )
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01093b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001060.htm">
+<relationEntry localType="published">Resource Section: Macquarie House</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Macquarie House</title>
+<imprint>
+<publisher>NSW Office of Environment and Heritage</publisher>
+</imprint>
+<bibseries>
+<title render="italic">State Heritage Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.environment.nsw.gov.au/heritageapp/ViewHeritageItemDetails.aspx?ID=1280110"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001059.htm">
+<relationEntry localType="published">Resource Section: Grasmere</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Robinson, Steve</name>
+<title render="quoted">Grasmere</title>
+<imprint>
+<publisher>Dictionary of Sydney Trust</publisher>
+<date>2008</date>
+</imprint>
+<bibseries>
+<title render="italic">Dictionary of Sydney</title>
+</bibseries>
+<extptr linktype="simple" href="http://dictionaryofsydney.org/entry/grasmere"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001058.htm">
+<relationEntry localType="published">Resource Section: Our Boys Farm Home</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Our Boys Farm Home</title>
+<imprint>
+<publisher>Dictionary of Sydney Trust</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Dictionary of Sydney</title>
+<name type="author">Dictionary of Sydney Trust</name>
+</bibseries>
+<extptr linktype="simple" href="http://dictionaryofsydney.org/organisation/our_boys_farm_home"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000565.htm">
 <relationEntry localType="published">Journal: The Rescue: official organ of the Sydney Rescue Work Society and Society for Providing Homes for Neglected Children</relationEntry>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-06-28">2016-06-28</eventDateTime>
+<eventDateTime standardDateTime="2016-07-11">2016-07-11</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -45,6 +45,8 @@
 <nameEntry><part>Parramatta Girls Industrial School</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
+<nameEntry localType=""><part>Parramatta Training School for Girls</part>
+</nameEntry>
 <nameEntry localType=""><part>Industrial School for Females</part>
 <useDates>
 <dateRange>
@@ -54,8 +56,6 @@
 </useDates>
 </nameEntry>
 <nameEntry localType=""><part>Bethel House</part>
-</nameEntry>
-<nameEntry localType=""><part>Parramatta Training School for Girls</part>
 </nameEntry>
 </identity>
 <description><existDates>
@@ -145,14 +145,22 @@ Reformatory and Industrial Schools Act 1901, State of New South Wales (1901 - 19
 Mittagong Cottage Homes (1885 - 1976)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00769b.htm">
-<relationEntry localType="Archival Series">
-Register of committals [Kamballa] (1906 - 1978)
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00399b.htm">
+<relationEntry localType="Organisation">
+State Records Authority of New South Wales (1961 - )
 </relationEntry>
+<descriptiveNote>
+<p>Some records from Parramatta Girls Industrial School are located at State Records.</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01598b.htm">
 <relationEntry localType="Glossary Term">
 ILWA (1887 - 1974)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00769b.htm">
+<relationEntry localType="Archival Series">
+Register of committals [Kamballa] (1906 - 1978)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00768b.htm">
@@ -191,14 +199,6 @@ Destitute Children Act 1866, Colony of New South Wales (1866 - 1901)
 </relationEntry>
 <descriptiveNote>
 <p>Parramatta Girls' Industrial School was created under the <span style="font-style:italic">Destitute Children's Act 1866.</span></p>
-</descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00399b.htm">
-<relationEntry localType="Organisation">
-State Records Authority of New South Wales (1961 - )
-</relationEntry>
-<descriptiveNote>
-<p>Some records from Parramatta Girls Industrial School are located at State Records.</p>
 </descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00489b.htm">
@@ -243,36 +243,58 @@ Parramatta Girls Training Home (1912 - 1946)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000171.htm">
-<relationEntry localType="published">Book: 'The Forgotten': Children in Homes, Reformatories and Industrial Schools NSW</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Vernon, Kaye</name>
-<title render="italic">'The Forgotten': Children in Homes, Reformatories and Industrial Schools NSW</title>
-<imprint>
-<place>Beacon Hill</place>
-<publisher>Pendeo</publisher>
-<date>2012</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000137.htm">
-<relationEntry localType="published">Resource Section: Child Care and Protection Guide</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000400.htm">
+<relationEntry localType="published">Resource Section: Newcastle Public Industrial School for Girls (1867-1871) / Biloela Public Industrial School for Girls (1871-1887) / Parramatta Industrial School for Females (1887-1912) / Girl's Training Home, Parramatta (1912-1975) / Kamballa (1975-1983) [State Records NSW Agency number 460]</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Child Care and Protection Guide</title>
+<title render="quoted">Newcastle Public Industrial School for Girls (1867-1871) / Biloela Public Industrial School for Girls (1871-1887) / Parramatta Industrial School for Females (1887-1912) / Girl's Training Home, Parramatta (1912-1975) / Kamballa (1975-1983) [State Records NSW Agency number 460]</title>
 <imprint>
 <publisher>State Records Authority of New South Wales</publisher>
 </imprint>
 <bibseries>
-<title render="italic">State Records Authority of New South Wales website</title>
+<title render="italic">SRNSW collection catalogue</title>
 </bibseries>
-<extptr linktype="simple" href="https://www.records.nsw.gov.au/archives/collections-and-research/guides-and-indexes/child-care-and-protection-guide"></extptr>
+<extptr linktype="simple" href="http://search.records.nsw.gov.au/agencies/460"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000080.htm">
+<relationEntry localType="published">Resource Section: Exposed to Moral Danger</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Arnold, Ann</name>
+<title render="quoted">Exposed to Moral Danger</title>
+<imprint>
+<publisher>ABC Radio National Hindsight</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.abc.net.au/rn/hindsight/stories/2009/2627360.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000118.htm">
+<relationEntry localType="published">Book: Abandon All Hope: a history of Parramatta Industrial School</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Djuric, Bonney</name>
+<title render="italic">Abandon All Hope: a history of Parramatta Industrial School</title>
+<imprint>
+<place>Georges Terrace</place>
+<publisher>Chargan</publisher>
+<date>2008</date>
+</imprint>
 </bibref>
 </objectXMLWrap>
 
@@ -300,78 +322,57 @@ Parramatta Girls Training Home (1912 - 1946)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000400.htm">
-<relationEntry localType="published">Resource Section: Newcastle Public Industrial School for Girls (1867-1871) / Biloela Public Industrial School for Girls (1871-1887) / Parramatta Industrial School for Females (1887-1912) / Girl's Training Home, Parramatta (1912-1975) / Kamballa (1975-1983) [State Records NSW Agency number 460]</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000131.htm">
+<relationEntry localType="published">Resource Section: Bonney Djuric on Parramatta Girls' Home 2009</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Newcastle Public Industrial School for Girls (1867-1871) / Biloela Public Industrial School for Girls (1871-1887) / Parramatta Industrial School for Females (1887-1912) / Girl's Training Home, Parramatta (1912-1975) / Kamballa (1975-1983) [State Records NSW Agency number 460]</title>
-<imprint>
-<publisher>State Records Authority of New South Wales</publisher>
-</imprint>
-<bibseries>
-<title render="italic">SRNSW collection catalogue</title>
-</bibseries>
-<extptr linktype="simple" href="http://search.records.nsw.gov.au/agencies/460"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000433.htm">
-<relationEntry localType="published">Resource: Parramatta Female Factory Precinct</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Parragirls</name>
-<title render="italic">Parramatta Female Factory Precinct</title>
-<imprint>
-<date>2006-</date>
-</imprint>
-<extptr linktype="simple" href="http://www.parragirls.org.au/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000118.htm">
-<relationEntry localType="published">Book: Abandon All Hope: a history of Parramatta Industrial School</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Djuric, Bonney</name>
-<title render="italic">Abandon All Hope: a history of Parramatta Industrial School</title>
-<imprint>
-<place>Georges Terrace</place>
-<publisher>Chargan</publisher>
-<date>2008</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000494.htm">
-<relationEntry localType="published">Newspaper Article: Rees offers apology to casualties of care system</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Benns, Matthew</name>
-<title render="quoted">Rees offers apology to casualties of care system</title>
+<name type="author">Stockell, Poppy</name>
+<title render="quoted">Bonney Djuric on Parramatta Girls' Home 2009</title>
 <imprint>
 <date>2009</date>
 </imprint>
 <bibseries>
-<title render="italic">The Sydney Morning Herald</title>
+<title render="italic">Dictionary of Sydney</title>
 </bibseries>
-<extptr linktype="simple" href="http://www.smh.com.au/national/rees-offers-apology-to-casualties-of-care-system-20090919-fw4b.html?skin=text-only"></extptr>
+<extptr linktype="simple" href="http://www.dictionaryofsydney.org/audio/20049?zoom_highlight=parramatta+girls+home"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000137.htm">
+<relationEntry localType="published">Resource Section: Child Care and Protection Guide</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Child Care and Protection Guide</title>
+<imprint>
+<publisher>State Records Authority of New South Wales</publisher>
+</imprint>
+<bibseries>
+<title render="italic">State Records Authority of New South Wales website</title>
+</bibseries>
+<extptr linktype="simple" href="https://www.records.nsw.gov.au/archives/collections-and-research/guides-and-indexes/child-care-and-protection-guide"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000170.htm">
+<relationEntry localType="published">CD Rom: 'The Forgotten': Children in Homes, Reformatories and Industrial Schools NSW</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Vernon, Kaye</name>
+<title render="italic">'The Forgotten': Children in Homes, Reformatories and Industrial Schools NSW</title>
+<imprint>
+<place>Beacon Hill</place>
+<publisher>Pendeo</publisher>
+<date>2012</date>
+</imprint>
 </bibref>
 </objectXMLWrap>
 
@@ -396,23 +397,26 @@ Parramatta Girls Training Home (1912 - 1946)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000131.htm">
-<relationEntry localType="published">Resource Section: Bonney Djuric on Parramatta Girls' Home 2009</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000312.htm">
+<relationEntry localType="published">Newspaper Article: Female Factory tales to be told</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Stockell, Poppy</name>
-<title render="quoted">Bonney Djuric on Parramatta Girls' Home 2009</title>
+<name type="author">Han, Esther</name>
+<title render="quoted">Female Factory tales to be told</title>
 <imprint>
-<date>2009</date>
+<date>2012</date>
 </imprint>
 <bibseries>
-<title render="italic">Sydney City Council: Dictionary of Sydney</title>
+<title render="italic">The Sunday Sun-Herald</title>
 </bibseries>
-<extptr linktype="simple" href="http://www.dictionaryofsydney.org/audio/20049?zoom_highlight=parramatta+girls+home"></extptr>
+<extptr linktype="simple" href="http://www.smh.com.au/nsw/female-factory-tales-to-be-told-20121103-28qub.html"></extptr>
 </bibref>
 </objectXMLWrap>
 
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000881.htm">
 <relationEntry localType="published">Newspaper Article: Parramatta Girls: 'exposed to moral danger'</relationEntry>
@@ -432,36 +436,17 @@ Parramatta Girls Training Home (1912 - 1946)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000170.htm">
-<relationEntry localType="published">CD Rom: 'The Forgotten': Children in Homes, Reformatories and Industrial Schools NSW</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000433.htm">
+<relationEntry localType="published">Resource: Parramatta Female Factory Precinct</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Vernon, Kaye</name>
-<title render="italic">'The Forgotten': Children in Homes, Reformatories and Industrial Schools NSW</title>
+<name type="author">Parragirls</name>
+<title render="italic">Parramatta Female Factory Precinct</title>
 <imprint>
-<place>Beacon Hill</place>
-<publisher>Pendeo</publisher>
-<date>2012</date>
+<date>2006-</date>
 </imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000312.htm">
-<relationEntry localType="published">Newspaper Article: Female Factory tales to be told</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Han, Esther</name>
-<title render="quoted">Female Factory tales to be told</title>
-<imprint>
-<date>2012</date>
-</imprint>
-<bibseries>
-<title render="italic">The Sunday Sun-Herald</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.smh.com.au/nsw/female-factory-tales-to-be-told-20121103-28qub.html"></extptr>
+<extptr linktype="simple" href="http://www.parragirls.org.au/"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -489,6 +474,42 @@ Parramatta Girls Training Home (1912 - 1946)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000459.htm">
+<relationEntry localType="published">Resource: Index to Child Care and Protection</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Index to Child Care and Protection</title>
+<imprint>
+<publisher>State Records NSW</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.records.nsw.gov.au/state-archives/indexes-online/indexes-to-education-and-child-welfare-records/index-to-child-care-and-protection"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000494.htm">
+<relationEntry localType="published">Newspaper Article: Rees offers apology to casualties of care system</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Benns, Matthew</name>
+<title render="quoted">Rees offers apology to casualties of care system</title>
+<imprint>
+<date>2009</date>
+</imprint>
+<bibseries>
+<title render="italic">The Sydney Morning Herald</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.smh.com.au/national/rees-offers-apology-to-casualties-of-care-system-20090919-fw4b.html?skin=text-only"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000666.htm">
 <relationEntry localType="published">Resource Section: Establishment of the Children's Court</relationEntry>
@@ -528,24 +549,6 @@ Parramatta Girls Training Home (1912 - 1946)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000459.htm">
-<relationEntry localType="published">Resource: Index to Child Care and Protection</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Index to Child Care and Protection</title>
-<imprint>
-<publisher>State Records NSW</publisher>
-</imprint>
-<extptr linktype="simple" href="http://www.records.nsw.gov.au/state-archives/indexes-online/indexes-to-education-and-child-welfare-records/index-to-child-care-and-protection"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000841.htm">
 <relationEntry localType="published">Resource Section: Girls Training School Precinct, 1 Fleet St, Parramatta, NSW, Australia [Register of the National Estate]</relationEntry>
 
@@ -568,24 +571,21 @@ Parramatta Girls Training Home (1912 - 1946)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000080.htm">
-<relationEntry localType="published">Resource Section: Exposed to Moral Danger</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000171.htm">
+<relationEntry localType="published">Book: 'The Forgotten': Children in Homes, Reformatories and Industrial Schools NSW</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Arnold, Ann</name>
-<title render="quoted">Exposed to Moral Danger</title>
+<name type="author">Vernon, Kaye</name>
+<title render="italic">'The Forgotten': Children in Homes, Reformatories and Industrial Schools NSW</title>
 <imprint>
-<publisher>ABC Radio National Hindsight</publisher>
-<date>2009</date>
+<place>Beacon Hill</place>
+<publisher>Pendeo</publisher>
+<date>2012</date>
 </imprint>
-<extptr linktype="simple" href="http://www.abc.net.au/rn/hindsight/stories/2009/2627360.htm"></extptr>
 </bibref>
 </objectXMLWrap>
 
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000424.htm">
 <relationEntry localType="digitalObject">Girls Training School Precinct, 1 Fleet Street, Parramatta, NSW, Australia</relationEntry>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-04-09">2015-04-09</eventDateTime>
+<eventDateTime standardDateTime="2016-08-16">2016-08-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -72,13 +72,13 @@
 <term>Church Agency</term>
 </function>
 <function>
-<term>Home</term>
-</function>
-<function>
 <term>Anglican</term>
 </function>
 <function>
 <term>Children's Home</term>
+</function>
+<function>
+<term>Home</term>
 </function>
 <function>
 <term>Protestant</term>
@@ -232,6 +232,22 @@ Church Missionary Society Home for Half-Castes, Mulgoa (1942 - c. 1947)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000087.htm">
+<relationEntry localType="published">Report: Annual report of the Anglican Homes for Children including Milleewa Home for Boys Ashfield and the Windsor Farm Home for Boys Freeman's Reach, Windsor /​ Anglican Homes for Children Association.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Annual report of the Anglican Homes for Children including Milleewa Home for Boys Ashfield and the Windsor Farm Home for Boys Freeman's Reach, Windsor /​ Anglican Homes for Children Association.</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Anglican Homes for Children Association (N.S.W.): D.S. Ford</publisher>
+<date>1924-1940</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000088.htm">
 <relationEntry localType="published">Resource Section: Milleewa - Archaeological Site, Ashfield</relationEntry>
 
@@ -248,25 +264,6 @@ Church Missionary Society Home for Half-Castes, Mulgoa (1942 - c. 1947)
 <name type="author">Godden, Mackay, Logan</name>
 </bibseries>
 <extptr linktype="simple" href="http://www.heritage.nsw.gov.au/07_subnav_02_2.cfm?itemid=5056564"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000079.htm">
-<relationEntry localType="published">Resource: Our History</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Our History</title>
-<imprint>
-<publisher>Church Missionary Society of Australia (CMS)</publisher>
-<date>2010</date>
-</imprint>
-<extptr linktype="simple" href="http://www.cms.org.au/about/cms-history"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -295,27 +292,6 @@ Church Missionary Society Home for Half-Castes, Mulgoa (1942 - c. 1947)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000110.htm">
-<relationEntry localType="published">Newspaper Article: Milleewa Home May Close</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Milleewa Home May Close</title>
-<imprint>
-<date>1946</date>
-</imprint>
-<bibseries>
-<title render="italic">Sydney Morning Herald</title>
-</bibseries>
-<extptr linktype="simple" href="http://trove.nla.gov.au/ndp/del/article/18018519"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000109.htm">
 <relationEntry localType="published">Newspaper Article: Milleewa Boys' Home</relationEntry>
 
@@ -337,21 +313,45 @@ Church Missionary Society Home for Half-Castes, Mulgoa (1942 - c. 1947)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000087.htm">
-<relationEntry localType="published">Report: Annual report of the Anglican Homes for Children including Milleewa Home for Boys Ashfield and the Windsor Farm Home for Boys Freeman's Reach, Windsor /​ Anglican Homes for Children Association.</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000110.htm">
+<relationEntry localType="published">Newspaper Article: Milleewa Home May Close</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="italic">Annual report of the Anglican Homes for Children including Milleewa Home for Boys Ashfield and the Windsor Farm Home for Boys Freeman's Reach, Windsor /​ Anglican Homes for Children Association.</title>
+<title render="quoted">Milleewa Home May Close</title>
 <imprint>
-<place>Sydney</place>
-<publisher>Anglican Homes for Children Association (N.S.W.): D.S. Ford</publisher>
-<date>1924-1940</date>
+<date>1946</date>
 </imprint>
+<bibseries>
+<title render="italic">Sydney Morning Herald</title>
+</bibseries>
+<extptr linktype="simple" href="http://trove.nla.gov.au/ndp/del/article/18018519"></extptr>
 </bibref>
 </objectXMLWrap>
 
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000079.htm">
+<relationEntry localType="published">Resource: Our History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Our History</title>
+<imprint>
+<publisher>Church Missionary Society of Australia (CMS)</publisher>
+<date>2010</date>
+</imprint>
+<extptr linktype="simple" href="http://www.cms.org.au/about/cms-history"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000305.htm">
 <relationEntry localType="published">Resource Section: Yates, Arthur (1861-1926)</relationEntry>
@@ -398,6 +398,22 @@ Church Missionary Society Home for Half-Castes, Mulgoa (1942 - c. 1947)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000379.htm">
+<relationEntry localType="published">Book: Our river days : a reflection of childhood memories, 1942-1946 : children from Otford, New South Wales and Croker Island, Northern Territory</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bezant, Betty</name>
+<title render="italic">Our river days : a reflection of childhood memories, 1942-1946 : children from Otford, New South Wales and Croker Island, Northern Territory</title>
+<imprint>
+<place>Armidale</place>
+<publisher>Kardoorair Press</publisher>
+<date>2008</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000428.htm">
 <relationEntry localType="published">Newspaper Article: Pride in age: Australia's Oldest Mayoress</relationEntry>
 
@@ -418,22 +434,6 @@ Church Missionary Society Home for Half-Castes, Mulgoa (1942 - c. 1947)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000379.htm">
-<relationEntry localType="published">Book: Our river days : a reflection of childhood memories, 1942-1946 : children from Otford, New South Wales and Croker Island, Northern Territory</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Bezant, Betty</name>
-<title render="italic">Our river days : a reflection of childhood memories, 1942-1946 : children from Otford, New South Wales and Croker Island, Northern Territory</title>
-<imprint>
-<place>Armidale</place>
-<publisher>Kardoorair Press</publisher>
-<date>2008</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000438.htm">
 <relationEntry localType="published">Newspaper Article: Half-Caste Children. From Croker Island. On Way to Sydney.</relationEntry>

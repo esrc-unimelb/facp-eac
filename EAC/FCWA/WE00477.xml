@@ -77,6 +77,21 @@
 Boarding Out Committee
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00410b.htm">
+<relationEntry localType="Legislation">
+State Children Act Amendment Act 1927 (1927 - 1948)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00368b.htm">
+<relationEntry localType="Organisation">
+State Children Department, State of Western Australia (1917 - 1927)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00364b.htm">
+<relationEntry localType="Organisation">
+Child Welfare Department, State of Western Australia (1927 - 1972)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00446b.htm">
 <relationEntry localType="Glossary Term">
 Foster Care (1907 - )
@@ -110,21 +125,6 @@ State Child (1907 - 1927)
 State Children Act 1907 (1907 - 1948)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00410b.htm">
-<relationEntry localType="Legislation">
-State Children Act Amendment Act 1927 (1927 - 1948)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00368b.htm">
-<relationEntry localType="Organisation">
-State Children Department, State of Western Australia (1917 - 1927)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00364b.htm">
-<relationEntry localType="Organisation">
-Child Welfare Department, State of Western Australia (1927 - 1972)
-</relationEntry>
-</cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Policies and practices in out of home 'care' in the 1920s - an overview', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
 
@@ -137,25 +137,6 @@ Child Welfare Department, State of Western Australia (1927 - 1972)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00477b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000021.htm">
-<relationEntry localType="published">Report: Annual report of the State Children Department</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Annual report of the State Children Department</title>
-<imprint>
-<place>[Perth, W.A.]</place>
-<publisher>State Children's Department</publisher>
-<date>1908-1927</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000138.htm">
 <relationEntry localType="published">Book: Date it!: a Western Australian chronology to 1929</relationEntry>
@@ -185,6 +166,25 @@ Child Welfare Department, State of Western Australia (1927 - 1972)
 <title render="italic">History of the Department to 2004</title>
 <imprint>
 <date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000021.htm">
+<relationEntry localType="published">Report: Annual report of the State Children Department</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Annual report of the State Children Department</title>
+<imprint>
+<place>[Perth, W.A.]</place>
+<publisher>State Children's Department</publisher>
+<date>1908-1927</date>
 </imprint>
 </bibref>
 </objectXMLWrap>

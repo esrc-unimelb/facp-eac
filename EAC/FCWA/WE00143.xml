@@ -91,11 +91,6 @@
 Methodist Church (1829 - 1977)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00638b.htm">
-<relationEntry localType="Archival Collection">
-Uniting Church (Synod of Western Australia) Archives, Records (1918 - 1980s)
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00205b.htm">
 <relationEntry localType="Organisation">
 Seaforth Salvation Army Girls' Home (1920 - 1942)
@@ -103,6 +98,11 @@ Seaforth Salvation Army Girls' Home (1920 - 1942)
 <descriptiveNote>
 <p>When the Methodist Girls' Home closed, girls were transferred to Seaforth Salvation Army Girls' Home.</p>
 </descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00638b.htm">
+<relationEntry localType="Archival Collection">
+Uniting Church (Synod of Western Australia) Archives, Records (1918 - 1980s)
+</relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Methodist Girls' Home', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
@@ -116,25 +116,6 @@ Seaforth Salvation Army Girls' Home (1920 - 1942)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00143b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000021.htm">
-<relationEntry localType="published">Report: Annual report of the State Children Department</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Annual report of the State Children Department</title>
-<imprint>
-<place>[Perth, W.A.]</place>
-<publisher>State Children's Department</publisher>
-<date>1908-1927</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001258.htm">
 <relationEntry localType="published">Resource Section: Motion - youthful delinquents, detention conditions</relationEntry>
@@ -213,6 +194,25 @@ Seaforth Salvation Army Girls' Home (1920 - 1942)
 </bibref>
 </objectXMLWrap>
 
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000021.htm">
+<relationEntry localType="published">Report: Annual report of the State Children Department</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Annual report of the State Children Department</title>
+<imprint>
+<place>[Perth, W.A.]</place>
+<publisher>State Children's Department</publisher>
+<date>1908-1927</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
 <relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>

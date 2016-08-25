@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-12-15">2015-12-15</eventDateTime>
+<eventDateTime standardDateTime="2016-07-11">2016-07-11</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -69,10 +69,10 @@
 <term>Children's Home</term>
 </function>
 <function>
-<term>Home</term>
+<term>Anglican</term>
 </function>
 <function>
-<term>Anglican</term>
+<term>Home</term>
 </function>
 <function>
 <term>Protestant</term>
@@ -142,6 +142,26 @@ Pallister Church of England Girls' Home (1936 - 1977)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01076b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001057.htm">
+<relationEntry localType="published">Newspaper Article: The Deaconess Institute's New Home for Children at Strathfield</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Deaconess Institute's New Home for Children at Strathfield</title>
+<imprint>
+<place>NSW</place>
+<date>1929</date>
+</imprint>
+<bibseries>
+<title render="italic">Sydney Mail</title>
+<num type="pages">56</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article166260301"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000691.htm">
 <relationEntry localType="published">Resource Section: Other Ministries Begun By Sydney Anglican Deaconesses</relationEntry>
@@ -267,6 +287,21 @@ Pallister Church of England Girls' Home (1936 - 1977)
 
 <descriptiveNote>
 <p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000782.htm">
+<relationEntry localType="digitalObject">The Deaconess Institute's New Home for Children at Strathfield</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>The Deaconess Institute's New Home for Children at Strathfield</unittitle>
+<unitdate>1929</unitdate>
+<abstract>This image appeared in the article 'The Deaconess Institute's New Home for Children at Strathfield' in the Sydney Mail on 15 May 1929. The image shows the building of the Deaconess Children's Home, Strathfield.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
 </descriptiveNote>
 </resourceRelation>
 </relations>

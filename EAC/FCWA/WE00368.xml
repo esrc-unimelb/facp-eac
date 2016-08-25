@@ -88,11 +88,6 @@ Files - Community Welfare ("A" Series), State Records Office of Western Australi
 <p>Files created by the State Children's Department are held in this series at the State Records Office of WA.</p>
 </descriptiveNote>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00640b.htm">
-<relationEntry localType="Organisation">
-Past Adoption Information and Services, Department for Child Protection and Family Support
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00619b.htm">
 <relationEntry localType="Archival Collection">
 Hillcrest Records (1912 - 1974)
@@ -129,6 +124,11 @@ Files - Child Welfare, State Records Office of Western Australia (1917 - 1972)
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00477b.htm">
 <relationEntry localType="Concept">
 Policies and practices in out of home 'care' in the 1920s - an overview (1920 - 1929)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00640b.htm">
+<relationEntry localType="Organisation">
+Past Adoption Information and Services, Department for Child Protection and Family Support
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00004b.htm">
@@ -229,22 +229,6 @@ Child Welfare Department, State of Western Australia (1927 - 1972)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000021.htm">
-<relationEntry localType="published">Report: Annual report of the State Children Department</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Annual report of the State Children Department</title>
-<imprint>
-<place>[Perth, W.A.]</place>
-<publisher>State Children's Department</publisher>
-<date>1908-1927</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000270.htm">
 <relationEntry localType="published">Book Section: Colonial Secretary's Department</relationEntry>
 
@@ -304,6 +288,22 @@ Child Welfare Department, State of Western Australia (1927 - 1972)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000021.htm">
+<relationEntry localType="published">Report: Annual report of the State Children Department</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Annual report of the State Children Department</title>
+<imprint>
+<place>[Perth, W.A.]</place>
+<publisher>State Children's Department</publisher>
+<date>1908-1927</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 </relations>
 </cpfDescription>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-12-21">2015-12-21</eventDateTime>
+<eventDateTime standardDateTime="2016-07-12">2016-07-12</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -45,7 +45,11 @@
 <nameEntry><part>Queen Elizabeth II Family Centre</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
-<nameEntry localType=""><part>QEII</part>
+<nameEntry localType="also known as"><part>QEII</part>
+</nameEntry>
+<nameEntry localType="also known as"><part>Queen Elizabeth II Home</part>
+</nameEntry>
+<nameEntry localType="also known as"><part>Queen Elizabeth II Coronation Home for Mothers</part>
 </nameEntry>
 </identity>
 <description><existDates>
@@ -64,14 +68,20 @@
 </function>
 </functions>
 <biogHist>
-<abstract>The Queen Elizabeth II Family Centre was established in Curtin in 1963. It is a postnatal and early childhood primary health service which also offers a residential service providing care for families with children up to three years of age. It is managed by the Canberra Mothercraft Society (CMS).</abstract>
+<abstract>The Queen Elizabeth II Family Centre was established in Civic in 1963. It later moved to Curtain. It is a postnatal and early childhood primary health service which also offers a residential service providing care for families with children up to three years of age. It is managed by the Canberra Mothercraft Society (CMS).</abstract>
 <p>The Centre is staffed by an interdisciplinary team including nurses, midwives, mothercraft nurses, counsellor, community development officer, medical officer, and other health professionals visit and are referred to when required.</p>
 <chronList><chronItem>
-<dateRange><fromDate standardDate="1926-01-01">1926</fromDate>
-<toDate standardDate="1926-12-31">1926</toDate>
+<dateRange><fromDate standardDate="1963-01-01">1963</fromDate>
+<toDate standardDate="1997-12-31">1997</toDate>
+</dateRange>
+<placeEntry>Civic</placeEntry>
+<event>Location - The Queen Elizabeth II Family Centre was situated at Civic</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1997-01-01">1997</fromDate>
 </dateRange>
 <placeEntry>Curtin</placeEntry>
-<event>Location - The Queen Elizabeth II Family Centre was situated at Curtin</event>
+<event>Address - The Queen Elizabeth II Family Centre was located 129 Carruthers Street, Curtin</event>
 </chronItem>
 </chronList>
 
@@ -106,6 +116,28 @@ ACT Health Directorate (2001 - )
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000147.htm">
+<relationEntry localType="published">Newspaper Article: Canberra's QEII Family Centre at full capacity with opening of six new beds by Health Minister Simon Corbell</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Doherty, Megan</name>
+<title render="quoted">Canberra's QEII Family Centre at full capacity with opening of six new beds by Health Minister Simon Corbell</title>
+<imprint>
+<publisher>Fairfax Media</publisher>
+<date>2015</date>
+</imprint>
+<bibseries>
+<title render="italic">The Canberra Times</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.canberratimes.com.au/act-news/canberras-qeii-family-centre-at-full-capacity-with-opening-of-six-new-beds-by-health-minister-simon-corbell-20151002-gjzq07.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000125.htm">
 <relationEntry localType="published">Resource Section: Newsletter QE II 50th Anniversary May 2013</relationEntry>
 
@@ -123,6 +155,37 @@ ACT Health Directorate (2001 - )
 </bibref>
 </objectXMLWrap>
 
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/objects/AD0000036.htm">
+<relationEntry localType="digitalObject">Early days … Queen Elizabeth II Family Centre</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The Canberra Times</repository>
+<unittitle>Early days … Queen Elizabeth II Family Centre</unittitle>
+<unitdate>N.D.</unitdate>
+<abstract>This image was provided as part of the article 'QEII is a 'treasured' family anchor' in The Canberra Times on 20 May 2013. The image shows the outside of the building with the sign when it was based in Civic.</abstract>
+<note label="rights">The Canberra Times</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/objects/AD0000035.htm">
+<relationEntry localType="digitalObject">Vital service … Queen Elizabeth Family Centre</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The Canberra Times</repository>
+<unittitle>Vital service … Queen Elizabeth Family Centre</unittitle>
+<unitdate>2013?</unitdate>
+<abstract>This image was provided as part of the article 'QEII is a 'treasured' family anchor' in The Canberra Times on 20 May 2013. The image shows the outside of the building with the sign on it.</abstract>
+<note label="rights">The Canberra Times</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
 </resourceRelation>
 </relations>
 </cpfDescription>

@@ -59,10 +59,10 @@
 <term>Receiving Home</term>
 </function>
 <function>
-<term>Home</term>
+<term>Government-run</term>
 </function>
 <function>
-<term>Government-run</term>
+<term>Home</term>
 </function>
 </functions>
 <biogHist>
@@ -78,7 +78,12 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00036b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00044b.htm">
+<relationEntry localType="Organisation">
+Department of Community Services, State Government of New South Wales (1992 - 2009)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00036b.htm">
 <relationEntry localType="Organisation">
 Department of Youth and Community Services, State Government of New South Wales (1973 - 1975)
 </relationEntry>
@@ -96,11 +101,6 @@ Department of Youth, Ethnic and Community Affairs, State Government of New South
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00040b.htm">
 <relationEntry localType="Organisation">
 Department of Youth and Community Services, State Government of New South Wales (1976 - 1988)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00044b.htm">
-<relationEntry localType="Organisation">
-Department of Community Services, State Government of New South Wales (1992 - 2009)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00036b.htm">
@@ -151,42 +151,6 @@ Detainee files, Department of Juvenile Justice (1985 - 1992)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000409.htm">
-<relationEntry localType="published">Report: Annual Report: Department of Youth and Community Services</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Annual Report: Department of Youth and Community Services</title>
-<imprint>
-<place>Sydney</place>
-<publisher>Government Printer</publisher>
-<date>1981-1987</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000412.htm">
-<relationEntry localType="published">Report: Annual Report: Child Welfare Department of New South Wales</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Child Welfare Department</name>
-<title render="italic">Annual Report: Child Welfare Department of New South Wales</title>
-<imprint>
-<date>1955-1970</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000927.htm">
 <relationEntry localType="published">Conference Paper: An overview of juvenile detention in Australia</relationEntry>
 
@@ -226,6 +190,42 @@ Detainee files, Department of Juvenile Justice (1985 - 1992)
 <name type="author">Lawlink</name>
 </bibseries>
 <extptr linktype="simple" href="http://www.childrenscourt.justice.nsw.gov.au/Documents/History%20-%20Timeline%20of%20major%20events.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000412.htm">
+<relationEntry localType="published">Report: Annual Report: Child Welfare Department of New South Wales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Child Welfare Department</name>
+<title render="italic">Annual Report: Child Welfare Department of New South Wales</title>
+<imprint>
+<date>1955-1970</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000409.htm">
+<relationEntry localType="published">Report: Annual Report: Department of Youth and Community Services</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Annual Report: Department of Youth and Community Services</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Government Printer</publisher>
+<date>1981-1987</date>
+</imprint>
 </bibref>
 </objectXMLWrap>
 

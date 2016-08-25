@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-06-24">2016-06-24</eventDateTime>
+<eventDateTime standardDateTime="2016-08-16">2016-08-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -103,7 +103,7 @@ Pallottines (Society of the Catholic Apostolates) (1901 - )
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00467b.htm">
 <relationEntry localType="Glossary Term">
-Stolen Generations (c. 1981 - )
+Stolen Generations
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01120b.htm">
@@ -129,18 +129,6 @@ Pallottines, Records (1895? - 1993?)
 Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01399b.htm">
-<relationEntry localType="Organisation">
-Catholic Archdiocese of Perth (1913 - )
-</relationEntry>
-<dateRange>
-<fromDate standardDate="1944-01-01">1944</fromDate>
-<toDate standardDate="1944-12-31">1944</toDate>
-</dateRange>
-<descriptiveNote>
-<p>Wandering Mission was established by the Catholic Archdiocese of Perth.</p>
-</descriptiveNote>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00553b.htm">
 <relationEntry localType="Concept">
 Commissioner for Native Affairs (1936 - 1954)
@@ -151,6 +139,18 @@ Commissioner for Native Affairs (1936 - 1954)
 </dateRange>
 <descriptiveNote>
 <p>The Commissioner of Native Affairs was was the guardian of all 'native' children at Wandering Mission.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01399b.htm">
+<relationEntry localType="Organisation">
+Catholic Archdiocese of Perth (1913 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1944-01-01">1944</fromDate>
+<toDate standardDate="1944-12-31">1944</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Wandering Mission was established by the Catholic Archdiocese of Perth.</p>
 </descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00948b.htm">
@@ -226,22 +226,6 @@ Centrecare Children's Cottages (1978 - 1992)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
-<relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Information Services, Department for Community Development</name>
-<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
-<imprint>
-<place>Perth</place>
-<publisher>Government of Western Australia</publisher>
-<date>2004</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001342.htm">
 <relationEntry localType="published">Resource: Stolen Generations' Testimonies</relationEntry>
 
@@ -258,23 +242,21 @@ Centrecare Children's Cottages (1978 - 1992)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
-<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001156.htm">
+<relationEntry localType="published">Resource: Wandering Mission: Sima's Story</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">AIATSIS</name>
-<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
+<name type="author">Khan-White, Sima</name>
+<title render="italic">Wandering Mission: Sima's Story</title>
 <imprint>
-<date>2010</date>
+<publisher>Community Arts Network WA</publisher>
+<date>2013</date>
 </imprint>
-<extptr linktype="simple" href="http://aiatsis.gov.au/archive_digitised_collections/remove/index.html"></extptr>
+<extptr linktype="simple" href="http://www.canwa.com.au/skills-development/gnaala-karla-booja/"></extptr>
 </bibref>
 </objectXMLWrap>
 
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000717.htm">
 <relationEntry localType="published">Book: Was it worthwhile?</relationEntry>
@@ -299,6 +281,34 @@ Centrecare Children's Cottages (1978 - 1992)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
+<relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Information Services, Department for Community Development</name>
+<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
+<imprint>
+<place>Perth</place>
+<publisher>Government of Western Australia</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000254.htm">
+<relationEntry localType="published">Resource: Society of the Catholic Apostolate (Pallottine Fathers and Brothers)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Society of the Catholic Apostolate (Pallottine Fathers and Brothers)</title>
+<extptr linktype="simple" href="http://www.pallottine.org.au"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000204.htm">
 <relationEntry localType="published">Resource: Guide to Institutions Attended by Aboriginal People in Western Australia</relationEntry>
 
@@ -318,50 +328,6 @@ Centrecare Children's Cottages (1978 - 1992)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001156.htm">
-<relationEntry localType="published">Resource: Wandering Mission: Sima's Story</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Khan-White, Sima</name>
-<title render="italic">Wandering Mission: Sima's Story</title>
-<imprint>
-<publisher>Community Arts Network WA</publisher>
-<date>2013</date>
-</imprint>
-<extptr linktype="simple" href="http://www.canwa.com.au/skills-development/gnaala-karla-booja/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000254.htm">
-<relationEntry localType="published">Resource: Society of the Catholic Apostolate (Pallottine Fathers and Brothers)</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Society of the Catholic Apostolate (Pallottine Fathers and Brothers)</title>
-<extptr linktype="simple" href="http://www.pallottine.org.au"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000004.htm">
-<relationEntry localType="published">Report: Aboriginal Hostels in Perth : A Comparative Survey</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Wilson, Katrin and Michael V. Robinson.</name>
-<title render="italic">Aboriginal Hostels in Perth : A Comparative Survey</title>
-<imprint>
-<place>[Perth, W.A.]</place>
-<publisher>Department of Native Welfare</publisher>
-<date>1971</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000033.htm">
 <relationEntry localType="published">Resource: Bringing Them Home: The 'Stolen Children' Report (1997)</relationEntry>
 
@@ -378,6 +344,21 @@ Centrecare Children's Cottages (1978 - 1992)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000032.htm">
+<relationEntry localType="published">Report: A Piece of the Story: A Research Project Undertaken by the Australian Catholic Social Welfare Commission and the Australian Conference of Leaders of Religious Institutes</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">National Directory of Records of Catholic Organisations Caring for Children Separated from Families</name>
+<title render="italic">A Piece of the Story: A Research Project Undertaken by the Australian Catholic Social Welfare Commission and the Australian Conference of Leaders of Religious Institutes</title>
+<imprint>
+<date>November 1999</date>
+</imprint>
+<extptr linktype="simple" href="http://www.cssa.org.au/storage/A%20Piece%20of%20the%20Story.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
 <relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
 
@@ -388,7 +369,25 @@ Centrecare Children's Cottages (1978 - 1992)
 <imprint>
 <date>2010</date>
 </imprint>
-<extptr linktype="simple" href="http://aiatsis.gov.au/archive_digitised_collections/remove/index.html"></extptr>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
+<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">AIATSIS</name>
+<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
+<imprint>
+<date>2010</date>
+</imprint>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -421,17 +420,18 @@ Centrecare Children's Cottages (1978 - 1992)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000032.htm">
-<relationEntry localType="published">Report: A Piece of the Story: A Research Project Undertaken by the Australian Catholic Social Welfare Commission and the Australian Conference of Leaders of Religious Institutes</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000004.htm">
+<relationEntry localType="published">Report: Aboriginal Hostels in Perth : A Comparative Survey</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">National Directory of Records of Catholic Organisations Caring for Children Separated from Families</name>
-<title render="italic">A Piece of the Story: A Research Project Undertaken by the Australian Catholic Social Welfare Commission and the Australian Conference of Leaders of Religious Institutes</title>
+<name type="author">Wilson, Katrin and Michael V. Robinson.</name>
+<title render="italic">Aboriginal Hostels in Perth : A Comparative Survey</title>
 <imprint>
-<date>November 1999</date>
+<place>[Perth, W.A.]</place>
+<publisher>Department of Native Welfare</publisher>
+<date>1971</date>
 </imprint>
-<extptr linktype="simple" href="http://www.cssa.org.au/storage/A%20Piece%20of%20the%20Story.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-05-14">2015-05-14</eventDateTime>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -198,14 +198,24 @@ Jasmine Bidwell interviewed by Virginia Macleod in the Forgotten Australians and
 Anthony Brennan interviewed by Christine Choo for the Forgotten Australians and Former Child Migrants oral history project (2012)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00474b.htm">
-<relationEntry localType="Glossary Term">
-Child Migrant
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00700b.htm">
+<relationEntry localType="Event">
+Inquiry into the Implementation of the Recommendations of the Lost Innocents and Forgotten Australians Reports (2008 - 2009)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01159b.htm">
 <relationEntry localType="Contact Details">
 National Library of Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00598b.htm">
+<relationEntry localType="Event">
+Inquiry into child migration (2000 - 2001)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00474b.htm">
+<relationEntry localType="Glossary Term">
+Child Migrant
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00760b.htm">
@@ -226,16 +236,6 @@ Forgotten Australians
 Child and Youth Migration to Western Australia (1913 - 1968)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00700b.htm">
-<relationEntry localType="Event">
-Inquiry into the Implementation of the Recommendations of the Lost Innocents and Forgotten Australians Reports (2008 - 2009)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00598b.htm">
-<relationEntry localType="Event">
-Inquiry into child migration (2000 - 2001)
-</relationEntry>
-</cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Forgotten Australians and Former Child Migrants oral history project [sound recording]', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
 
@@ -248,6 +248,42 @@ Inquiry into child migration (2000 - 2001)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00471b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000641.htm">
+<relationEntry localType="published">Book: You can't forget things like that : Forgotten Australians and Former Child Migrants Oral History Project</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Forgotten Australians and Former Child Migrants Oral History Project &amp; National Library of Australia</name>
+<title render="italic">You can't forget things like that : Forgotten Australians and Former Child Migrants Oral History Project</title>
+<imprint>
+<place>Canberra</place>
+<publisher>National Library of Australia</publisher>
+<date>2012</date>
+</imprint>
+<extptr linktype="simple" href="http://www.nla.gov.au/sites/default/files/forgotten-australians-oralhistory-booklet.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000456.htm">
+<relationEntry localType="published">Report: Lost Innocents and Forgotten Australians Revisited: Report on the progress with the implementation of the recommendations of the Lost Innocents and Forgotten Australians Reports</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Senate Community Affairs References Committee Secretariat, Parliament of Australia</name>
+<title render="italic">Lost Innocents and Forgotten Australians Revisited: Report on the progress with the implementation of the recommendations of the Lost Innocents and Forgotten Australians Reports</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2009</date>
+</imprint>
+<bibseries>
+<title render="italic">Parliament of Australia website</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2008-10/recs_lost_innocents_forgotten_aust_rpts/report/index"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000117.htm">
 <relationEntry localType="published">Report: Lost Innocents: Righting the Record Report on Child Migration</relationEntry>
@@ -274,42 +310,6 @@ Inquiry into child migration (2000 - 2001)
 <name type="author">Parliament of Australia Senate</name>
 <title render="italic">Forgotten Australians: A report on Australians who experienced institutional or out-of-home care as children</title>
 <extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/completed_inquiries/2004-07/inst_care/report/index.htm"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000456.htm">
-<relationEntry localType="published">Report: Lost Innocents and Forgotten Australians Revisited: Report on the progress with the implementation of the recommendations of the Lost Innocents and Forgotten Australians Reports</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Senate Community Affairs References Committee Secretariat, Parliament of Australia</name>
-<title render="italic">Lost Innocents and Forgotten Australians Revisited: Report on the progress with the implementation of the recommendations of the Lost Innocents and Forgotten Australians Reports</title>
-<imprint>
-<publisher>Commonwealth of Australia</publisher>
-<date>2009</date>
-</imprint>
-<bibseries>
-<title render="italic">Parliament of Australia website</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2008-10/recs_lost_innocents_forgotten_aust_rpts/report/index"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000641.htm">
-<relationEntry localType="published">Book: You can't forget things like that : Forgotten Australians and Former Child Migrants Oral History Project</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Forgotten Australians and Former Child Migrants Oral History Project &amp; National Library of Australia</name>
-<title render="italic">You can't forget things like that : Forgotten Australians and Former Child Migrants Oral History Project</title>
-<imprint>
-<place>Canberra</place>
-<publisher>National Library of Australia</publisher>
-<date>2012</date>
-</imprint>
-<extptr linktype="simple" href="http://www.nla.gov.au/sites/default/files/forgotten-australians-oralhistory-booklet.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 

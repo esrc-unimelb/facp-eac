@@ -58,13 +58,13 @@
 </places>
 <functions>
 <function>
+<term>Government-run</term>
+</function>
+<function>
 <term>Children's Home</term>
 </function>
 <function>
 <term>Home</term>
-</function>
-<function>
-<term>Government-run</term>
 </function>
 </functions>
 <biogHist>
@@ -111,12 +111,7 @@ available'.</p>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00039b.htm">
-<relationEntry localType="Organisation">
-Child Welfare Department, State Government of New South Wales (1923 - 1970)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00041b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00041b.htm">
 <relationEntry localType="Organisation">
 Department of Youth, Ethnic and Community Affairs, State Government of New South Wales (1975 - 1976)
 </relationEntry>
@@ -134,6 +129,11 @@ Department of Youth and Community Services, State Government of New South Wales 
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00035b.htm">
 <relationEntry localType="Organisation">
 Department of Child Welfare and Social Welfare, State Government of New South Wales (1970 - 1973)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00039b.htm">
+<relationEntry localType="Organisation">
+Child Welfare Department, State Government of New South Wales (1923 - 1970)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00404b.htm">
@@ -199,61 +199,6 @@ Records relating to State Wards, New South Wales (1881 - )
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000410.htm">
-<relationEntry localType="published">Report: Report of the Department of Child Welfare and Social Welfare for the year ended 30 June</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Report of the Department of Child Welfare and Social Welfare for the year ended 30 June</title>
-<imprint>
-<place>Sydney</place>
-<publisher>Government Printer</publisher>
-<date>1970-1973</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000409.htm">
-<relationEntry localType="published">Report: Annual Report: Department of Youth and Community Services</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Annual Report: Department of Youth and Community Services</title>
-<imprint>
-<place>Sydney</place>
-<publisher>Government Printer</publisher>
-<date>1981-1987</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000413.htm">
-<relationEntry localType="published">Report: Report of the Department of Youth and Community Services for the year ended 30 June &amp;hellip;</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Report of the Department of Youth and Community Services for the year ended 30 June &amp;hellip;</title>
-<imprint>
-<date>1974-1980</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000525.htm">
 <relationEntry localType="published">Resource Section: Weroona</relationEntry>
 
@@ -292,6 +237,61 @@ Records relating to State Wards, New South Wales (1881 - )
 </bibref>
 </objectXMLWrap>
 
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000413.htm">
+<relationEntry localType="published">Report: Report of the Department of Youth and Community Services for the year ended 30 June &amp;hellip;</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Report of the Department of Youth and Community Services for the year ended 30 June &amp;hellip;</title>
+<imprint>
+<date>1974-1980</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000410.htm">
+<relationEntry localType="published">Report: Report of the Department of Child Welfare and Social Welfare for the year ended 30 June</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Report of the Department of Child Welfare and Social Welfare for the year ended 30 June</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Government Printer</publisher>
+<date>1970-1973</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000409.htm">
+<relationEntry localType="published">Report: Annual Report: Department of Youth and Community Services</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Annual Report: Department of Youth and Community Services</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Government Printer</publisher>
+<date>1981-1987</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000097.htm">
 <relationEntry localType="published">Book: Children In Need: An account of the administration and functions of the Child Welfare Department, New South Wales, Australia: with an examination of the principles involved in helping deprived and wayward children</relationEntry>

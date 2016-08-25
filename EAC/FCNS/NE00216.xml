@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-03-30">2016-03-30</eventDateTime>
+<eventDateTime standardDateTime="2016-07-14">2016-07-14</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -44,6 +44,8 @@
 <entityType>corporateBody</entityType>
 <nameEntry><part>Hillcrest Mothers' Hospital</part>
 <authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="also known as"><part>Hillcrest Hospital</part>
 </nameEntry>
 </identity>
 <description><existDates>
@@ -72,15 +74,24 @@
 </function>
 </functions>
 <biogHist>
-<abstract>Hillcrest Mothers' Hospital was a maternity hospital in Curry Street, Merewether that was run by the Salvation Army from 1933. It appears to have replaced Maryville Mothers' Hospital, which operated in another house in Curry Street. Adoptions were arranged from Hillcrest. Hillcrest Mothers' Hospital closed in 1977.</abstract>
+<abstract>Hillcrest Mothers' Hospital was a maternity hospital in Curry Street, Merewether that was run by the Salvation Army from 1933. Hillcrest Mothers' Hospital was the changed name for the Maryville Mothers' Hospital. Adoptions were arranged from Hillcrest. Hillcrest Mothers' Hospital closed in 1977.</abstract>
 <p>Hillcrest Mothers' Hospital was described in a newspaper article from 1939:</p>
 <p>'"Hillcrest" nestles in the hills at Merewether, close to other places in the vicinity, and yet somehow aloof - perhaps because of its lovely position, perhaps because much of its work must necessarily go unpublicised.'</p>
+<p>Hillcrest Mothers' Hospital was located in the building formerly called 'The Ridge'. The address of the Hospital changed while it was open but the Hospital did not move, presumably the sub-division of the land around the Hospital changed the street address for it.</p>
 <p>The hospital accommodated married as well as unmarried mothers. An article from 1952 stated that Hillcrest Mothers Hospital had accommodation for "16 married and 23 unmarried mothers". Married and unmarried mothers were accommodated in different sections of Hillcrest. An article from 1951 described how the married women's wards ('the best rooms in the house') were kept separate from those for the unmarried mothers (who had their own separate operating theatre). The journalist stressed, however, that 'the unmarried mothers receive the same treatment, food and medical care as the patients in the married women's wards'.</p>
 <p>Single mothers came to Hillcrest some months before their babies were due. In some cases, the hospital arranged for babies to be adopted. Other children born at Hillcrest were placed in Homes run by the Salvation Army. An article about Hillside from 1951 stated:</p>
 <p>'They [single mothers] enter "Hillcrest" as early as they please before confinement. When their babies are born, the Army finds the mothers employment or, when the environment is satisfactory, sends them home. Many have no desire to part with their children, but when the wish is expressed to have them adopted - and only when the wish is expressed - this is arranged through the Child Welfare Department.'</p>
 <p>In the 1950s, the hospital held 'Back to Hillcrest' fetes, where mothers and children returned for the day.</p>
+<p>The building is now on the State Heritage Register and is privately owned.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1933-01-01">1933</fromDate>
+<toDate standardDate="1949-12-31">1949</toDate>
+</dateRange>
+<placeEntry>Merewether</placeEntry>
+<event>Address - Hillcrest Mothers' Hospital was situated at 22 Curry Street, Merewether</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1949-01-01">1949</fromDate>
 <toDate standardDate="1977-12-31">1977</toDate>
 </dateRange>
 <placeEntry>Merewether</placeEntry>
@@ -122,6 +133,27 @@ Female Rescue Homes (1850 - )
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00216b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001061.htm">
+<relationEntry localType="published">Resource Section: The Ridge</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Ridge</title>
+<imprint>
+<publisher>NSW Office of Environment and Heritage</publisher>
+</imprint>
+<bibseries>
+<title render="italic">State Heritage Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.environment.nsw.gov.au/heritageapp/ViewHeritageItemDetails.aspx?ID=2170128"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001022.htm">
 <relationEntry localType="published">Newspaper Article: Ian Healy's suburbia, this week: Humanity and the unmarried mother</relationEntry>
@@ -232,14 +264,32 @@ Female Rescue Homes (1850 - )
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000766.htm">
-<relationEntry localType="digitalObject">Hillcrest Hospital</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000783.htm">
+<relationEntry localType="digitalObject">Hill Crest Hospital, Merewether, formerly The Ridge</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>D. Mowat</repository>
-<unittitle>Hillcrest Hospital</unittitle>
+<repository>Hunter Photo Bank, Newcastle Region Library</repository>
+<unittitle>Hill Crest Hospital, Merewether, formerly The Ridge</unittitle>
+<unitid>Registration Number 184 000009</unitid>
+<unitdate>N.D.</unitdate>
+<abstract>The image shows the building where Maryville Mothers' Hospital and later Hillcrest Mothers' Hospital was located.</abstract>
+<note label="rights">This image is provided for research purposes only and must not be reproduced without the prior permission of the Newcastle Region Library.</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000766.htm">
+<relationEntry localType="digitalObject">Hill Crest Hospital, Merewether, formerly The Ridge</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Hunter Photo Bank, Newcastle Region Library</repository>
+<unittitle>Hill Crest Hospital, Merewether, formerly The Ridge</unittitle>
+<unitid>Registration Number: 184 000012</unitid>
 <unitdate>1950?</unitdate>
+<abstract>The image shows the building where Maryville Mothers' Hospital and later Hillcrest Mothers' Hospital was located. The image was sent to us courtesy of D. Mowat.</abstract>
+<note label="rights">This image is provided for research purposes only and must not be reproduced without the prior permission of the Newcastle Region Library.</note>
 </archref>
 </objectXMLWrap>
 

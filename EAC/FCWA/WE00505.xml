@@ -99,12 +99,7 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00198b.htm">
-<relationEntry localType="Organisation">
-Salvation Army, Western Australia (1897 - )
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00696b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00696b.htm">
 <relationEntry localType="Glossary Term">
 Child Abuse
 </relationEntry>
@@ -153,6 +148,11 @@ Care Leavers Australia Network (2000 - )
 <descriptiveNote>
 <p>The Care Leavers Australia Network (CLAN) was a strong advocate for Redress WA applicants when that scheme was operating in WA.</p>
 </descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00198b.htm">
+<relationEntry localType="Organisation">
+Salvation Army, Western Australia (1897 - )
+</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00598b.htm">
 <relationEntry localType="Event">
@@ -224,6 +224,24 @@ CBERS Redress Service (2008 - 2012)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000303.htm">
+<relationEntry localType="published">Resource: Parliament of Western Australia website</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Parliament of Western Australia website</title>
+<imprint>
+<publisher>Parliament of Western Australia</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.parliament.wa.gov.au"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000293.htm">
 <relationEntry localType="published">Newspaper Article: Child migrant scandal</relationEntry>
 
@@ -259,24 +277,6 @@ CBERS Redress Service (2008 - 2012)
 </bibref>
 </objectXMLWrap>
 
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000303.htm">
-<relationEntry localType="published">Resource: Parliament of Western Australia website</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Parliament of Western Australia website</title>
-<imprint>
-<publisher>Parliament of Western Australia</publisher>
-</imprint>
-<extptr linktype="simple" href="http://www.parliament.wa.gov.au"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000187.htm">
 <relationEntry localType="published">Newspaper Article: Liberal Mp urges Redress rethink</relationEntry>
@@ -330,20 +330,6 @@ CBERS Redress Service (2008 - 2012)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000057.htm">
-<relationEntry localType="published">Report: Redress WA Guidelines: Guidelines to Provide for an Ex Gratia Payment to Persons Abused and/or Neglected as Children While in State Care</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Government of Western Australia</name>
-<title render="italic">Redress WA Guidelines: Guidelines to Provide for an Ex Gratia Payment to Persons Abused and/or Neglected as Children While in State Care</title>
-<imprint>
-<date>15 February 2010</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000182.htm">
 <relationEntry localType="published">Report: Annual Report 2010-2011</relationEntry>
 
@@ -361,6 +347,20 @@ CBERS Redress Service (2008 - 2012)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000057.htm">
+<relationEntry localType="published">Report: Redress WA Guidelines: Guidelines to Provide for an Ex Gratia Payment to Persons Abused and/or Neglected as Children While in State Care</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Government of Western Australia</name>
+<title render="italic">Redress WA Guidelines: Guidelines to Provide for an Ex Gratia Payment to Persons Abused and/or Neglected as Children While in State Care</title>
+<imprint>
+<date>15 February 2010</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000065.htm">
 <relationEntry localType="digitalObject">Redress rethink urges Liberal MP</relationEntry>

@@ -331,14 +331,14 @@ Cottage Home for Invalid Children, Parramatta (c. 1907 - c. 1940)
 State Children's Relief Board (1881 - 1923)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01056b.htm">
-<relationEntry localType="Organisation">
-Winbin (1954 - 1975)
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01028b.htm">
 <relationEntry localType="Organisation">
 Department of Family and Community Services, State Government of New South Wales (1988 - 1991)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01056b.htm">
+<relationEntry localType="Organisation">
+Winbin (1954 - 1975)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01463b.htm">
@@ -396,11 +396,6 @@ Metropolitan Boys' Shelter (1911 - 1983)
 Winbin (1975 - 1992)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01635b.htm">
-<relationEntry localType="Organisation">
-Myee Home (1977 - 1980s)
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00955b.htm">
 <relationEntry localType="Organisation">
 Kinchela Training Home for Aboriginal Boys (1923 - 1970)
@@ -417,6 +412,11 @@ Cootamundra Training Home (1911 - 1969)
 <p>Community Services holds records relating to Aboriginal children who were taken into state care, including some who were at Cootamunda Training Home</p>
 </descriptiveNote>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01061b.htm">
+<relationEntry localType="Organisation">
+Myee (1926 - 1977)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00035b.htm">
 <relationEntry localType="Organisation">
 Department of Child Welfare and Social Welfare, State Government of New South Wales (1970 - 1973)
@@ -432,9 +432,9 @@ Raith Lark Hill Hostel (1964 - 1990?)
 Ormond, Thornleigh (1946 - 1962)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01061b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01635b.htm">
 <relationEntry localType="Organisation">
-Myee (1926 - 1977)
+Myee Home (1977 - 1980s)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01391b.htm">
@@ -566,6 +566,43 @@ Thirlmere Babies' Home (1907 - 1913)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000712.htm">
+<relationEntry localType="published">Resource Section: Index to industrial schools</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Index to industrial schools</title>
+<imprint>
+<publisher>State Records Authority of New South Wales</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Child Care and Protection Index</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.records.nsw.gov.au/state-archives/indexes-online/indexes-to-education-and-child-welfare-records/index-to-child-care-and-protection/index-to-industrial-school-records"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000707.htm">
+<relationEntry localType="published">Resource Section: Are you a former ward of NSW?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Are you a former ward of NSW?</title>
+<imprint>
+<publisher>New South Wales Department of Community Services</publisher>
+<date>2001</date>
+</imprint>
+<extptr linktype="simple" href="http://www.community.nsw.gov.au/__data/assets/pdf_file/0006/319254/formerward_broch.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000459.htm">
 <relationEntry localType="published">Resource: Index to Child Care and Protection</relationEntry>
 
@@ -600,24 +637,6 @@ Thirlmere Babies' Home (1907 - 1913)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000712.htm">
-<relationEntry localType="published">Resource Section: Index to industrial schools</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Index to industrial schools</title>
-<imprint>
-<publisher>State Records Authority of New South Wales</publisher>
-</imprint>
-<bibseries>
-<title render="italic">Child Care and Protection Index</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.records.nsw.gov.au/state-archives/indexes-online/indexes-to-education-and-child-welfare-records/index-to-child-care-and-protection/index-to-industrial-school-records"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000137.htm">
 <relationEntry localType="published">Resource Section: Child Care and Protection Guide</relationEntry>
 
@@ -632,25 +651,6 @@ Thirlmere Babies' Home (1907 - 1913)
 <title render="italic">State Records Authority of New South Wales website</title>
 </bibseries>
 <extptr linktype="simple" href="https://www.records.nsw.gov.au/archives/collections-and-research/guides-and-indexes/child-care-and-protection-guide"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000707.htm">
-<relationEntry localType="published">Resource Section: Are you a former ward of NSW?</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Are you a former ward of NSW?</title>
-<imprint>
-<publisher>New South Wales Department of Community Services</publisher>
-<date>2001</date>
-</imprint>
-<extptr linktype="simple" href="http://www.community.nsw.gov.au/__data/assets/pdf_file/0006/319254/formerward_broch.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 

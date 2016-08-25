@@ -82,10 +82,10 @@
 <term>Children's Home</term>
 </function>
 <function>
-<term>Farm School</term>
+<term>Government-run</term>
 </function>
 <function>
-<term>Government-run</term>
+<term>Farm School</term>
 </function>
 </functions>
 <biogHist>
@@ -171,6 +171,16 @@ Mittagong Cottage Homes Area (1896 - 1994)
 Renwick Association Inc (2011 - )
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00993b.htm">
+<relationEntry localType="Glossary Term">
+Feeble-Mindedness
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00992b.htm">
+<relationEntry localType="Glossary Term">
+Mental Deficiency (c. 1905 - c. 1960)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00404b.htm">
 <relationEntry localType="Organisation">
 Berry Training Farm (1934 - 1977)
@@ -178,11 +188,6 @@ Berry Training Farm (1934 - 1977)
 <descriptiveNote>
 <p>Boys from Turner and Suttor Cottages at Mittagong Farm Home for Boys were sent to Berry Training Farm when they reached the age of 14.</p>
 </descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00992b.htm">
-<relationEntry localType="Glossary Term">
-Mental Deficiency (c. 1905 - c. 1960)
-</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00971b.htm">
 <relationEntry localType="Glossary Term">
@@ -196,11 +201,6 @@ Marist Brothers (1872 - )
 <descriptiveNote>
 <p>The Marist Brothers had a community next door to the Mittagong Cottages and the Mittagong Farm Home, and brothers provided religious instruction to Catholic state wards.</p>
 </descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00993b.htm">
-<relationEntry localType="Glossary Term">
-Feeble-Mindedness
-</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01153b.htm">
 <relationEntry localType="Organisation">
@@ -286,24 +286,6 @@ Mittagong Training School For Boys (1947 - 1976)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000137.htm">
-<relationEntry localType="published">Resource Section: Child Care and Protection Guide</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Child Care and Protection Guide</title>
-<imprint>
-<publisher>State Records Authority of New South Wales</publisher>
-</imprint>
-<bibseries>
-<title render="italic">State Records Authority of New South Wales website</title>
-</bibseries>
-<extptr linktype="simple" href="https://www.records.nsw.gov.au/archives/collections-and-research/guides-and-indexes/child-care-and-protection-guide"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000097.htm">
 <relationEntry localType="published">Book: Children In Need: An account of the administration and functions of the Child Welfare Department, New South Wales, Australia: with an examination of the principles involved in helping deprived and wayward children</relationEntry>
 
@@ -339,6 +321,24 @@ Mittagong Training School For Boys (1947 - 1976)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000137.htm">
+<relationEntry localType="published">Resource Section: Child Care and Protection Guide</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Child Care and Protection Guide</title>
+<imprint>
+<publisher>State Records Authority of New South Wales</publisher>
+</imprint>
+<bibseries>
+<title render="italic">State Records Authority of New South Wales website</title>
+</bibseries>
+<extptr linktype="simple" href="https://www.records.nsw.gov.au/archives/collections-and-research/guides-and-indexes/child-care-and-protection-guide"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000187.htm">
 <relationEntry localType="published">Newspaper Article: They'll All Enjoy Christmas Parties</relationEntry>
 
@@ -356,26 +356,20 @@ Mittagong Training School For Boys (1947 - 1976)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000576.htm">
-<relationEntry localType="published">Newspaper Article: The Mittagong Children's Farm</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000459.htm">
+<relationEntry localType="published">Resource: Index to Child Care and Protection</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">The Mittagong Children's Farm</title>
+<title render="italic">Index to Child Care and Protection</title>
 <imprint>
-<date>1914</date>
+<publisher>State Records NSW</publisher>
 </imprint>
-<bibseries>
-<title render="italic">Sydney Morning Herald</title>
-</bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article15541576"></extptr>
+<extptr linktype="simple" href="http://www.records.nsw.gov.au/state-archives/indexes-online/indexes-to-education-and-child-welfare-records/index-to-child-care-and-protection"></extptr>
 </bibref>
 </objectXMLWrap>
 
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000001.htm">
 <relationEntry localType="published">Resource: Connecting Kin: Guide to Records</relationEntry>
@@ -397,20 +391,26 @@ Mittagong Training School For Boys (1947 - 1976)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000459.htm">
-<relationEntry localType="published">Resource: Index to Child Care and Protection</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000577.htm">
+<relationEntry localType="published">Newspaper Article: The Children's Friend: Sir Charles Mackellar: Mittagong Homes. A great work. Those who never had a chance.</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="italic">Index to Child Care and Protection</title>
+<title render="quoted">The Children's Friend: Sir Charles Mackellar: Mittagong Homes. A great work. Those who never had a chance.</title>
 <imprint>
-<publisher>State Records NSW</publisher>
+<date>1914</date>
 </imprint>
-<extptr linktype="simple" href="http://www.records.nsw.gov.au/state-archives/indexes-online/indexes-to-education-and-child-welfare-records/index-to-child-care-and-protection"></extptr>
+<bibseries>
+<title render="italic">The Sydney Morning Herald</title>
+</bibseries>
+<extptr linktype="simple" href="http://trove.nla.gov.au/ndp/del/article/15572189"></extptr>
 </bibref>
 </objectXMLWrap>
 
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000850.htm">
 <relationEntry localType="published">Resource Section: Challoner Cottage, Mittagong Farm Home [Other names: Cottage No.12, Old Dormitory Building, Renwick Child Welfare House, Mittagong Training School for Boys, Renwick Farm Home, Renwick State Ward Home]</relationEntry>
@@ -564,20 +564,20 @@ Mittagong Training School For Boys (1947 - 1976)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000577.htm">
-<relationEntry localType="published">Newspaper Article: The Children's Friend: Sir Charles Mackellar: Mittagong Homes. A great work. Those who never had a chance.</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000576.htm">
+<relationEntry localType="published">Newspaper Article: The Mittagong Children's Farm</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">The Children's Friend: Sir Charles Mackellar: Mittagong Homes. A great work. Those who never had a chance.</title>
+<title render="quoted">The Mittagong Children's Farm</title>
 <imprint>
 <date>1914</date>
 </imprint>
 <bibseries>
-<title render="italic">The Sydney Morning Herald</title>
+<title render="italic">Sydney Morning Herald</title>
 </bibseries>
-<extptr linktype="simple" href="http://trove.nla.gov.au/ndp/del/article/15572189"></extptr>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article15541576"></extptr>
 </bibref>
 </objectXMLWrap>
 

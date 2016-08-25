@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-22">2016-04-22</eventDateTime>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -117,18 +117,6 @@ National Archives of Australia - Contact Details
 Child and Youth Migration to Western Australia (1913 - 1968)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00826b.htm">
-<relationEntry localType="Legislation">
-National Security (Overseas Children) Regulations 1940, Commonwealth of Australia (1940 - 1950)
-</relationEntry>
-<dateRange>
-<fromDate standardDate="1940-01-01">1940s</fromDate>
-<toDate standardDate="1940-12-31">1940s</toDate>
-</dateRange>
-<descriptiveNote>
-<p>The archival item 'Overseas Children Scheme - Record of custodians and children (Western Australia)' holds documents relating to children evacuated from Britain to Australia under the National Security (Overseas Children) Regulations during World War II.</p>
-</descriptiveNote>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01155b.htm">
 <relationEntry localType="Organisation">
 Metropolitan Infectious Diseases Hospital (1938 - 1956)
@@ -153,6 +141,18 @@ Lady Lawley Cottage by the Sea (1903 - )
 <p>Children from the Overseas Children Scheme (evacuees from wartime Britain) were sometimes sent to the Lady Lawley Cottage after an illness.</p>
 </descriptiveNote>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00826b.htm">
+<relationEntry localType="Legislation">
+National Security (Overseas Children) Regulations 1940, Commonwealth of Australia (1940 - 1950)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1940-01-01">1940s</fromDate>
+<toDate standardDate="1940-12-31">1940s</toDate>
+</dateRange>
+<descriptiveNote>
+<p>The archival item 'Overseas Children Scheme - Record of custodians and children (Western Australia)' holds documents relating to children evacuated from Britain to Australia under the National Security (Overseas Children) Regulations during World War II.</p>
+</descriptiveNote>
+</cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Overseas Children Scheme - Record of custodians and children (Western Australia)', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
 
@@ -165,26 +165,6 @@ Lady Lawley Cottage by the Sea (1903 - )
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00586b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000527.htm">
-<relationEntry localType="published">Resource Section: Minutes of Evidence Taken Before the Health Committee on 11 June 1998</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Minutes of Evidence Taken Before the Health Committee on 11 June 1998</title>
-<imprint>
-<publisher>Parliament of the United Kingdom</publisher>
-<date>1998</date>
-</imprint>
-<bibseries>
-<title render="italic">Health - Third Report</title>
-<name type="author">House of Commons Health Committee</name>
-</bibseries>
-<extptr linktype="simple" href="http://www.parliament.the-stationery-office.co.uk/pa/cm199798/cmselect/cmhealth/755/8061101.htm"></extptr>
-</bibref>
-</objectXMLWrap>
-
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000614.htm">
 <relationEntry localType="published">Newspaper Article: Children from Britain Safeguards for Well-Being</relationEntry>
@@ -202,6 +182,26 @@ Lady Lawley Cottage by the Sea (1903 - )
 <num type="pages">4</num>
 </bibseries>
 <extptr linktype="simple" href="http://nla.gov.au/nla.news-article11311591"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000527.htm">
+<relationEntry localType="published">Resource Section: Minutes of Evidence Taken Before the Health Committee on 11 June 1998</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Minutes of Evidence Taken Before the Health Committee on 11 June 1998</title>
+<imprint>
+<publisher>Parliament of the United Kingdom</publisher>
+<date>1998</date>
+</imprint>
+<bibseries>
+<title render="italic">Health - Third Report</title>
+<name type="author">House of Commons Health Committee</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.parliament.the-stationery-office.co.uk/pa/cm199798/cmselect/cmhealth/755/8061101.htm"></extptr>
 </bibref>
 </objectXMLWrap>
 

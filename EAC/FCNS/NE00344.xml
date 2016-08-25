@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-03-04">2016-03-04</eventDateTime>
+<eventDateTime standardDateTime="2016-07-11">2016-07-11</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -60,10 +60,10 @@
 <term>Care Provider</term>
 </function>
 <function>
-<term>Non Government Organisation</term>
+<term>Non-denominational</term>
 </function>
 <function>
-<term>Non-denominational</term>
+<term>Non Government Organisation</term>
 </function>
 </functions>
 <biogHist>
@@ -116,6 +116,11 @@ Integricare (2011 - )
 <p>Integricare is a partner of the Society for Providing Homes for Neglected Children and has some records of its operations</p>
 </descriptiveNote>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00375b.htm">
+<relationEntry localType="Organisation">
+Roslyn Hall Children's Home (c. 1890 - 1976)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01093b.htm">
 <relationEntry localType="Organisation">
 Our Boys' Home (1890 - 1945)
@@ -124,11 +129,6 @@ Our Boys' Home (1890 - 1945)
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00368b.htm">
 <relationEntry localType="Organisation">
 Our Children's Home, Liverpool (1887 - 1936)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00375b.htm">
-<relationEntry localType="Organisation">
-Roslyn Hall Children's Home (c. 1890 - 1976)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00345b.htm">
@@ -178,6 +178,25 @@ Our Children's Home (1918 - 1982)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00344b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001059.htm">
+<relationEntry localType="published">Resource Section: Grasmere</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Robinson, Steve</name>
+<title render="quoted">Grasmere</title>
+<imprint>
+<publisher>Dictionary of Sydney Trust</publisher>
+<date>2008</date>
+</imprint>
+<bibseries>
+<title render="italic">Dictionary of Sydney</title>
+</bibseries>
+<extptr linktype="simple" href="http://dictionaryofsydney.org/entry/grasmere"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000682.htm">
 <relationEntry localType="published">Book: Poverty's Prison: the poor in New South Wales 1880-1918</relationEntry>

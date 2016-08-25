@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-06-08">2016-06-08</eventDateTime>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -118,6 +118,14 @@ Immigration Photographic Archive 1946 - today
 Temporary Family Care (1978 - )
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00309b.htm">
+<relationEntry localType="Organisation">
+Find-A-Family (1975 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1995-01-01">1995</fromDate>
+</dateRange>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00311b.htm">
 <relationEntry localType="Organisation">
 Kingston House (1985 - )
@@ -129,14 +137,6 @@ Kingston House (1985 - )
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00312b.htm">
 <relationEntry localType="Organisation">
 Hohnen House (1988 - )
-</relationEntry>
-<dateRange>
-<fromDate standardDate="1995-01-01">1995</fromDate>
-</dateRange>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00309b.htm">
-<relationEntry localType="Organisation">
-Find-A-Family (1975 - )
 </relationEntry>
 <dateRange>
 <fromDate standardDate="1995-01-01">1995</fromDate>
@@ -187,69 +187,6 @@ Find-A-Family (1975 - )
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000366.htm">
-<relationEntry localType="published">Resource: Barnardos Australia: We Belive in Children</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Barnardos Australia: We Belive in Children</title>
-<imprint>
-<publisher>Barnardos Australia</publisher>
-<date>c.2014</date>
-</imprint>
-<extptr linktype="simple" href="http://www.barnardos.org.au/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000368.htm">
-<relationEntry localType="published">Resource Section: Child migration</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Child migration</title>
-<imprint>
-<publisher>Barnardos Australia</publisher>
-<date>c. 2014</date>
-</imprint>
-<bibseries>
-<title render="italic">Barnardos Australia: We Believe in Children: History</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.barnardos.org.au/about-us/history/child-migration-program/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000369.htm">
-<relationEntry localType="published">Resource Section: Barnardos work with local children</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Barnardos work with local children</title>
-<imprint>
-<publisher>Barnardos Australia</publisher>
-<date>c.2014</date>
-</imprint>
-<bibseries>
-<title render="italic">Barnardos Australia: We Believe in Children: History</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.barnardos.org.au/about-us/history/barnardos-work-with-local-children/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000371.htm">
 <relationEntry localType="published">Book: Empty Cradles</relationEntry>
 
@@ -288,6 +225,50 @@ Find-A-Family (1975 - )
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000369.htm">
+<relationEntry localType="published">Resource Section: Barnardos work with local children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Barnardos work with local children</title>
+<imprint>
+<publisher>Barnardos Australia</publisher>
+<date>c.2014</date>
+</imprint>
+<bibseries>
+<title render="italic">Barnardos Australia: We Believe in Children: History</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.barnardos.org.au/about-us/history/barnardos-work-with-local-children/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000368.htm">
+<relationEntry localType="published">Resource Section: Child migration</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Child migration</title>
+<imprint>
+<publisher>Barnardos Australia</publisher>
+<date>c. 2014</date>
+</imprint>
+<bibseries>
+<title render="italic">Barnardos Australia: We Believe in Children: History</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.barnardos.org.au/about-us/history/child-migration-program/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000367.htm">
 <relationEntry localType="published">Resource Section: History</relationEntry>
 
@@ -310,21 +291,24 @@ Find-A-Family (1975 - )
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000026.htm">
-<relationEntry localType="published">Resource: Good British stock: child and youth migration to Australia</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000366.htm">
+<relationEntry localType="published">Resource: Barnardos Australia: We Belive in Children</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Coldrey, Barry</name>
-<title render="italic">Good British stock: child and youth migration to Australia</title>
+<name type="author"></name>
+<title render="italic">Barnardos Australia: We Belive in Children</title>
 <imprint>
-<publisher>National Archives of Australia</publisher>
-<date>1999</date>
+<publisher>Barnardos Australia</publisher>
+<date>c.2014</date>
 </imprint>
-<extptr linktype="simple" href="http://guides.naa.gov.au/good-british-stock/"></extptr>
+<extptr linktype="simple" href="http://www.barnardos.org.au/"></extptr>
 </bibref>
 </objectXMLWrap>
 
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000365.htm">
 <relationEntry localType="published">Resource: The history of Barnardo's</relationEntry>
@@ -338,6 +322,22 @@ Find-A-Family (1975 - )
 <date>2012</date>
 </imprint>
 <extptr linktype="simple" href="http://www.barnardos.org.uk/what_we_do/who_we_are/history.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000026.htm">
+<relationEntry localType="published">Resource: Good British stock: child and youth migration to Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Coldrey, Barry</name>
+<title render="italic">Good British stock: child and youth migration to Australia</title>
+<imprint>
+<publisher>National Archives of Australia</publisher>
+<date>1999</date>
+</imprint>
+<extptr linktype="simple" href="http://guides.naa.gov.au/good-british-stock/"></extptr>
 </bibref>
 </objectXMLWrap>
 

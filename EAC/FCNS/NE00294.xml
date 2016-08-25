@@ -87,11 +87,6 @@
 Dr Barnardo's Homes (Australia Branch) (1883 - 1966)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00705b.htm">
-<relationEntry localType="Archival Series">
-Dr. Barnardo's in Australia, records (c. 1921 - c. 1978)
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00505b.htm">
 <relationEntry localType="Organisation">
 Big Brother Movement (1925 - )
@@ -99,6 +94,11 @@ Big Brother Movement (1925 - )
 <descriptiveNote>
 <p>The Big Brother Movement placed some children in Barnardo's Homes.</p>
 </descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00705b.htm">
+<relationEntry localType="Archival Series">
+Dr. Barnardo's in Australia, records (c. 1921 - c. 1978)
+</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00706b.htm">
 <relationEntry localType="Archival Collection">
@@ -118,6 +118,11 @@ Fairfax House (1966 - 1976)
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00305b.htm">
 <relationEntry localType="Organisation">
 Ladd House (1966 - 1976)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00308b.htm">
+<relationEntry localType="Organisation">
+Temporary Family Care (1978 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00309b.htm">
@@ -140,11 +145,6 @@ Hohnen House (1988 - )
 Mackay House (1970? - 1973?)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00308b.htm">
-<relationEntry localType="Organisation">
-Temporary Family Care (1978 - )
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01710b.htm">
 <relationEntry localType="Organisation">
 Karingal House (1960 - 1984)
@@ -152,15 +152,6 @@ Karingal House (1960 - 1984)
 <dateRange>
 <fromDate standardDate="1966-01-01">1966</fromDate>
 <toDate standardDate="1984-12-31">1984</toDate>
-</dateRange>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00304b.htm">
-<relationEntry localType="Organisation">
-Illawong (1962 - 1975)
-</relationEntry>
-<dateRange>
-<fromDate standardDate="1966-01-01">1966</fromDate>
-<toDate standardDate="1975-12-31">1975</toDate>
 </dateRange>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00297b.htm">
@@ -215,6 +206,15 @@ Green Wood (1951 - 1966)
 <dateRange>
 <fromDate standardDate="1966-01-01">1966</fromDate>
 <toDate standardDate="1966-12-31">1966</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00304b.htm">
+<relationEntry localType="Organisation">
+Illawong (1962 - 1975)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1966-01-01">1966</fromDate>
+<toDate standardDate="1975-12-31">1975</toDate>
 </dateRange>
 </cpfRelation>
 <cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00292b.htm">
@@ -307,25 +307,6 @@ Barnardos Australia (c. 1995 - )
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000366.htm">
-<relationEntry localType="published">Resource: Barnardos Australia: We Belive in Children</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Barnardos Australia: We Belive in Children</title>
-<imprint>
-<publisher>Barnardos Australia</publisher>
-<date>c.2014</date>
-</imprint>
-<extptr linktype="simple" href="http://www.barnardos.org.au/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000371.htm">
 <relationEntry localType="published">Book: Empty Cradles</relationEntry>
 
@@ -364,21 +345,21 @@ Barnardos Australia (c. 1995 - )
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000367.htm">
-<relationEntry localType="published">Resource Section: History</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000369.htm">
+<relationEntry localType="published">Resource Section: Barnardos work with local children</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">History</title>
+<title render="quoted">Barnardos work with local children</title>
 <imprint>
 <publisher>Barnardos Australia</publisher>
-<date>c. 2014</date>
+<date>c.2014</date>
 </imprint>
 <bibseries>
-<title render="italic">Barnardos Australia: We Believe in Children</title>
+<title render="italic">Barnardos Australia: We Believe in Children: History</title>
 </bibseries>
-<extptr linktype="simple" href="http://www.barnardos.org.au/about-us/history/"></extptr>
+<extptr linktype="simple" href="http://www.barnardos.org.au/about-us/history/barnardos-work-with-local-children/"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -408,21 +389,40 @@ Barnardos Australia (c. 1995 - )
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000369.htm">
-<relationEntry localType="published">Resource Section: Barnardos work with local children</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000367.htm">
+<relationEntry localType="published">Resource Section: History</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Barnardos work with local children</title>
+<title render="quoted">History</title>
+<imprint>
+<publisher>Barnardos Australia</publisher>
+<date>c. 2014</date>
+</imprint>
+<bibseries>
+<title render="italic">Barnardos Australia: We Believe in Children</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.barnardos.org.au/about-us/history/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000366.htm">
+<relationEntry localType="published">Resource: Barnardos Australia: We Belive in Children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Barnardos Australia: We Belive in Children</title>
 <imprint>
 <publisher>Barnardos Australia</publisher>
 <date>c.2014</date>
 </imprint>
-<bibseries>
-<title render="italic">Barnardos Australia: We Believe in Children: History</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.barnardos.org.au/about-us/history/barnardos-work-with-local-children/"></extptr>
+<extptr linktype="simple" href="http://www.barnardos.org.au/"></extptr>
 </bibref>
 </objectXMLWrap>
 

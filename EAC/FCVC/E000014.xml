@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-06-22">2016-06-22</eventDateTime>
+<eventDateTime standardDateTime="2016-07-06">2016-07-06</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -150,13 +150,10 @@ Salvation Army Australian Southern Territory Territorial Headquarters, Records (
 <p>The Salvation Army Southern Territory Territorial Headquarters holds records from children's Homes run by the Salvation Army Southern Territory.</p>
 </descriptiveNote>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000114b.htm">
-<relationEntry localType="Glossary Term">
-Child Rescue (c. 1880 - c. 1910)
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000661b.htm">
+<relationEntry localType="Event">
+Apology by the General of the Salvation Army General Shaw Clifton, to care leavers of Salvation Army homes (2010 - )
 </relationEntry>
-<descriptiveNote>
-<p>The Salvation Army was prominent in 'child rescue' activities in Melbourne.</p>
-</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000742b.htm">
 <relationEntry localType="Archival Collection">
@@ -176,19 +173,22 @@ The Who Am I? Project (2008 - 2012)
 The Salvation Army Peninsula Youth &amp; Family Services
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000298b.htm">
-<relationEntry localType="Organisation">
-The Salvation Army EastCare Network (1995 - )
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000661b.htm">
-<relationEntry localType="Event">
-Apology by the General of the Salvation Army General Shaw Clifton, to care leavers of Salvation Army homes (2010 - )
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000921b.htm">
 <relationEntry localType="Organisation">
 The Salvation Army Southern Territory Archives &amp; Museum (2000? - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000114b.htm">
+<relationEntry localType="Glossary Term">
+Child Rescue (c. 1880 - c. 1910)
+</relationEntry>
+<descriptiveNote>
+<p>The Salvation Army was prominent in 'child rescue' activities in Melbourne.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000298b.htm">
+<relationEntry localType="Organisation">
+The Salvation Army EastCare Network (1995 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000175b.htm">
@@ -211,6 +211,11 @@ The Salvation Army Westcare (c. 1980 - )
 <fromDate standardDate="1980-01-01">1980</fromDate>
 </dateRange>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000904b.htm">
+<relationEntry localType="Organisation">
+Brayton Youth Hostel (1986 - )
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000562b.htm">
 <relationEntry localType="Organisation">
 Salvation Army Children's Creche (1915 - 1947)
@@ -219,11 +224,6 @@ Salvation Army Children's Creche (1915 - 1947)
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000262b.htm">
 <relationEntry localType="Organisation">
 Catherine Booth Girls' Home (1915 - 1976)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000904b.htm">
-<relationEntry localType="Organisation">
-Brayton Youth Hostel (1986 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000267b.htm">
@@ -235,15 +235,6 @@ Heidelberg Boys' Home (1893 - 1895)
 <toDate standardDate="1895-12-31">1895</toDate>
 </dateRange>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000271b.htm">
-<relationEntry localType="Organisation">
-Pakenham Boys' Home (1895 - 1897)
-</relationEntry>
-<dateRange>
-<fromDate standardDate="1895-01-01">1895</fromDate>
-<toDate standardDate="1897-12-31">1897</toDate>
-</dateRange>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000259b.htm">
 <relationEntry localType="Organisation">
 Brunswick Girls' Home (1892 - 1902)
@@ -251,6 +242,15 @@ Brunswick Girls' Home (1892 - 1902)
 <dateRange>
 <fromDate standardDate="1895-01-01">1895</fromDate>
 <toDate standardDate="1902-12-31">1902</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000271b.htm">
+<relationEntry localType="Organisation">
+Pakenham Boys' Home (1895 - 1897)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1895-01-01">1895</fromDate>
+<toDate standardDate="1897-12-31">1897</toDate>
 </dateRange>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000265b.htm">
@@ -262,15 +262,6 @@ The Haven (1897 - 1988)
 <toDate standardDate="1988-12-31">1988</toDate>
 </dateRange>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000256b.htm">
-<relationEntry localType="Organisation">
-Bayswater Boys' Homes (1897 - 1986)
-</relationEntry>
-<dateRange>
-<fromDate standardDate="1897-01-01">1897</fromDate>
-<toDate standardDate="1986-12-31">1986</toDate>
-</dateRange>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000894b.htm">
 <relationEntry localType="Organisation">
 Pakenham Girls' Reformatory (1897 - 1900)
@@ -278,6 +269,15 @@ Pakenham Girls' Reformatory (1897 - 1900)
 <dateRange>
 <fromDate standardDate="1897-01-01">1897</fromDate>
 <toDate standardDate="1900-12-31">1900</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000256b.htm">
+<relationEntry localType="Organisation">
+Bayswater Boys' Homes (1897 - 1986)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1897-01-01">1897</fromDate>
+<toDate standardDate="1986-12-31">1986</toDate>
 </dateRange>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000270b.htm">
@@ -845,7 +845,7 @@ Bayside Community Youth Hostel (c. 1977 - 1994?)
 <unittitle>Spring Street West between Little Bourke Street and Lonsdale Street, Melbourne</unittitle>
 <unitid>Accession No: H36133/101, Image No: dc000101</unitid>
 <unitdate>1967</unitdate>
-<abstract>Looking across street towards double storey building, signs at roof read: The Salvation Army Young Women's Hostel / Salvaton Army Social Service Centre.</abstract>
+<abstract>Looking across street towards double storey building, signs at roof read: The Salvation Army Young Women's Hostel / Salvation Army Social Service Centre.</abstract>
 <note label="rights">Reproduction rights owned by the State Library of Victoria</note>
 </archref>
 </objectXMLWrap>

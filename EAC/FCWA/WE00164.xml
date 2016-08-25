@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-04-16">2015-04-16</eventDateTime>
+<eventDateTime standardDateTime="2016-07-13">2016-07-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -112,6 +112,11 @@ Djooraminda (1992 - )
 <fromDate standardDate="1992-01-01">1992</fromDate>
 </dateRange>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00592b.htm">
+<relationEntry localType="Archival Collection">
+Centrecare, Centrecare Children's Cottages and Djooraminda, Records (1978? - )
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01120b.htm">
 <relationEntry localType="Archival Collection">
 Department of Aboriginal Affairs [predecessors], Records, Department of Aboriginal Affairs (1886 - 2004)
@@ -120,11 +125,6 @@ Department of Aboriginal Affairs [predecessors], Records, Department of Aborigin
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
 Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00592b.htm">
-<relationEntry localType="Archival Collection">
-Centrecare, Centrecare Children's Cottages and Djooraminda, Records (1978? - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00087b.htm">
@@ -163,6 +163,21 @@ Department for Community Development, State of Western Australia (1992 - 1995)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
+<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">AIATSIS</name>
+<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
+<imprint>
+<date>2010</date>
+</imprint>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000019.htm">
 <relationEntry localType="published">Report: Annual Report: Department for Community Welfare</relationEntry>
 
@@ -176,21 +191,6 @@ Department for Community Development, State of Western Australia (1992 - 1995)
 <date>1973-1984</date>
 </imprint>
 <extptr linktype="simple" href="http://catalogue.slwa.wa.gov.au/record=b1410539~S7"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
-<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">AIATSIS</name>
-<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
-<imprint>
-<date>2010</date>
-</imprint>
-<extptr linktype="simple" href="http://aiatsis.gov.au/archive_digitised_collections/remove/index.html"></extptr>
 </bibref>
 </objectXMLWrap>
 

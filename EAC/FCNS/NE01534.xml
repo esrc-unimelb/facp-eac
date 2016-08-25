@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-21">2016-04-21</eventDateTime>
+<eventDateTime standardDateTime="2016-07-25">2016-07-25</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -70,6 +70,14 @@ State of New South Wales (1901 - )
 Law in New South Wales
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01540b.htm">
+<relationEntry localType="Legislation">
+Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987, State of New South Wales (1987 - 2007)
+</relationEntry>
+<descriptiveNote>
+<p>The <span style="font-style:italic">Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987</span> repealed the <span style="font-style:italic">Child Welfare (Amendment) Act 1961.</span></p>
+</descriptiveNote>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00979b.htm">
 <relationEntry localType="Glossary Term">
 Foster Care (1881 - )
@@ -93,14 +101,6 @@ Child Welfare Act 1939, State of New South Wales (1939 - 1987)
 Child Welfare Department, State Government of New South Wales (1923 - 1970)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01540b.htm">
-<relationEntry localType="Legislation">
-Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987, State of New South Wales (1987 - 2007)
-</relationEntry>
-<descriptiveNote>
-<p>The <span style="font-style:italic">Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987</span> repealed the <span style="font-style:italic">Child Welfare (Amendment) Act 1961.</span></p>
-</descriptiveNote>
-</cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Child Welfare (Amendment) Act 1961', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
 
@@ -113,6 +113,25 @@ Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987, State of N
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01534b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001063.htm">
+<relationEntry localType="published">Journal Article: That other State Aid question: assistance to charitable homes for children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Quinn, Peter</name>
+<title render="quoted">That other State Aid question: assistance to charitable homes for children</title>
+<imprint>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">Journal of the Australian Catholic Historical Society</title>
+<num type="volume">26</num>
+<num type="pages">29-42</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000735.htm">
 <relationEntry localType="published">Resource: NSW legislation</relationEntry>

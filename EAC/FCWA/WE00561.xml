@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-22">2016-04-22</eventDateTime>
+<eventDateTime standardDateTime="2016-08-16">2016-08-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -111,7 +111,7 @@ Beagle Bay Mission (1895 - 1976)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00467b.htm">
 <relationEntry localType="Glossary Term">
-Stolen Generations (c. 1981 - )
+Stolen Generations
 </relationEntry>
 <dateRange>
 <fromDate standardDate="1905-01-01">1905</fromDate>
@@ -285,25 +285,6 @@ Royal Commission to Investigate, Report and Advise upon Matters in Relation to t
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000232.htm">
-<relationEntry localType="published">Newspaper Article: The Aborigines Question</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">The Aborigines Question</title>
-<imprint>
-<date>1905</date>
-</imprint>
-<bibseries>
-<title render="italic">Western Mail</title>
-<num type="pages">12</num>
-</bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article37384000"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000245.htm">
 <relationEntry localType="published">Newspaper Article: The Aborigines Report</relationEntry>
 
@@ -323,24 +304,24 @@ Royal Commission to Investigate, Report and Advise upon Matters in Relation to t
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000138.htm">
-<relationEntry localType="published">Book: Date it!: a Western Australian chronology to 1929</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000232.htm">
+<relationEntry localType="published">Newspaper Article: The Aborigines Question</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Chate, A.H.; Graham, Bruce; Oakley, Glenda</name>
-<title render="italic">Date it!: a Western Australian chronology to 1929</title>
+<name type="author"></name>
+<title render="quoted">The Aborigines Question</title>
 <imprint>
-<place>Northbridge, Western Australia</place>
-<publisher>Friends of the Battye Library (Inc.)</publisher>
-<date>1991</date>
+<date>1905</date>
 </imprint>
+<bibseries>
+<title render="italic">Western Mail</title>
+<num type="pages">12</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article37384000"></extptr>
 </bibref>
 </objectXMLWrap>
 
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000198.htm">
 <relationEntry localType="published">Book Section: Royal Commissions and Inquiries, Indigenous</relationEntry>
@@ -359,6 +340,25 @@ Royal Commission to Investigate, Report and Advise upon Matters in Relation to t
 <name type="author">Gregory, Jenny and Jan Gothard [editors]</name>
 <num type="pages">Pages 780-782</num>
 </bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000138.htm">
+<relationEntry localType="published">Book: Date it!: a Western Australian chronology to 1929</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Chate, A.H.; Graham, Bruce; Oakley, Glenda</name>
+<title render="italic">Date it!: a Western Australian chronology to 1929</title>
+<imprint>
+<place>Northbridge, Western Australia</place>
+<publisher>Friends of the Battye Library (Inc.)</publisher>
+<date>1991</date>
+</imprint>
 </bibref>
 </objectXMLWrap>
 

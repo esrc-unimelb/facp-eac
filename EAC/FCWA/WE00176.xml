@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-06-24">2016-06-24</eventDateTime>
+<eventDateTime standardDateTime="2016-07-04">2016-07-04</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -173,14 +173,6 @@ The Committee (1868 - 1888)
 Orphanage
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00407b.htm">
-<relationEntry localType="Legislation">
-State Children Act 1907 (1907 - 1948)
-</relationEntry>
-<descriptiveNote>
-<p>Perth Girls' Orphanage was classed as an orphanage within the meaning of the <span style="font-style:italic">State Children Act 1907</span>.</p>
-</descriptiveNote>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00860b.htm">
 <relationEntry localType="Archival Collection">
 Anglican Church. Perth. Girls Orphanage Chapel, State Library of Western Australia
@@ -190,6 +182,14 @@ Anglican Church. Perth. Girls Orphanage Chapel, State Library of Western Austral
 <relationEntry localType="Archival Collection">
 Perth Protestant Orphanage / Perth Anglican Orphanages, State Library of Western Australia (1872 - 1955)
 </relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00407b.htm">
+<relationEntry localType="Legislation">
+State Children Act 1907 (1907 - 1948)
+</relationEntry>
+<descriptiveNote>
+<p>Perth Girls' Orphanage was classed as an orphanage within the meaning of the <span style="font-style:italic">State Children Act 1907</span>.</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00637b.htm">
 <relationEntry localType="Archival Collection">
@@ -305,21 +305,37 @@ Swan Homes (1943 - 1959)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000563.htm">
-<relationEntry localType="published">Newspaper Article: Perth Protestant Orphanage</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000701.htm">
+<relationEntry localType="published">Newspaper Article: Church of England News</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Perth Protestant Orphanage</title>
+<title render="quoted">Church of England News</title>
 <imprint>
-<date>1868</date>
+<date>1875</date>
 </imprint>
 <bibseries>
 <title render="italic">The Inquirer &amp; Commercial News</title>
-<num type="pages">4</num>
+<num type="pages">3</num>
 </bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article69386835"></extptr>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article65963216"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000017.htm">
+<relationEntry localType="published">Report: Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Western Australia. Charities Department</name>
+<title render="italic">Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</title>
+<imprint>
+<place>Perth, [W.A.]</place>
+<publisher>Government Printer</publisher>
+<date>1899-1907</date>
+</imprint>
 </bibref>
 </objectXMLWrap>
 
@@ -343,6 +359,25 @@ Swan Homes (1943 - 1959)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000269.htm">
+<relationEntry localType="published">Book: The Cyclopedia of Western Australia (1912)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Battye, JS</name>
+<title render="italic">The Cyclopedia of Western Australia (1912)</title>
+<imprint>
+<place>Victoria Park</place>
+<publisher>Hesperian Press</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000270.htm">
 <relationEntry localType="published">Book Section: Colonial Secretary's Department</relationEntry>
 
@@ -365,6 +400,107 @@ Swan Homes (1943 - 1959)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000300.htm">
+<relationEntry localType="published">Book: The Noisy Mansions : the story of Swanleigh 1868-1971</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Peterkin, A. Roy</name>
+<title render="italic">The Noisy Mansions : the story of Swanleigh 1868-1971</title>
+<imprint>
+<place>Midland, Western Australia</place>
+<publisher>Perth Diocesan Trustees, Anglican Church of Australia</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001083.htm">
+<relationEntry localType="published">Resource Section: Perth Girls' Orphanage (fmr)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Heritage Council</name>
+<title render="quoted">Perth Girls' Orphanage (fmr)</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+<date>2015</date>
+</imprint>
+<bibseries>
+<title render="italic">inHerit: Search Heritage Places</title>
+<name type="author">Western Australia State Heritage Office</name>
+</bibseries>
+<extptr linktype="simple" href="http://inherit.stateheritage.wa.gov.au/public/p/2159"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000562.htm">
+<relationEntry localType="published">Newspaper Article: Advertising [Perth Girls' Orphanage]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Advertising [Perth Girls' Orphanage]</title>
+<imprint>
+<date>1868</date>
+</imprint>
+<bibseries>
+<title render="italic">The Inquirer &amp; Commercial News</title>
+<num type="pages">2</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article69385692"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000563.htm">
+<relationEntry localType="published">Newspaper Article: Perth Protestant Orphanage</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Perth Protestant Orphanage</title>
+<imprint>
+<date>1868</date>
+</imprint>
+<bibseries>
+<title render="italic">The Inquirer &amp; Commercial News</title>
+<num type="pages">4</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article69386835"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
+<relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Information Services, Department for Community Development</name>
+<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+</imprint>
+<extptr linktype="simple" href="http://signposts.cpfs.wa.gov.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
 <relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
 
@@ -384,44 +520,24 @@ Swan Homes (1943 - 1959)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000570.htm">
-<relationEntry localType="published">Resource Section: Submission No. 319 Inquiry into Children in Institutional Care: Submissions</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001428.htm">
+<relationEntry localType="published">Report: Report by the Inspector of Charitable Institutions</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Submission No. 319 Inquiry into Children in Institutional Care: Submissions</title>
+<title render="italic">Report by the Inspector of Charitable Institutions</title>
 <imprint>
-<publisher>Commonwealth of Australia</publisher>
-<date>2005</date>
+<place>Perth</place>
+<publisher>Government Printer</publisher>
+<date>1898</date>
 </imprint>
-<bibseries>
-<title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
-<name type="author">Senate Community Affairs Committee</name>
-</bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
 </bibref>
 </objectXMLWrap>
 
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000701.htm">
-<relationEntry localType="published">Newspaper Article: Church of England News</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Church of England News</title>
-<imprint>
-<date>1875</date>
-</imprint>
-<bibseries>
-<title render="italic">The Inquirer &amp; Commercial News</title>
-<num type="pages">3</num>
-</bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article65963216"></extptr>
-</bibref>
-</objectXMLWrap>
-
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000708.htm">
 <relationEntry localType="published">Newspaper Article: Occasional Notes [Home for Girls]</relationEntry>
@@ -486,170 +602,21 @@ Swan Homes (1943 - 1959)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
-<relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Information Services, Department for Community Development</name>
-<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
-<imprint>
-<publisher>Government of Western Australia</publisher>
-</imprint>
-<extptr linktype="simple" href="http://signposts.cpfs.wa.gov.au/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000562.htm">
-<relationEntry localType="published">Newspaper Article: Advertising [Perth Girls' Orphanage]</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000716.htm">
+<relationEntry localType="published">Newspaper Article: The Daily News [Christmas Cheer Fund]</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Advertising [Perth Girls' Orphanage]</title>
+<title render="quoted">The Daily News [Christmas Cheer Fund]</title>
 <imprint>
-<date>1868</date>
+<date>1916</date>
 </imprint>
 <bibseries>
-<title render="italic">The Inquirer &amp; Commercial News</title>
-<num type="pages">2</num>
-</bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article69385692"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001428.htm">
-<relationEntry localType="published">Report: Report by the Inspector of Charitable Institutions</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Report by the Inspector of Charitable Institutions</title>
-<imprint>
-<place>Perth</place>
-<publisher>Government Printer</publisher>
-<date>1898</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000269.htm">
-<relationEntry localType="published">Book: The Cyclopedia of Western Australia (1912)</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Battye, JS</name>
-<title render="italic">The Cyclopedia of Western Australia (1912)</title>
-<imprint>
-<place>Victoria Park</place>
-<publisher>Hesperian Press</publisher>
-<date>1985</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000300.htm">
-<relationEntry localType="published">Book: The Noisy Mansions : the story of Swanleigh 1868-1971</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Peterkin, A. Roy</name>
-<title render="italic">The Noisy Mansions : the story of Swanleigh 1868-1971</title>
-<imprint>
-<place>Midland, Western Australia</place>
-<publisher>Perth Diocesan Trustees, Anglican Church of Australia</publisher>
-<date>1986</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000770.htm">
-<relationEntry localType="published">Report: Report of the Select Committee of the Legislative Assembly Appointed to Consider the Perth Protestant Orphanage Lands Sale (Private) Bill</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Select Committee of the Legislative Assembly</name>
-<title render="italic">Report of the Select Committee of the Legislative Assembly Appointed to Consider the Perth Protestant Orphanage Lands Sale (Private) Bill</title>
-<imprint>
-<place>Perth</place>
-<publisher>Government Printer</publisher>
-<date>1892</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001083.htm">
-<relationEntry localType="published">Resource Section: Perth Girls' Orphanage (fmr)</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Heritage Council</name>
-<title render="quoted">Perth Girls' Orphanage (fmr)</title>
-<imprint>
-<publisher>Government of Western Australia</publisher>
-<date>2015</date>
-</imprint>
-<bibseries>
-<title render="italic">inHerit: Search Heritage Places</title>
-<name type="author">Western Australia State Heritage Office</name>
-</bibseries>
-<extptr linktype="simple" href="http://inherit.stateheritage.wa.gov.au/public/p/2159"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001138.htm">
-<relationEntry localType="published">Newspaper Article: State Children</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">State Children</title>
-<imprint>
-<date>1904</date>
-</imprint>
-<bibseries>
-<title render="italic">The West Australian</title>
+<title render="italic">The Daily News</title>
 <num type="pages">10</num>
 </bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article25087271"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000017.htm">
-<relationEntry localType="published">Report: Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Western Australia. Charities Department</name>
-<title render="italic">Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</title>
-<imprint>
-<place>Perth, [W.A.]</place>
-<publisher>Government Printer</publisher>
-<date>1899-1907</date>
-</imprint>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article81358001"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -669,6 +636,41 @@ Swan Homes (1943 - 1959)
 <publisher>Government Printer</publisher>
 <date>1882-1889</date>
 </imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000770.htm">
+<relationEntry localType="published">Report: Report of the Select Committee of the Legislative Assembly Appointed to Consider the Perth Protestant Orphanage Lands Sale (Private) Bill</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Select Committee of the Legislative Assembly</name>
+<title render="italic">Report of the Select Committee of the Legislative Assembly Appointed to Consider the Perth Protestant Orphanage Lands Sale (Private) Bill</title>
+<imprint>
+<place>Perth</place>
+<publisher>Government Printer</publisher>
+<date>1892</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001138.htm">
+<relationEntry localType="published">Newspaper Article: State Children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">State Children</title>
+<imprint>
+<date>1904</date>
+</imprint>
+<bibseries>
+<title render="italic">The West Australian</title>
+<num type="pages">10</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article25087271"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -708,27 +710,25 @@ Swan Homes (1943 - 1959)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000716.htm">
-<relationEntry localType="published">Newspaper Article: The Daily News [Christmas Cheer Fund]</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000570.htm">
+<relationEntry localType="published">Resource Section: Submission No. 319 Inquiry into Children in Institutional Care: Submissions</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">The Daily News [Christmas Cheer Fund]</title>
+<title render="quoted">Submission No. 319 Inquiry into Children in Institutional Care: Submissions</title>
 <imprint>
-<date>1916</date>
+<publisher>Commonwealth of Australia</publisher>
+<date>2005</date>
 </imprint>
 <bibseries>
-<title render="italic">The Daily News</title>
-<num type="pages">10</num>
+<title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
+<name type="author">Senate Community Affairs Committee</name>
 </bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article81358001"></extptr>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
 </bibref>
 </objectXMLWrap>
 
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0001025.htm">
 <relationEntry localType="digitalObject">Old Perth Girls Orphanage building on Adelaide Terrace, Perth</relationEntry>

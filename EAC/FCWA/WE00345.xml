@@ -125,14 +125,14 @@ Group Home (1970s)
 Scatter Cottage (1970s - 1980s)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00446b.htm">
-<relationEntry localType="Glossary Term">
-Foster Care (1907 - )
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00892b.htm">
 <relationEntry localType="Archival Collection">
 MercyCare Ltd, Records [St Joseph's Girls' Orphanage, St Vincent's Foundling Home, Catherine McAuley Centre] (1868 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00446b.htm">
+<relationEntry localType="Glossary Term">
+Foster Care (1907 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01116b.htm">
@@ -173,6 +173,26 @@ Mercy Community Services (Inc) (1997 - 2002)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001100.htm">
+<relationEntry localType="published">Resource Section: Catherine McAuley Centre</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Heritage Council</name>
+<title render="quoted">Catherine McAuley Centre</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+<date>2015</date>
+</imprint>
+<bibseries>
+<title render="italic">inHerit: Search Heritage Places</title>
+<name type="author">Western Australia State Heritage Office</name>
+</bibseries>
+<extptr linktype="simple" href="http://inherit.stateheritage.wa.gov.au/public/p/2231"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000867.htm">
 <relationEntry localType="published">Resource Section: Hansard Archive 1870 to 1995</relationEntry>
 
@@ -191,25 +211,6 @@ Mercy Community Services (Inc) (1997 - 2002)
 </bibref>
 </objectXMLWrap>
 
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000502.htm">
-<relationEntry localType="published">Book: Heritage Trail: A journey through the history of MercyCare</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Pushong, Lyn</name>
-<title render="italic">Heritage Trail: A journey through the history of MercyCare</title>
-<imprint>
-<publisher>MercyCare</publisher>
-<date>2008</date>
-</imprint>
-<extptr linktype="simple" href="http://www.mercycare.com.au/resources/Heritage-Trail-Booklet-A5.pdf"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
 <relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
@@ -230,25 +231,24 @@ Mercy Community Services (Inc) (1997 - 2002)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001100.htm">
-<relationEntry localType="published">Resource Section: Catherine McAuley Centre</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000502.htm">
+<relationEntry localType="published">Book: Heritage Trail: A journey through the history of MercyCare</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Heritage Council</name>
-<title render="quoted">Catherine McAuley Centre</title>
+<name type="author">Pushong, Lyn</name>
+<title render="italic">Heritage Trail: A journey through the history of MercyCare</title>
 <imprint>
-<publisher>Government of Western Australia</publisher>
-<date>2015</date>
+<publisher>MercyCare</publisher>
+<date>2008</date>
 </imprint>
-<bibseries>
-<title render="italic">inHerit: Search Heritage Places</title>
-<name type="author">Western Australia State Heritage Office</name>
-</bibseries>
-<extptr linktype="simple" href="http://inherit.stateheritage.wa.gov.au/public/p/2231"></extptr>
+<extptr linktype="simple" href="http://www.mercycare.com.au/resources/Heritage-Trail-Booklet-A5.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000502.htm">
 <relationEntry localType="published">Book: Heritage Trail: A journey through the history of MercyCare</relationEntry>
@@ -288,21 +288,6 @@ Mercy Community Services (Inc) (1997 - 2002)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000032.htm">
-<relationEntry localType="published">Report: A Piece of the Story: A Research Project Undertaken by the Australian Catholic Social Welfare Commission and the Australian Conference of Leaders of Religious Institutes</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">National Directory of Records of Catholic Organisations Caring for Children Separated from Families</name>
-<title render="italic">A Piece of the Story: A Research Project Undertaken by the Australian Catholic Social Welfare Commission and the Australian Conference of Leaders of Religious Institutes</title>
-<imprint>
-<date>November 1999</date>
-</imprint>
-<extptr linktype="simple" href="http://www.cssa.org.au/storage/A%20Piece%20of%20the%20Story.pdf"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000048.htm">
 <relationEntry localType="published">Resource: Child Migrants Trust [website]</relationEntry>
 
@@ -314,6 +299,21 @@ Mercy Community Services (Inc) (1997 - 2002)
 <date>2011</date>
 </imprint>
 <extptr linktype="simple" href="http://www.childmigrantstrust.com"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000032.htm">
+<relationEntry localType="published">Report: A Piece of the Story: A Research Project Undertaken by the Australian Catholic Social Welfare Commission and the Australian Conference of Leaders of Religious Institutes</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">National Directory of Records of Catholic Organisations Caring for Children Separated from Families</name>
+<title render="italic">A Piece of the Story: A Research Project Undertaken by the Australian Catholic Social Welfare Commission and the Australian Conference of Leaders of Religious Institutes</title>
+<imprint>
+<date>November 1999</date>
+</imprint>
+<extptr linktype="simple" href="http://www.cssa.org.au/storage/A%20Piece%20of%20the%20Story.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-11-06">2015-11-06</eventDateTime>
+<eventDateTime standardDateTime="2016-08-16">2016-08-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -66,10 +66,10 @@
 <term>Babies' Home</term>
 </function>
 <function>
-<term>Home</term>
+<term>Children's Home</term>
 </function>
 <function>
-<term>Children's Home</term>
+<term>Home</term>
 </function>
 </functions>
 <biogHist>
@@ -153,6 +153,11 @@ Aborigines Welfare Board (1940 - 1969)
 Personal records (incomplete), Bomaderry Aboriginal Children's Home (1960s - 1980)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01108b.htm">
+<relationEntry localType="Archival Series">
+Aborigines Welfare Board Photographs (c. 1916 - c. 1961)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01104b.htm">
 <relationEntry localType="Archival Series">
 Indexes to Ward Registers, Board for the Protection of Aborigines (1916 - 1938)
@@ -160,11 +165,6 @@ Indexes to Ward Registers, Board for the Protection of Aborigines (1916 - 1938)
 <descriptiveNote>
 <p>This series includes a list of children at the Bomaderry Aboriginal Children's Home, dated 4 October 1935.</p>
 </descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01108b.htm">
-<relationEntry localType="Archival Series">
-Aborigines Welfare Board Photographs (c. 1916 - c. 1961)
-</relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Bomaderry Aboriginal Children's Home', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
@@ -268,23 +268,6 @@ Aborigines Welfare Board Photographs (c. 1916 - c. 1961)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000159.htm">
-<relationEntry localType="published">Resource: Dawn and New Dawn 1952-1975: A magazine for the Aboriginal People of New South Wales</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Dawn and New Dawn 1952-1975: A magazine for the Aboriginal People of New South Wales</title>
-<imprint>
-<place>Canberra</place>
-<publisher>Australian Institute of Aboriginal and Torres Strait Islander Studies</publisher>
-<date>2005</date>
-</imprint>
-<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/dawn-and-new-dawn"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000551.htm">
 <relationEntry localType="published">Resource Section: Bomaderry</relationEntry>
 
@@ -359,6 +342,23 @@ Aborigines Welfare Board Photographs (c. 1916 - c. 1961)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000159.htm">
+<relationEntry localType="published">Resource: Dawn and New Dawn 1952-1975: A magazine for the Aboriginal People of New South Wales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Dawn and New Dawn 1952-1975: A magazine for the Aboriginal People of New South Wales</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Institute of Aboriginal and Torres Strait Islander Studies</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/dawn-and-new-dawn"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000001.htm">
 <relationEntry localType="published">Resource: Connecting Kin: Guide to Records</relationEntry>

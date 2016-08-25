@@ -61,6 +61,9 @@
 <term>Orphanage</term>
 </function>
 <function>
+<term>Catholic</term>
+</function>
+<function>
 <term>School</term>
 </function>
 <function>
@@ -68,9 +71,6 @@
 </function>
 <function>
 <term>Children's Home</term>
-</function>
-<function>
-<term>Catholic</term>
 </function>
 </functions>
 <biogHist>
@@ -105,6 +105,11 @@ Sisters of the Good Samaritan (1866 - )
 <toDate standardDate="1910-12-31">1910</toDate>
 </dateRange>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01027b.htm">
+<relationEntry localType="Glossary Term">
+Orphan
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00158b.htm">
 <relationEntry localType="Organisation">
 Balmain Industrial School (1910 - 1924)
@@ -120,11 +125,6 @@ Mater Dei Orphanage (1910 - 1957)
 <descriptiveNote>
 <p>When Manly Industrial School and Orphanage closed in 1910 some of the children were transferred to Mater Dei Orphanage.</p>
 </descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01027b.htm">
-<relationEntry localType="Glossary Term">
-Orphan
-</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00869b.htm">
 <relationEntry localType="Archival Collection">

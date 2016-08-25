@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-22">2016-04-22</eventDateTime>
+<eventDateTime standardDateTime="2016-08-01">2016-08-01</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -207,14 +207,14 @@ Salvation Army Boys' Home (1918 - 1965)
 Hollywood Children's Village, Salvation Army (1965 - 1994)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00611b.htm">
-<relationEntry localType="Organisation">
-Government Receiving Home (1935 - 1952)
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00644b.htm">
 <relationEntry localType="Archival Item">
 Methodist Home for Children: reports and general correspondence (Volume 1 of 2) (1923 - 1942)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01490b.htm">
+<relationEntry localType="Glossary Term">
+Licensing (1898 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00805b.htm">
@@ -272,9 +272,9 @@ Seaforth Salvation Army Boys' Homes, Gosnells (1920 - 1955)
 Seaforth Toddlers' Home (1945 - 1949?)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01490b.htm">
-<relationEntry localType="Glossary Term">
-Licensing (1898 - )
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00611b.htm">
+<relationEntry localType="Organisation">
+Government Receiving Home (1935 - 1952)
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
@@ -322,6 +322,26 @@ Licensing (1898 - )
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000523.htm">
+<relationEntry localType="published">Resource Section: Submission No. 251 Inquiry into Children in Institutional Care: Submissions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Submission No. 251 Inquiry into Children in Institutional Care: Submissions</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
+<name type="author">Senate Community Affairs Committee</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000513.htm">
 <relationEntry localType="published">Resource Section: Submission No. 160 Inquiry into Children in Institutional Care: Submissions</relationEntry>
 
@@ -352,26 +372,6 @@ Licensing (1898 - )
 <imprint>
 <publisher>Commonwealth of Australia</publisher>
 <date>2003</date>
-</imprint>
-<bibseries>
-<title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
-<name type="author">Senate Community Affairs Committee</name>
-</bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000523.htm">
-<relationEntry localType="published">Resource Section: Submission No. 251 Inquiry into Children in Institutional Care: Submissions</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Submission No. 251 Inquiry into Children in Institutional Care: Submissions</title>
-<imprint>
-<publisher>Commonwealth of Australia</publisher>
-<date>2005</date>
 </imprint>
 <bibseries>
 <title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>

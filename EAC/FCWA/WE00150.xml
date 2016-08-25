@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-06-16">2016-06-16</eventDateTime>
+<eventDateTime standardDateTime="2016-08-16">2016-08-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -102,9 +102,14 @@ Methodist Overseas Mission (1830? - 1980?)
 <toDate standardDate="1974-12-31">1974</toDate>
 </dateRange>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01251b.htm">
+<relationEntry localType="Archival Series">
+Baby's bath [motion picture], State Library of Western Australia (1962)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00467b.htm">
 <relationEntry localType="Glossary Term">
-Stolen Generations (c. 1981 - )
+Stolen Generations
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00748b.htm">
@@ -130,11 +135,6 @@ Jim Dawes interviewed by Karen George in the Bringing them home oral history pro
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00638b.htm">
 <relationEntry localType="Archival Collection">
 Uniting Church (Synod of Western Australia) Archives, Records (1918 - 1980s)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01251b.htm">
-<relationEntry localType="Archival Series">
-Baby's bath [motion picture], State Library of Western Australia (1962)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00726b.htm">
@@ -282,29 +282,6 @@ Mogumber Training Centre (1974 - 1980)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000717.htm">
-<relationEntry localType="published">Book: Was it worthwhile?</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Longworth, Alison</name>
-<title render="italic">Was it worthwhile?</title>
-<imprint>
-<place>Murdoch, Western Australia</place>
-<publisher>Murdoch University</publisher>
-<date>2005</date>
-</imprint>
-<bibseries>
-<title render="italic">An historical analysis of five women missionaries and their encounters with the Nyungar people of south-west Australia</title>
-</bibseries>
-<extptr linktype="simple" href="http://researchrepository.murdoch.edu.au/163/2/02Whole.pdf"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001289.htm">
 <relationEntry localType="published">Report: Report by Margaret Valadian</relationEntry>
 
@@ -339,6 +316,29 @@ Mogumber Training Centre (1974 - 1980)
 </bibref>
 </objectXMLWrap>
 
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000717.htm">
+<relationEntry localType="published">Book: Was it worthwhile?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Longworth, Alison</name>
+<title render="italic">Was it worthwhile?</title>
+<imprint>
+<place>Murdoch, Western Australia</place>
+<publisher>Murdoch University</publisher>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">An historical analysis of five women missionaries and their encounters with the Nyungar people of south-west Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://researchrepository.murdoch.edu.au/163/2/02Whole.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000218.htm">
 <relationEntry localType="published">Book Section: Missions</relationEntry>
@@ -382,6 +382,37 @@ Mogumber Training Centre (1974 - 1980)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000033.htm">
+<relationEntry localType="published">Resource: Bringing Them Home: The 'Stolen Children' Report (1997)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Human Rights Commission</name>
+<title render="italic">Bringing Them Home: The 'Stolen Children' Report (1997)</title>
+<imprint>
+<publisher>Australian Human Rights Commission</publisher>
+<date>2011</date>
+</imprint>
+<extptr linktype="simple" href="http://www.humanrights.gov.au/publications/bringing-them-home-stolen-children-report-1997"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
+<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">AIATSIS</name>
+<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
+<imprint>
+<date>2010</date>
+</imprint>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000024.htm">
 <relationEntry localType="published">Resource Section: Western Australia Protectors Reports 1899-1959</relationEntry>
 
@@ -421,22 +452,6 @@ Mogumber Training Centre (1974 - 1980)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000004.htm">
-<relationEntry localType="published">Report: Aboriginal Hostels in Perth : A Comparative Survey</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Wilson, Katrin and Michael V. Robinson.</name>
-<title render="italic">Aboriginal Hostels in Perth : A Comparative Survey</title>
-<imprint>
-<place>[Perth, W.A.]</place>
-<publisher>Department of Native Welfare</publisher>
-<date>1971</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000011.htm">
 <relationEntry localType="published">Resource: Australian Institute of Aboriginal and Torres Strait Islander Studies [website]</relationEntry>
 
@@ -449,33 +464,18 @@ Mogumber Training Centre (1974 - 1980)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000033.htm">
-<relationEntry localType="published">Resource: Bringing Them Home: The 'Stolen Children' Report (1997)</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000004.htm">
+<relationEntry localType="published">Report: Aboriginal Hostels in Perth : A Comparative Survey</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Australian Human Rights Commission</name>
-<title render="italic">Bringing Them Home: The 'Stolen Children' Report (1997)</title>
+<name type="author">Wilson, Katrin and Michael V. Robinson.</name>
+<title render="italic">Aboriginal Hostels in Perth : A Comparative Survey</title>
 <imprint>
-<publisher>Australian Human Rights Commission</publisher>
-<date>2011</date>
+<place>[Perth, W.A.]</place>
+<publisher>Department of Native Welfare</publisher>
+<date>1971</date>
 </imprint>
-<extptr linktype="simple" href="http://www.humanrights.gov.au/publications/bringing-them-home-stolen-children-report-1997"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
-<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">AIATSIS</name>
-<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
-<imprint>
-<date>2010</date>
-</imprint>
-<extptr linktype="simple" href="http://aiatsis.gov.au/archive_digitised_collections/remove/index.html"></extptr>
 </bibref>
 </objectXMLWrap>
 

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-06-24">2016-06-24</eventDateTime>
+<eventDateTime standardDateTime="2016-08-16">2016-08-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -119,7 +119,7 @@ Department for Community Welfare, State of Western Australia (1972 - 1985)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00467b.htm">
 <relationEntry localType="Glossary Term">
-Stolen Generations (c. 1981 - )
+Stolen Generations
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
@@ -192,37 +192,38 @@ Parent Help Centre (2004? - )
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000019.htm">
-<relationEntry localType="published">Report: Annual Report: Department for Community Welfare</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Western Australia. Department for Community Welfare</name>
-<title render="italic">Annual Report: Department for Community Welfare</title>
-<imprint>
-<place>[Perth]</place>
-<publisher>Dept. For Community Welfare</publisher>
-<date>1973-1984</date>
-</imprint>
-<extptr linktype="simple" href="http://catalogue.slwa.wa.gov.au/record=b1410539~S7"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001151.htm">
-<relationEntry localType="published">Resource Section: Robert McKeich papers, 1950-2010 [manuscript]</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001499.htm">
+<relationEntry localType="published">Resource Section: Katukutu Aboriginal Young Men's Hostel, 17 Almondbury Road, Mt Lawley [picture]</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Robert McKeich papers, 1950-2010 [manuscript]</title>
+<title render="quoted">Katukutu Aboriginal Young Men's Hostel, 17 Almondbury Road, Mt Lawley [picture]</title>
 <imprint>
 <publisher>State Library of Western Australia</publisher>
 </imprint>
 <bibseries>
 <title render="italic">State Library of Western Australia website</title>
 </bibseries>
-<extptr linktype="simple" href="http://catalogue.slwa.wa.gov.au/record=b1993894~S7"></extptr>
+<extptr linktype="simple" href="http://catalogue.slwa.wa.gov.au/record=b2606822~S5"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001498.htm">
+<relationEntry localType="published">Resource Section: Katukutu Aboriginal Young Men's Hostel, 28 Alvan Street, Mt Lawley [picture]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Katukutu Aboriginal Young Men's Hostel, 28 Alvan Street, Mt Lawley [picture]</title>
+<imprint>
+<publisher>State Library of Western Australia</publisher>
+</imprint>
+<bibseries>
+<title render="italic">State Library of Western Australia website</title>
+</bibseries>
+<extptr linktype="simple" href="http://catalogue.slwa.wa.gov.au/record=b2604536~S5"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -244,6 +245,41 @@ Parent Help Centre (2004? - )
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001151.htm">
+<relationEntry localType="published">Resource Section: Robert McKeich papers, 1950-2010 [manuscript]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Robert McKeich papers, 1950-2010 [manuscript]</title>
+<imprint>
+<publisher>State Library of Western Australia</publisher>
+</imprint>
+<bibseries>
+<title render="italic">State Library of Western Australia website</title>
+</bibseries>
+<extptr linktype="simple" href="http://catalogue.slwa.wa.gov.au/record=b1993894~S7"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000019.htm">
+<relationEntry localType="published">Report: Annual Report: Department for Community Welfare</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Western Australia. Department for Community Welfare</name>
+<title render="italic">Annual Report: Department for Community Welfare</title>
+<imprint>
+<place>[Perth]</place>
+<publisher>Dept. For Community Welfare</publisher>
+<date>1973-1984</date>
+</imprint>
+<extptr linktype="simple" href="http://catalogue.slwa.wa.gov.au/record=b1410539~S7"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000005.htm">
 <relationEntry localType="published">Resource: Looking West: A Guide to Aboriginal Sources in Western Australia</relationEntry>
@@ -311,16 +347,15 @@ Parent Help Centre (2004? - )
 
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000492.htm">
-<relationEntry localType="digitalObject">Katukutu Aboriginal Young Men's Hostel, 17 Almondbury Road, Mt Lawley [picture]</relationEntry>
+<relationEntry localType="digitalObject">134641PD: Katukutu Aboriginal Young Men's Hostel, 17 Almondbury Road, Mt Lawley, 1960</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of Western Australia</repository>
-<unittitle>Katukutu Aboriginal Young Men's Hostel, 17 Almondbury Road, Mt Lawley [picture]</unittitle>
-<unitid>State Library of Western Australia Call No. BA1203/1187-1189,1205 and Record No. b2606822</unitid>
+<unittitle>134641PD: Katukutu Aboriginal Young Men's Hostel, 17 Almondbury Road, Mt Lawley, 1960</unittitle>
+<unitid>State Library of Western Australia Call Number BA1203/1187-1189,1205</unitid>
 <unitdate>1960</unitdate>
-<abstract>'Katukutu Aboriginal Young Men's Hostel, 17 Almondbury Road, Mt Lawley [picture]' is a collection of four images of the original premises of Katukutu. The images include pictures of residents. They are part of the Robert McKeich collection, held by the State Library of Western Australia as online images that were made available by the Historical Records Rescue Consortium Project supported by Lotterywest.</abstract>
-<note label="rights">State Library of Western Australia</note>
+<abstract>This is a digitised copy of a slide and is part of the group of images ' Katukutu Aboriginal Young Men's Hostel, 17 Almondbury Road, Mt Lawley [picture]' held at the State Library of Western Australia. The image shows the original building for the Katukutu Employment Hostel.</abstract>
+<note label="rights">For personal use only. To publish or display, contact the State Library of Western Australia.</note>
 </archref>
 </objectXMLWrap>
 
@@ -329,16 +364,15 @@ Parent Help Centre (2004? - )
 </descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000491.htm">
-<relationEntry localType="digitalObject">Katukutu Aboriginal Young Men's Hostel, 28 Alvan Street, Mt Lawley [picture]</relationEntry>
+<relationEntry localType="digitalObject">134315PD: Katukutu Aboriginal Young Men's Hostel, 28 Alvan Street, Mt Lawley, 1964</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of Western Australia</repository>
-<unittitle>Katukutu Aboriginal Young Men's Hostel, 28 Alvan Street, Mt Lawley [picture]</unittitle>
-<unitid>State Library of Western Australia Call No. BA1203/880,1206-1207 and Record No. b2604536</unitid>
+<unittitle>134315PD: Katukutu Aboriginal Young Men's Hostel, 28 Alvan Street, Mt Lawley, 1964</unittitle>
+<unitid>State Library of Western Australia Call Number BA1203/880,1206-1207</unitid>
 <unitdate>1964</unitdate>
-<abstract>'Katukutu Aboriginal Young Men's Hostel, 28 Alvan Street, Mt Lawley [picture]' is a collection of three images of the house that was firstly Alvan House and then Katukutu. The photographs are part of the Robert McKeich collection, held by the State Library of Western Australia as online images that were made available by the Historical Records Rescue Consortium Project supported by Lotterywest.</abstract>
-<note label="rights">State Library of Western Australia</note>
+<abstract>This is a digitised copy of slide and is part of the group of images ' Katukutu Aboriginal Young Men's Hostel, 28 Alvan Street, Mt Lawley [picture]' held at the State Library of Western Australia. The image shows the building that Katukutu Employment Hostel was in.</abstract>
+<note label="rights">For personal use only. To publish or display, contact the State Library of Western Australia.</note>
 </archref>
 </objectXMLWrap>
 

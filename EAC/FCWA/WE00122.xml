@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-06-16">2016-06-16</eventDateTime>
+<eventDateTime standardDateTime="2016-08-16">2016-08-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -115,7 +115,7 @@ Department of Aboriginal Affairs [predecessors], Records, Department of Aborigin
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00467b.htm">
 <relationEntry localType="Glossary Term">
-Stolen Generations (c. 1981 - )
+Stolen Generations
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
@@ -193,17 +193,20 @@ Commissioner of Native Welfare (1954 - 1972)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
-<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001452.htm">
+<relationEntry localType="published">Resource Section: Kurrawang Mission [picture]</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">AIATSIS</name>
-<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
+<name type="author"></name>
+<title render="quoted">Kurrawang Mission [picture]</title>
 <imprint>
-<date>2010</date>
+<publisher>State Library of Western Australia</publisher>
 </imprint>
-<extptr linktype="simple" href="http://aiatsis.gov.au/archive_digitised_collections/remove/index.html"></extptr>
+<bibseries>
+<title render="italic">State Library of Western Australia website</title>
+</bibseries>
+<extptr linktype="simple" href="http://catalogue.slwa.wa.gov.au/record=b2825850"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -224,25 +227,6 @@ Commissioner of Native Welfare (1954 - 1972)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
-<relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Information Services, Department for Community Development</name>
-<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
-<imprint>
-<place>Perth</place>
-<publisher>Government of Western Australia</publisher>
-<date>2004</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000717.htm">
 <relationEntry localType="published">Book: Was it worthwhile?</relationEntry>
 
@@ -259,6 +243,25 @@ Commissioner of Native Welfare (1954 - 1972)
 <title render="italic">An historical analysis of five women missionaries and their encounters with the Nyungar people of south-west Australia</title>
 </bibseries>
 <extptr linktype="simple" href="http://researchrepository.murdoch.edu.au/163/2/02Whole.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
+<relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Information Services, Department for Community Development</name>
+<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
+<imprint>
+<place>Perth</place>
+<publisher>Government of Western Australia</publisher>
+<date>2004</date>
+</imprint>
 </bibref>
 </objectXMLWrap>
 
@@ -339,6 +342,51 @@ Commissioner of Native Welfare (1954 - 1972)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000061.htm">
+<relationEntry localType="published">Resource: Aboriginal Independent Community Schools [website]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Aboriginal Independent Community Schools</name>
+<title render="italic">Aboriginal Independent Community Schools [website]</title>
+<imprint>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://aics.wa.edu.au"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
+<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">AIATSIS</name>
+<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
+<imprint>
+<date>2010</date>
+</imprint>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
+<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">AIATSIS</name>
+<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
+<imprint>
+<date>2010</date>
+</imprint>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000024.htm">
 <relationEntry localType="published">Resource Section: Western Australia Protectors Reports 1899-1959</relationEntry>
 
@@ -361,39 +409,6 @@ Commissioner of Native Welfare (1954 - 1972)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001452.htm">
-<relationEntry localType="published">Resource Section: Kurrawang Mission [picture]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Kurrawang Mission [picture]</title>
-<imprint>
-<publisher>State Library of Western Australia</publisher>
-</imprint>
-<bibseries>
-<title render="italic">State Library of Western Australia website</title>
-</bibseries>
-<extptr linktype="simple" href="http://catalogue.slwa.wa.gov.au/record=b2825850"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
-<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">AIATSIS</name>
-<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
-<imprint>
-<date>2010</date>
-</imprint>
-<extptr linktype="simple" href="http://aiatsis.gov.au/archive_digitised_collections/remove/index.html"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000005.htm">
 <relationEntry localType="published">Resource: Looking West: A Guide to Aboriginal Sources in Western Australia</relationEntry>
 
@@ -406,21 +421,6 @@ Commissioner of Native Welfare (1954 - 1972)
 <date>2004</date>
 </imprint>
 <extptr linktype="simple" href="http://pandora.nla.gov.au/pan/42687/20040616-0000/www.lookingwest.communitydevelopment.wa.gov.au/menu.htm"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000061.htm">
-<relationEntry localType="published">Resource: Aboriginal Independent Community Schools [website]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Aboriginal Independent Community Schools</name>
-<title render="italic">Aboriginal Independent Community Schools [website]</title>
-<imprint>
-<date>2009</date>
-</imprint>
-<extptr linktype="simple" href="http://aics.wa.edu.au"></extptr>
 </bibref>
 </objectXMLWrap>
 

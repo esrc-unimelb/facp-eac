@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-03-04">2016-03-04</eventDateTime>
+<eventDateTime standardDateTime="2016-07-11">2016-07-11</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -58,10 +58,10 @@
 <term>Care Provider</term>
 </function>
 <function>
-<term>Non Government Organisation</term>
+<term>Non-denominational</term>
 </function>
 <function>
-<term>Non-denominational</term>
+<term>Non Government Organisation</term>
 </function>
 <function>
 <term>Records Access Service</term>
@@ -72,14 +72,14 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00738b.htm">
-<relationEntry localType="Archival Series">
-Records about residents, [dates unknown], Our Children's Home (1918? - ?)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00740b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00740b.htm">
 <relationEntry localType="Archival Series">
 Admission books, Rockdale Babies Home (1894 - 1973)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00738b.htm">
+<relationEntry localType="Archival Series">
+Records about residents, [dates unknown], Our Children's Home (1918? - ?)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00363b.htm">
@@ -90,6 +90,11 @@ Communicare Sydney (1982 - 2011)
 <fromDate standardDate="2011-01-01">2011</fromDate>
 <toDate standardDate="2011-12-31">2011</toDate>
 </dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00368b.htm">
+<relationEntry localType="Organisation">
+Our Children's Home, Liverpool (1887 - 1936)
+</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00345b.htm">
 <relationEntry localType="Organisation">
@@ -109,14 +114,17 @@ Bethesda Home for Waiting Mothers (c. 1904 - 1976)
 Our Children's Home (1918 - 1982)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00362b.htm">
+<relationEntry localType="Organisation">
+Sydney Rescue Work Society (1890 - 1982)
+</relationEntry>
+<descriptiveNote>
+<p>Integricare is the current name of the organisation that was founded as the Sydney Rescue Work Society. Integricare holds some records of the Sydney Rescue Work Society, and manages the records of agencies under the Rescue Work Society's control.</p>
+</descriptiveNote>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00373b.htm">
 <relationEntry localType="Organisation">
 Roslyn Hall Babies Home (1911 - 1973)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01093b.htm">
-<relationEntry localType="Organisation">
-Our Boys' Home (1890 - 1945)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00451b.htm">
@@ -127,23 +135,15 @@ South Sydney Women's Hospital (1905 - 1976)
 <p>Integricare controls access to the records of South Sydney Women's Hospital from 1950-1976, which are held by the Prince of Wales Hospital's Medical Records Unit.</p>
 </descriptiveNote>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00368b.htm">
-<relationEntry localType="Organisation">
-Our Children's Home, Liverpool (1887 - 1936)
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00751b.htm">
+<relationEntry localType="Archival Collection">
+Records relating to Adoption (1900? - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01462b.htm">
 <relationEntry localType="Contact Details">
 Integricare - Contact Details
 </relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00362b.htm">
-<relationEntry localType="Organisation">
-Sydney Rescue Work Society (1890 - 1982)
-</relationEntry>
-<descriptiveNote>
-<p>Integricare is the current name of the organisation that was founded as the Sydney Rescue Work Society. Integricare holds some records of the Sydney Rescue Work Society, and manages the records of agencies under the Rescue Work Society's control.</p>
-</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00375b.htm">
 <relationEntry localType="Organisation">
@@ -158,9 +158,9 @@ Home of Hope for Friendless and Fallen Women (1883 - 1904)
 <p>Integricare is the modern name of the Sydney Rescue Work Society, which ran the Home of Hope for Friendless and Fallen Women.</p>
 </descriptiveNote>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00751b.htm">
-<relationEntry localType="Archival Collection">
-Records relating to Adoption (1900? - )
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01093b.htm">
+<relationEntry localType="Organisation">
+Our Boys' Home (1890 - 1945)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00379b.htm">

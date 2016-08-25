@@ -158,6 +158,11 @@ Service Children
 State Child (1907 - 1927)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
+<relationEntry localType="Archival Collection">
+Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00466b.htm">
 <relationEntry localType="Glossary Term">
 Ward (1927 - 2004)
@@ -207,11 +212,6 @@ Orphanage
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00450b.htm">
 <relationEntry localType="Glossary Term">
 Industrial School
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
-<relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00407b.htm">
@@ -268,22 +268,6 @@ Government Receiving Home (1935 - 1952)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000017.htm">
-<relationEntry localType="published">Report: Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Western Australia. Charities Department</name>
-<title render="italic">Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</title>
-<imprint>
-<place>Perth, [W.A.]</place>
-<publisher>Government Printer</publisher>
-<date>1899-1907</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001163.htm">
 <relationEntry localType="published">Newspaper Article: News and Notes [Government Receiving Depot]</relationEntry>
 
@@ -299,28 +283,6 @@ Government Receiving Home (1935 - 1952)
 <num type="pages">6</num>
 </bibseries>
 <extptr linktype="simple" href="http://nla.gov.au/nla.news-article27966891"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000270.htm">
-<relationEntry localType="published">Book Section: Colonial Secretary's Department</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Colonial Secretary's Department</title>
-<imprint>
-<place>Victoria Park</place>
-<publisher>Hesperian Press</publisher>
-<date>1985</date>
-</imprint>
-<bibseries>
-<title render="italic">The Cyclopedia of Western Australia (1912)</title>
-<name type="author">JS Battye</name>
-<num type="volume">1</num>
-<num type="pages">502-507</num>
-</bibseries>
 </bibref>
 </objectXMLWrap>
 
@@ -370,6 +332,26 @@ Government Receiving Home (1935 - 1952)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000571.htm">
+<relationEntry localType="published">Resource Section: Submission No. 347 Inquiry into Children in Institutional Care: Submissions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Foster, Darren J</name>
+<title render="quoted">Submission No. 347 Inquiry into Children in Institutional Care: Submissions</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2004</date>
+</imprint>
+<bibseries>
+<title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
+<name type="author">Senate Community Affairs Committee</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000500.htm">
 <relationEntry localType="published">Resource Section: Submission No. 55 Inquiry into Children in Institutional Care: Submissions</relationEntry>
 
@@ -390,25 +372,44 @@ Government Receiving Home (1935 - 1952)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000571.htm">
-<relationEntry localType="published">Resource Section: Submission No. 347 Inquiry into Children in Institutional Care: Submissions</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000270.htm">
+<relationEntry localType="published">Book Section: Colonial Secretary's Department</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Foster, Darren J</name>
-<title render="quoted">Submission No. 347 Inquiry into Children in Institutional Care: Submissions</title>
+<name type="author"></name>
+<title render="quoted">Colonial Secretary's Department</title>
 <imprint>
-<publisher>Commonwealth of Australia</publisher>
-<date>2004</date>
+<place>Victoria Park</place>
+<publisher>Hesperian Press</publisher>
+<date>1985</date>
 </imprint>
 <bibseries>
-<title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
-<name type="author">Senate Community Affairs Committee</name>
+<title render="italic">The Cyclopedia of Western Australia (1912)</title>
+<name type="author">JS Battye</name>
+<num type="volume">1</num>
+<num type="pages">502-507</num>
 </bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
 </bibref>
 </objectXMLWrap>
 
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000114.htm">
+<relationEntry localType="published">Report: History of the Department 1829-1979</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department for Community Welfare</name>
+<title render="italic">History of the Department 1829-1979</title>
+<imprint>
+<date>1979</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000022.htm">
 <relationEntry localType="published">Report: Annual Report of the Child Welfare Department</relationEntry>
@@ -445,22 +446,21 @@ Government Receiving Home (1935 - 1952)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000114.htm">
-<relationEntry localType="published">Report: History of the Department 1829-1979</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000017.htm">
+<relationEntry localType="published">Report: Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Department for Community Welfare</name>
-<title render="italic">History of the Department 1829-1979</title>
+<name type="author">Western Australia. Charities Department</name>
+<title render="italic">Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</title>
 <imprint>
-<date>1979</date>
+<place>Perth, [W.A.]</place>
+<publisher>Government Printer</publisher>
+<date>1899-1907</date>
 </imprint>
 </bibref>
 </objectXMLWrap>
 
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
 <relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>

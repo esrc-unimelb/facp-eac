@@ -59,13 +59,13 @@
 <term>Children's Home</term>
 </function>
 <function>
+<term>Government-run</term>
+</function>
+<function>
 <term>Industrial School</term>
 </function>
 <function>
 <term>Home</term>
-</function>
-<function>
-<term>Government-run</term>
 </function>
 </functions>
 <biogHist>
@@ -153,6 +153,11 @@ Department of Child Welfare and Social Welfare, State Government of New South Wa
 Child Welfare Department, State Government of New South Wales (1923 - 1970)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00971b.htm">
+<relationEntry localType="Glossary Term">
+Cottage Homes
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00412b.htm">
 <relationEntry localType="Organisation">
 Institution for Boys, Tamworth (1948 - 1976)
@@ -160,11 +165,6 @@ Institution for Boys, Tamworth (1948 - 1976)
 <descriptiveNote>
 <p>Boys who offended at Mittagong Training School for Boys, or absconded, could be sent to the Institution for Boys.</p>
 </descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00971b.htm">
-<relationEntry localType="Glossary Term">
-Cottage Homes
-</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01157b.htm">
 <relationEntry localType="Archival Item">
@@ -198,6 +198,17 @@ Mittagong Cottage Homes (1885 - 1976)
 <p>Mittagong Training School for Boys was part of Mittagong Cottage Homes.</p>
 </descriptiveNote>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01062b.htm">
+<relationEntry localType="Organisation">
+Ormond, Thornleigh (1946 - 1962)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1976-01-01">1976</fromDate>
+</dateRange>
+<descriptiveNote>
+<p>When Mittagong Training School was closed the boys were sent to Ormond.</p>
+</descriptiveNote>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01277b.htm">
 <relationEntry localType="Organisation">
 Ormond Training School (1962 - 1977)
@@ -205,17 +216,6 @@ Ormond Training School (1962 - 1977)
 <dateRange>
 <fromDate standardDate="1976-01-01">1976</fromDate>
 <toDate standardDate="1976-12-31">1976</toDate>
-</dateRange>
-<descriptiveNote>
-<p>When Mittagong Training School was closed the boys were sent to Ormond.</p>
-</descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01062b.htm">
-<relationEntry localType="Organisation">
-Ormond, Thornleigh (1946 - 1962)
-</relationEntry>
-<dateRange>
-<fromDate standardDate="1976-01-01">1976</fromDate>
 </dateRange>
 <descriptiveNote>
 <p>When Mittagong Training School was closed the boys were sent to Ormond.</p>
@@ -238,23 +238,6 @@ Renwick (1976 - 1994)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00496b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000412.htm">
-<relationEntry localType="published">Report: Annual Report: Child Welfare Department of New South Wales</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Child Welfare Department</name>
-<title render="italic">Annual Report: Child Welfare Department of New South Wales</title>
-<imprint>
-<date>1955-1970</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000850.htm">
 <relationEntry localType="published">Resource Section: Challoner Cottage, Mittagong Farm Home [Other names: Cottage No.12, Old Dormitory Building, Renwick Child Welfare House, Mittagong Training School for Boys, Renwick Farm Home, Renwick State Ward Home]</relationEntry>
@@ -438,6 +421,23 @@ Renwick (1976 - 1994)
 </bibref>
 </objectXMLWrap>
 
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000412.htm">
+<relationEntry localType="published">Report: Annual Report: Child Welfare Department of New South Wales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Child Welfare Department</name>
+<title render="italic">Annual Report: Child Welfare Department of New South Wales</title>
+<imprint>
+<date>1955-1970</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000021.htm">
 <relationEntry localType="published">Resource: Renwick (Mittagong Farm Home for Boys) web site</relationEntry>

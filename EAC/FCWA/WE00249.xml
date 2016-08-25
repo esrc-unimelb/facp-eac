@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-12-16">2015-12-16</eventDateTime>
+<eventDateTime standardDateTime="2016-08-16">2016-08-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -107,7 +107,7 @@
 </description>
 <relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00467b.htm">
 <relationEntry localType="Glossary Term">
-Stolen Generations (c. 1981 - )
+Stolen Generations
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00637b.htm">
@@ -158,17 +158,21 @@ Mount Margaret Mission (1921 - 1975)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001239.htm">
-<relationEntry localType="published">Resource: History [Wongutha CAPS]</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000871.htm">
+<relationEntry localType="published">Resource: Dawn and New Dawn 1952-1975: A Magazine for the Aboriginal People of New South Wales</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="italic">History [Wongutha CAPS]</title>
+<title render="italic">Dawn and New Dawn 1952-1975: A Magazine for the Aboriginal People of New South Wales</title>
 <imprint>
-<publisher>Wongutha CAPS</publisher>
+<date>2012</date>
 </imprint>
-<extptr linktype="simple" href="http://wonguthacaps.wa.edu.au/about-us/history"></extptr>
+<bibseries>
+<title render="italic">Australian Institute of Aboriginal and Torres Strait Islander Studies [website]</title>
+<name type="author">Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)</name>
+</bibseries>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/dawn-and-new-dawn"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -218,27 +222,38 @@ Mount Margaret Mission (1921 - 1975)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000871.htm">
-<relationEntry localType="published">Resource: Dawn and New Dawn 1952-1975: A Magazine for the Aboriginal People of New South Wales</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001239.htm">
+<relationEntry localType="published">Resource: History [Wongutha CAPS]</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="italic">Dawn and New Dawn 1952-1975: A Magazine for the Aboriginal People of New South Wales</title>
+<title render="italic">History [Wongutha CAPS]</title>
 <imprint>
-<date>2012</date>
+<publisher>Wongutha CAPS</publisher>
 </imprint>
-<bibseries>
-<title render="italic">Australian Institute of Aboriginal and Torres Strait Islander Studies [website]</title>
-<name type="author">Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)</name>
-</bibseries>
-<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/dawn-and-new-dawn"></extptr>
+<extptr linktype="simple" href="http://wonguthacaps.wa.edu.au/about-us/history"></extptr>
 </bibref>
 </objectXMLWrap>
 
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
+<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">AIATSIS</name>
+<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
+<imprint>
+<date>2010</date>
+</imprint>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000024.htm">
 <relationEntry localType="published">Resource Section: Western Australia Protectors Reports 1899-1959</relationEntry>
@@ -270,21 +285,6 @@ Mount Margaret Mission (1921 - 1975)
 <name type="author">Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)</name>
 <title render="italic">Australian Institute of Aboriginal and Torres Strait Islander Studies [website]</title>
 <extptr linktype="simple" href="http://aiatsis.gov.au/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
-<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">AIATSIS</name>
-<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
-<imprint>
-<date>2010</date>
-</imprint>
-<extptr linktype="simple" href="http://aiatsis.gov.au/archive_digitised_collections/remove/index.html"></extptr>
 </bibref>
 </objectXMLWrap>
 

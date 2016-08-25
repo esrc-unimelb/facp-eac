@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-03-02">2015-03-02</eventDateTime>
+<eventDateTime standardDateTime="2016-08-16">2016-08-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -78,7 +78,7 @@ Mission (1829? - )
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00467b.htm">
 <relationEntry localType="Glossary Term">
-Stolen Generations (c. 1981 - )
+Stolen Generations
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00694b.htm">
@@ -118,6 +118,28 @@ National Inquiry into the Separation of Aboriginal and Torres Strait Islander Ch
 </bibref>
 </objectXMLWrap>
 
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000493.htm">
+<relationEntry localType="published">Resource Section: Aborigines - Family Separation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Legislative Assembly, Parliament of Western Australia</name>
+<title render="quoted">Aborigines - Family Separation</title>
+<imprint>
+<publisher>Parliament of Western Australia</publisher>
+<date>1997</date>
+</imprint>
+<bibseries>
+<title render="italic">Parliament of Western Australia website</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.parliament.wa.gov.au/hansard/hans35.nsf/NFS/119da55bc45d9544c8257497002f2d9a?OpenDocument"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000103.htm">
 <relationEntry localType="published">Resource: RightsED: Bringing them home</relationEntry>
@@ -165,28 +187,6 @@ National Inquiry into the Separation of Aboriginal and Torres Strait Islander Ch
 </bibref>
 </objectXMLWrap>
 
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000493.htm">
-<relationEntry localType="published">Resource Section: Aborigines - Family Separation</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Legislative Assembly, Parliament of Western Australia</name>
-<title render="quoted">Aborigines - Family Separation</title>
-<imprint>
-<publisher>Parliament of Western Australia</publisher>
-<date>1997</date>
-</imprint>
-<bibseries>
-<title render="italic">Parliament of Western Australia website</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.parliament.wa.gov.au/hansard/hans35.nsf/NFS/119da55bc45d9544c8257497002f2d9a?OpenDocument"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 </relations>
 </cpfDescription>

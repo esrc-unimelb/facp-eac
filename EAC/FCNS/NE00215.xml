@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-03-30">2016-03-30</eventDateTime>
+<eventDateTime standardDateTime="2016-07-14">2016-07-14</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -72,7 +72,9 @@
 </function>
 </functions>
 <biogHist>
-<abstract>Maryville Mothers' Hospital, in Curry Street Merewether, was a maternity hospital run by the Salvation Army. As well as providing services to local women, this was a hospital from which adoptions were arranged. Maryville Mothers' Hospital closed in 1933.</abstract>
+<abstract>Maryville Mothers' Hospital, in Curry Street Merewether, was a maternity hospital run by the Salvation Army. As well as providing services to local women, this was a hospital from which adoptions were arranged. Maryville Mothers' Hospital had its name changed to Hillcrest Mothers' Hospital in 1933.</abstract>
+<p>Maryville Mothers' Hospital was established in the building formerly called 'The Ridge'. The official opening occurred on Saturday 4 July 1925, though it had already begun operating as a maternity hospital and 25 babies at been born.</p>
+<p>The name Maryville was chosen for the hospital in honour of Mrs Mary Longworth who opened the hospital.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1924-01-01">1924</fromDate>
 <toDate standardDate="1933-12-31">1933</toDate>
@@ -127,6 +129,49 @@ Hillcrest Mothers' Hospital (1933 - 1977)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001062.htm">
+<relationEntry localType="published">Newspaper Article: Maternity Hospital - Salvation Army Enterprise - The Official Opening</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Maternity Hospital - Salvation Army Enterprise - The Official Opening</title>
+<imprint>
+<place>NSW</place>
+<date>1925</date>
+</imprint>
+<bibseries>
+<title render="italic">Newcastle Morning Herald and Miners' Advocate</title>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article137836093"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001061.htm">
+<relationEntry localType="published">Resource Section: The Ridge</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Ridge</title>
+<imprint>
+<publisher>NSW Office of Environment and Heritage</publisher>
+</imprint>
+<bibseries>
+<title render="italic">State Heritage Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.environment.nsw.gov.au/heritageapp/ViewHeritageItemDetails.aspx?ID=2170128"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000625.htm">
 <relationEntry localType="published">Resource Section: Submission 46: EASTERN TERRITORY SOCIAL CENTRES: A list of openings, closings, and function</relationEntry>
 
@@ -168,6 +213,39 @@ Hillcrest Mothers' Hospital (1933 - 1977)
 
 <descriptiveNote>
 <p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000783.htm">
+<relationEntry localType="digitalObject">Hill Crest Hospital, Merewether, formerly The Ridge</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Hunter Photo Bank, Newcastle Region Library</repository>
+<unittitle>Hill Crest Hospital, Merewether, formerly The Ridge</unittitle>
+<unitid>Registration Number 184 000009</unitid>
+<unitdate>N.D.</unitdate>
+<abstract>The image shows the building where Maryville Mothers' Hospital and later Hillcrest Mothers' Hospital was located.</abstract>
+<note label="rights">This image is provided for research purposes only and must not be reproduced without the prior permission of the Newcastle Region Library.</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000766.htm">
+<relationEntry localType="digitalObject">Hill Crest Hospital, Merewether, formerly The Ridge</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Hunter Photo Bank, Newcastle Region Library</repository>
+<unittitle>Hill Crest Hospital, Merewether, formerly The Ridge</unittitle>
+<unitid>Registration Number: 184 000012</unitid>
+<unitdate>1950?</unitdate>
+<abstract>The image shows the building where Maryville Mothers' Hospital and later Hillcrest Mothers' Hospital was located. The image was sent to us courtesy of D. Mowat.</abstract>
+<note label="rights">This image is provided for research purposes only and must not be reproduced without the prior permission of the Newcastle Region Library.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
 </descriptiveNote>
 </resourceRelation>
 </relations>
