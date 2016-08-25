@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00654</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-06-21">2012-06-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-22">2016-04-22</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00654b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Illegitimate Child</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1896-01-01">1896</fromDate>
+<toDate standardDate="1976-12-31">1976</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Term commonly found on child welfare records</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Illegitimate child was a term used to describe children if they were born to parents who were not married. An illegitimate child was mentioned in the <span style="font-style:italic">Adoption of Children Act 1896</span> (s.2) in the definition of a deserted child who was not being maintained by the mother. The <span style="font-style:italic">Adoption of Children Act Amendment Act 1964</span> (s.4A) required the mother's or guardian's sole consent for the adoption of an illegitimate child. The term was removed by the <span style="font-style:italic">Adoption of Children Act Amendment Act 1976</span>.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00656b.htm">
+<relationEntry localType="Legislation">
+Adoption of Children Act Amendment Act 1964 (1970 - 1995)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00655b.htm">
+<relationEntry localType="Legislation">
+Adoption of Children Amendment Act 1976 (1976 - 1995)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00653b.htm">
+<relationEntry localType="Glossary Term">
+Deserted Child (1896 - 1994)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00652b.htm">
+<relationEntry localType="Legislation">
+Adoption of Children Act 1896 (1896 - 1995)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Illegitimate Child', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Illegitimate Child</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00654b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000323.htm">
+<relationEntry localType="published">Resource Section: Adoption of Children Act Amendment Act 1964</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Adoption of Children Act Amendment Act 1964</title>
+<imprint>
+<publisher>State Law Publisher of Western Australia</publisher>
+<date>1964</date>
+</imprint>
+<extptr linktype="simple" href="http://www.slp.wa.gov.au/legislation/statutes.nsf/main_mrtitle_6308_homepage.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000321.htm">
+<relationEntry localType="published">Resource Section: Adoption of Children Amendment Act 1976</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Adoption of Children Amendment Act 1976</title>
+<imprint>
+<publisher>State Law Publisher of Western Australia</publisher>
+<date>1976</date>
+</imprint>
+<extptr linktype="simple" href="http://www.slp.wa.gov.au/legislation/statutes.nsf/main_mrtitle_5073_homepage.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000320.htm">
+<relationEntry localType="published">Resource Section: Adoption of Children Act 1896</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Adoption of Children Act 1896</title>
+<imprint>
+<publisher>State Law Publisher of Western Australia</publisher>
+<date>1896</date>
+</imprint>
+<extptr linktype="simple" href="http://www.cssa.org.au/storage/A%20Piece%20of%20the%20Story.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000186.htm">
+<relationEntry localType="digitalObject">Adoption of Children Act Amendment Act 1964</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Law Publisher of Western Australia</repository>
+<unittitle>Adoption of Children Act Amendment Act 1964</unittitle>
+<unitdate>23 December 1964</unitdate>
+<abstract>The Adoption of Children Act Amendment Act 1964 contained a number of amendments designed to 'modernise' the laws relating to adoption in Western Australia and to harmonise adoption laws across Australia.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000185.htm">
+<relationEntry localType="digitalObject">Adoption of Children Amendment Act 1976</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Law Publisher of Western Australia</repository>
+<unittitle>Adoption of Children Amendment Act 1976</unittitle>
+<unitdate>25 November 1976</unitdate>
+<abstract>The Adoption of Children Amendment Act 1976 amended the 1896 Adoption of Children Act to remove the term 'illegitimate child' and clarify 'undue influence'.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000184.htm">
+<relationEntry localType="digitalObject">Adoption of Children Act 1896</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Law Publisher of Western Australia</repository>
+<unittitle>Adoption of Children Act 1896</unittitle>
+<unitdate>23 September 1896</unitdate>
+<abstract>This is a version of the Adoption Act 1896, which is published on the State Law Publisher of Western Australia's website. This Act made it possible to legally adopt children in WA.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

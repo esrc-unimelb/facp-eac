@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000356</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-07-09">2009-07-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000356b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Australian Jewish Welfare Society</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Jewish Community Services</part>
+</nameEntry>
+<nameEntry localType=""><part>Jewish Care (Victoria) Inc.</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="2001-01-01">2001</fromDate>
+<toDate standardDate=""></toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+<nameEntry localType=""><part>AJWS</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1936-01-01">1936</fromDate>
+<toDate standardDate="2001-12-31">2001</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+<nameEntry localType=""><part>Australian Jewish Welfare and Relief Society</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1936-01-01">1936</fromDate>
+<toDate standardDate="2001-12-31">2001</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Jewish</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Australian Jewish Welfare Society (AJWS) was established in 1936, primarily as a support agency for Jewish pre-war and post-war migrants. Some Jewish children fleeing the Nazis in Germany and Austria immigrated to Australia, some being cared for at Frances Barkman House in Balwyn, Victoria. In 2001 the Australian Jewish Welfare Society was renamed Jewish Care after a merger with Montefiore Homes.</abstract>
+<p>The Minute Books of the Australian Jewish Welfare Society from 1939 contain information about the running of Frances Barkman House and its residents and staff. Extracts from the minute books are published in the history by Rodney Benjamin, entitled <span style="font-style:italic">A Serious Influx of Jews: A History of Jewish Welfare in Victoria</span>.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000355b.htm">
+<relationEntry localType="Organisation">
+Frances Barkman Homes (c. 1939 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Australian Jewish Welfare Society', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Australian Jewish Welfare Society</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000356b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000566.htm">
+<relationEntry localType="published">Resource Section: Submission no 331</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Submission no 331</title>
+<bibseries>
+<title render="italic">Inquiry into Children in Institutional Care: Submissions received by the committee as at 17/3/05</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000137.htm">
+<relationEntry localType="published">Book: 'A Serious Influx of Jews': a history of Jewish welfare in Victoria</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Benjamin, Rodney</name>
+<title render="italic">'A Serious Influx of Jews': a history of Jewish welfare in Victoria</title>
+<imprint>
+<place>St Leonards</place>
+<publisher>Allen &amp; Unwin</publisher>
+<date>1998</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000429.htm">
+<relationEntry localType="digitalObject">Children in the Frances Barkman House</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Flickr</repository>
+<unittitle>Children in the Frances Barkman House</unittitle>
+<abstract>Caption reads, 'Jewish children eat together in the dining room of the Frances Barkman House, one of Australia's many hostels that took in Jewish war refugees.'</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

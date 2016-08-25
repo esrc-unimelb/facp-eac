@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00090</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-01-27">2011-01-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-15">2015-10-15</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00090b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Board of Guardians Queens Asylum</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1862-01-01">1862</fromDate>
+<toDate standardDate="1879-12-31">1879</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Board of Guardians Queens Asylum was established in 1862. It had the guardianship and legal control of the children placed in the Queen's Orphan Asylum. The Board was abolished in 1879, when the Asylum closed.</abstract>
+<p>The <span style="font-style:italic">Queen's Asylum Act</span> of 1861 established the Board of Guardians. This coincided with the transfer of administration of the Asylum from the imperial to the colonial government.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00846b.htm">
+<relationEntry localType="Legislation">
+Queen's Asylum Act 1861 (1861 - 1934)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00053b.htm">
+<relationEntry localType="Organisation">
+Queen's Orphan Asylum (1833 - 1879)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1861-01-01">c. 1861</fromDate>
+<toDate standardDate="1879-12-31">1879</toDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Board of Guardians Queens Asylum', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Board of Guardians Queens Asylum</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00090b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000645.htm">
+<relationEntry localType="published">Statute: Queens' Asylum Act</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Queens' Asylum Act</title>
+<imprint>
+<date>1861</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000113.htm">
+<relationEntry localType="published">Article: 'A most shocking tissue of barbarous cruelty': scandal and death in the Queen's Orphan Schools</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kippen, Rebecca</name>
+<title render="quoted">'A most shocking tissue of barbarous cruelty': scandal and death in the Queen's Orphan Schools</title>
+<imprint>
+<date>2010</date>
+</imprint>
+<bibseries>
+<title render="italic">Chainletter</title>
+<num type="issue">5</num>
+<num type="pages">5-6</num>
+</bibseries>
+<extptr linktype="simple" href="http://foundersandsurvivors.org/sites/default/files/FAS_Newsletter05_Aug2010_BIG.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000005.htm">
+<relationEntry localType="published">Resource: Friends of the Orphan School and St John's Park Precinct</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Friends of the Orphan School and St John's Park Precinct</title>
+<imprint>
+<publisher>Friends of the Orphan School and St John's Park Precinct</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.orphanschool.org.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

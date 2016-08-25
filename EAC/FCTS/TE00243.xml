@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00243</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-10-27">2011-10-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-09">2015-10-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00243b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Glen Dhu Babies' Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1907-01-01">c. 1907</fromDate>
+<toDate standardDate="1911-12-31">1911</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Babies' Home</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Glen Dhu Babies' Home, run by the Children's Protection Society, opened in about 1907. It accommodated the babies of single mothers. The Home closed in 1911.</abstract>
+<p>Glen Dhu had a high infant mortality rate with 19 babies dying there in 1909. At the inquest of one of them, the Medical Superintendent of Launceston General Hospital suggested that the underlying cause of the deaths, which were mostly due to gastro-enteritis, was the lack of trained staff. In his judgement, the Coroner, Edward Whitfield, called for babies' homes to be registered so that that they could be inspected. According to the <span style="font-style:italic">Launceston Examiner</span>, Whitfield also said that:</p>
+<p>'these homes were doing a great deal of harm in the community. In his opinion a great many of the children should be looked after by their mothers. It seemed that the children were losing the mothers as the moment they got ill they were sent to strangers to look after. It was bad for the community for the children to be artificially brought up. The number that were sent out was appalling and still growing. There would be an outcry shortly for another children's hospital and home, and all would be filled. The children nowadays seemed to be brought up without their mothers.'</p>
+<p>Whitfield's comments reflected a more widely held concern that, as better formulas for feeding made it possible to keep illegitimate babies alive without their mothers, the babies would be separated from them and the mothers would escape their responsibilities. This explains a wide spread preference for homes that kept mother and baby together.</p>
+<p>When Glen Dhu closed in 1911, it was probably because of lack of funds. Bad publicity and the view that mothers and babies should be kept together may have led to a fall in donations.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1907-01-01">c. 1907</fromDate>
+<toDate standardDate="1911-12-31">1911</toDate>
+</dateRange>
+<placeEntry>Glen Dhu</placeEntry>
+<event>Location - Glen Dhu Babies' Home was at Glen Dhu</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00302b.htm">
+<relationEntry localType="Organisation">
+Children's Protection Society (1903 - 1920?)
+</relationEntry>
+<descriptiveNote>
+<p>The Children's Protection Society ran Glen Dhu Babies' Home.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00075b.htm">
+<relationEntry localType="Legislation">
+Infant Life Protection Act 1907 (1907 - 1920)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Glen Dhu Babies' Home', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Glen Dhu Babies' Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00243b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000462.htm">
+<relationEntry localType="published">Newspaper Article: A child's death</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">A child's death</title>
+<imprint>
+<date>1910</date>
+</imprint>
+<bibseries>
+<title render="italic">Examiner</title>
+<num type="pages">4</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article50404812"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01279</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-12-12">2013-12-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-05-12">2015-05-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01279b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>United Aborigines Mission, Halls Creek</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1957-01-01">1957</fromDate>
+<toDate standardDate="1967-12-31">1967</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Mission</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Protestant</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The United Aborigines Mission, Halls Creek, was established in 1957. Until 1963, children at the mission were under the guardianship of the Commissioner of Native Welfare. The mission was closed in 1967.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1957-01-01">1957</fromDate>
+<toDate standardDate="1957-12-31">1957</toDate>
+</dateRange>
+<placeEntry>Halls Creek</placeEntry>
+<event>Location - The United Aborigines Mission, Halls Creek was established at Halls Creeek</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00281b.htm">
+<relationEntry localType="Organisation">
+United Aborigines Mission (1929 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01268b.htm">
+<relationEntry localType="Archival Collection">
+United Aborigines Mission, Records (1929? - 1977?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00637b.htm">
+<relationEntry localType="Archival Collection">
+State Archives Collection of Western Australia (1829 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
+<relationEntry localType="Archival Collection">
+Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01120b.htm">
+<relationEntry localType="Archival Collection">
+Department of Aboriginal Affairs [predecessors], Records, Department of Aboriginal Affairs (1886 - 2004)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00322b.htm">
+<relationEntry localType="Organisation">
+Department of Native Welfare, State of Western Australia (1955 - 1972)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'United Aborigines Mission, Halls Creek', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">United Aborigines Mission, Halls Creek</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01279b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001290.htm">
+<relationEntry localType="published">Journal: The United Aborigines messenger</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">United Aborigines Mission</name>
+<title render="italic">The United Aborigines messenger</title>
+<imprint>
+<date>1929-1987</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000717.htm">
+<relationEntry localType="published">Book: Was it worthwhile?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Longworth, Alison</name>
+<title render="italic">Was it worthwhile?</title>
+<imprint>
+<place>Murdoch, Western Australia</place>
+<publisher>Murdoch University</publisher>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">An historical analysis of five women missionaries and their encounters with the Nyungar people of south-west Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://researchrepository.murdoch.edu.au/163/2/02Whole.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000204.htm">
+<relationEntry localType="published">Resource: Guide to Institutions Attended by Aboriginal People in Western Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">State Solicitor's Office of Western Australia</name>
+<title render="italic">Guide to Institutions Attended by Aboriginal People in Western Australia</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://web.archive.org/web/20140126131607/http://www.dpc.wa.gov.au/lantu/MediaPublications/Documents/Guide-to-Institutions-attended-by-Aboriginal-people-in-WA-2005.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

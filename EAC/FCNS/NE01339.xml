@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01339</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-08-02">2013-08-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-07">2015-10-07</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01339b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>St Gerard's [Home]</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1980-01-01">1980</fromDate>
+<toDate standardDate="1985-12-31">1985</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Catholic</term>
+</function>
+</functions>
+<biogHist>
+<abstract>St Gerard's [Home] was a home for children and families in crisis that was conducted by Centacare social workers and the Sisters of St Joseph's at St Anthony's Croydon from 1980 until 1985. Children and families were referred from the Department of Youth and Community Services' Montrose Child Protection Unit. St Gerard's was in the building that had formerly been St Gerard's and St Anne's Hospital.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1980-01-01">1980</fromDate>
+<toDate standardDate="1985-12-31">1985</toDate>
+</dateRange>
+<placeEntry>Croydon</placeEntry>
+<event>Address - St Gerard's was situated at St Anthony's Croydon, 9 Alexandra Avenue, Croydon</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01338b.htm">
+<relationEntry localType="Organisation">
+St Gerard's [Hospital] (1964 - 1980)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01034b.htm">
+<relationEntry localType="Organisation">
+Centacare Catholic Community Services Sydney (1967 - 2011)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00198b.htm">
+<relationEntry localType="Organisation">
+St Anthony's Home Croydon (1925 - 2003)
+</relationEntry>
+<descriptiveNote>
+<p>St Gerard's was part of St Anthony's Home Croydon</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00040b.htm">
+<relationEntry localType="Organisation">
+Department of Youth and Community Services, State Government of New South Wales (1976 - 1988)
+</relationEntry>
+<descriptiveNote>
+<p>The Department of Youth and Community Services [II] referred children in its care at Montrose Child Protection Unit to the Sisters of St Joseph, who cared for them at St Gerard's, with the help of Centacare socialworkers</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01393b.htm">
+<relationEntry localType="Organisation">
+Montrose Child Protection Centre (c. 1978 - c. 2009)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1980-01-01">1980</fromDate>
+<toDate standardDate="1985-12-31">1985</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Montrose Child Protection Unit referred children and families to St Gerard's.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'St Gerard's [Home]', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">St Gerard's [Home]</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01339b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000620.htm">
+<relationEntry localType="published">Resource: St Anthony's Family Care</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">St Anthony's Family Care</title>
+<imprint>
+<date>n.d.</date>
+</imprint>
+<extptr linktype="simple" href="https://senate.aph.gov.au/submissions/comittees/viewdocument.aspx?id=8140a3d2-210b-4b65-a051-162bece0bd2c"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

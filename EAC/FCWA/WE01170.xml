@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01170</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Contact Details</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-09-22">2013-09-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Michael Jones</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01170b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Anglican Diocese Archives - Contact Details</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<biogHist>
+<p>Please contact the Archivist at Anglican Diocese Archives (The archivist is employed full-time but access to the archives is by appointment only, please arrange at least the day before you wish to access the archives):</p>
+<p>Address: 58 Yule Avenue, Middle Swan WA 6056</p>
+<p>Phone: (08) 9425 7243</p>
+<p>Fax: (08) 9374 5699</p>
+<p>Email: <citation xlink:type="simple" xlink:href="mailto:archives@perth.anglican.org" class="extlink" title="[external site] archives@perth.anglican.org">archives@perth.anglican.org</citation></p>
+<p>Website:<citation xlink:type="simple" xlink:href="http://www.perth.anglican.org/resources/diocesan-archives/" class="extlink" title="[external site] http://www.perth.anglican.org/resources/diocesan-archives/ [opens new browser window]" target="_blank">http://www.perth.anglican.org/resources/diocesan-archives/</citation></p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01227b.htm">
+<relationEntry localType="Archival Series">
+Student Boarder Files, Anglican Diocese of Perth (c. 1940 - c. 1970)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01135b.htm">
+<relationEntry localType="Archival Item">
+Hillston - Minutes of the Diocesan Trustees [excerpt], Anglican Diocese of Perth (1953 - 1960)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00852b.htm">
+<relationEntry localType="Archival Item">
+Anglican Orphanage - Minutes of the Committee, Anglican Diocese of Perth (1913 - 1921)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00853b.htm">
+<relationEntry localType="Archival Item">
+Perth Orphanage Committee Minutes, Anglican Diocese of Perth (1885 - 1888)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00593b.htm">
+<relationEntry localType="Archival Collection">
+Anglican Diocese of Perth, Western Australia, Records (1880s - 2010)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00010b.htm">
+<relationEntry localType="Organisation">
+Anglican Diocese of Perth (1856 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Anglican Diocese Archives - Contact Details', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Anglican Diocese Archives - Contact Details</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01170b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

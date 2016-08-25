@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000436</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-17">2009-09-17</eventDateTime>
+<agentType>human</agentType>
+<agent>Nell Musgrove</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-12-22">2015-12-22</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000436b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Infant Life Protection Act 1915</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1915-01-01">1915</fromDate>
+<toDate standardDate="1929-12-31">1929</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Infant Life Protection Act 1915, No. 2670, sought to consolidate the Victorian laws relating to the protection of infant life (namely, the Infant Life Protection Acts of 1890 and 1907). It was a re-enactment of the Infant Life Protection Act 1907.</abstract>
+<p>The long title is 'An Act to consolidate the Law relating to the protection of Infant Life and for other purposes.' It repealed the Infant Life Protection Act 1890, No.1198 and the Infant Life Protection Act 1907, No. 2102. It was amended by Act No. 2773, Act No. 2858, Act No. 3351 and Act No. 3605. It was repealed by the Children's Welfare Act 1928, No. 3654.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000173b.htm">
+<relationEntry localType="Legislation">
+Adoption of Children Act 1928 (1929 - 1959)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000536b.htm">
+<relationEntry localType="Legislation">
+Infant Life Protection Act 1890 (1891 - 1915)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000952b.htm">
+<relationEntry localType="Concept">
+State Government of Victoria (1901 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000949b.htm">
+<relationEntry localType="Concept">
+Law in Victoria (1836 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000935b.htm">
+<relationEntry localType="Archival Series">
+De Facto Adoptions Register (1908 - c. 1980)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000190b.htm">
+<relationEntry localType="Legislation">
+Children's Welfare Act 1928 (1929 - 1955)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Infant Life Protection Act 1915', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Infant Life Protection Act 1915</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000436b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000956.htm">
+<relationEntry localType="published">Resource Section: Infant Life Protection Act 1915 ( Vic): An Act to consolidate the Law relating to the Protection of infant Life and for other purposes</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">State of Victoria</name>
+<title render="quoted">Infant Life Protection Act 1915 ( Vic): An Act to consolidate the Law relating to the Protection of infant Life and for other purposes</title>
+<imprint>
+<publisher>Australasian Legal Information Institute</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Victorian Historical Acts</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.austlii.edu.au/au/legis/vic/hist_act/ilpa1915232/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000193.htm">
+<relationEntry localType="published">Book: Neglected and criminal: foundations of child welfare legislation in Victoria</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jaggs, Donella</name>
+<title render="italic">Neglected and criminal: foundations of child welfare legislation in Victoria</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Centre for Youth and Community Studies, Phillip Institute of Technology</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000190.htm">
+<relationEntry localType="published">Resource Section: Victoria: Legislation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Victoria: Legislation</title>
+<imprint>
+<publisher>Australian Institute of Aboriginal and Torres Strait Islander Studies</publisher>
+<date>2008</date>
+</imprint>
+<bibseries>
+<title render="italic">To remove and protect: laws that changed Aboriginal lives</title>
+</bibseries>
+<extptr linktype="simple" href="http://aiatsis.gov.au/archive_digitised_collections/remove/vic/legislation.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000178.htm">
+<relationEntry localType="digitalObject">The Infant Life Protection Act 1915</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>The Infant Life Protection Act 1915</unittitle>
+<abstract>This is a copy of the Infant Life Protection Act 1915.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

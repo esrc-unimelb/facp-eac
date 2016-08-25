@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>YE00104</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNT</agencyCode>
+<agencyName>Find &amp; Connect - Northern Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-06-27">2011-06-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-07-24">2014-07-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nt/biogs/YE00104b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Office of the Minister Controlling the Northern Territory</part>
+<part localType="parent">South Australian Government</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1892-01-01">1892</fromDate>
+<toDate standardDate="1909-12-31">1909</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Agency</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Office of the Minister Controlling the Northern Territory operated while the Northern Territory was under the control of the South Australian Government. The Office took on this name when responsibility for the Territory was transferred from the Minister of Education to the Treasurer. During this period the Government Resident in the Northern Territory reported to this office.</abstract>
+<p>This office was formed in 1892 when Premier Thomas Playford reorganised the responsibilities of his Ministers. Responsibility for the Northern Territory was transferred from the Minister for Education to the Treasurer until 1901. Although the Northern Territory became the responsibility of a succession of different Ministers during the period 1901 to 1909, the name of the controlling office was retained. In December 1909 the name of the office changed to the Office of the Minister of the Northern Territory.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00169b.htm">
+<relationEntry localType="Organisation">
+Office of the Minister of Education and of the Northern Territory, South Australian Government (1889 - 1892)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00103b.htm">
+<relationEntry localType="Organisation">
+Government Resident of the Northern Territory, South Australian Government (1864 - 1911)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00283b.htm">
+<relationEntry localType="Organisation">
+Mud Island Lazaret (1889 - 1931)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1892-01-01">1892</fromDate>
+<toDate standardDate="1909-12-31">1909</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00105b.htm">
+<relationEntry localType="Organisation">
+Office of the Minister for the Northern Territory, South Australian Government (1909 - 1911)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Office of the Minister Controlling the Northern Territory', in <span style="font-style:italic">Find &amp; Connect - Northern Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Office of the Minister Controlling the Northern Territory</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Northern Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00104b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/bib/YP0000058.htm">
+<relationEntry localType="published">Resource Section: Agency details: GA16 Office of the Minister Controlling the Northern Territory</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">State Records of South Australia</name>
+<title render="quoted">Agency details: GA16 Office of the Minister Controlling the Northern Territory</title>
+<imprint>
+<date>2012</date>
+</imprint>
+<bibseries>
+<title render="italic">State Records of South Australia, ArchivesSearch</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.archives.sa.gov.au"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

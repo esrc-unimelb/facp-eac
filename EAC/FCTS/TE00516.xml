@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00516</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-08-09">2012-08-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-12-16">2014-12-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00516b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Girls' Welfare School</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1924-01-01">1924</fromDate>
+<toDate standardDate="1954-12-31">1954</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>School</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Girls' Welfare School, the Education Department's first special school, opened in 1924. A few girls from the Industrial School for Girls - Hobart attended the Girls' Welfare School. In 1954, it became the Dora Turner School.</abstract>
+<p>The first principal of the Girls' Welfare School, Dora Turner, remained there for 27 years. She aimed to develop the girls' confidence by teaching them to be skilled in domestic work, sometimes to a high level. Some girls exhibited at the local show and were able to produce beautifully decorated wedding cakes. There seems to have been no stigma attached to attending the School.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1924-01-01">1924</fromDate>
+<toDate standardDate="1930-12-31">1930</toDate>
+</dateRange>
+<placeEntry>New Town</placeEntry>
+<event>Location - The Girls' Welfare School was in New Town</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1930-01-01">1930</fromDate>
+<toDate standardDate="1954-12-31">1954?</toDate>
+</dateRange>
+<placeEntry>Hobart</placeEntry>
+<event>Address - The Girls' Welfare School was at 287 Murray Street, Hobart</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00391b.htm">
+<relationEntry localType="Organisation">
+Education Department, State of Tasmania (1885 - )
+</relationEntry>
+<descriptiveNote>
+<p>The Education Department ran the Girls' Welfare School.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00518b.htm">
+<relationEntry localType="Archival Item">
+Record Book for Dora Turner School (1941 - 1956)
+</relationEntry>
+<descriptiveNote>
+<p>The Record Book for Dora Turner School contains information about the Girls' Welfare School.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00068b.htm">
+<relationEntry localType="Organisation">
+Hobart Girls' Industrial School (1862 - 1945)
+</relationEntry>
+<descriptiveNote>
+<p>Some girls from the Industrial School for Girls - Hobart attended the Girls' Welfare School.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Girls' Welfare School', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Girls' Welfare School</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00516b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000293.htm">
+<relationEntry localType="published">Resource Section: Turner, Dora Jeanette (1888-1953)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Sprod, Gleewyn</name>
+<title render="quoted">Turner, Dora Jeanette (1888-1953)</title>
+<imprint>
+<date>1990</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography - Online Edition</title>
+</bibseries>
+<extptr linktype="simple" href="http://adb.anu.edu.au/biography/turner-dora-jeannette-8884/text15603"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000294.htm">
+<relationEntry localType="published">Book: Making a more adequate provision: state education in Tasmania, 1839-1985</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Phillips, Derek</name>
+<title render="italic">Making a more adequate provision: state education in Tasmania, 1839-1985</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Education Department</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

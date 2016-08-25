@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00550</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-10-22">2012-10-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-12-09">2014-12-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00550b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>After Care School, New Town</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1942-01-01">1942?</fromDate>
+<toDate standardDate="1957-12-31">1957?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government-run</term>
+</function>
+<function>
+<term>School</term>
+</function>
+<function>
+<term>Disability Institution</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The After Care School, held in St John's Home for the Aged at St John's Park, New Town, opened in the 1940s. It provided schooling for children with disabilities. The School appears to have closed in 1957.</abstract>
+<p>The After Care School provided schooling for children receiving outpatient care at Wingfield House or living in the Mental Defectives Home, both of which were on the St John's site. It also accepted children who had been referred by other schools. In 1957, there were 14 children at the School, half of whom received treatment at Wingfield.</p>
+<p>It seems likely that the children at the After Care School transferred to Wingfield School in 1957, when new classrooms were built for it nearer to Wingfield House.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1942-01-01">1942?</fromDate>
+<toDate standardDate="1957-12-31">1957?</toDate>
+</dateRange>
+<placeEntry>New Town</placeEntry>
+<event>Location - After Care School was located in New Town</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00297b.htm">
+<relationEntry localType="Organisation">
+St John's Park (1936 - 1994)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00552b.htm">
+<relationEntry localType="Organisation">
+Wingfield School (1942? - 1965?)
+</relationEntry>
+<descriptiveNote>
+<p>Like the After Care School, Wingfield School was at St John's Park and provided schooling to children receiving treatment at Wingfield House. The children at the After Care School did not live at Wingfield House.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00551b.htm">
+<relationEntry localType="Archival Item">
+70/4/3B Royal Hobart Hospital-Wingfield House-School Rooms and Teaching Facilities (1957 - 1962)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00395b.htm">
+<relationEntry localType="Organisation">
+Wingfield House (1938 - 1971)
+</relationEntry>
+<descriptiveNote>
+<p>Children receiving day treatment at Wingfield House attended the After School.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'After Care School, New Town', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">After Care School, New Town</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00550b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000222.htm">
+<relationEntry localType="published">Book: The great scourge: the Tasmanian infantile paralysis epidemic 1937-</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Killalea, Anne</name>
+<title render="italic">The great scourge: the Tasmanian infantile paralysis epidemic 1937-</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Tasmanian Historical Research Association</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

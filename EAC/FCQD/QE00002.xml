@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00002</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-02-01">2011-02-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-12">2015-03-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00002b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>De La Salle Brothers</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1906-01-01">1906</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Religious Order</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Catholic</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The De La Salle Brothers is a worldwide religious teaching congregation within the Catholic Church. The De La Salle Brothers arrived in Australia in 1906 to establish Catholic schools. By 1932 a De La Salle school was established in Roma, Queensland, and in 1955 they set up a school and community in Scarborough. In 1961 the Brothers established BoysTown in Beaudesert.</abstract>
+<p>,</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00003b.htm">
+<relationEntry localType="Organisation">
+BoysTown (1961 - 2001)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1961-01-01">1961</fromDate>
+<toDate standardDate="2001-12-31">2001</toDate>
+</dateRange>
+<descriptiveNote>
+<p>BoysTown ran Tarragindi Lodge, Logan Reserve Lodge and Albion Lodge in conjunction with the De La Salle Brothers</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00001b.htm">
+<relationEntry localType="Organisation">
+Albion Lodge (1965 - 1974)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1965-01-01">1965</fromDate>
+<toDate standardDate="1974-12-31">1974</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00165b.htm">
+<relationEntry localType="Organisation">
+Tarragindi Lodge (1974 - 1991)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1974-01-01">1974</fromDate>
+<toDate standardDate="1991-12-31">1991</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00112b.htm">
+<relationEntry localType="Organisation">
+Logan Reserve Lodge (1989 - 2001)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1991-01-01">1991</fromDate>
+<toDate standardDate="2001-12-31">2001</toDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'De La Salle Brothers', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">De La Salle Brothers</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00002b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000010.htm">
+<relationEntry localType="published">Journal Article: Centenary essay : the De La Salle Brothers in Australia.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rummery, G.</name>
+<title render="quoted">Centenary essay : the De La Salle Brothers in Australia.</title>
+<imprint>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Journal of Religious Education</title>
+<num type="volume">54</num>
+<num type="issue">4</num>
+<num type="pages">2-10</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000009.htm">
+<relationEntry localType="published">Book: The De La Salle Brothers in Australia 1906-1956; with a foreword by Brother Lawrence O'Toole</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Aloysius, Brother</name>
+<title render="italic">The De La Salle Brothers in Australia 1906-1956; with a foreword by Brother Lawrence O'Toole</title>
+<imprint>
+<place>Sydney</place>
+<publisher>[The Bros]: Halstead Press</publisher>
+<date>1956</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

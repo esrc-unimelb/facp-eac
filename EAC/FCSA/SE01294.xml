@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01294</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-04-29">2014-04-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-12-21">2015-12-21</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01294b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Orana</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1980-01-01">1980</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Non Government Organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Orana was the new name for the Mentally Retarded Children's Association from 1980. The Association provided training and support for people with intellectual disabilities. It operated Supported Employment Centres and Supported Accommodation facilities in the Adelaide suburbs and regional areas of South Australia. Orana was still operating in 2014.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01293b.htm">
+<relationEntry localType="Organisation">
+Mentally Retarded Children's Association (1950 - 1980)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01300b.htm">
+<relationEntry localType="Archival Collection">
+Records of the Mentally Retarded Children's Society of South Australia Inc. (1950 - 1982)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01299b.htm">
+<relationEntry localType="Organisation">
+Loxton Hostel (1977 - 2012)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1980-01-01">1980</fromDate>
+<toDate standardDate="2012-12-31">2012</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01298b.htm">
+<relationEntry localType="Organisation">
+Port Pirie Hostel (1974 - 1990s)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1980-01-01">1980</fromDate>
+<toDate standardDate="1990-12-31">1990s</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01297b.htm">
+<relationEntry localType="Organisation">
+Carinya Hostel (1973 - 1994)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1980-01-01">1980</fromDate>
+<toDate standardDate="1994-12-31">1994</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01296b.htm">
+<relationEntry localType="Organisation">
+Birralee Hostel (1971 - 1998)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1980-01-01">1980</fromDate>
+<toDate standardDate="1998-12-31">1998</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01295b.htm">
+<relationEntry localType="Organisation">
+Cooinda Hostel (1969 - 1994)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1980-01-01">1980</fromDate>
+<toDate standardDate="1994-12-31">1994</toDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Orana', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Orana</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01294b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000316.htm">
+<relationEntry localType="published">Resource: Making a difference: sixty years of service to the people of South Australia, 1950-2010</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lewis, Ian</name>
+<title render="italic">Making a difference: sixty years of service to the people of South Australia, 1950-2010</title>
+<imprint>
+<publisher>Orana</publisher>
+<date>2010</date>
+</imprint>
+<extptr linktype="simple" href="http://web.archive.org/web/20150311192731/http://oranaonline.com.au/Portals/0/PDFs/Orana%2060%20Year%20History%20Book_Final.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

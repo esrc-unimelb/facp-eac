@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01151</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-06-25">2012-06-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Gary George and Karen George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-11-17">2015-11-17</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01151b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Babies' Hospital, St Peters</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1915-01-01">1915</fromDate>
+<toDate standardDate="1917-12-31">1917</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Non-denominational</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Hospital</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Babies' Hospital at St Peters was established in 1915 by the Babies' Hospital Association. It took over the role of caring for sick infants under the age of two from Quambi Nursing Home in North Adelaide. In 1917 the Hospital moved to new premises in Woodville and became known as the Mareeba Babies' Hospital.</abstract>
+<p>The Babies' Hospital at St Peters was established in 1915 by the Babies' Hospital Association to care for sick infants under two years of age. Previously the sick infants were cared for at the private hospital known as Quambi Nursing Home in North Adelaide. When overcrowding became a problem at Quambi the Association leased a large property in Winchester Street, St Peters, which was formerly a Presbyterian Ladies' College. The Babies' Hospital Association had the building refitted to be a hospital for babies.</p>
+<p>The Babies' Hospital, St Peters, was officially opened by Lady Galway on 20 January 1915. It operated for approximately two and a half years with some of the doctors on the Association providing their services to the Hospital for free.</p>
+<p>In 1917 the Babies Hospital came under the control of the Inspector General of Hospitals. The Babies' Hospital Association continued to act in an advisory role. In August of 1917 new premises were secured and the Hospital moved to Belmore Terrace in Woodville. It then became known as the Mareeba Babies' Hospital.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1915-01-01">1915</fromDate>
+<toDate standardDate="1917-12-31">1917</toDate>
+</dateRange>
+<placeEntry>St Peters</placeEntry>
+<event>Address - The Babies' Hospital was situated at 9 Winchester Street, St Peters</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01363b.htm">
+<relationEntry localType="Organisation">
+Quambi Nursing Home (1913 - 1915)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00160b.htm">
+<relationEntry localType="Organisation">
+The Babies' Hospital Association (1913 - 1951)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00159b.htm">
+<relationEntry localType="Organisation">
+Mareeba Babies' Hospital (1917 - 1960)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Babies' Hospital, St Peters', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Babies' Hospital, St Peters</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01151b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000042.htm">
+<relationEntry localType="published">Resource: Finding your own way</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">George, Karen</name>
+<title render="italic">Finding your own way</title>
+<imprint>
+<publisher>Nunkuwarrin Yunti of South Australia Inc.</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://nunku.org.au/resources/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000120.htm">
+<relationEntry localType="published">Newspaper Article: A Deserving Cause</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">A Deserving Cause</title>
+<imprint>
+<place>Adelaide, South Australia</place>
+<date>1915</date>
+</imprint>
+<bibseries>
+<title render="italic">The Register</title>
+<num type="pages">4</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article59625371"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000119.htm">
+<relationEntry localType="published">Newspaper Article: The Babies' Hospital - A visit to Mareeba</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Babies' Hospital - A visit to Mareeba</title>
+<imprint>
+<place>Adelaide, South Australia</place>
+<date>1917</date>
+</imprint>
+<bibseries>
+<title render="italic">The Mail</title>
+<num type="pages">11</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article64043227"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/objects/SD0000082.htm">
+<relationEntry localType="digitalObject">A nurse outside the Babies Hospital at St Peters</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia</repository>
+<unittitle>A nurse outside the Babies Hospital at St Peters</unittitle>
+<unitid>PRG 280/1/10/153</unitid>
+<unitdate>c. 1915</unitdate>
+<abstract>One of the nursing staff at the Babies Hospital in Winchester Street, St Peters with a table laden with brown paper parcels. The hospital was opened on 20 January 1915</abstract>
+<note label="rights">No known copyright restrictions</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/objects/SD0000081.htm">
+<relationEntry localType="digitalObject">Babies Hospital, Winchester Street, St Peters</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia</repository>
+<unittitle>Babies Hospital, Winchester Street, St Peters</unittitle>
+<unitid>PRG 280/1/10/152</unitid>
+<unitdate>1915</unitdate>
+<abstract>The Babies Hospital in Winchester Street, St Peters. It was opened by Lady Galway on 20 January 1915. A motor car is parked outside.</abstract>
+<note label="rights">No known copyright restrictions</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

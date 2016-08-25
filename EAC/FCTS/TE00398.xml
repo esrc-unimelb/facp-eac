@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00398</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-03-08">2012-03-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-06-12">2014-06-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00398b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Joint Select Committee on Adoption and Related Services 1958-1988</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1999-01-01">1999</fromDate>
+<toDate standardDate="1999-12-31">1999</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Joint Select Committee on Adoption and Related Services was held in 1999 to investigate the concerns that groups such as Adoption Jigsaw and Origins had about adoption practices of the past.</abstract>
+<p>The terms of reference of the Joint Select Committee were:</p>
+<p>'(1) The past and continuing effects of professional practices in the<br />
+administration and delivery of adoption and related services, particularly<br />
+those services relating to the taking of consents, offered to birth parents in<br />
+Tasmania from 1950 to 1988.<br />
+(2) Whether the practices... Involved unethical and/or<br />
+unlawful practices or practices that denied birth parents access to<br />
+nonadoption alternatives for their child.<br />
+(3) If so, what appropriate and practical measures might be put in place to<br />
+assist persons experiencing distress due to such practices?'</p>
+<p>The Select Committee found that past adoption practices, especially the taking of consent, had profound effects on the individuals who appeared before them. Committee members related these practices to a social milieu that was different to today, surmising that, if practitioners had known more about the emotional effects of adoptions, there would have been less pressure for them to take place.</p>
+<p>Committee members did not find any 'definitive' evidence of unethical or unlawful practices although they may have occurred. The disappearance of records and deaths of key witnesses made it impossible to be sure. In addition, Committee members believed that in drawing conclusions, the context of community attitudes and departmental procedures had to be taken into account.</p>
+<p>The Select Committee recommended that: free counselling services be offered to people involved in adoptions between 1950 and 1988; the search fee for documents relating to adoptions be cost free; the medical histories of birth families be available to adopted children and adoptive families; there be better follow up of children who have been adopted or fostered; adoption papers state that if an adopted child dies, the birth parents must be contacted; the people appearing before the Select Committee be encouraged to publish their stories and; the <span style="font-style:italic">Adoption Act</span> 1988 be amended to address the situation of one of the witnesses.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00938b.htm">
+<relationEntry localType="Organisation">
+Royal Hobart Hospital (1938 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00932b.htm">
+<relationEntry localType="Organisation">
+Queen Alexandra Maternity Hospital (1908 - 1999)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00150b.htm">
+<relationEntry localType="Glossary Term">
+Adoption
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Joint Select Committee on Adoption and Related Services 1958-1988', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Joint Select Committee on Adoption and Related Services 1958-1988</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00398b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000067.htm">
+<relationEntry localType="published">Report: Adoption and Related Services 1950-1988</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Joint Select Committee, Parliament of Tasmania</name>
+<title render="italic">Adoption and Related Services 1950-1988</title>
+<imprint>
+<date>1999</date>
+</imprint>
+<extptr linktype="simple" href="http://www.parliament.tas.gov.au/Ctee/reports/adopt.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000106</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-02-17">2009-02-17</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000106b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>St David's Hostel</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Half-way House</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1973-01-01">c. 1973</fromDate>
+<toDate standardDate="1997-12-31">1997?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Hostel</term>
+</function>
+<function>
+<term>Anglican</term>
+</function>
+<function>
+<term>Protestant</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>St David's Hostel was established in around 1973 by the Mission to the Streets and Lanes on St David's Street, Fitzroy. It first provided accommodation for young women on their release from prison, but by 1975 it housed teenagers making the transition from Unit 64 (Brighton Children's Home) to more independent living. In the 1990s, St David's moved to Napier Street, Fitzroy.</abstract>
+<p>The Mission to the Streets and Lanes had long been providing assistance and temporary accommodation to young women at Mission House.</p>
+<p>In 1973, the Mission reported on a 'lesser-known facet of life at Mission House', being the accommodation provided to girls in need, coming into the Mission's care through the work of the 'court sisters'. Young women released from prison would come to live temporarily at Mission House (for weeks or even months), and were given assistance with finding employment and 'making a new start'.</p>
+<p>In 1973-74, the Mission established a pilot 'half-way house' to extend this work with young women, and rented a house in St David Street (close to Mission House) where young women were offered more permanent accommodation. The venture soon became known as 'St David's'.</p>
+<p>By 1975, it was called 'St David's Hostel', and the service now provided accommodation for teenagers making the transition from Unit 64 (Brighton Children's Home) to more independent living.</p>
+<p>In the 1990s, St David's moved to 131 Napier Street, Fitzroy. The agency moved away from hostel accommodation towards providing family services, foster care and accommodation for young women.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1974-01-01">1974</fromDate>
+<toDate standardDate="1974-12-31">1974</toDate>
+</dateRange>
+<placeEntry>Fitzroy</placeEntry>
+<event>Location - St David's was located at a rented house in St David Street, Fitzroy</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1990-01-01">c. 1990</fromDate>
+<toDate standardDate="1997-12-31">1997</toDate>
+</dateRange>
+<placeEntry>Fitzroy</placeEntry>
+<event>Address - In the 1990s, St David's moved to 131 Napier Street, Fitzroy</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000097b.htm">
+<relationEntry localType="Organisation">
+Mission to the Streets and Lanes (1886 - 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000730b.htm">
+<relationEntry localType="Archival Collection">
+Anglicare Victoria Records (1886 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000323b.htm">
+<relationEntry localType="Glossary Term">
+Hostel
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000694b.htm">
+<relationEntry localType="Organisation">
+St Faith's (1975 - c. 1984)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000099b.htm">
+<relationEntry localType="Organisation">
+Unit 64 (1975 - c. 1984)
+</relationEntry>
+<descriptiveNote>
+<p>St David's Hostel provided a residential care and a treatment program for those residents from Unit 64 and the Social Welfare Department who could benefit from this form of care.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000105b.htm">
+<relationEntry localType="Organisation">
+Napier House (1990? - 1997?)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'St David's Hostel', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">St David's Hostel</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000106b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000486.htm">
+<relationEntry localType="published">Report: Annual report: Church of England, Diocesan Mission to the Streets and Lanes of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Annual report: Church of England, Diocesan Mission to the Streets and Lanes of Melbourne</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Mission</publisher>
+<date>-1980</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

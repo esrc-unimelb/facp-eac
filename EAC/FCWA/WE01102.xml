@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01102</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-05-15">2013-05-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-22">2016-04-22</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01102b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Office of Health Review</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1996-01-01">1996</fromDate>
+<toDate standardDate="2009-12-31">2009</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Agency</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Office of Health Review was established under the <span style="font-style:italic">Health and Disability Services (Complaints) Act 1995</span> to provide an independent authority to receive and investigate consumer complaints, including complaints about hospitals, disability accommodation services and prison health care. The Office of Health Review was replaced by the Health and Disability Services Complaints Office in 2010.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00990b.htm">
+<relationEntry localType="Glossary Term">
+Intellectual Disability
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01098b.htm">
+<relationEntry localType="Glossary Term">
+Disability (1993 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01101b.htm">
+<relationEntry localType="Legislation">
+Health and Disability Services (Complaints) Act 1995 (1995 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01103b.htm">
+<relationEntry localType="Organisation">
+Health and Disability Services Complaints Office (2010 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Office of Health Review', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Office of Health Review</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01102b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001060.htm">
+<relationEntry localType="published">Resource Section: Annual Reports Tabled</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Annual Reports Tabled</title>
+<imprint>
+<publisher>Parliament of Western Australia</publisher>
+<date>2001-</date>
+</imprint>
+<bibseries>
+<title render="italic">Parliament of Western Australia website</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.parliament.wa.gov.au/Test/Tables.nsf/WebAR?openview"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001072.htm">
+<relationEntry localType="published">Resource Section: Annual Report 2000-2001 [Office of Health Review]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Annual Report 2000-2001 [Office of Health Review]</title>
+<imprint>
+<place>Perth</place>
+<publisher>Office of Health Review</publisher>
+<date>2001</date>
+</imprint>
+<extptr linktype="simple" href="http://www.parliament.wa.gov.au/publications/tabledpapers.nsf/displaypaper/3611032acf73cff441d47d4b48256b2100431194/$file/healthreview2001.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001071.htm">
+<relationEntry localType="published">Report: Annual Report 2010-11 [Health and Disability Services Complaints Office]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Health and Disability Services Complaints Office</name>
+<title render="italic">Annual Report 2010-11 [Health and Disability Services Complaints Office]</title>
+<imprint>
+<place>Perth</place>
+<publisher>Government of Western Australia</publisher>
+<date>2011</date>
+</imprint>
+<extptr linktype="simple" href="http://www.parliament.wa.gov.au/publications/tabledpapers.nsf/displaypaper/3813930ac22eee8f57052d2a48257918002749bb/$file/3930.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

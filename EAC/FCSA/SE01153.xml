@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01153</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-08-27">2012-08-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-10">2016-03-10</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01153b.htm</entityId>
+<entityId localType="State Records of South Australia Series ID">GRS/12847</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Observation Log - Seaforth Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1968-01-01">1968</fromDate>
+<toDate standardDate="1973-12-31">1973</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>This series contains the Observation Log of Seaforth Home for 1968 to 1973, which is titled "Wet Bed Book".</abstract>
+<h4>Access Conditions</h4>
+<p>A Research Centre Members card, obtainable at the Archives, is required to research records held at State Records.</p>
+<p>Although some very early records relating to children in care in South Australia are open for access, most records relating to children are subject to a 100 year restriction, particularly those which contain personal information about individuals. Written permission must be obtained from the government agency which created the record in order to access restricted material. To obtain permission a Freedom of Information (FOI) request form must be submitted to the relevant government department. State Records staff will be able to assist you with this.</p>
+<h4>Records</h4>
+<p>The pages have been ruled into calendar format, with provision for an AM and a PM check of the bed of each child. Ticks and crosses were used, but it is not clear whether ticks meant the bed was wet or dry. The names of the children were entered on each page, and they have been divided into two groups, toddlers and schoolgirls. During the period that this record was used , the home accommodated children up to the age of six years, some of whom had intellectual or physical disabilities, and some girls up to the age of eighteen who were committed because of minor behavioural problems or truancy. Children from the different age groups were accommodated in separate dormitories or nurseries. The records from September 1973 were grouped into Units 1 and 2, and the children accommodated in these units were six years old or younger.</p>
+<p>Seaforth Home at Somerton Park was operated by the Children's Welfare and Public Relief Board and its successors between 1921 and 1975.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00024b.htm">
+<relationEntry localType="Organisation">
+State Records of South Australia (1919 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01247b.htm">
+<relationEntry localType="Contact Details">
+State Records of South Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00354b.htm">
+<relationEntry localType="Organisation">
+Seaforth Home (1946 - 1975)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Observation Log - Seaforth Home', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Observation Log - Seaforth Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01153b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

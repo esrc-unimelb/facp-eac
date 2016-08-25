@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01654</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-11-12">2014-11-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Nicola Laurent</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-11-14">2014-11-14</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01654b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>MacKillop Family Services</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1997-01-01">1997</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Records Holder</term>
+</function>
+<function>
+<term>Catholic</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Community Service Organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>MacKillop Family Services was established in 1997 to continue the services (foster care, residential care and specialised home-based care services) to children, young people and families previously undertaken by the Sisters of Mercy, the Christian Brothers, and the Sisters of St Joseph. It has offices in New South Wales in Batemans Bay, Bega, Wollongong and Western Sydney. MacKillop Family Services runs Eddy's Place and Eddy's Out West in New South Wales.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00580b.htm">
+<relationEntry localType="Archival Collection">
+Records of Eddy's Place (1989 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01656b.htm">
+<relationEntry localType="Organisation">
+Edmund Rice Community Services (2001? - 2009)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2009-01-01">2009</fromDate>
+</dateRange>
+<descriptiveNote>
+<p>Edmund Rice Community Services became a part of MacKillop Family Services</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01655b.htm">
+<relationEntry localType="Organisation">
+Heritage and Information Service, MacKillop Family Services (1997 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01652b.htm">
+<relationEntry localType="Organisation">
+Eddy's Out West (1981? - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2009-01-01">2009</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00131b.htm">
+<relationEntry localType="Organisation">
+Eddy's Place (1989 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2009-01-01">2009</fromDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'MacKillop Family Services', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">MacKillop Family Services</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01654b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000970.htm">
+<relationEntry localType="published">Resource Section: Transition of NSW Services - MacKillop Family Services</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gerard Jones</name>
+<title render="quoted">Transition of NSW Services - MacKillop Family Services</title>
+<imprint>
+<publisher>Catholic Social Services Victoria</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.css.org.au/Portals/51/PathwaystoPartnership23July2014GerardJones.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000968.htm">
+<relationEntry localType="published">Report: MacKillop Family Services Annual Report 2009-2010</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">MacKillop Family Services</name>
+<title render="italic">MacKillop Family Services Annual Report 2009-2010</title>
+<imprint>
+<publisher>MacKillop Family Services</publisher>
+<date>2010</date>
+</imprint>
+<extptr linktype="simple" href="http://www.mackillop.org.au/Assets/139/1/MacKillop_AnnualReport_2009-10.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01250</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Collection</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-03-06">2013-03-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01250b.htm</entityId>
+<entityId localType="State Library of New South Wales - Manuscripts &amp; Pictures Call Number">MLMSS 6448 / Boxes 1, 3-8 and Boxes 2X, 9X-10X
+MLMSS 6448 / Boxes 2X, 9X-10X</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Dreadnought Association - records, 1890-1997</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1890-01-01">1890</fromDate>
+<toDate standardDate="1997-12-31">1997</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>This is a collection of records of the Dreadnought Association, which was formed in the 1970s by former 'Dreadnought boys' (child migrants brought to Australia by the Dreadnought Trust). The records relate to to child migration and to the Government Agricultural Farm at Scheyville.</abstract>
+<h4>Access Conditions</h4>
+<p>Please contact the State Library of New South Wales for information about access.</p>
+<h4>Records</h4>
+<p>The State Library of New South Wales' online catalogue has a detailed listing of the contents of this collection. The records include:</p>
+<list><item>minutes of meetings of the Dreadnought Trust and the Dreadnought Association</item>
+<item>correspondence</item>
+<item>registers of apprentices at Department of Agriculture farms</item>
+<item>personal histories of 'Dreadnought boys'</item>
+<item>newsletters</item>
+<item>photographs</item>
+<item>scrapbooks</item></list>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01220b.htm">
+<relationEntry localType="Organisation">
+State Library of New South Wales (1827 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00507b.htm">
+<relationEntry localType="Event">
+Child and Youth Migration to New South Wales (c. 1911 - 1983)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00508b.htm">
+<relationEntry localType="Organisation">
+Government Agricultural Farm, Scheyville (1905 - 1940)
+</relationEntry>
+<descriptiveNote>
+<p>Children brought to Australia under the Dreadnought Scheme were often sent to Scheyville.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01429b.htm">
+<relationEntry localType="Contact Details">
+State Library of New South Wales - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Dreadnought Association - records, 1890-1997', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Dreadnought Association - records, 1890-1997</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01250b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

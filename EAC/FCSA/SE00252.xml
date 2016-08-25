@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE00252</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-02-18">2011-02-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-06-15">2016-06-15</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE00252b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Little Para House Youth Shelter</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Also known as"><part>Little Para House Youth Home</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1978-01-01">1978</fromDate>
+<toDate standardDate="1984-12-31">1984?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Non-denominational</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Hostel</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Little Para House opened in Elizabeth Vale in 1978 and was run by the Little Para House Association Inc. It operated as a youth shelter for eight young people, aged up to 18. The shelter was licensed by the state government and received financial assistance from the state and Commonwealth governments. Little Para House closed in 1984.</abstract>
+<p>Little Para House was opened in 1978 in Elizabeth Vale. It was run by the Little Para House Association Inc and operated as a youth shelter providing medium term accommodation for eight young people up to the age of 18 years. It also provided emergency accommodation.</p>
+<p>From 1979 Little Para was licensed by the state government and received a financial aid to assist with its operation. From the early 1980s the shelter also received part funding from the Commonwealth Government under the Youth Services Scheme and its successor the Youth Supported Accommodation program.</p>
+<p>The Little Para House Association made submissions to the 1982-85 Inquiry into Children in Institutional and Other Forms of Care. The shelter was also visited by the Inquiry's committee. During the 2004-2008 Children in State Care Commission of Inquiry, Little Para House also came under scrutiny in relation to an allegation of abuse at the Shelter. Little Para House is believed to have closed in 1984.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1978-01-01">1978</fromDate>
+<toDate standardDate="1984-12-31">1984?</toDate>
+</dateRange>
+<placeEntry>Elizabeth Vale</placeEntry>
+<event>Location - Little Para House was situated at Wayford Street, Elizabeth Vale</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01345b.htm">
+<relationEntry localType="Organisation">
+Little Para House Association Incorporated (1978 - 1984?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01344b.htm">
+<relationEntry localType="Event">
+Inquiry into Children in Institutional and Other Forms of Care (1982 - 1985)
+</relationEntry>
+<descriptiveNote>
+<p>Little Para House was one of the Homes visited by the committee of the Inquiry into Children in Institutional and Other Forms of Care.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00560b.htm">
+<relationEntry localType="Archival Series">
+Corporate files, three-tiered numeric series - Community Welfare Department and successor agencies (1918 - 2008)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Little Para House Youth Shelter', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Little Para House Youth Shelter</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00252b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000382.htm">
+<relationEntry localType="published">Report: Children in institutional and other forms of care: a national perspective / report of the Senate Standing Committee on Social Welfare</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Parliament of the Commonwealth of Australia</name>
+<title render="italic">Children in institutional and other forms of care: a national perspective / report of the Senate Standing Committee on Social Welfare</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Government Publishing Service</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000042.htm">
+<relationEntry localType="published">Resource: Finding your own way</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">George, Karen</name>
+<title render="italic">Finding your own way</title>
+<imprint>
+<publisher>Nunkuwarrin Yunti of South Australia Inc.</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://nunku.org.au/resources/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000114.htm">
+<relationEntry localType="published">Report: Children in State Care Commission of Inquiry: Allegations of sexual abuse and death from criminal conduct, presented to the South Australian Parliament by the Hon. E.P. Mullighan QC, Commisioner</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mullighan, the Hon E.P.</name>
+<title render="italic">Children in State Care Commission of Inquiry: Allegations of sexual abuse and death from criminal conduct, presented to the South Australian Parliament by the Hon. E.P. Mullighan QC, Commisioner</title>
+<imprint>
+<place>Adelaide, South Australia</place>
+<publisher>Children in State Care Commission of Enquiry</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="https://www.decd.sa.gov.au/department/reviews-and-responses/children-state-care"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

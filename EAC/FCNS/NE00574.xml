@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE00574</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-08-10">2011-08-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Melissa Downing and Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00574b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Adoption Files</part>
+<part localType="parent">CatholicCare Hunter-Manning Social Services</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1960-01-01">c. 1960</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Adoption Files is an archival series held by
+CatholicCare Hunter-Manning Social Services. The records date back to around 1960. They are filed alphabetically by the adoptive parents' surname. They contain information on a number of forms, such as the parents' names and personal details, and details about the adoption of children. Some files also contain correspondence, photographs and records like birth certificates.</abstract>
+<h4>Access Conditions</h4>
+<p>Access to information in adoption records is restricted by the provisions of the NSW Adoption Act 2000.</p>
+<h4>Records</h4>
+<p>Case Front Information is a record of the parents' request for their child's adoption. It contains the parents' names, contact details, their date of birth and the date of the request for adoption. The parent's religion, marital status and other children are also recorded.</p>
+<p>A case summary records the parents' personal details and contains more detailed information such as the reason for the adoption of the child or children; key issues involved; and the parents' situation which may include physical, psychological or economic issues.</p>
+<p>The files may contain a photograph of either the relinquishing parent or the child at birth.</p>
+<p>Correspondence may include letters from the parent to the child or the adoption agency, or letters from the child requesting information about their birth parents or requesting contact. Usually a copy of the original birth certificate is also filed.</p>
+<p>In many cases a medical report is attached to the file. This provides details about the birth of the child and perhaps any family sickness which may be hereditary. Personal details about the father, such as occupation and physical description, may be recorded on this form.</p>
+<p>The files relate to local, overseas or relative adoptions. A 'relative' adoption is an adoption by a step-parent or a member of the child's family.</p>
+<p>Quantity: 8 filing cabinet drawers</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00854b.htm">
+<relationEntry localType="Archival Collection">
+Records held by CatholicCare Social Services Hunter-Manning (c. 1911 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01414b.htm">
+<relationEntry localType="Contact Details">
+CatholicCare Hunter-Manning Social Services - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Adoption Files', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Adoption Files</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00574b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000001.htm">
+<relationEntry localType="published">Resource: Connecting Kin: Guide to Records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Thinee, Kristy and Bradford, Tracy</name>
+<title render="italic">Connecting Kin: Guide to Records</title>
+<imprint>
+<place>Sydney, New South Wales</place>
+<publisher>New South Wales Department of Community Services</publisher>
+<date>1998</date>
+</imprint>
+<extptr linktype="simple" href="http://www.community.nsw.gov.au/__data/assets/pdf_file/0008/319256/connectkin_guide.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

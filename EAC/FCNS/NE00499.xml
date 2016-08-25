@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE00499</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-05-25">2011-05-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Liam Hogan</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-07-27">2015-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00499b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Infant Convicts Act 1849</part>
+<part localType="parent">Colony of New South Wales</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1849-01-01">1849</fromDate>
+<toDate standardDate="1901-12-31">1901</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+</functions>
+<biogHist>
+<abstract>The <span style="font-style:italic">Infant Convicts Act 1849</span> [21/1849 (13 Vic. No.21)], also known as 'An Act to provide for the Care and Education of Infants who may be convicted of Felony or Misdemeanour', allowed judges and magistrates to make custody orders, and send children into the care of other adults, when sentencing children convicted of crimes. It did not provide for a different system of Courts as in the later Children's Court: in this era, children were tried in adult courts, under the same laws. This Act was repealed by <span style="font-style:italic">Infants Conviction Act 1901.</span></abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01697b.htm">
+<relationEntry localType="Concept">
+Colony of New South Wales (1788 - 1901)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01699b.htm">
+<relationEntry localType="Concept">
+Law in New South Wales
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00005b.htm">
+<relationEntry localType="Legislation">
+Infant Convicts Adoption Act 1901, State of New South Wales (1901 - 1939)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Infant Convicts Act 1849', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Infant Convicts Act 1849</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00499b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000735.htm">
+<relationEntry localType="published">Resource: NSW legislation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">NSW legislation</title>
+<imprint>
+<publisher>Parliamentary Counsel's Office, New South Wales Government</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.legislation.nsw.gov.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000016.htm">
+<relationEntry localType="published">Resource: To Remove and Protect</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">To Remove and Protect</title>
+<imprint>
+<publisher>Australian Institute of Aboriginal and Torres Strait Islander Studies</publisher>
+</imprint>
+<bibseries>
+<title render="italic">New South Wales: Legislation</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.aiatsis.gov.au/collections/exhibitions/remove/NSW/legislation.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000496.htm">
+<relationEntry localType="digitalObject">Infant Convicts Act 1849</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>NSW legislation</repository>
+<unittitle>Infant Convicts Act 1849</unittitle>
+<unitdate>1849</unitdate>
+<abstract>This is a copy of the Infant Convicts Act 1949</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000093.htm">
+<relationEntry localType="digitalObject">An Act to provide for the Care and Education of
+Infants who may be convicted of Felony or
+Misdemeanour. [ 5th September, 1849</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>NSW legislation</repository>
+<unittitle>An Act to provide for the Care and Education of
+Infants who may be convicted of Felony or
+Misdemeanour. [ 5th September, 1849</unittitle>
+<unitdate>5 September 1849</unitdate>
+<abstract>This is a copy of the Infant Convicts Act 1849</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

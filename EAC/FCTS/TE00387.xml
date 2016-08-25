@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00387</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-02-21">2012-02-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-04-09">2014-04-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00387b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Polio epidemic</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1937-01-01">1937</fromDate>
+<toDate standardDate="1938-12-31">1938</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The polio epidemic of 1937 to 1938 affected over 2000 adults and children in Tasmania with 81 deaths. It led to the establishment of the Tasmanian Society for the Care of Crippled Children in 1935, St Giles' Home in 1937, and Wingfield House in 1938.</abstract>
+<p>During this polio epidemic, 421 people were affected for every 100,000 members of the population, making it almost the biggest outbreak ever recorded in the world.</p>
+<p>In an attempt to limit the spread of infection and prevent panic, the government imposed severe restrictions on the population. New trained and voluntary staff had to be found to look after people affected by the disease.</p>
+<p>The Launceston branch of the Tasmanian Society for the Care of Crippled Children opened St Giles' Home to accommodate and treat children with polio. Using a grant from Lord Nuffield, the Society also assisted with the establishment of Wingfield House, on the site of the former Queen's Orphan Asylum in New Town, by then, St John's Park.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00297b.htm">
+<relationEntry localType="Organisation">
+St John's Park (1936 - 1994)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00395b.htm">
+<relationEntry localType="Organisation">
+Wingfield House (1938 - 1971)
+</relationEntry>
+<descriptiveNote>
+<p>Wingfield House was established to care for children who had polio.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00385b.htm">
+<relationEntry localType="Organisation">
+Tasmanian Society for the Care of Crippled Children (1935 - 1988)
+</relationEntry>
+<descriptiveNote>
+<p>The Tasmanian Society for the Care of Crippled Children led the aftercare work that followed the polio epidemic.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00378b.htm">
+<relationEntry localType="Organisation">
+St Giles' Home (1937 - c. 1995)
+</relationEntry>
+<descriptiveNote>
+<p>The polio epidemic of 1937-8 led to the foundation of St Giles' Home for Crippled Children.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Polio epidemic', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Polio epidemic</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00387b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000222.htm">
+<relationEntry localType="published">Book: The great scourge: the Tasmanian infantile paralysis epidemic 1937-</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Killalea, Anne</name>
+<title render="italic">The great scourge: the Tasmanian infantile paralysis epidemic 1937-</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Tasmanian Historical Research Association</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

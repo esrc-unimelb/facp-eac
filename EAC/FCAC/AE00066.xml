@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AE00066</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCAC</agencyCode>
+<agencyName>Find &amp; Connect - Australian Capital Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-10-27">2011-10-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Lydia Connell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-05-05">2015-05-05</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/act/biogs/AE00066b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Child in Need of Care</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1986-01-01">1986</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The term, child in need of care, was introduced to ACT welfare legislation with the Children's Services Ordinance 1986. The terms state ward or ward of the state were abandoned at this time.</abstract>
+<p>According to the Children's Services Ordinance of 1986 (Section 71, Part1) a child could be considered 'in need of care' if-</p>
+<p>'(a) the child-</p>
+<p>(i) has been physically injured (otherwise than by accident); or<br />
+(ii) has been sexually abused,</p>
+<p>by one of the child's parents or by a member of the household in which the child lives or there is a likelihood that he or she will so suffer such physical injury or sexual abuse;</p>
+<p>(b) the child-</p>
+<p>(i) has been physically injured (otherwise than by accident); or<br />
+(ii) has been sexually abused,</p>
+<p>by a person other than a person mentioned in paragraph (a), or there is a likelihood that the child will so suffer such physical injury or sexual abuse, and the child's parents are unable or unwilling to protect him or her from the injury or abuse;</p>
+<p>(c) by reason of the circumstances in which the child is living or in which the child is found-</p>
+<p>(i) the health of the child has been impaired or there is a likelihood that it will be impaired; or</p>
+<p>(ii) the child has suffered, or is likely to suffer, psychological damage of such a kind that his or her emotional or intellectual development is or will be endangered;</p>
+<p>(d) the child is engaging in behaviour that is, or is likely to be, harmful to him or her and his or her parents or guardian are unable or unwilling to prevent the child from engaging in that behaviour;</p>
+<p>(e) there is no appropriate person to care for the child because</p>
+<p> (i) the child has been abandoned by his or her parents or guardian;<br />
+ (ii) the child's parents or guardian cannot, after reasonable enquiries have been made, be found; or<br />
+ (ii) The child's parents are dead and he or she has no guardian;</p>
+<p>(f) there is serious incompatibility between the child and one of his or her parents or between the child and his or her guardian; or</p>
+<p> (g) the child is required by law to attend school and is persistently failing to do so and the failure is, or is likely to be, harmful to the child.</p>
+<p>(2) In the application of this Part, an authorised person, the Youth Advocate or the Court shall have regard to the degree of injury, abuse, impairment, likelihood, incompatibility or failure and shall disregard any of those things that, in the circumstances, appears to be not sufficiently serious or substantial to justify action under this Part.'</p>
+<p>(taken from the Children's Services Ordinance 1986, www.legislation.act.gov.au)</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00061b.htm">
+<relationEntry localType="Glossary Term">
+State Ward ( - 1986)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00015b.htm">
+<relationEntry localType="Legislation">
+Children's Services Act 1986 (1987 - 2000)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Child in Need of Care', in <span style="font-style:italic">Find &amp; Connect - Australian Capital Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Child in Need of Care</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australian Capital Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/act/biogs/AE00066b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

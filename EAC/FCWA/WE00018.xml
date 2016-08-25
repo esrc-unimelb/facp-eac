@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00018</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-03-15">2011-03-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-09-18">2015-09-18</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00018b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Australian Churches of Christ Indigenous Ministries</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="acronym"><part>ACCIM</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="2009-01-01">2009</fromDate>
+<toDate standardDate="2013-12-31">2013</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2009-01-01">2009</fromDate>
+<toDate standardDate="2013-12-31">2013</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Protestant</term>
+</function>
+<function>
+<term>Churches of Christ</term>
+</function>
+<function>
+<term>Church Agency</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Australian Churches of Christ Indigenous Ministries (ACCIM) was the name given to the former Churches of Christ Federal Aborigines Mission Board Inc in 2009. From November 2012, the ACCIM became part of the Churches of Christ Global Mission Partners (GMP) and on 30 June 2013 the ACCIM closed. All records enquiries relating to the Churches of Christ Federal Aborigines Mission Board should go to GMP.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00354b.htm">
+<relationEntry localType="Organisation">
+Churches of Christ Federal Aborigines Mission Board (Inc) (1942 - 2009)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00062b.htm">
+<relationEntry localType="Organisation">
+Condingup Hostel (1967? - 1976)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1974-01-01">1974?</fromDate>
+<toDate standardDate="1976-12-31">1976</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01117b.htm">
+<relationEntry localType="Organisation">
+Global Mission Partners (2012 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2009-01-01">2009</fromDate>
+<toDate standardDate="2013-12-31">2013</toDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Australian Churches of Christ Indigenous Ministries', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Australian Churches of Christ Indigenous Ministries</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00018b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
+<relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Information Services, Department for Community Development</name>
+<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
+<imprint>
+<place>Perth</place>
+<publisher>Government of Western Australia</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000353.htm">
+<relationEntry localType="digitalObject">Announcement</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>ACCIM (Australian Churches of Christ Indigenous Ministries) and GMP (Global Mission Partners)</repository>
+<unittitle>Announcement</unittitle>
+<unitid>accim-gmp_statement</unitid>
+<unitdate>15 November 2012</unitdate>
+<abstract>'Announcement' is a statement by the ACCIM (Australian Churches of Christ Indigenous Ministries) and GMP (Global Mission Partners) about the decision to move Churches of Christ Indigenous ministry to the Australian Churches of Christ Global Mission Partners, and close the ACCIM.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

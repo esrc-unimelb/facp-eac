@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01217</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-08-14">2013-08-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-12-04">2015-12-04</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01217b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Boys' Reformatory, Magill</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1869-01-01">1869</fromDate>
+<toDate standardDate="1880-12-31">1880</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Government-run</term>
+</function>
+<function>
+<term>Reformatory</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Boys Reformatory, Magill was established in 1869 in the northern wing of the Magill Industrial School. Run by the Destitute Board, it accommodated boys who had been charged with an offence or were considered to have behavioural problems. In 1880 the boys were moved to a ship in Largs Bay, The Reformatory Hulk, Fitzjames.</abstract>
+<p>With the introduction of the 1866-67 Destitute Persons Relief Act, the majority of children were moved out of the Destitute Asylum into institutions specifically for children. Once the Magill Industrial School opened in 1869 a sections of the building was set aside as a reformatory for Boys who had been charged with an offence or were considered to have behavioural problems. The Boys Reformatory, Magill was run by the Destitute Board. In 1880 the boys were moved from Magill to a decommissioned three-masted ship, the Reformatory Hulk, Fitzjames, moored in shallow water at Largs Bay.</p>
+<p>The Hulk was to operate for 11 years before the boys returned to Magill.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1869-01-01">1869</fromDate>
+<toDate standardDate="1880-12-31">1880</toDate>
+</dateRange>
+<placeEntry>Magill</placeEntry>
+<event>Location - Boys' Reformatory, Magill was situated at the Magill Industrial School site, Glen Stuart Road, Magill</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00063b.htm">
+<relationEntry localType="Organisation">
+Destitute Board, South Australian Government (1849 - 1886)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00359b.htm">
+<relationEntry localType="Legislation">
+Destitute Persons Relief Act 1866 (1867 - 1872)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00068b.htm">
+<relationEntry localType="Organisation">
+Brighton Industrial School (1867 - 1869)
+</relationEntry>
+<descriptiveNote>
+<p>Due to overcrowding at the Brighton Industrial School a number of boys were sent to the Boys' Reformatory, Magill.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00057b.htm">
+<relationEntry localType="Organisation">
+Boys Reformatory, Magill (1891 - 1967)
+</relationEntry>
+<descriptiveNote>
+<p>The Boys' Reformatory at Magill ceased operating for 11 years from 1880 with boys being sent to the Reformatory Hulk, Fitzjames. The Boys' Reformatory, Magill reopened in 1891.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00069b.htm">
+<relationEntry localType="Organisation">
+Ilfracombe, Boys Reformatory (1869 - 1880)
+</relationEntry>
+<descriptiveNote>
+<p>Boys from the Boys' Reformatory, Magill and Ilfracombe Boys' Reformatory were sent to the Reformatory Hulk, Fitzjames in 1880.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00056b.htm">
+<relationEntry localType="Organisation">
+Boys' Reformatory Hulk, Fitzjames (1880 - 1891)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Boys' Reformatory, Magill', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Boys' Reformatory, Magill</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01217b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000407.htm">
+<relationEntry localType="published">Article: Life in Magill Youth Training Centre</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Walsh, Dave</name>
+<title render="quoted">Life in Magill Youth Training Centre</title>
+<imprint>
+<publisher>On Topic Media</publisher>
+<date>2014</date>
+</imprint>
+<bibseries>
+<title render="italic">Weekend Notes</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.weekendnotes.com/magill-youth-training-centre/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/objects/SD0000392.htm">
+<relationEntry localType="digitalObject">Premises of the old reformatory at Magill, South Australia</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia</repository>
+<unittitle>Premises of the old reformatory at Magill, South Australia</unittitle>
+<unitid>State Library of South Australia reference number: B 63555</unitid>
+<unitdate>c. 1900</unitdate>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/objects/SD0000014.htm">
+<relationEntry localType="digitalObject">Boys Reformatory Magill</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia</repository>
+<unittitle>Boys Reformatory Magill</unittitle>
+<unitid>b 72111/79</unitid>
+<unitdate>c. 1880 - c. 1910</unitdate>
+<note label="rights">No known rights restrictions</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

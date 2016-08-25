@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01209</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-07-08">2013-07-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Gary George and Karen George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-03">2015-08-03</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01209b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>South Australian Institution for the Blind and Deaf and Dumb</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>The Blind, Deaf and Dumb Asylum</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1874-01-01">1874</fromDate>
+<toDate standardDate="1946-12-31">1946</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Disability Institution</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The South Australian Institution for the Blind and Deaf and Dumb opened in Brighton in 1874 in the former Grace Darling Hotel. It was run by a committee founded by MP William Townsend. The foundation stone for a new building was laid in 1876. It was officially opened in June 1878. In 1946 the Institution was renamed Townsend House Schools for Deaf and Blind Children.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1874-01-01">1874</fromDate>
+<toDate standardDate="1946-12-31">1946</toDate>
+</dateRange>
+<placeEntry>Brighton</placeEntry>
+<event>Location - The South Australian Institution for the Blind and Deaf and Dumb was situated in Brighton.</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00797b.htm">
+<relationEntry localType="Glossary Term">
+Asylum
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00068b.htm">
+<relationEntry localType="Organisation">
+Brighton Industrial School (1867 - 1869)
+</relationEntry>
+<descriptiveNote>
+<p>The South Australian Institution for the Blind and Deaf and Dumb was established in the old Grace Darling Hotel (site of the Brighton Industrial School) in 1874.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01210b.htm">
+<relationEntry localType="Organisation">
+Townsend House Schools for Deaf and Blind Children (1946 - 1970)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'South Australian Institution for the Blind and Deaf and Dumb', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">South Australian Institution for the Blind and Deaf and Dumb</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01209b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000381.htm">
+<relationEntry localType="published">Resource Section: Interstate movement of Northern Territory children (1930s-1970s)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">George, Karen and Gary</name>
+<title render="quoted">Interstate movement of Northern Territory children (1930s-1970s)</title>
+<imprint>
+<publisher>Find &amp; Connect web resource Project for the Commonwealth of Australia</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Find &amp; Connect web resource</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00088b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000318.htm">
+<relationEntry localType="published">Resource: Townsend House - photo collection</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Disability Information and Resource Centre</name>
+<title render="italic">Townsend House - photo collection</title>
+<imprint>
+<publisher>Disability Information and Resource Centre</publisher>
+</imprint>
+<extptr linktype="simple" href="https://www.flickr.com/photos/dirc/sets/72157600405106138/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000314.htm">
+<relationEntry localType="published">Resource Section: History of Townsend House</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">History of Townsend House</title>
+<imprint>
+<publisher>Can:Do Group</publisher>
+<date>2011</date>
+</imprint>
+<bibseries>
+<title render="italic">Can:Do 4Kids</title>
+</bibseries>
+<extptr linktype="simple" href="http://web.archive.org/web/20150411173108/http://www.cando4kids.com.au/AboutUs/History.aspx"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000243.htm">
+<relationEntry localType="published">Resource Section: Agency Description: GA1589 Townsend House Schools for Deaf and Blind Children 1946-1969</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">State Records of South Australia</name>
+<title render="quoted">Agency Description: GA1589 Townsend House Schools for Deaf and Blind Children 1946-1969</title>
+<bibseries>
+<title render="italic">State Records of South Australia, ArchivesSearch</title>
+</bibseries>
+<extptr linktype="simple" href="http://archives.sa.gov.au"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/objects/SD0000279.htm">
+<relationEntry localType="digitalObject">South Australian Institution for the Blind and Deaf and Dumb 02</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Brighton Collection: State Library of South Australia.</repository>
+<unittitle>South Australian Institution for the Blind and Deaf and Dumb 02</unittitle>
+<unitid>B11623</unitid>
+<unitdate>1904</unitdate>
+<abstract>Blind, Deaf and Dumb Institution, Brighton - The smaller building in the centre of the photogrpah is the old Grace Darling Hotel</abstract>
+<note label="rights">No known copyright restrictions</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/objects/SD0000278.htm">
+<relationEntry localType="digitalObject">South Australian Institution for the Blind and Deaf and Dumb 01</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Brighton Collection: State Library of South Australia.</repository>
+<unittitle>South Australian Institution for the Blind and Deaf and Dumb 01</unittitle>
+<unitid>B3102</unitid>
+<unitdate>1880</unitdate>
+<abstract>Institution, Brighton - The rear of the South Australian Institution building for the Blind, Deaf and Dumb at Brighton. A group of girls, boys and carers are standing outside the two storey building.</abstract>
+<note label="rights">No known copyright restrictions</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01530</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2016-08-01">2016-08-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-08-01">2016-08-01</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01530b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Longmore Hostel</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1982-01-01">1982</fromDate>
+<toDate standardDate="1985-12-31">1985</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Hostel</term>
+</function>
+<function>
+<term>Government-run</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Longmore Hostel was established by the Department for Community Welfare in the grounds of the Longmore Remand and Assessment Centre as a short-term training hostel for up to six young people at one time. In 1985 Longmore Hostel was renamed Collier House.</abstract>
+<p>Longmore Hostel opened in October 1982 within the grounds of the Longmore Remand and Assessment Centre. In September 1983, Longmore Hostel became part of the Longmore Training Centre.</p>
+<p>According to the annual report of the Department for Community Welfare, Longmore Hostel ran a short-term training program to help young people from Longmore 're-adapt to community living'. Between October 1982 and June 1983, 35 young people were admitted to Longmore Hostel. As the Longmore Training Centre housed boys, it is likely that only boys were admitted to Longmore Hostel.</p>
+<p>From 7 March 1985 the hostel became known as Collier House.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1985-01-01">1985</fromDate>
+<toDate standardDate="1985-01-01">1985</toDate>
+</dateRange>
+<placeEntry>Bentley</placeEntry>
+<event>Location - Longmore Hostel was located at Adie Court, Bentley</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00365b.htm">
+<relationEntry localType="Organisation">
+Department for Community Welfare, State of Western Australia (1972 - 1985)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1982-01-01">1982</fromDate>
+<toDate standardDate="1985-12-31">1985</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00131b.htm">
+<relationEntry localType="Organisation">
+Longmore Remand and Assessment Centre (1965 - 1993?)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1982-01-01">1982</fromDate>
+<toDate standardDate="1983-12-31">1983</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Longmore Hostel was located in the grounds of Longmore Remand and Assessment Centre.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00132b.htm">
+<relationEntry localType="Organisation">
+Longmore Training Centre (1983 - 1993)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1983-01-01">1983</fromDate>
+<toDate standardDate="1985-12-31">1985</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Longmore Hostel was located in the grounds of Longmore Training Centre</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01531b.htm">
+<relationEntry localType="Organisation">
+Collier House (1985 - 1993?)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Longmore Hostel', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Longmore Hostel</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01530b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000019.htm">
+<relationEntry localType="published">Report: Annual Report: Department for Community Welfare</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Western Australia. Department for Community Welfare</name>
+<title render="italic">Annual Report: Department for Community Welfare</title>
+<imprint>
+<place>[Perth]</place>
+<publisher>Dept. For Community Welfare</publisher>
+<date>1973-1984</date>
+</imprint>
+<extptr linktype="simple" href="http://catalogue.slwa.wa.gov.au/record=b1410539~S7"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE00598</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-08-11">2011-08-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE00598b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Register of Admissions to the Methodist Home, Largs Bay</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1905-01-01">1905</fromDate>
+<toDate standardDate="1976-12-31">1976</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Register of Admissions to the Methodist Home, Largs Bay contains records of children who were admitted to the Methodist Home for Children (1905-1923), Methodist Children's Homes (1924-1960) and Lentara (1960-1977). An entry in this Register typically contains information about a child's name, date of birth, parents and dates of admission and discharge.</abstract>
+<h4>Access Conditions</h4>
+<p>All personal information held by Uniting Communities is accessible upon request and is only limited in special circumstances. Proof of identity is required. Information affecting the privacy of others will be deleted from copies of documents made accessible. Contact Uniting Communities for further information.</p>
+<h4>Records</h4>
+<p>Left hand page: (1) Number, (2) Name, (3) Age, (4) Date of birth, (5) Last place of residence, (6) What relative in the state, where living, earnings, occupation. Right hand page: (7) Court of committal, (8) Reasons for admission, (9) Date of admission, (10) Date of leaving, (11) Where gone to. Notes on contents - Changes in handwriting indicate different record keepers. Amount of information depends on record keeper. Pages 1-32 cover 1905-1965. At page 33 the title at the top of the page changes to '1921 Boys Home' and numbers start from 1 again. Page 28 includes information about children from Croker Island Mission. (5) Last place of residence entries can include the name(s) of other homes from which child has been transferred. (6) What relative: Parent's names are given if available. Also records whether parents are living or dead and gives information on their personal and employment situations. In rare cases, the entry identifies parent(s) as 'Aboriginal'. (7) Court of committal gives Department reference number. Sometimes records duration of admission such as 'until things are settled', 'for 9 months' 'until such time as mother can provide a home' or 'indefinite'. (8) Reasons for admission: Sometimes gives reasons and sometimes records parents' maintenance payments. Information about adoption sometimes provided. Very occasionally an indication of 'Aboriginality' is given. (11) Where gone to: sometimes gives names of foster parents or location, or records when a child was returned to parents or to the Welfare Department. Includes information about transfers to other institutions such as Tanderra.</p>
+<p>Quantity: 1 ledger</p>
+<p>The Methodist Church homes were run by the Adelaide Central Methodist Mission, now known as Uniting Communities. Records are held at the Uniting Communities</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00756b.htm">
+<relationEntry localType="Archival Collection">
+Records of Lentara (c. 1905 - 1980s)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01261b.htm">
+<relationEntry localType="Contact Details">
+Uniting Communities - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Register of Admissions to the Methodist Home, Largs Bay', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Register of Admissions to the Methodist Home, Largs Bay</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00598b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000042.htm">
+<relationEntry localType="published">Resource: Finding your own way</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">George, Karen</name>
+<title render="italic">Finding your own way</title>
+<imprint>
+<publisher>Nunkuwarrin Yunti of South Australia Inc.</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://nunku.org.au/resources/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/objects/SD0000135.htm">
+<relationEntry localType="digitalObject">Register of the Methodist Children's Home, Largs Bay 01</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Gary George</repository>
+<unittitle>Register of the Methodist Children's Home, Largs Bay 01</unittitle>
+<abstract>Front cover of the Register of the Methodist Children's Home, Largs Bay held by Uniting Communities</abstract>
+<note label="rights">No copyright restrictions</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

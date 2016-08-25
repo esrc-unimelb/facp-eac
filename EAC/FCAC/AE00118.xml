@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AE00118</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCAC</agencyCode>
+<agencyName>Find &amp; Connect - Australian Capital Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-09-24">2012-09-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Lydia Connell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-12">2016-07-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/act/biogs/AE00118b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Department of the Interior</part>
+<part localType="parent">Australian Government</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1932-01-01">1932</fromDate>
+<toDate standardDate="1972-12-31">1972</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Agency</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Department of the Interior was a Commonwealth Department with the responsibility for the child welfare function in the Australian Capital Territory from 1932 until 1972. In 1972 it became the Department of the Capital Territory, Australian Government.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00053b.htm">
+<relationEntry localType="Glossary Term">
+Government Department
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00041b.htm">
+<relationEntry localType="Organisation">
+Welfare Branch, Australian Capital Territory (c. 1970 - c. 1989)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00101b.htm">
+<relationEntry localType="Organisation">
+Outreach Incorporated (1967 - 1975)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00141b.htm">
+<relationEntry localType="Legislation">
+Maintenance Act 1968 (1969 - 1999)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00100b.htm">
+<relationEntry localType="Organisation">
+Birralee (1957? - 1968)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1957-01-01">1957</fromDate>
+<toDate standardDate="1968-12-31">1968</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Birralee shelter appears to have been jointly administered by the New South Wales Welfare Office in Canberra and the Department of the Interior.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00037b.htm">
+<relationEntry localType="Organisation">
+Department of the Capital Territory, Australian Government (1972 - 1983)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Department of the Interior', in <span style="font-style:italic">Find &amp; Connect - Australian Capital Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Department of the Interior</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australian Capital Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/act/biogs/AE00118b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000123.htm">
+<relationEntry localType="published">Resource Section: Short History of the Department of Interior</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Short History of the Department of Interior</title>
+<imprint>
+<publisher>Archives ACT</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Archives ACT website</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.archives.act.gov.au/publications/research_guides"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000119.htm">
+<relationEntry localType="published">Resource Section: Maintenance Act 1968</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Maintenance Act 1968</title>
+<imprint>
+<date>1968</date>
+</imprint>
+<extptr linktype="simple" href="http://www.legislation.act.gov.au/a/1968-20/default.asp"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000118.htm">
+<relationEntry localType="published">Resource Section: Deserted Wives and Children Ordinance 1941 (Cth)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Deserted Wives and Children Ordinance 1941 (Cth)</title>
+<imprint>
+<date>1941</date>
+</imprint>
+<extptr linktype="simple" href="http://www.legislation.act.gov.au/ord/1941-2/default.asp"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000113.htm">
+<relationEntry localType="published">Report: Department of Disability, Housing and Community Services: development of the Department's records disposal schedule. Stage 1 Preliminary Investigation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Archives ACT</name>
+<title render="italic">Department of Disability, Housing and Community Services: development of the Department's records disposal schedule. Stage 1 Preliminary Investigation</title>
+<imprint>
+<publisher>Archives ACT</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000102.htm">
+<relationEntry localType="published">Resource: Child Welfare Policy Records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"> Archives ACT</name>
+<title render="italic">Child Welfare Policy Records</title>
+<imprint>
+<publisher>ACT Government</publisher>
+<date>2012</date>
+</imprint>
+<extptr linktype="simple" href="http://www.archives.act.gov.au/__data/assets/pdf_file/0006/562551/Child_welfare_policy_records.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

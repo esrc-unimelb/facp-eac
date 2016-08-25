@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00102</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-06-14">2011-06-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-09">2015-03-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00102b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Kiah Hostel, Norman Park</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1978-01-01">c. 1978</fromDate>
+<toDate standardDate="2003-12-31">2003</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Hostel</term>
+</function>
+<function>
+<term>Catholic</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Kiah Hostel was a residential facility for Aboriginal and Torres Strait Islander children in care, which opened in Norman Park in around 1978. It was operated by the Aboriginal and Islanders' Catholic Council. In 2000 it moved to a new location in Wooloowin. The Hostel was defunded in around 2003, while it was under the control of Kummara Assoc. Inc. in West End.</abstract>
+<p>From 2003, the Kiah name continued as a service providing care for Indigenous patients and their escorts from rural and remote communities attending Brisbane hospitals. This service was run by Kummara until November 2004, then it was taken over by Mayem Mudh Association Inc. Kiah moved to 27 Allen Street, Hamilton in January 2005, and the service was operating there in 2013.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1978-01-01">1978</fromDate>
+<toDate standardDate="2000-12-31">2000</toDate>
+</dateRange>
+<placeEntry>Norman Park</placeEntry>
+<event>Address - Kiah Hostel was situated at 156 Agnew Street, Norman Park</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="2000-01-01">2000</fromDate>
+<toDate standardDate="2000-12-31">2000</toDate>
+</dateRange>
+<placeEntry>Wooloowin</placeEntry>
+<event>Location - Kiah Hostel was situated at Wooloowin</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00153b.htm">
+<relationEntry localType="Organisation">
+National Aboriginal and Torres Strait Islander Catholic Council (1989 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00345b.htm">
+<relationEntry localType="Organisation">
+Catholic Family Welfare Bureau (1956 - c. 1998)
+</relationEntry>
+<dateRange>
+<toDate standardDate="1998-12-31">1998</toDate>
+</dateRange>
+<descriptiveNote>
+<p>The Catholic Family Welfare Bureau held some files relating to residents of Kiah Hostel.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00640b.htm">
+<relationEntry localType="Organisation">
+Centacare Brisbane (c. 1998 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Kiah Hostel, Norman Park', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Kiah Hostel, Norman Park</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00102b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000001.htm">
+<relationEntry localType="published">Book: Missing pieces: information to assist former residents of children's institutions to access records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Families</name>
+<title render="italic">Missing pieces: information to assist former residents of children's institutions to access records</title>
+<imprint>
+<publisher>State of Queensland</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

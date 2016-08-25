@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE01099</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2015-01-27">2015-01-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Elizabeth Daniels</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-05-27">2015-05-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE01099b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Infants' Welfare Act 1940</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1940-01-01">1940</fromDate>
+<toDate standardDate="1958-12-31">1958</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Amending Act</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Infants' Welfare Act 1940 also known by its full title "An Act to amend the Infants' Welfare Act 1935'"(Act no.4 &amp; 5 Geo. VI No.79) makes a number of changes to the Infants Welfare Act 1935 (Act no.26 Geo.V No.79). This amendment act was repealed by Statute Law Revision Act 1958 (Act no.36/1958) on 24 July 1958.</abstract>
+<p>The Infants' Welfare Act 1940 (Act no.4&amp;5 Geo. VI No.79) made the following changes to the Infants' Welfare Act 1935 (Act no.26 Geo V. No. 79):</p>
+<list><item> Established the position of Chairman of special magistrate for each district;</item>
+<item>Explicitly stated that probation officers were not subject to the Public Service Act 1923;</item>
+<item>Empowered the chief probation officer to require probation officers to perform duties in the same manner as the court. These duties are set out in section 31 of the legislation and include visiting children before hearings, making inquiries and providing information to the court about a child's living conditions and to investigate the circumstances of any complaint or application made against a child, in particular to find the child's address;</item>
+<item>Totally ban the publication of reports on the proceedings of the children's court;</item>
+<item> Enable parents or guardians who apply for their child to be taken into care to write a legally binding letter to the Director detailing how they plan to support a child in an institution. This letter was to be treated in the same way as a maintenance order handed down from a Judge in a court of law; </item>
+<item>Enable any Justice to act on the oath of a police officer that a child is neglected or uncontrollable as if an officer of the Department had made it. The actions that could be carried out in light of such an oath included the summons of a child to appear before the court or issuing a warrant for the child; </item>
+<item>Empowered police officer of any rank to apprehend a child without a warrant who they deem to be neglected, uncontrollable or if that child is found in a building that acts as a brothel or where opium is smoked; </item>
+<item>Empowered the court to demand a parent or near relative of a child in an institution to demonstrate why they are unable to pay or contribute to the cost of the child's 'care'; and</item>
+<item>Specify what regulations the Governor may make in relation to this legislation.</item></list>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00003b.htm">
+<relationEntry localType="Legislation">
+Infants' Welfare Act 1935 (1935 - 1961)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01038b.htm">
+<relationEntry localType="Concept">
+Tasmanian State Government (1901 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01039b.htm">
+<relationEntry localType="Concept">
+Law in Tasmania (1825 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Infants' Welfare Act 1940', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Infants' Welfare Act 1940</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01099b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00745</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-12-03">2013-12-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00745b.htm</entityId>
+<entityId localType="Tasmanian Archive and Heritage Office Series Number">HSD284</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Patient Files</part>
+<part localType="parent">Lunatic Asylum, Hospital for the Insane, Mental Diseases Hospital, Lachlan Park Hospital, and the Royal Derwent Hospital</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1857-01-01">1857</fromDate>
+<toDate standardDate="1993-12-31">1993</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Patient Files pertain to the Lunatic Asylum, Hospital for the Insane, Mental Diseases Hospital, Lachlan Park Hospital, and the Royal Derwent Hospital between 1857 and 1993.</abstract>
+<h4>Access Conditions</h4>
+<p>Closed E75 years<br />
+E75 means that records in this series that have final entries less than 75 years old are closed to the general public. People wishing to access these records should contact Mental Health Services which is in the Department of Health and Human Services, to obtain permission. Staff at the Tasmanian Archive and Heritage Office may be able to assist you in finding other relevant records.</p>
+<h4>Records</h4>
+<p>Prior to 1890, patients' files only contain admission papers. Occasionally they also include some correspondence.</p>
+<p>Files went with patients when they were transferred between Millbrook Rise Hospital and the other hospitals. This means that these patients only have one file.</p>
+<p>The series is divided into consignments:</p>
+<list><item>Consignment 1 contains files of patients who were admitted after 1890 and had been discharged or died by 1965. Most files contain admission papers and correspondence with relatives and/or the Charitable Grants Department and the later Social Services and Social Welfare Departments. The files do not contain any clinical information. Instead this can be found in case books. These can be found in either series AB365 or series AB479.</item>
+<item>Consignment 2 contains files of patients who died between 1966 and 1993.</item>
+<item>Consignment 3 contains files of patients who were discharged between 1966 and 1993.</item></list>
+<p>Some patients may also have a treatment file in HSD291.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00422b.htm">
+<relationEntry localType="Archival Collection">
+Tasmanian Archive and Heritage Office Records (1965 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00819b.htm">
+<relationEntry localType="Organisation">
+Mental Health Services (1989? - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00433b.htm">
+<relationEntry localType="Glossary Term">
+Series Number
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00428b.htm">
+<relationEntry localType="Glossary Term">
+Access Conditions
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00166b.htm">
+<relationEntry localType="Glossary Term">
+Closed Access Records
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00649b.htm">
+<relationEntry localType="Organisation">
+Mental Diseases Hospital, New Norfolk (1915 - 1937)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00500b.htm">
+<relationEntry localType="Organisation">
+Hospital for the Insane, New Norfolk (1859 - 1915)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00497b.htm">
+<relationEntry localType="Organisation">
+Lunatic Asylum, New Norfolk (1827 - 1859)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00241b.htm">
+<relationEntry localType="Organisation">
+Royal Derwent Hospital (1968 - 2000)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00240b.htm">
+<relationEntry localType="Organisation">
+Lachlan Park Hospital (1937 - 1968)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00432b.htm">
+<relationEntry localType="Glossary Term">
+Archival Series
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00707b.htm">
+<relationEntry localType="Contact Details">
+Tasmanian Archive and Heritage Office - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Patient Files', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Patient Files</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00745b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

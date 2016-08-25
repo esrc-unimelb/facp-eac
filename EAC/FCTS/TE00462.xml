@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00462</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-04-30">2012-04-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-06-12">2014-06-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00462b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Karadi</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1960-01-01">c. 1960</fromDate>
+<toDate standardDate="1980-12-31">1980?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Catholic</term>
+</function>
+<function>
+<term>Maternity Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Karadi opened in Launceston around 1950. It was attached to the Queen Victoria Hospital. Karadi was originally a hostel for the relatives of out of town patients. Later it housed expectant mothers from King and Flinders Islands. The Catholic Welfare Family Bureau used Karadi for single mothers and organised adoptions from there. It closed around 1980.</abstract>
+<p>According to Anne Cunningham, the families of young single mothers would send them to Karadi from southern Tasmania to conceal their pregnancies. There was such a stigma attached to these pregnancies that they were only allowed to leave the premises after dark.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1960-01-01">1960</fromDate>
+<toDate standardDate="1960-12-31">1960</toDate>
+</dateRange>
+<placeEntry>Launceston</placeEntry>
+<event>Location - Karadi was in Launceston</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00685b.htm">
+<relationEntry localType="Organisation">
+Catholic Family Welfare Bureau (1959 - 1977)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00960b.htm">
+<relationEntry localType="Organisation">
+Queen Victoria Maternity Hospital (1897 - 1993)
+</relationEntry>
+<descriptiveNote>
+<p>Karadi was a hostel for the Queen Victoria Maternity Hospital.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00150b.htm">
+<relationEntry localType="Glossary Term">
+Adoption
+</relationEntry>
+<descriptiveNote>
+<p>The staff at Karadi organised adoptions.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Karadi', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Karadi</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00462b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000067.htm">
+<relationEntry localType="published">Report: Adoption and Related Services 1950-1988</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Joint Select Committee, Parliament of Tasmania</name>
+<title render="italic">Adoption and Related Services 1950-1988</title>
+<imprint>
+<date>1999</date>
+</imprint>
+<extptr linktype="simple" href="http://www.parliament.tas.gov.au/Ctee/reports/adopt.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000571.htm">
+<relationEntry localType="published">Report: Background paper for the Minister of Community and Health Services on issues relating to historical adoption practices in Tasmania</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cunningham, Anne</name>
+<title render="italic">Background paper for the Minister of Community and Health Services on issues relating to historical adoption practices in Tasmania</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Department of Community and Health Services</publisher>
+<date>1996</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

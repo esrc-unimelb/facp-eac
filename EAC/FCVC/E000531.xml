@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000531</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-12-02">2009-12-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Nell Musgrove</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-02-20">2015-02-20</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000531b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Children in Koori Society</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<toDate standardDate="1835-12-31">1835</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+</functions>
+<biogHist>
+<abstract>Over the course of at least 1,600 generations the Aboriginal people who are the traditional owners and custodians of the land now known as Victoria developed an intricate social structure which, by consequence of its extensive kinship systems and pervasive philosophy of mutual obligation, produced neither 'orphans' for whom nobody was directly responsible, nor destitute women who could not provide for their children.</abstract>
+<p>Aboriginal people believe that they have been in this land since it was created at the beginning of time. Western scientists believe Aboriginal people arrived in the land now known as Victoria tens of thousands of years ago. Both agree that in 1835 when European people arrived to establish permanent settlements in the area, Aboriginal society was flourishing.</p>
+<p>Traditional Aboriginal society had established social structures which placed a high value on the child and which functioned to serve the benefit of the community as a whole. This meant that children did not become vulnerable because of their parents' poverty as was the case in European society. Aboriginal children were born into kinship networks within which there were many people responsible for their welfare and with whom they shared close familial relationships. Consequently, unlike European society, Koori society did not produce 'orphans' whose interests were not tended to by those around them.</p>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Children in Koori Society', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Children in Koori Society</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000531b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000291.htm">
+<relationEntry localType="published">Journal Article: A Network of Support: Mothering Across the Koorie Community in Victoria, Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Atkinson, Sue; Swain, Shurlee</name>
+<title render="quoted">A Network of Support: Mothering Across the Koorie Community in Victoria, Australia</title>
+<imprint>
+<date>1999</date>
+</imprint>
+<bibseries>
+<title render="italic">Women's History Review</title>
+<num type="volume">8</num>
+<num type="issue">2</num>
+<num type="pages">219-30</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000290.htm">
+<relationEntry localType="published">Book: Aboriginal Victorians: a history since 1800</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Broome, Richard</name>
+<title render="italic">Aboriginal Victorians: a history since 1800</title>
+<imprint>
+<place>Crows Nest</place>
+<publisher>Allen &amp; Unwin</publisher>
+<date>2005</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01121</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-04-11">2012-04-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-04">2016-03-04</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01121b.htm</entityId>
+<entityId localType="State Records Authority of New South Wales Series Number">14630</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>File relating to "Our Children's Home", North Strathfield</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1949-01-01">1949</fromDate>
+<toDate standardDate="1987-12-31">1987</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Society for Providing Homes for Neglected Children was established in October 1887 when Mr K.F. Oliver donated a house and land at Liverpool for use as a home for orphaned or neglected children. The Society was "undenominational, but distinctly Christian in character, it being founded on the principles and teachings of the New Testament" and was to "remove these (neglected) children (without regard to creed or colour) from their surroundings and to train them in the fear of God, and in the principles of obedience, honesty and industry, and thereby, to give them a chance for this life, and for life which is to come".</abstract>
+<h4>Access Conditions</h4>
+<p>Access to these records is restricted. People wishing to access restricted records can either contact their nearest Community Services Centre to apply or they can post the information; an application form must be completed together with proof of identity provided.</p>
+<h4>Records</h4>
+<p>This file contains: reports of alleged neglect and mistreatment of children; correspondence; field officers' reports and periodical reports dealing with care, diets and accommodation of children; reviews of licence; matters regarding the care of children under 7; the death of a child in the home; and the closure of the home and amendments to the constitution of the Society.</p>
+<p>(18/1257.2). 1 bundle.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01638b.htm">
+<relationEntry localType="Archival Collection">
+New South Wales State Archives Collection (1788 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01463b.htm">
+<relationEntry localType="Contact Details">
+Care Leaver Records Access Unit - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00346b.htm">
+<relationEntry localType="Organisation">
+Our Children's Home (1918 - 1982)
+</relationEntry>
+<descriptiveNote>
+<p>This file contains information about children who were at Our Children's Home (Ardill House)</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00344b.htm">
+<relationEntry localType="Organisation">
+Society for Providing Homes for Neglected Children (1887 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00368b.htm">
+<relationEntry localType="Organisation">
+Our Children's Home, Liverpool (1887 - 1936)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'File relating to "Our Children's Home", North Strathfield', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">File relating to "Our Children's Home", North Strathfield</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01121b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

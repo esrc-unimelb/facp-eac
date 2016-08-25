@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00902</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-02-14">2013-02-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-10-24">2014-10-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00902b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>The Rocks</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1950-01-01">1950</fromDate>
+<toDate standardDate="1969-12-31">1969?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Hostel</term>
+</function>
+<function>
+<term>Non-denominational</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>'The Rocks' was a hostel run by the Country Women's Association (CWA) for girls attending Albany High School. It opened in September 1950 with 30 girls from the region. In 1969 control of the CWA Hostels passed to the government.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1950-09-01">September 1950</fromDate>
+<toDate standardDate="1969-12-31">1969?</toDate>
+</dateRange>
+<placeEntry>Albany</placeEntry>
+<event>Address - The Country Women's Association opened a hostel for girls from Albany High School at 'The Rocks', 182 Grey Street West, Albany</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00815b.htm">
+<relationEntry localType="Organisation">
+Country Women's Association of Western Australia (1924 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'The Rocks', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">The Rocks</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00902b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000704.htm">
+<relationEntry localType="published">Newspaper Article: High School Accommodation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">High School Accommodation</title>
+<imprint>
+<date>1950</date>
+</imprint>
+<bibseries>
+<title render="italic">Albany Advertiser</title>
+<num type="pages">2</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article70521674"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000703.htm">
+<relationEntry localType="published">Newspaper Article: The Rocks</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Rocks</title>
+<imprint>
+<date>1950</date>
+</imprint>
+<bibseries>
+<title render="italic">The West Australian</title>
+<num type="pages">5</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article47885775"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000702.htm">
+<relationEntry localType="published">Newspaper Article: Comfort is the Keynote at New Albany Hostel for Girls</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Comfort is the Keynote at New Albany Hostel for Girls</title>
+<imprint>
+<date>1950</date>
+</imprint>
+<bibseries>
+<title render="italic">Albany Advertiser</title>
+<num type="pages">4</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article70521223"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000603.htm">
+<relationEntry localType="published">Resource: Welcome to the website of the Country Women's Association of Western Australia (Inc)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Welcome to the website of the Country Women's Association of Western Australia (Inc)</title>
+<imprint>
+<publisher>Country Womens Association of WA</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.cwaofwa.asn.au"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000270.htm">
+<relationEntry localType="digitalObject">The Rocks</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Western Australia</repository>
+<unittitle>The Rocks</unittitle>
+<unitid>Call No. 4021B/23</unitid>
+<unitdate>1937</unitdate>
+<abstract>This is a digital copy of a photograph of 'The Rocks' which was used by the Country Women's Association as a hostel for girls from the Albany High School from 1950. The photo, which was taken some years before the CWA took over, is from the State Library of Western Australia's collection of online images that were made available by the Historical Records Rescue Consortium Project supported by Lotterywest.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

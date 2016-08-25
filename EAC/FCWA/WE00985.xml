@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00985</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-03-18">2013-03-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-10-31">2014-10-31</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00985b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Gerald Mission</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="also known as"><part>Gerald's Native School</part>
+</nameEntry>
+<nameEntry localType="also known as"><part>Gerald Native Institution</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1851-01-01">1851</fromDate>
+<toDate standardDate="1855-12-31">1855</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government-run</term>
+</function>
+<function>
+<term>Farm School</term>
+</function>
+<function>
+<term>Mission</term>
+</function>
+<function>
+<term>Methodist</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Gerald Mission was established in 1851 when the government granted the Wesleyan Reverend John Smithies land to relocate the Wanneroo Native School to more arable land in York. Aboriginal adults and children from Wanneroo relocated there. In 1854 the government took over the administration, and in 1855 Gerald Mission closed.</abstract>
+<p>The Wanneroo Native School had struggled with sickness and poor farming land, which prompted Governor Fitzgerald to grant more arable land in York. However, illness and deaths persisted there in 1851 and Aboriginal parents removed their children. Abscondings were common as many children ran away to rejoin their families in the Perth and Fremantle areas. In 1854, the government took over the administration of the mission but illnesses and poor economic outcomes resulted in its closure in 1855.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1851-01-01">1851</fromDate>
+<toDate standardDate="1855-12-31">1855</toDate>
+</dateRange>
+<placeEntry>York</placeEntry>
+<event>Location - Gerald Mission was located in York</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00982b.htm">
+<relationEntry localType="Organisation">
+Wanneroo Native School (1844 - 1851)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00980b.htm">
+<relationEntry localType="Organisation">
+Methodist Church (1829 - 1977)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1851-01-01">1851</fromDate>
+<toDate standardDate="1854-12-31">1854</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00603b.htm">
+<relationEntry localType="Organisation">
+Colonial Secretary's Office, Crown Colony of Western Australia (1828 - 1890)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1854-01-01">1854</fromDate>
+<toDate standardDate="1855-12-31">1855</toDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Gerald Mission', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Gerald Mission</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00985b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000204.htm">
+<relationEntry localType="published">Resource: Guide to Institutions Attended by Aboriginal People in Western Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">State Solicitor's Office of Western Australia</name>
+<title render="italic">Guide to Institutions Attended by Aboriginal People in Western Australia</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://web.archive.org/web/20140126131607/http://www.dpc.wa.gov.au/lantu/MediaPublications/Documents/Guide-to-Institutions-attended-by-Aboriginal-people-in-WA-2005.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

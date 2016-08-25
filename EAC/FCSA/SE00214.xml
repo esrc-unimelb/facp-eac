@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE00214</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-02-17">2011-02-17</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-11-17">2015-11-17</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE00214b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Blair Athol Unit</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1982-01-01">1982</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government-run</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Residential Care</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Blair Athol Unit was opened by the government in Blair Athol in 1982 as a Home Care Unit. Home Care Units were located in the private homes of senior residential care workers who agreed to care for a small number of children who had been in State care for a long period, for whom other placements could not be found. The closing date of the Unit is unknown.</abstract>
+<p>The Blair Athol Unit was opened by the Department for Community Welfare at 1 Deakin Street, Blair Athol in 1982. It operated as a Home Care Unit and initially took in four children from Colton Cottage at Thorngate when it closed that year.</p>
+<p>In Home Care Units a small number of children were cared for in the homes of senior residential care workers. The 1982 Annual Report of the Department for Community Welfare described Home Care Units as accommodation for young people who had been in care over a long period of time and could not easily live in one of the assessment or therapeutic unit which had been established during the 1970s-1980s. Children, who could not return home, or be placed in foster care or a non-government home without serious emotional consequences, might be placed in a Home Care Unit.</p>
+<p>The closing date of the Blair Athol Unit is unknown.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1982-01-01">c. 1982</fromDate>
+<toDate standardDate="1982-12-31">c. 1982</toDate>
+</dateRange>
+<placeEntry>Blair Athol</placeEntry>
+<event>Address - Blair Athol Unit was situated at 1 Deakin Street, Blair Athol</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00073b.htm">
+<relationEntry localType="Organisation">
+Department for Community Welfare, South Australian Government (1972 - 1990)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01219b.htm">
+<relationEntry localType="Glossary Term">
+Home Care Unit (c. 1980 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00094b.htm">
+<relationEntry localType="Organisation">
+Colton Cottage, Thorngate (1965 - 1982)
+</relationEntry>
+<descriptiveNote>
+<p>When Colton Cottage Thorngate closed in 1982 four children from the Cottage were moved to the Blair Athol Unit.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Blair Athol Unit', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Blair Athol Unit</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00214b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000042.htm">
+<relationEntry localType="published">Resource: Finding your own way</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">George, Karen</name>
+<title render="italic">Finding your own way</title>
+<imprint>
+<publisher>Nunkuwarrin Yunti of South Australia Inc.</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://nunku.org.au/resources/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

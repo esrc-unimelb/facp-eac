@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00272</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-11-21">2011-11-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-05">2015-03-05</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00272b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Devonfield Hostel</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Also known as"><part>Devonfield Retarded Children's Home</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1965-01-01">c. 1965</fromDate>
+<toDate standardDate="2000-12-31">2000?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Disability Institution</term>
+</function>
+<function>
+<term>Children's Home</term>
+</function>
+<function>
+<term>Reception Centre</term>
+</function>
+<function>
+<term>School</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Devonfield Hostel, run by the Retarded Children's Welfare Association, opened in Devonport in 1965. It was a combined Hostel and school for children with intellectual disabilities. In 2013, Devonfield continues to provide training but is no longer residential.</abstract>
+<p>The Social Welfare Department placed wards of state with intellectual disabilities at Devonfield.</p>
+<p>Margaret Reynolds, the former senator, taught at Devonfield in the early 1960s. She described it as 'a low-set L-shaped building with a small residential wing'. There were six children from the country with intellectual disabilities living in the hostel and attending school and 12 day students.</p>
+<p>One of Reynolds' roles was to increase enrolment and promote the idea that children with intellectual disabilities should go to school. She remembers that many of the children had not been properly diagnosed and that they could have been integrated into the general school system but that this was not official policy.</p>
+<p>Reynolds sought to make the lives of the children more normal so she took them on excursions to the fire station, the beach, into town, and to the local library.</p>
+<p>In 1962, she organised a five day holiday camp for the children from Devonfield and a few from the local primary school. They played games, went on walks, sang campfire songs, and helped with the chores.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1965-01-01">c. 1965</fromDate>
+</dateRange>
+<placeEntry>Devonport</placeEntry>
+<event>Location - Devonfield Hostel was in Middle Road, Devonport</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00330b.htm">
+<relationEntry localType="Organisation">
+Retarded Children's Welfare Association (1952 - 1982)
+</relationEntry>
+<descriptiveNote>
+<p>The Retarded Children's Welfare Association ran Devonfield Hostel.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00774b.htm">
+<relationEntry localType="Archival Collection">
+Devonfield Enterprises Records (1965 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00258b.htm">
+<relationEntry localType="Glossary Term">
+Hostel (c. 1940 - c. 1995)
+</relationEntry>
+<descriptiveNote>
+<p>Devonfield was a combined hostel and school for children with intellectual disabilities.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00775b.htm">
+<relationEntry localType="Organisation">
+Devonfield Enterprises (2000? - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Devonfield Hostel', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Devonfield Hostel</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00272b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000494.htm">
+<relationEntry localType="published">Book: Why are they in children's homes : report of the ACOSS children's home intake study</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hanson, Dallas</name>
+<title render="italic">Why are they in children's homes : report of the ACOSS children's home intake study</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Government Publishing Service</publisher>
+<date>1979</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000225.htm">
+<relationEntry localType="published">Book: Living Politics</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Reynolds. Margaret</name>
+<title render="italic">Living Politics</title>
+<imprint>
+<place>St Lucia, Qld</place>
+<publisher>University of Queensland Press</publisher>
+<date>2007</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000160.htm">
+<relationEntry localType="published">Report: Department of Social Welfare: report for the year ended 30 June 1970</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Department of Social Welfare: report for the year ended 30 June 1970</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Department of Social Welfare</publisher>
+<date>1970</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

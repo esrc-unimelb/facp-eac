@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01248</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-02-28">2013-02-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-19">2015-03-19</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01248b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Garth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Garth Hostel</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1924-01-01">1924</fromDate>
+<toDate standardDate="1935-12-31">1935?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Children's Home</term>
+</function>
+<function>
+<term>Government-run</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Hospital</term>
+</function>
+<function>
+<term>Babies' Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Garth was established by the Child Welfare Department in Willoughby in 1924. It was a home for the segregation and treatment of children, and mothers and babies, who were suffering from venereal disease. Not all children in the home carried venereal disease, as it also housed children afflicted with polio (infantile paralysis). A commission of inquiry recommended it be closed in 1935.</abstract>
+<p>In 1934 a commission of inquiry led by JE McCulloch condemned the home as it was located too far from treatment centres, had too few beds, and failed to provide effective treatment or even maintain basic standards of hygiene. Children who had actually recovered from disease remained in the home for up to seven years, instead of being boarded out, and the home was not inspected for the entire four years from 1929 to 1933. McCulloch recommended the home be closed and children be transferred to specialist institutions, such as the venereal diseases clinic at Parramatta Girls Home, Newington Hospital or Rachel Forster Hospital.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1924-01-01">1924</fromDate>
+<toDate standardDate="1935-12-31">1935?</toDate>
+</dateRange>
+<placeEntry>Willoughby</placeEntry>
+<event>Location - Garth was situated at Willoughby</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00039b.htm">
+<relationEntry localType="Organisation">
+Child Welfare Department, State Government of New South Wales (1923 - 1970)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Garth', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Garth</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01248b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000407.htm">
+<relationEntry localType="published">Report: Child Welfare Department : report on the general organisation, control and administration of, with special reference to state welfare institutions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">McCulloch, J.E.</name>
+<title render="italic">Child Welfare Department : report on the general organisation, control and administration of, with special reference to state welfare institutions</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Alfred James Kent, Government Printer</publisher>
+<date>1934</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

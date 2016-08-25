@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00647</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-03-25">2013-03-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-14">2015-08-14</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00647b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Social Welfare Inquiry into Weeroona Girls' Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1978-01-01">1978</fromDate>
+<toDate standardDate="1978-12-31">1978</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Social Welfare Inquiry into Weeroona Girls' Home was carried out by Dennis Daniels, the Director of the Social Welfare Department. It was into allegations made by two girls at Weeroona Girls' Training Centre that they had been hit by the Principal and the Housemistress, a married couple. The Inquiry resulted in new safeguards to protect the girls and staff at Weeroona and a letter of reprimand to the Housemistress.</abstract>
+<p>In 1977, two girls absconded with some stolen items from the Principal's private home. Five months later, they alleged that they had been hit by the Principal and Housemistress in the separate interviews that followed their return to Weeroona. After that, they alleged, the Principal continued to bully them. The Housemistress admitted to hitting the girls during the interviews but Daniels did not find enough evidence to support the other allegations. Even so, he was concerned that the low staff to resident ratio made both vulnerable. This led him to create a number of safeguards. They were:</p>
+<list><item>to change the Standing Orders so that physical restraints could not be used unless there was no other option. Corporal punishment, which included slaps with an open or closed hand, was 'forbidden'.</item>
+<item>to increase the number of visits by child welfare officers.</item>
+<item>to hold monthly meetings between the home and child welfare officers who had the families of the residents in their caseload.</item>
+<item>to hold a weekly meeting between the staff and Principal at Weerona.</item>
+<item>to allow institutional staff to attend Departmental training programs.</item></list>
+<p>Daniels also sent a letter of reprimand to the Housemistress and cautioned the Principal against taking the girls to his private home and encouraging them to spend time with the couple's baby.</p>
+<p>Daniels forwarded the report to the Chairman of the Public Service Board on 8 May 1978. In 2013, it is on open access in the Tasmanian Archive and Heritage Office. It names the girls concerned.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00038b.htm">
+<relationEntry localType="Organisation">
+Weeroona Girls' Training Centre (1959 - 1979)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00648b.htm">
+<relationEntry localType="Archival Item">
+Social Welfare Weeroona Inquiry SX19 (1978)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Social Welfare Inquiry into Weeroona Girls' Home', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Social Welfare Inquiry into Weeroona Girls' Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00647b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000764.htm">
+<relationEntry localType="published">Report: History of Australian inquiries reviewing institutions providing care for children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Swain, Shurlee</name>
+<title render="italic">History of Australian inquiries reviewing institutions providing care for children</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Royal Commission into Institutional Responses to Child Sexual Abuse</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.childabuseroyalcommission.gov.au/documents/published-research/historical-perspectives-report-3-history-of-inquir.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000539</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-12-22">2009-12-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-21">2016-03-21</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000539b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Cara Inc.</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1979-01-01">1979</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Non-denominational</term>
+</function>
+<function>
+<term>Maternity Home</term>
+</function>
+<function>
+<term>Community Service Organisation</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Cara Inc. was established in 1979 as a not for profit charity and is run by a board of management. It operates four specialist residential homes and provides support and advocacy for young women aged between 12 and 17, some of whom are pregnant or have a baby. Young women are referred to Cara Inc. by the Department of Human Services.</abstract>
+<p>Cara Inc. aims to provide an alternative form of accommodation and a safe environment with support and advocacy for young women aged between 12 and 17. It offers therapeutic programs to assist young women to develop their parenting and life skills. It operates four specialist residential homes that are purpose built and designed to meet the specific needs of high-risk adolescents. Cara Inc. The Department of Human Services, helps fund the service.</p>
+<p>Young women may have come from backgrounds of family breakdown and/or abuse and were removed from their home for their own protection. Formerly, these young women would have been unsuitably placed with offenders in the remand section of Winlaton Youth Training Centre</p>
+<p>Young women have often been absent from school for some time and are encouraged to resume their education. Wherever possible, Cara works towards re-uniting the girls with their families. Where this is not possible, the young women are assisted with their move to alternative accommodation, such as a Lead Tenant program.</p>
+<p>A program within the Eastern Region provides accommodation, care and support to pregnant and parenting young women aged from 13 to 17 who are unable to live at home. These young women enter a residential program during their pregnancy and remain for up to 12 months post birth with the support of an expert team. The residential program is then complimented by a lead tenant service that is designed to support these young mothers and their babies after leaving the staffed residential facility.</p>
+<p>After leaving Cara the young women join an Outreach Program, where an Adolescent Support Worker provides assistance with peer support, education and developing life skills.</p>
+<p>The team of specialist staff includes a social worker, a family therapist, youth workers, specialist support, a Chief Executive Officer and administrative staff. Services include:</p>
+<p>Case management / planning<br />
+Family and individual counselling, conflict resolution<br />
+Budgeting, cooking<br />
+Camps, recreation<br />
+Education and life skills programs</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="2009-01-01">2009</fromDate>
+<toDate standardDate="2009-12-31">2009</toDate>
+</dateRange>
+<placeEntry>Glen Waverley</placeEntry>
+<event>Location - Cara Inc was located in Glen Waverley</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Cara Inc.', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Cara Inc.</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000539b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
+<relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James Jenkinson Consulting</name>
+<title render="italic">Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</title>
+<imprint>
+<publisher>Unpublished</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE00166</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-02-16">2011-02-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Ann McCarthy</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-11-17">2015-11-17</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE00166b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>SA Protestant Federation</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1920-01-01">c. 1920</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Protestant</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The SA Protestant Federation was established in South Australia around 1920. The Protestant Federation had many branches and divisions around Australia. Representatives from the SA Protestant Federation formed part of the board of management which ran Morialta Protestant Children's Home between 1924 and 1974.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01235b.htm">
+<relationEntry localType="Organisation">
+Morialta Children's Homes Incorporated (1972 - 1974)
+</relationEntry>
+<descriptiveNote>
+<p>Representatives of the SA Protestant Federation formed part of the Board of Management which ran Morialta Children's Homes Incorporated.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01236b.htm">
+<relationEntry localType="Organisation">
+Toorak Gardens Boys' Hostel (1967 - 1972)
+</relationEntry>
+<descriptiveNote>
+<p>Representatives of the SA Protestant Federation formed part of the Board of Management of Morialta Protestant Children's Home which ran Toorak Gardens Boys' Home.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01158b.htm">
+<relationEntry localType="Organisation">
+Morialta Protestant Children's Home, Board of Management (1924 - 1974)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1924-01-01">1924</fromDate>
+<toDate standardDate="1974-12-31">1974</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Representatives from the SA Protestant Federation formed part of the board of management which ran Morialta Protestant Children's Home, 1924-1974.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00162b.htm">
+<relationEntry localType="Organisation">
+Morialta Protestant Children's Home (1924 - 1972)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1924-01-01">1924</fromDate>
+<toDate standardDate="1974-12-31">1974</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Representatives of the SA Protestant Federation formed part of the Board of Management of Morialta Protestant Children's Home.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'SA Protestant Federation', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">SA Protestant Federation</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00166b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000437.htm">
+<relationEntry localType="published">Resource Section: People and Politics: The Australian Catholic Tradition</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Campion, Edmund</name>
+<title render="quoted">People and Politics: The Australian Catholic Tradition</title>
+<imprint>
+<publisher>Uniya Jesuit Social Justice Centre</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Discussion Paper No. 6: Australian Politics, Catholic Perspectives</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.uniya.org/publications/pdfs/politics.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000436.htm">
+<relationEntry localType="published">Newspaper Article: S.A. Protestant Federation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">S.A. Protestant Federation</title>
+<imprint>
+<date>1920</date>
+</imprint>
+<bibseries>
+<title render="italic">The Register</title>
+<num type="pages">5</num>
+</bibseries>
+<extptr linktype="simple" href="http://trove.nla.gov.au/ndp/del/article/65020307"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000042.htm">
+<relationEntry localType="published">Resource: Finding your own way</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">George, Karen</name>
+<title render="italic">Finding your own way</title>
+<imprint>
+<publisher>Nunkuwarrin Yunti of South Australia Inc.</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://nunku.org.au/resources/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

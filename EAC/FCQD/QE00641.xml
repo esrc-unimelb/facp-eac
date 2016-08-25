@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00641</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-08-25">2013-08-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-21">2015-10-21</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00641b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Ipswich Special Hospital</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1964-01-01">1964</fromDate>
+<toDate standardDate="1968-12-31">1968</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government-run</term>
+</function>
+<function>
+<term>Disability Institution</term>
+</function>
+<function>
+<term>Hospital</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Ipswich Special Hospital was previously known as the Ipswich Mental Hospital. In 1968 the name changed to the Challinor Centre.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1964-01-01">1964</fromDate>
+<toDate standardDate="1968-12-31">1968</toDate>
+</dateRange>
+<placeEntry>Ipswich</placeEntry>
+<event>Location - The Ipswich Special Hospital was situated at Salisbury Road, Ipswich</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00613b.htm">
+<relationEntry localType="Organisation">
+Ipswich Mental Hospital (1938 - 1964)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00615b.htm">
+<relationEntry localType="Organisation">
+Health Department (1963 - 2012)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1964-01-01">1964</fromDate>
+<toDate standardDate="1968-12-31">1968</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00646b.htm">
+<relationEntry localType="Archival Series">
+Register of Discharges, Removals and Deaths (1885 - 1998)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00645b.htm">
+<relationEntry localType="Archival Series">
+Registers of Patients and Admission Books (1861 - 1994)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00642b.htm">
+<relationEntry localType="Organisation">
+Challinor Centre (1968 - 1998)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Ipswich Special Hospital', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Ipswich Special Hospital</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00641b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000674.htm">
+<relationEntry localType="published">Book Section: From asylum to college campus: memory and remembrance in transinstitutionalisation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">From asylum to college campus: memory and remembrance in transinstitutionalisation</title>
+<imprint>
+<publisher>Ashgate Publishing</publisher>
+<date>2015</date>
+</imprint>
+<bibseries>
+<title render="italic">Afterlives of the Psychiatric Asylum: recycling of concepts, sites and memories</title>
+<name type="author">Moon, Graham, Kearns, Robin and Joseph, Alun</name>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000092.htm">
+<relationEntry localType="published">Site Exhibition: UQ Ipswich Campus Progression of an Institution</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">University of Queensland</name>
+<title render="italic">UQ Ipswich Campus Progression of an Institution</title>
+<bibseries>
+<title render="italic">Ipswich Library Online Exhibition</title>
+</bibseries>
+<extptr linktype="simple" href="http://pandora.nla.gov.au/pan/149288/20141112-1528/www.library.uq.edu.au/ipswich/uqihistory/index.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000350.htm">
+<relationEntry localType="published">Book: Challinor Centre : the end of the line : a history of the institution also known as Sandy Gallop</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">McRobert, Elizabeth</name>
+<title render="italic">Challinor Centre : the end of the line : a history of the institution also known as Sandy Gallop</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>Department of Families, Youth &amp; Community Care</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

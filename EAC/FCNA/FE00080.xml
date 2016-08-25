@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>FE00080</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNA</agencyCode>
+<agencyName>Find &amp; Connect - Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-10-28">2011-10-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-05">2016-05-05</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/australia/biogs/FE00080b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1995-01-01">1995</fromDate>
+<toDate standardDate="1997-12-31">1997</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families was established by the Federal Attorney-General in 1995. It was conducted by the Human Rights and Equal Opportunity Commission (HREOC). In April 1997, the Commission handed down the report, <span style="font-style:italic">Bringing them Home:
+Report of the National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</span> containing 54 recommendations.</abstract>
+<p>The basic terms of reference for the Commission were to inquire into and report on the following matters:</p>
+<p>a) what were the laws, policies and<br />
+practices that resulted in the removal of<br />
+children in the past, and what effect did they<br />
+have?<br />
+b) were the (then) current laws and practices (related to services available) adequate enough to help people whom had been affected by removal in the past?<br />
+c) what factors were important to consider<br />
+when thinking about compensation for people who had been removed?<br />
+d) whether the (then) current laws and policies around removal needed to be changed.</p>
+<p>In April 1997, the Commission handed down the report, <span style="font-style:italic">Bringing them Home:<br />
+Report of the National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</span> containing 54 recommendations.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00083b.htm">
+<relationEntry localType="Event">
+Australian Parliament Apology to the Stolen Generations (13 February 2008)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families', in <span style="font-style:italic">Find &amp; Connect - Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00080b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/bib/FP0000009.htm">
+<relationEntry localType="published">Report: Bringing Them Home: Report of the National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from their Families</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Human Rights and Equal Opportunity Commission</name>
+<title render="italic">Bringing Them Home: Report of the National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from their Families</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

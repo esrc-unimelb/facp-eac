@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000230</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-04-21">2009-04-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000230b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Regent House Hostel for Girls</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Presbyterian Girls' Hostel</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1966-01-01">1966?</fromDate>
+<toDate standardDate="1977-12-31">1977</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Hostel</term>
+</function>
+<function>
+<term>Protestant</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Presbyterian</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Regent House Hostel for Girls was run by the Presbyterian Church, as a 'sister' project to the Arthur Harrison Boys' Home in Hawthorn. The hostel was located in Regent Street, Elsternwick. It closed in 1977 with staff transferring to Harrison.</abstract>
+<p>In October 1957, the 'Presbyterian Girls' Hostel' was declared an approved juvenile hostel under the Children's Welfare Act 1954.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1966-01-01">1966?</fromDate>
+<toDate standardDate="1977-12-31">1977</toDate>
+</dateRange>
+<placeEntry>Elsternwick</placeEntry>
+<event>Location - Regent House Hostel was located in Regent Street, Elsterwick</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000600b.htm">
+<relationEntry localType="Organisation">
+Presbyterian Girls' Home (1906? - c. 1966)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000231b.htm">
+<relationEntry localType="Organisation">
+Presbyterian Church of Victoria (c. 1838 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000323b.htm">
+<relationEntry localType="Glossary Term">
+Hostel
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000229b.htm">
+<relationEntry localType="Organisation">
+Arthur Harrison Boys' Home (1960 - 1977)
+</relationEntry>
+<descriptiveNote>
+<p>Regent House was a 'sister' program to Arthur Harrison Boys' Home</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Regent House Hostel for Girls', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Regent House Hostel for Girls</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000230b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000751.htm">
+<relationEntry localType="published">Book: The little mongrel - free to a good home</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Fawdry, Merlene</name>
+<title render="italic">The little mongrel - free to a good home</title>
+<edition>2011</edition>
+<imprint>
+<publisher>Fixwrite</publisher>
+<date>2007</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

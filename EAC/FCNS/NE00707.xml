@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE00707</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-08-10">2011-08-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Melissa Downing</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00707b.htm</entityId>
+<entityId localType="State Library of New South Wales - Manuscripts &amp; Pictures Call Number">*D 561-*D 582</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Index To Admissions And Discharges</part>
+<part localType="parent">Benevolent Society of New South Wales</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1852-01-01">1852</fromDate>
+<toDate standardDate="1913-12-31">1913</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Index To Admissions And Discharges record the name, age, religion, date of admission and discharge reason (e.g. to boarding out officer, to family, to another institution, to billet, with permission, absconded, expelled or deceased).</abstract>
+<h4>Access Conditions</h4>
+<p>These records are restricted and written permission from the Benevolent Society must be obtained. At the time of application proof of ID and/or proof of relationship to the person in the records must be provided. For preservation purposes you may only be able to access a copy of the original record. Contact the State Library of New South Wales for assistance in applying for access to the collection.</p>
+<h4>Records</h4>
+<p>The volumes index admissions and discharges at:</p>
+<list><item>Sydney Benevolent Asylum (Jan 1852-May 1904)</item>
+<item>Liverpool Asylum (1852-1862)</item>
+<item>Hospital for Women, Paddington (Oct 1901-May 1903)</item>
+<item>and provides a general index (Mar 1904-Aug 1913)</item></list>
+<p>The series is incomplete and there are no records between May 1865 and February 1875. The records are arranged alphabetically by date of admission and there are 12 volumes.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01379b.htm">
+<relationEntry localType="Archival Collection">
+Benevolent Society of New South Wales Collection, 1813-1996 (1813 - 1996)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01429b.htm">
+<relationEntry localType="Contact Details">
+State Library of New South Wales - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Index To Admissions And Discharges', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Index To Admissions And Discharges</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00707b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000502.htm">
+<relationEntry localType="published">Book: A Very Present Help: Caring for Australians Since 1813</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rathbone, Ron</name>
+<title render="italic">A Very Present Help: Caring for Australians Since 1813</title>
+<imprint>
+<place>Sydney</place>
+<publisher>State Library of New South Wales Press</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000501.htm">
+<relationEntry localType="published">Resource Section: Charity and Justice: The early days of the Benevolent Society in Sydney</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bluett, Ros</name>
+<title render="quoted">Charity and Justice: The early days of the Benevolent Society in Sydney</title>
+<imprint>
+<publisher>ABC Radio National Hindsight</publisher>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="http://www.abc.net.au/radionational/programs/hindsight/the-benevolent/4552918"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000001.htm">
+<relationEntry localType="published">Resource: Connecting Kin: Guide to Records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Thinee, Kristy and Bradford, Tracy</name>
+<title render="italic">Connecting Kin: Guide to Records</title>
+<imprint>
+<place>Sydney, New South Wales</place>
+<publisher>New South Wales Department of Community Services</publisher>
+<date>1998</date>
+</imprint>
+<extptr linktype="simple" href="http://www.community.nsw.gov.au/__data/assets/pdf_file/0008/319256/connectkin_guide.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

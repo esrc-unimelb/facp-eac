@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE00131</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-03-07">2011-03-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Melissa Downing</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-12-18">2015-12-18</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00131b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Eddy's Place</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="also known as"><part>Eddy's Place Supported Accommodation Unit</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1989-01-01">1989</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Catholic</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Eddy's Place Supported Accommodation Unit is located in Wollongong and was established in 1989 to provide supported residential care for twelve to eighteen year olds. From 1989 until 2001 Eddy's Place was run by the Christian Brothers and managed by Eddy's Adolescent and Support Services. From 2001 until 2009 it was run by Edmund Rice Community Services and since 2009 it has been run by MacKillop Family Services.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1989-01-01">1989</fromDate>
+<toDate standardDate="1989-12-31">1989</toDate>
+</dateRange>
+<placeEntry>Wollongong</placeEntry>
+<event>Location - Eddy's Place was situated in Wollongong</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00492b.htm">
+<relationEntry localType="Organisation">
+Christian Brothers (1802 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1989-01-01">1989</fromDate>
+<toDate standardDate="2001-12-31">2001</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01656b.htm">
+<relationEntry localType="Organisation">
+Edmund Rice Community Services (2001? - 2009)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2001-01-01">2001</fromDate>
+<toDate standardDate="2009-12-31">2009</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01654b.htm">
+<relationEntry localType="Organisation">
+MacKillop Family Services (1997 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2009-01-01">2009</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00580b.htm">
+<relationEntry localType="Archival Collection">
+Records of Eddy's Place (1989 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00130b.htm">
+<relationEntry localType="Organisation">
+Eddy's Adolescent and Support Services (1989 - 2001?)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1989-01-01">1989</fromDate>
+<toDate standardDate="2001-12-31">2001</toDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Eddy's Place', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Eddy's Place</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00131b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000970.htm">
+<relationEntry localType="published">Resource Section: Transition of NSW Services - MacKillop Family Services</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gerard Jones</name>
+<title render="quoted">Transition of NSW Services - MacKillop Family Services</title>
+<imprint>
+<publisher>Catholic Social Services Victoria</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.css.org.au/Portals/51/PathwaystoPartnership23July2014GerardJones.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000969.htm">
+<relationEntry localType="published">Newspaper Article: Christian Brothers work to help 'vulnerable young'</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Christian Brothers work to help 'vulnerable young'</title>
+<imprint>
+<publisher>The Catholic Weekly - Sydney</publisher>
+<date>2003</date>
+</imprint>
+<bibseries>
+<title render="italic">The Catholic Weekly</title>
+</bibseries>
+<extptr linktype="simple" href="http://web.archive.org/web/20130516125517/http://www.catholicweekly.com.au/03/oct/5/17.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000968.htm">
+<relationEntry localType="published">Report: MacKillop Family Services Annual Report 2009-2010</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">MacKillop Family Services</name>
+<title render="italic">MacKillop Family Services Annual Report 2009-2010</title>
+<imprint>
+<publisher>MacKillop Family Services</publisher>
+<date>2010</date>
+</imprint>
+<extptr linktype="simple" href="http://www.mackillop.org.au/Assets/139/1/MacKillop_AnnualReport_2009-10.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000001.htm">
+<relationEntry localType="published">Resource: Connecting Kin: Guide to Records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Thinee, Kristy and Bradford, Tracy</name>
+<title render="italic">Connecting Kin: Guide to Records</title>
+<imprint>
+<place>Sydney, New South Wales</place>
+<publisher>New South Wales Department of Community Services</publisher>
+<date>1998</date>
+</imprint>
+<extptr linktype="simple" href="http://www.community.nsw.gov.au/__data/assets/pdf_file/0008/319256/connectkin_guide.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

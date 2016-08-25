@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000750</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Item</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-11-01">2011-11-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000750b.htm</entityId>
+<entityId localType="National Archives of Australia Reference Number">A445, 133/2/106</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Dhurringile Farm School for Migrant Children. Part 2</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1950-01-01">1950</fromDate>
+<toDate standardDate="1953-12-31">1953</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>'Dhurringile Farm School for Migrant Boys. Part 2' (A445, 133/2/106) is the title of the second part of a correspondence file held by the National Archives of Australia. Most of the correspondence in this file concerns the effort to recruit child and youth migrants for the Presbyterian homes, with limited success. These records are digitised and available online.</abstract>
+<h4>Access Conditions</h4>
+<p>Open access.<br />
+The first folio lists the boys who sailed on the MV Cheshire from London for Dhurringile and requests the equipment allowance for each. Correspondents include Rev. L Cameron (Chair of the Church of Scotland Committee on Emigration), Rev. A Bell, Cyril Bavin, the Overseas League, and Australia House reporting to the Commonwealth Government. There is also a sprinkling of newspaper cuttings around the arrival of children and the official opening of Dhurringile, 31 July 1951, and a copy of the pamphlet 'His Future', concerned with Dhurringile [taken from the Research Guide: 'Good British stock: child and youth migration to Australia'].</p>
+<p>NOTE: There is a digital copy of these records available on the National Archives of Australia website.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000747b.htm">
+<relationEntry localType="Archival Series">
+Correspondence files, multiple number series (policy matters) (1922 - 1968)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000167b.htm">
+<relationEntry localType="Organisation">
+Dhurringile Rural Training Farm (1951 - 1964)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000853b.htm">
+<relationEntry localType="Contact Details">
+National Archives of Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Dhurringile Farm School for Migrant Children. Part 2', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Dhurringile Farm School for Migrant Children. Part 2</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000750b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

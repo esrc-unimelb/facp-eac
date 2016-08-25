@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AE00067</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCAC</agencyCode>
+<agencyName>Find &amp; Connect - Australian Capital Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-10-28">2011-10-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Lydia Connell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-04-08">2015-04-08</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/act/biogs/AE00067b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Juvenile Justice Centre</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1990-01-01">1990s</fromDate>
+<toDate standardDate="1990-12-31">1990s</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Type of 'care'</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Juvenile justice centre is a term adopted in the 1990s to describe institutions providing custodial accommodation for remanded or sentenced young people.</abstract>
+<p>In the case of the ACT the <span style="font-style:italic">Children's Services Ordinance 1986</span> took a significant step in separating 'children in need of care' from 'juvenile offenders.'</p>
+<p>'Existing antiquated procedures which result in children in need of care being charged with a criminal offence are abolished.(taken from the <span style="font-style:italic">Children's Services Ordinance 1986 Explanatory Memorandum</span>, www.legislation.act.gov.au) '</p>
+<p>This change also meant that approaches and attitudes towards 'children in need of care' began to evolve separately to those applied to 'juvenile offenders' despite the fact that they were often the same children and young people passing between the two systems.</p>
+<p>An example of this division can be found in the<span style="font-style:italic"> Children and Young People ACT 1999</span> which applies the Aboriginal Child Placement Principle but does not apply the principle to the 'disposition of young offenders.'</p>
+<p>The Bimberi Youth Justice Centre, the ACT's juvenile justice facility, was opened in 2008 to replace Quamby Youth Detention Centre.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00078b.htm">
+<relationEntry localType="Legislation">
+Children and Young People Act 2008 (2008 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00015b.htm">
+<relationEntry localType="Legislation">
+Children's Services Act 1986 (1987 - 2000)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00025b.htm">
+<relationEntry localType="Legislation">
+Children and Young People Act 1999 (1999 - 2009)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1962-01-01">1962</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00017b.htm">
+<relationEntry localType="Organisation">
+Quamby Youth Detention Centre (1962 - 2008)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1962-01-01">1962</fromDate>
+<toDate standardDate="2008-12-31">2008</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00029b.htm">
+<relationEntry localType="Organisation">
+Bimberi Youth Justice Centre (2008 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2008-01-01">2008</fromDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Juvenile Justice Centre', in <span style="font-style:italic">Find &amp; Connect - Australian Capital Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Juvenile Justice Centre</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australian Capital Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/act/biogs/AE00067b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000294</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-05-08">2009-05-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000294b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Central Dorcas Society</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Central Dorcas Association Help and Rescue Society</part>
+</nameEntry>
+<nameEntry localType=""><part>Methodist Help and Rescue Mission</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1888-01-01">1888</fromDate>
+<toDate standardDate="1891-12-31">1891</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Methodist</term>
+</function>
+<function>
+<term>Church Agency</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Protestant</term>
+</function>
+<function>
+<term>City Mission</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Central Dorcas Society was a Wesleyan organisation established at a meeting of over 100 women in 1888. The aims of the Society were 'to help the poor and look after waifs'. After a name change to the Central Dorcas Association Help and Rescue Society, in 1891 the Society became known as the Wesleyan Church Neglected Children's Aid Society.</abstract>
+<p>Local Dorcas Societies operated within Wesleyan congregations in Melbourne during the 1880s to provide charity workers with money, clothing and food.</p>
+<p>In August 1888, the Central Dorcas Society opened the Temporary House for Destitute Children in Carlton.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000293b.htm">
+<relationEntry localType="Organisation">
+Home Mission Society of Victoria (c. 1871 - )
+</relationEntry>
+<descriptiveNote>
+<p>A committee of ladies from the Central Dorcas Society ran Livingstone House, in Carlton, under the auspices of the Home Mission Society.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000067b.htm">
+<relationEntry localType="Organisation">
+Livingstone House (1888 - 1905?)
+</relationEntry>
+<descriptiveNote>
+<p>A committee of ladies from the Central Dorcas Society ran Livingstone House, in Carlton.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000114b.htm">
+<relationEntry localType="Glossary Term">
+Child Rescue (c. 1880 - c. 1910)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000573b.htm">
+<relationEntry localType="Organisation">
+Wesleyan Church Neglected Children's Aid Society (1891 - ?)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Central Dorcas Society', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Central Dorcas Society</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000294b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000016.htm">
+<relationEntry localType="published">Book: All God's Children: a centenary history of the Methodist Homes for Children and the Orana Peace Memorial Homes</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Howe, Renate; Swain, Shurlee</name>
+<title render="italic">All God's Children: a centenary history of the Methodist Homes for Children and the Orana Peace Memorial Homes</title>
+<imprint>
+<place>Kambah, ACT</place>
+<publisher>Acorn Press</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

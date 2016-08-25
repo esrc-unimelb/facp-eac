@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00155</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-10-19">2011-10-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-09">2015-10-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00155b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Baby Farmer</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1867-01-01">1867</fromDate>
+<toDate standardDate="1930-12-31">c. 1930</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+</functions>
+<biogHist>
+<abstract>A baby farmer boarded infants in her own home for a fee.</abstract>
+<p>In order to make a living, many single mothers placed their infants with baby farmers. If the baby farmer could not breast feed, she gave the infant cow's milk. Many infants died through inadequate nutrition and poor hygiene. Although baby farmers received bad publicity, most of them were probably doing their best in difficult circumstances.</p>
+<p>The term, baby farmer first appeared in the British press in 1867 and in Australia by the end of that year. In Tasmania, a media scare concerning baby farming in 1905 gave rise to the <span style="font-style:italic">Infant Life Protection Act</span> of 1907 by which Police Department nurses could inspect homes where babies lived apart from their parents.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00305b.htm">
+<relationEntry localType="Legislation">
+The Public Health Act 1903 (1904 - 1935)
+</relationEntry>
+<descriptiveNote>
+<p>Some clauses in the <span style="font-style:italic">Public Health Act</span> were intended to regulate baby farmers.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00150b.htm">
+<relationEntry localType="Glossary Term">
+Adoption
+</relationEntry>
+<descriptiveNote>
+<p>A woman who cared for the babies of single mothers for a fee might be called a baby farmer. The arrangement could be referred to as adoption.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00302b.htm">
+<relationEntry localType="Organisation">
+Children's Protection Society (1903 - 1920?)
+</relationEntry>
+<descriptiveNote>
+<p>The members of the Children's Protection Society were concerned about baby farmers.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00075b.htm">
+<relationEntry localType="Legislation">
+Infant Life Protection Act 1907 (1907 - 1920)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Baby Farmer', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Baby Farmer</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00155b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000433</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-15">2009-09-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000433b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>McLean Inquiry into the Aborigines Act</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1955-01-01">1955</fromDate>
+<toDate standardDate="1957-12-31">1957</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+</functions>
+<biogHist>
+<abstract>The McLean Inquiry was established in December 1955, to ascertain the population of Aboriginal Victorians; report on their self-maintenance prospects; comment on factors affecting Aboriginal 'absorption' into mainstream society, and on the viability of maintaining a separate Aboriginal administration. The Inquiry was also to advise on the future of the Lake Tyers mission in East Gippsland.</abstract>
+<p>The McLean Inquiry was established in December 1955, to investigate four broad questions:</p>
+<list><item>to ascertain the population of Aboriginal Victorians</item>
+<item>to report on their self-maintenance prospects</item>
+<item>to comment on factors affecting Aboriginal 'absorption' into mainstream society</item>
+<item>to comment on the viability of maintaining a separate Aboriginal administration</item></list>
+<p>The Inquiry was also to advise on the future of the Lake Tyers mission in East Gippsland.</p>
+<p>The inquiry led to the 'Report on the Operation of the Aborigines Act 1928' (known as the McLean Report). It promoted a policy in Victoria of 'active assimilation'. McLean recommended that the size of Lake Tyers be reduced, and its residents be offered better-quality housing in towns as an inducement to leave the mission. (However, only two or three families were to be rehoused in a particular town.) The Victorian government announced that it would be closing Lake Tyers in 1962.</p>
+<p>The McLean Report of 1957 led to new legislation being drawn up in Victoria. The Aborigines Act 1957 abolished the Board for Protection of the Aborigines, replacing it with the Aborigines Welfare Board.</p>
+<p>Chesterman writes that the Victorian government was driven more by the desire for administrative efficiency than the activism of people and organisations promoting Aboriginal rights.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000434b.htm">
+<relationEntry localType="Legislation">
+Aborigines Act 1957 (1957 - 1959)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'McLean Inquiry into the Aborigines Act', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">McLean Inquiry into the Aborigines Act</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000433b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000189.htm">
+<relationEntry localType="published">Book: Civil rights: how indigenous Australians achieved formal equality</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Chesterman, John</name>
+<title render="italic">Civil rights: how indigenous Australians achieved formal equality</title>
+<imprint>
+<date>2005</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

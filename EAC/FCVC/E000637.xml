@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000637</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-10-20">2010-10-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-07-27">2015-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000637b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Excelsior Boys' Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1886-01-01">1886</fromDate>
+<toDate standardDate="1915-12-31">1915?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Non-denominational</term>
+</function>
+<function>
+<term>Children's Home</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Excelsior Boys' Home, in North Brighton, was established by Mr William Groom in 1886. It provided temporary accommodation for boys until they could be placed in suitable situations (generally in the country). In the late 1880s, Groom was given land in Mulgrave to establish a farm for the boys. The Home closed in around 1915.</abstract>
+<p>The foundation stone of the Excelsior Boys' Home was laid in December 1886. The home was to be constructed in the yard of William Groom's own property in Elwood Street, North Brighton (previously, the Grooms had housed boys in their home). A newspaper article in 1886 reported that much good had already come from Mrs Groom's 'self denial and motherly attention to the poor waifs'.</p>
+<p>William Groom had previously been involved in Try Excelsior classes in Melbourne and Richmond, which aimed to provide alternatives to 'larrikinism' for boys and young men.</p>
+<p>The object of the Excelsior Home in Brighton was to provide temporary accommodation for boys until they could be placed in suitable situations (generally in the country). A newspaper article from 1887 reported that:</p>
+<p>'Every lad, as he proceeds to the country, carries with him a letter, stating to his employer his previous character and the particular temptation which it is advisable for some time to keep out of his way. If he has played the part of a thief, a larrikin, or a criminal of any sort, the farmer is duly warned.'</p>
+<p>Boys generally came to the Excelsior Home from the courts, and the Home was mainly funded by government payments towards the maintenance and reform of its inmates.</p>
+<p>In the late 1880s, Groom was given land in Mulgrave to establish a farm for the boys.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1886-01-01">1886</fromDate>
+<toDate standardDate="1886-12-31">1886</toDate>
+</dateRange>
+<placeEntry>Brighton</placeEntry>
+<event>Location - Excelsior Boys' Home was located in North Brighton</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000402b.htm">
+<relationEntry localType="Organisation">
+The Try Society (c. 1883 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1883-01-01">1883</fromDate>
+</dateRange>
+<descriptiveNote>
+<p>William Groom, the founder of the Excelsior Boys' Home, was involved with the Try Excelsior classes organised by the Try Society.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Excelsior Boys' Home', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Excelsior Boys' Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000637b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000754.htm">
+<relationEntry localType="published">Article: Law and norm: justice administration and the human sciences in early juvenile justice in Victoria</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">McCallum, David</name>
+<title render="quoted">Law and norm: justice administration and the human sciences in early juvenile justice in Victoria</title>
+<imprint>
+<date>2004</date>
+</imprint>
+<bibseries>
+<title render="italic">Newcastle Law Review</title>
+<num type="volume">7</num>
+<num type="issue">2</num>
+<num type="pages">62-71</num>
+</bibseries>
+<extptr linktype="simple" href="http://eprints.vu.edu.au/1521/2/Newcastle_Law_Review.doc_%28R%29.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000656.htm">
+<relationEntry localType="published">Newspaper Article: Social work of the Church: child rescue agencies of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Duff, G.B.</name>
+<title render="quoted">Social work of the Church: child rescue agencies of Melbourne</title>
+<imprint>
+<date>1899</date>
+</imprint>
+<bibseries>
+<title render="italic">The Spectator</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

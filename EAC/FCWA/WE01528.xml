@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01528</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2016-04-21">2016-04-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-22">2016-04-22</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01528b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Child Welfare Act Amendment Act 1967</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1967-01-01">1967</fromDate>
+<toDate standardDate="2006-12-31">2006</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Amending Act</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The <span style="font-style:italic">Child Welfare Act Amendment Act 1967</span> (No 1967/027) came into effect on 8 March 1968, except for s.23 and s.24, which came into effect on 15 July 1968. It amended the Second Schedule, giving current names to subsidised institutions. Parents were now able to apply to have their children committed to the Department (s.47), reciprocal agreements with other States were enabled (s.66A), and the names of certain 'repeat offenders' aged 16-18 years were permitted to be published (s.126). The <span style="font-style:italic">Child Welfare Act Amendment Act 1967</span> was repealed by the <span style="font-style:italic">Children and Community Services Act 2004</span>.</abstract>
+<p>In the Child Welfare Act Amendment Act 1967, the second schedule was amended to update 'subsidised institutions' (organisations that could receive a government subsidy for eligible children accommodated there): 'The Second Schedule to the principal Act is amended by deleting (a) the item, "Tom Allan Memorial Home for Boys, Werribee.", under the subheading, "Methodist:"; and (b) the subheading, "Presbyterian:" and the item, "Benmore Boys' Home, Caversham.", under that subheading.'</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00417b.htm">
+<relationEntry localType="Legislation">
+Child Welfare Act 1947 (1948 - 2006)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01506b.htm">
+<relationEntry localType="Concept">
+Law in Western Australia (1829 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01503b.htm">
+<relationEntry localType="Concept">
+State of Western Australia (1901 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Child Welfare Act Amendment Act 1967', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Child Welfare Act Amendment Act 1967</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01528b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000022.htm">
+<relationEntry localType="published">Report: Annual Report of the Child Welfare Department</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Western Australia. Child Welfare Department</name>
+<title render="italic">Annual Report of the Child Welfare Department</title>
+<imprint>
+<place>Perth [W.A.]</place>
+<publisher>Child Welfare Department</publisher>
+<date>1928-1972</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

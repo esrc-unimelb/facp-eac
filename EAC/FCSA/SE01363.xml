@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01363</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-06-10">2014-06-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-11-17">2015-11-17</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01363b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Quambi Nursing Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1913-01-01">1913</fromDate>
+<toDate standardDate="1915-12-31">1915</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Hospital</term>
+</function>
+<function>
+<term>Non Government Organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Quambi Nursing Home, North Adelaide, was established as a Home for sick babies under the age of two in 1913 by The Babies' Hospital Association. Babies whose mothers could not afford the fees charged by the Nursing Home were cared for in a tent in the grounds of the Home. Due to overcrowding the Association established the Babies' Hospital, St Peters, in 1915 and it took over the role of caring for sick infants from the Quambi Nursing Home.</abstract>
+<p>The Quambi Nursing Home at Pennington Terrace, North Adelaide, was established a Home for sick babies in 1913 by an Association of prominent philanthropic ladies and concerned Adelaide doctors, The Babies' Hospital Association. Lady Galway, the president of the Association, had lobbied for a special ward for sick babies under the age of two at the Adelaide Children's Hospital and when this attempt failed the sick infants were cared for by a Mrs Bartels at the private hospital known as Quambi Nursing Home. According to newspaper reports from the time, babies belonging to mothers who could not afford the fees of the private hospital were cared for in a tent in the grounds of the hospital arranged for by the Association.</p>
+<p>Overcrowding became a problem at the Nursing Home and so the Association leased a large property in Winchester Street, St Peters. In 1915 this became the Babies' Hospital, St Peters and took over the role of caring for sick infants from the Quambi Nursing Home.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00160b.htm">
+<relationEntry localType="Organisation">
+The Babies' Hospital Association (1913 - 1951)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01151b.htm">
+<relationEntry localType="Organisation">
+Babies' Hospital, St Peters (1915 - 1917)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Quambi Nursing Home', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Quambi Nursing Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01363b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000042.htm">
+<relationEntry localType="published">Resource: Finding your own way</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">George, Karen</name>
+<title render="italic">Finding your own way</title>
+<imprint>
+<publisher>Nunkuwarrin Yunti of South Australia Inc.</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://nunku.org.au/resources/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000120.htm">
+<relationEntry localType="published">Newspaper Article: A Deserving Cause</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">A Deserving Cause</title>
+<imprint>
+<place>Adelaide, South Australia</place>
+<date>1915</date>
+</imprint>
+<bibseries>
+<title render="italic">The Register</title>
+<num type="pages">4</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article59625371"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000119.htm">
+<relationEntry localType="published">Newspaper Article: The Babies' Hospital - A visit to Mareeba</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Babies' Hospital - A visit to Mareeba</title>
+<imprint>
+<place>Adelaide, South Australia</place>
+<date>1917</date>
+</imprint>
+<bibseries>
+<title render="italic">The Mail</title>
+<num type="pages">11</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article64043227"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

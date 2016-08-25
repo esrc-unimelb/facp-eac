@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01564</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-04-10">2014-04-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-04-11">2014-04-11</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01564b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Children's Seaside Hotel</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1940-01-01">1940s</fromDate>
+<toDate standardDate="1949-12-31">1940s</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Temporary Care</term>
+</function>
+<function>
+<term>Holiday Home</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Children's Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Children's Seaside Hotel was located at Narrabeen, with a branch hotel at Wentworth Falls, in the 1940s. It was children aged from one month to 15 years of age and offered care from a single day to periods of years. It was used during school vacations and by mothers for respite from young children.</abstract>
+<p>The Children's Seaside Hotel advertised in the boarding school and college pages of publications like <span style="font-style:italic">The Farmer and Settler</span>. According to the advertising, it was staffed with trained nurses and students of child psychology. Both the seaside at Narrabeen and mountains in Wentworth Falls were promoted as offering fresh milk and cream and home grown vegetables, with activities in the 'health-giving surroundings of mountain air'.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1940-01-01">1940s</fromDate>
+<toDate standardDate="1949-12-31">1940s</toDate>
+</dateRange>
+<placeEntry>Wentworth Falls</placeEntry>
+<event>Location - Children's Seaside Hotel had a second location at Wentworth Falls</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1940-01-01">1940s</fromDate>
+<toDate standardDate="1949-12-31">1940s</toDate>
+</dateRange>
+<placeEntry>Narrabeen</placeEntry>
+<event>Location - Children's Seaside Hotel located at Narrabeen</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Children's Seaside Hotel', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Children's Seaside Hotel</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01564b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000792.htm">
+<relationEntry localType="published">Newspaper Article: Holiday Hotels for Children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Holiday Hotels for Children</title>
+<imprint>
+<date>1944</date>
+</imprint>
+<bibseries>
+<title render="italic">The Farmer and Settler</title>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article117382876"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

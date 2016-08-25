@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>YE00331</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNT</agencyCode>
+<agencyName>Find &amp; Connect - Northern Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-01-20">2014-01-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-12-03">2014-12-03</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nt/biogs/YE00331b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Fox Crescent Cottage</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1972-01-01">1972</fromDate>
+<toDate standardDate="1974-12-31">1974</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Cottage Care</term>
+</function>
+<function>
+<term>Methodist</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Fox Crescent Cottage opened in Stuart Park in 1972. Run by Somerville Homes Incorporated it was the last of the six cottages which made up Somerville Cottage Homes. It accommodated up to eight children aged between 4 and 16 years under the supervision of cottage parents. The Cottage closed in 1974 and became a staff residence.</abstract>
+<p>Fox Crescent Cottage opened in 1972 in the Darwin suburb of Rapid Creek. It was the last of six family group homes known as Somerville Cottage Homes. The Homes were run by Somerville Homes Incorporated, an association established by the United Church in Northern Australian and the Methodist Overseas Mission. The other Somerville Cottage Homes were located in Chapman Road, Trower Road Clarke Crescent in Rapid Creek and Luxton and Henry Street in Stuart Park.</p>
+<p>Fox Street Cottage provided care for up to eight children, both Aboriginal and non Aboriginal, aged between 4 and 16 years under the supervision of cottage parents. A statistical summary dated 30 June 1971 shows that on that day the cottage was accommodating two girls aged 7 and 9 and four boys aged 5 to 12.</p>
+<p>Fox Crecent Cottage was damaged by Cyclone Tracy in December 1974 and therefore closed as a cottage for children. No children were present at the time of the cyclone as all were on holiday placements interstate. The building was repaired and from 1975 was used as a staff residence.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1972-01-01">1972</fromDate>
+<toDate standardDate="1974-12-31">1974</toDate>
+</dateRange>
+<placeEntry>Rapid Creek</placeEntry>
+<event>Address - Fox Crescent Cottage was situated at 7 Fox Crrescent, Rapid Creek</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00330b.htm">
+<relationEntry localType="Organisation">
+Somerville Homes (1965 - 1981)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00410b.htm">
+<relationEntry localType="Archival Series">
+General Administration Files, Annual Single Number with "N" prefix (1982 - 1984)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00234b.htm">
+<relationEntry localType="Archival Series">
+Records relating to child care, Somerville Homes, Darwin (1964 - 1979)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00049b.htm">
+<relationEntry localType="Organisation">
+Somerville Cottage Homes (1968 - 1980s)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Fox Crescent Cottage', in <span style="font-style:italic">Find &amp; Connect - Northern Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Fox Crescent Cottage</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Northern Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00331b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

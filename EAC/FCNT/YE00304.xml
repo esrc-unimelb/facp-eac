@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>YE00304</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNT</agencyCode>
+<agencyName>Find &amp; Connect - Northern Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Item</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-07-30">2013-07-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Gary George and Karen George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nt/biogs/YE00304b.htm</entityId>
+<entityId localType="National Archives of Australia Reference Number">F1, 1955/253</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Aboriginal Inland Mission Retta Dixon Home Bagot - Policy and Development</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1955-01-01">1955</fromDate>
+<toDate standardDate="1960-12-31">1960</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>This digitised file contains correspondence between the Aboriginal Inland Mission (AIM) and various government departments relating to the running of the Retta Dixon Home in Darwin. Subjects covered in the correspondence include recreational activities at the Home, lists of children, staff lists, the accommodation of State Children, purchases, funding and information on the move of the Retta Dixon Home to new cottage style Homes at a new site.</abstract>
+<h4>Access Conditions</h4>
+<p>'Open with exception'.</p>
+<p>This record is digitised and 'Open with exception' which means that some parts of the file are open and other parts are not. The open parts are available for viewing through Recordsearch. Information about how to access records through Recordsearch is available on the National Archives website.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00497b.htm">
+<relationEntry localType="Organisation">
+National Archives of Australia - Darwin office (1998 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00498b.htm">
+<relationEntry localType="Contact Details">
+National Archives of Australia - Darwin Office - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00023b.htm">
+<relationEntry localType="Organisation">
+Retta Dixon Home (1946 - 1982)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Aboriginal Inland Mission Retta Dixon Home Bagot - Policy and Development', in <span style="font-style:italic">Find &amp; Connect - Northern Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Aboriginal Inland Mission Retta Dixon Home Bagot - Policy and Development</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Northern Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00304b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/objects/YD0000099.htm">
+<relationEntry localType="digitalObject">Aboriginal Inland Mission Retta Dixon Home Bagot - Policy and Development</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia</repository>
+<unittitle>Aboriginal Inland Mission Retta Dixon Home Bagot - Policy and Development</unittitle>
+<unitid>NAA: F1, 1955/253</unitid>
+<unitdate>1955 - 1960</unitdate>
+<abstract>Digital copy of paper file and documents</abstract>
+<note label="rights">Copyright Commonwealth of Australia (National Archives of Australia)</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

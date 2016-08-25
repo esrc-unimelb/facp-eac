@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000713</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-10-20">2011-10-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000713b.htm</entityId>
+<entityId localType="Public Record Office of Victoria Series Number">VPRS 10093</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Children's Overseas Reception Board Files</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1940-01-01">1940</fromDate>
+<toDate standardDate="1946-12-31">1946</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Children's Overseas Reception Board Files comprises client files of children evacuated to Australia from the United Kingdom during World War Two and a few files relating to the administration of the scheme. Upon arrival in Victoria the children were boarded out with families. The Children's Welfare Department oversaw the welfare of the children from when they arrived in Australia.</abstract>
+<h4>Access Conditions</h4>
+<p>Access to these files is restricted (the Department calls them 'closed' files) to protect the privacy of individuals. Care leavers and their families can contact the Family Information Networks and Discovery, Department of Human Services to access records about their time in 'care'.</p>
+<h4>Records</h4>
+<p>Most of the files comprise case documentation including:</p>
+<list><item>application of the custodian to accept evacuated children</item>
+<item>evacuation and travel reports re the children (e.g. Vaccinations, medical condition)</item>
+<item>Departmental inspectors reports (e.g. Health, behaviour, adjustment, suitability of nominators)</item>
+<item>school reports</item>
+<item>social worker reports.</item></list>
+<p>The case files appear to have been initially arranged in numerical order by a UK Childrens Overseas Reception Board (C.O.R.B.) client number. Some files relate to individual children while others document the arrangements for several children from a single family. In 1997 the files were re-arranged alphabetically by client surname and listed by the Department of Human Services. Custodians' family names were recorded during this process.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000704b.htm">
+<relationEntry localType="Archival Collection">
+Victorian Government Records relating to Wardship and Adoption (1864 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000863b.htm">
+<relationEntry localType="Contact Details">
+Family Information Networks and Discovery (FIND) - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Children's Overseas Reception Board Files', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Children's Overseas Reception Board Files</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000713b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

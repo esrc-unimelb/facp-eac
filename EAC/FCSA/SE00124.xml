@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE00124</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-02-14">2011-02-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE00124b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Adoption and Family Information Service of SA</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Acronym"><part>AFIS</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1988-01-01">c. 1988</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Records Access Service</term>
+</function>
+<function>
+<term>Government Agency</term>
+</function>
+<function>
+<term>Records Holder</term>
+</function>
+<function>
+<term>Adoption Information Service</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Adoption and Family Information Service (AFIS) is part of the Department for Education and Child Development. AFIS deals with all issues relating to adoptions, past and present. The Service assists people affected by past adoptions, Aboriginal people separated from family as a result of previous government policies and former wards of state who have reason to believe they may have been adopted. It provides information, advice, advocacy mediation and counselling. If you were adopted or believe there may be a Departmental file in your name, you can contact AFIS for assistance.</abstract>
+<h4>Access Conditions</h4>
+<p>All applications for access to records held or searched by the Adoption and Family Information Service must be made under the provisions of the Freedom of Information Act 1991 or the Adoption Act 1989. If you were a ward of the State, you can apply for information through a Freedom of Information application. If you are applying for adoption information your request must be made under the Adoption Act 1989. The forms for each of these requests are available online or by contacting AFIS. The form for an FOI application is called, Request for Access under the Freedom of Information Act 1991 The various forms for Adoptive parents, Adopted children and natural parents are referred to as: Applications for Adoption Information forms</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00755b.htm">
+<relationEntry localType="Archival Collection">
+Records of Kate Cocks Memorial Babies Home (1937? - 1976?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01262b.htm">
+<relationEntry localType="Contact Details">
+Adoption and Family Information Service of SA - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Adoption and Family Information Service of SA', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Adoption and Family Information Service of SA</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00124b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

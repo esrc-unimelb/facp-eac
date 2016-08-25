@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01278</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-12-10">2013-12-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-04">2016-07-04</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01278b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Port George IV Mission</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="also known as"><part>Kunmunya</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1920-01-01">1920</fromDate>
+<toDate standardDate="1951-12-31">1951</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+<nameEntry localType="also known as"><part>Kwinana Mission</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1912-01-01">1912</fromDate>
+<toDate standardDate="1951-12-31">1951</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Mission</term>
+</function>
+<function>
+<term>Presbyterian</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Port George IV Mission began in 1912 at Walcott Inlet in the west Kimberleys, but by 1913 was located at Port George IV. It was run by the Presbyterian Church. Children living on the mission were under the guardianship of the head of the departments responsible for Aboriginal welfare, but they lived with their families. In 1920 the Mission moved to Kunmunya and took its name from that place. In 1951, residents at Kunmunya and Munja Aboriginal Cattle Station agreed relocate together to Wotjulum Mission.</abstract>
+<p>Port George IV Mission was established by the Presbyterian Church in 1912 on Walcott Inlet in the west Kimberleys. Soon after, a better site was found at Port George IV and the mission was set up there by 1913. By 1920, in search of more arable land and a better water supply, the mission moved again to Kunmunya and took its name from that place.</p>
+<p>In 1949, the assets of the government-run Munja Aboriginal Cattle Station and responsibility for the residents at the Munja feeding station were handed over to the missionaries at Kunmunya. The requirement to maintain two populations of people, coupled with disease and crop failure at Kunmunya made things difficult. The Presbyterians consulted with the Aboriginal people at Kunmunya and Munja and eventually there was an agreement to relocate to Wotjulum Mission in 1951.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1912-01-01">1912</fromDate>
+<toDate standardDate="1912-12-31">1912</toDate>
+</dateRange>
+<placeEntry>Walcott Inlet</placeEntry>
+<event>Location - Port George IV Mission was established by the Presbyterian Church at Walcott Inlet</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1913-01-01">1913</fromDate>
+<toDate standardDate="1913-12-31">1913</toDate>
+</dateRange>
+<placeEntry>Port George IV</placeEntry>
+<event>Location - Port George IV Mission was located at Port George IV</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1920-01-01">1920?</fromDate>
+<toDate standardDate="1920-12-31">1920?</toDate>
+</dateRange>
+<placeEntry>Kunmunya</placeEntry>
+<event>Location - Port George IV Mission relocated to, and took the name of, Kunmunya</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00179b.htm">
+<relationEntry localType="Organisation">
+Presbyterian Church (1879 - 1977)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1912-01-01">1912</fromDate>
+<toDate standardDate="1951-12-31">1951</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00553b.htm">
+<relationEntry localType="Concept">
+Commissioner for Native Affairs (1936 - 1954)
+</relationEntry>
+<descriptiveNote>
+<p>The Commissioner of Native Affairs was the legal guardian of children at Port George IV Mission.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00499b.htm">
+<relationEntry localType="Concept">
+Chief Protector of Aborigines (1898 - 1936)
+</relationEntry>
+<descriptiveNote>
+<p>Chief Protector of Aborigines was the legal guardian of children at Port George IV Mission.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00637b.htm">
+<relationEntry localType="Archival Collection">
+State Archives Collection of Western Australia (1829 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01120b.htm">
+<relationEntry localType="Archival Collection">
+Department of Aboriginal Affairs [predecessors], Records, Department of Aboriginal Affairs (1886 - 2004)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
+<relationEntry localType="Archival Collection">
+Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01277b.htm">
+<relationEntry localType="Organisation">
+Wotjulum (1951 - 1956)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1951-01-01">1951</fromDate>
+<toDate standardDate="1951-12-31">1951</toDate>
+</dateRange>
+<descriptiveNote>
+<p>In 1951, residents at Kunmunya and Munja Aboriginal Cattle Station agreed relocate together to Wotjulum [Presbytarian Mission]</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Port George IV Mission', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Port George IV Mission</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01278b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000204.htm">
+<relationEntry localType="published">Resource: Guide to Institutions Attended by Aboriginal People in Western Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">State Solicitor's Office of Western Australia</name>
+<title render="italic">Guide to Institutions Attended by Aboriginal People in Western Australia</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://web.archive.org/web/20140126131607/http://www.dpc.wa.gov.au/lantu/MediaPublications/Documents/Guide-to-Institutions-attended-by-Aboriginal-people-in-WA-2005.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000690.htm">
+<relationEntry localType="digitalObject">Map West Kimberleys</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Western Australia</repository>
+<unittitle>Map West Kimberleys</unittitle>
+<unitid>State Library of Western Australia Call No. 305.89915 MOW and Record No. B2643137</unitid>
+<unitdate>2008</unitdate>
+<abstract>'Map West Kimberleys' is a digital copy of an image published in <span style="font-style:italic">Mowanjum: 50 years community history</span> (p.23).</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000688.htm">
+<relationEntry localType="digitalObject">Kunmunya [Port George IV] 1920</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Western Australia</repository>
+<unittitle>Kunmunya [Port George IV] 1920</unittitle>
+<unitid>State Library of Western Australia Call Number 305.89915 MOW</unitid>
+<unitdate>2008</unitdate>
+<abstract>'Kunmunya [Port George IV] 1920' is a digital copy of an image published in <span style="font-style:italic">Mowanjum: 50 years community history</span> (p.42). The caption has a description from Jimmy Mulline which reads 'When I was little we went to Kunmunya and we camped there at the side of the hill. That was where visitors used to camp. They had only a few houses, mostly just little camps with bush bark for walls'.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

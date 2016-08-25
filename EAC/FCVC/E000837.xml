@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000837</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-05-09">2013-05-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000837b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Four Flats Hostel</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Four Flats</part>
+</nameEntry>
+<nameEntry localType=""><part>Four Apartments Hawthorn Limited</part>
+</nameEntry>
+<nameEntry localType=""><part>Four Flats Youth Services Limited</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1977-01-01">1977</fromDate>
+<toDate standardDate="1981-12-31">1981</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Hostel</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Four Flats Hostel was established in Hawthorn in1977 by the Jesuit Social Services. This hostel provided accommodation for young, homeless offenders aged between 17 and 21 years who were released from Victoria's correctional institutions. The hostel closed towards the end of 1981. Four Flats moved to a non-residential centre in Collingwood.</abstract>
+<p>Four Flats offered the only after-care program for this age group in Victoria. The Department of Social Welfare provided funding. Referrals came from the Youth Training Centres at Parkville, Langi Kal Kal and Malmsbury as well as from Pentridge.</p>
+<p>The name 'Four Flats' was chosen because the old home had been divided into four separate flats. Two Jesuit priests occupied one flat. The other three were allocated for the residents, the first of which arrived from Malmsbury in January 1977.</p>
+<p>After the closure of the Hostel in 1981, Four Flats established an office in Collingwood and organised accommodation for young people in suburbs nearby. In this way many more young people could be supported. In 1983 it was renamed Four Flats Youth Services and in 1987 it was renamed the Brosnan Centre.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1977-01-01">1977</fromDate>
+<toDate standardDate="1981-12-31">1981</toDate>
+</dateRange>
+<placeEntry>Hawthorn</placeEntry>
+<event>Location - Four Flats was situated at Hawthorn</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000538b.htm">
+<relationEntry localType="Organisation">
+Jesuit Social Services (1976 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1977-01-01">1977</fromDate>
+<toDate standardDate="1981-12-31">1981</toDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Four Flats Hostel', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Four Flats Hostel</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000837b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001011.htm">
+<relationEntry localType="published">Book: Doing Justice: Reflections from thirty years of Jesuit Social Services 1977-2007</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dunin, Josephine</name>
+<title render="italic">Doing Justice: Reflections from thirty years of Jesuit Social Services 1977-2007</title>
+<imprint>
+<place>Richmond, Victoria</place>
+<publisher>Jesuit Social Services</publisher>
+<date>2009</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

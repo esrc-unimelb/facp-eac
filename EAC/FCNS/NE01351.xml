@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01351</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-08-09">2013-08-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-12-07">2015-12-07</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01351b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Stead House</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Bethesda House</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1973-01-01">1973</fromDate>
+<toDate standardDate="2007-12-31">c. 2007</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Salvation Army</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Hostel</term>
+</function>
+<function>
+<term>Lying-in Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Stead House was opened at Marrickville in 1973 by the Salvation Army in 'Hopeleigh', which had been part of Bethesda Maternity Hospital. Stead House was opened as Bethesda House but its name was changed to honour the founding matron of the hospital. Stead House was a hostel for working girls and students and a home for unmarried mothers. It was closed in 2007.</abstract>
+<p>Stead House occupied the historic house Hopeleigh, which had served as nurses' quarters and a laundry for Bethesda Maternity Hospital since 1956. It was named after the founding matron of Bethesda Maternity Hospital, Lieutenant Colonel Doris Stead.</p>
+<p>Stead House remained a hostel for women students and low income earners until the mid-2000s, when economic and fire regulation compliance issues became insurmountable. The Salvation Army sold the entire site in 2007 and between 2010-2012 the Bethesda Maternity Hospital building and Stead House were converted to apartments.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1973-01-01">1973</fromDate>
+<toDate standardDate="2007-12-31">2007</toDate>
+</dateRange>
+<placeEntry>Marrickville</placeEntry>
+<event>Address - Stead House was situated at 12 Leicester Street, Marrickville</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00211b.htm">
+<relationEntry localType="Organisation">
+Bethesda Maternity Hospital (1957 - 1973)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00208b.htm">
+<relationEntry localType="Organisation">
+The Salvation Army Australia Eastern Territory (1882 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Stead House', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Stead House</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01351b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000625.htm">
+<relationEntry localType="published">Resource Section: Submission 46: EASTERN TERRITORY SOCIAL CENTRES: A list of openings, closings, and function</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">The Salvation Army Australia Eastern Territory</name>
+<title render="quoted">Submission 46: EASTERN TERRITORY SOCIAL CENTRES: A list of openings, closings, and function</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
+<name type="author">Senate Community Affairs Committee</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000279.htm">
+<relationEntry localType="published">Newspaper Article: Apartment of the Week: 26/12 Leicester Street, Marrickville</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Apartment of the Week: 26/12 Leicester Street, Marrickville</title>
+<imprint>
+<date>2012</date>
+</imprint>
+<bibseries>
+<title render="italic">Domain: Sydney Morning Herald</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000260.htm">
+<relationEntry localType="published">Resource Section: Stead House</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Stead House</title>
+<imprint>
+<publisher>NSW Office of Environment and Heritage</publisher>
+<date>1999</date>
+</imprint>
+<bibseries>
+<title render="italic">State Heritage Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.environment.nsw.gov.au/heritageapp/ViewHeritageItemDetails.aspx?ID=2030296"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000259.htm">
+<relationEntry localType="published">Resource Section: Stead House</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Stead House</title>
+<imprint>
+<date>2012</date>
+</imprint>
+<bibseries>
+<title render="italic">Wikipedia</title>
+<name type="author">Unknown</name>
+</bibseries>
+<extptr linktype="simple" href="http://en.wikipedia.org/wiki/Stead_House"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000250.htm">
+<relationEntry localType="digitalObject">Stead House</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Stead House</unittitle>
+<unitdate>c. 1999</unitdate>
+<abstract>Stead House was the main building of the former Hopeleigh Maternity Home in Marrickville, which was run by the Salvation Army.</abstract>
+<note label="rights">Tropman &amp; Tropman Architects</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00394</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-02-29">2012-02-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-04-09">2014-04-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00394b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Lord Nuffield Gift</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1935-01-01">1935</fromDate>
+<toDate standardDate="1935-12-31">1935</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Lord Nuffield Gift was a grant, made in 1935, from Sir William Morris, 1st Viscount Nuffield, of £50,000 to the Australian government to help children with physical disabilities. Tasmania received £10,000, some of which was used by the Tasmanian Society for the Care of Crippled Children to establish Wingfield.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00395b.htm">
+<relationEntry localType="Organisation">
+Wingfield House (1938 - 1971)
+</relationEntry>
+<descriptiveNote>
+<p>Funds from Lord Nuffield's Gift established Wingfield House.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00385b.htm">
+<relationEntry localType="Organisation">
+Tasmanian Society for the Care of Crippled Children (1935 - 1988)
+</relationEntry>
+<descriptiveNote>
+<p>The Tasmanian Society for the Care of Crippled Children used a portion of Lord Nuffield's gift to establish Wingfield House.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Lord Nuffield Gift', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Lord Nuffield Gift</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00394b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000222.htm">
+<relationEntry localType="published">Book: The great scourge: the Tasmanian infantile paralysis epidemic 1937-</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Killalea, Anne</name>
+<title render="italic">The great scourge: the Tasmanian infantile paralysis epidemic 1937-</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Tasmanian Historical Research Association</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000230.htm">
+<relationEntry localType="published">Newspaper Article: Lord Nuffield gift to Australia: 50,000 pounds for crippled children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Lord Nuffield gift to Australia: 50,000 pounds for crippled children</title>
+<imprint>
+<date>1935</date>
+</imprint>
+<bibseries>
+<title render="italic">Stydney Morning Herald</title>
+<num type="pages">6</num>
+</bibseries>
+<extptr linktype="simple" href="http://news.google.com/newspapers?id=HOtUAAAAIBAJ&amp;sjid=9JEDAAAAIBAJ&amp;pg=7364%2C2080070"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

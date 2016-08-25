@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00515</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-08-09">2012-08-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-12-01">2014-12-01</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00515b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Normal School</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1850-01-01">1850</fromDate>
+<toDate standardDate="1852-12-31">1852</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>School</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Normal School, opened in 1850 on the corner of Pedder and Carlton Streets, New Town. It was designed to offer an academic education to boys and good quality teacher training. Teachers also took classes with the boys at the Queen's Orphan Asylum. The Legislative Council refused to fund the School and it closed in 1852. Ten years later, the Hobart Town Female Refuge opened in the same building. It later became the Industrial School for Girls - Hobart.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1850-01-01">1850</fromDate>
+<toDate standardDate="1852-12-31">1852</toDate>
+</dateRange>
+<placeEntry>New Town</placeEntry>
+<event>Location - The Normal School was on the corner of Pedder and Carlton Streets, New Town</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00103b.htm">
+<relationEntry localType="Organisation">
+Anchorage Home (1889 - 1920)
+</relationEntry>
+<descriptiveNote>
+<p>The Anchorage Home was in the former Normal School, Peddar Street, between 1894 and 1920.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00053b.htm">
+<relationEntry localType="Organisation">
+Queen's Orphan Asylum (1833 - 1879)
+</relationEntry>
+<descriptiveNote>
+<p>The teachers from the Normal School gave lessons to some of the boys at Queen's Orphan Asylum.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00068b.htm">
+<relationEntry localType="Organisation">
+Hobart Girls' Industrial School (1862 - 1945)
+</relationEntry>
+<descriptiveNote>
+<p>The Industrial School for Girls opened as the Hobart Town Female Refuge in the former Normal School.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Normal School', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Normal School</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00515b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000311.htm">
+<relationEntry localType="published">Newspaper Article: Letters to the editor: the Anchorage Home</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">'Eidelweiss'</name>
+<title render="quoted">Letters to the editor: the Anchorage Home</title>
+<imprint>
+<date>1894</date>
+</imprint>
+<bibseries>
+<title render="italic">The Mercury</title>
+<num type="pages">3</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article13293527"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000294.htm">
+<relationEntry localType="published">Book: Making a more adequate provision: state education in Tasmania, 1839-1985</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Phillips, Derek</name>
+<title render="italic">Making a more adequate provision: state education in Tasmania, 1839-1985</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Education Department</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/objects/TD0000133.htm">
+<relationEntry localType="digitalObject">The Normal School, later the Hobart Town Female Refuge, and then the Anchorage Home - window detail</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Tasmanian Images: Tasmanian Archive and Heritage Office</repository>
+<unittitle>The Normal School, later the Hobart Town Female Refuge, and then the Anchorage Home - window detail</unittitle>
+<unitid>TAHO Reference: AB713-1-7879</unitid>
+<unitdate>1962</unitdate>
+<abstract>This photograph was taken just before the demolition of the Normal School in 1962. The building of the former Normal School was the first home of the Hobart Town Female Refuge. It became the Industrial School for Girls - Hobart.</abstract>
+<note label="rights">Reproduction rights owned by the Tasmanian Archive and Heritage Office</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/objects/TD0000134.htm">
+<relationEntry localType="digitalObject">The Normal School, later the Hobart Town Female Refuge, and then the Anchorage Home - before demolition</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Tasmanian Images: Tasmanian Archive and Heritage Office</repository>
+<unittitle>The Normal School, later the Hobart Town Female Refuge, and then the Anchorage Home - before demolition</unittitle>
+<unitid>TAHO Reference: AB713-1-7878</unitid>
+<unitdate>1962</unitdate>
+<abstract>This photograph was taken just before the demolition of the Normal School in 1962. The building of the former Normal School was the first home of the Hobart Town Female Refuge. It became the Industrial School for Girls - Hobart.</abstract>
+<note label="rights">Reproduction rights owned by the Tasmanian Archive and Heritage Office</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/objects/TD0000135.htm">
+<relationEntry localType="digitalObject">The Normal School, later the Hobart Town Female Refuge, and then the Anchorage Home - before demolition</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Tasmanian Images: Tasmanian Archive and Heritage Office</repository>
+<unittitle>The Normal School, later the Hobart Town Female Refuge, and then the Anchorage Home - before demolition</unittitle>
+<unitid>TAHO Reference: AB713-1-7877</unitid>
+<abstract>This photograph was taken just before the demolition of the Normal School in 1962. The building of the former Normal School was the first home of the Hobart Town Female Refuge. It became the Industrial School for Girls - Hobart.</abstract>
+<note label="rights">Reproduction rights owned by the Tasmanian Archive and Heritage Office</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE01098</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2015-01-19">2015-01-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Elizabeth Daniels</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-16">2015-10-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE01098b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>The Children's Charter Amendment Act 1921</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1921-01-01">1921</fromDate>
+<toDate standardDate="1936-12-31">1936</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Amending Act</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Children's Charter Amendment Act 1921 also known by the full title 'An Act to amend "The Children's Charter'" (Act no.12 Geo.V No.62) amended The Children of the State Act 1918 to explicitly allow for the imprisonment of children who commit indictable offences. This legislation was repealed by the Infants Welfare Act 1935 (Act no. 26 Geo. V No.96) on 31 January 1936.</abstract>
+<p>The Children's Charter Amendment Act 1921 explicitly allowed for the imprisonment of children who commit indictable offences. (An indictable offence is generally a more serious type of crime that requires a trial by a judge and jury in the presence of the defendant. Indictable offences include crimes such as murder and indecent assault. Less serious offences are often known as summary offences and can generally be dealt with by a lone magistrate and without the defendant's presence. Summary offences include crimes such as property damage and road traffic offences.)</p>
+<p>The 1921 amendment also increased the maximum fine children could be charged with from 40 shillings to 5 pounds. (There were 20 shillings in every pound so 5 pounds is the equivalent of 100 shillings, more than doubling the original fine.) Under this amendment children over 14 could also be imprisoned if they did not pay fines they were charged for. The time of imprisonment increased with the cost of the fine, so a child fined 20 shillings or less could be imprisoned for a maximum of 3 days while a child fined 5 pounds could be imprisoned for up to 1 month.</p>
+<p>The rest of the amendment primarily deals with the regulation of 'nursing homes' for infants and the court's power over whose custody children could be placed in.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00017b.htm">
+<relationEntry localType="Legislation">
+The Children of the State Act 1918 (1918 - 1936)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01038b.htm">
+<relationEntry localType="Concept">
+Tasmanian State Government (1901 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01039b.htm">
+<relationEntry localType="Concept">
+Law in Tasmania (1825 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'The Children's Charter Amendment Act 1921', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">The Children's Charter Amendment Act 1921</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01098b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000756.htm">
+<relationEntry localType="published">Resource Section: Types of Offences</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Types of Offences</title>
+<imprint>
+<publisher>State Government of Victoria</publisher>
+<date>2013</date>
+</imprint>
+<bibseries>
+<title render="italic">Victims of Crime</title>
+<name type="author">Department of Justice and Regulation: Victoria</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.victimsofcrime.vic.gov.au/home/charges+laid/types+of+offences/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

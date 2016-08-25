@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE01043</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-11-24">2014-11-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Elizabeth Daniels</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-13">2015-03-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE01043b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Commission for Children and Young People and Child Guardian and Another Act Amendment Act 2008</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2008-01-01">2008</fromDate>
+<toDate standardDate="2008-12-31">2008</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Amending Act</term>
+</function>
+</functions>
+<biogHist>
+<abstract>This act with the full title "An Act to amend the Commission for Children and Young People and Child Guardian Act 2000 and the Police Powers and Responsibilities Act 2000, and for related purposes" (Act no. 18/2008) expanded the exclusion of disqualified persons from applying for a blue card also known as a working with children check. This act was repealed by Acts Interpretation Act 1945 (s.22C) on 3 June 2008.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00451b.htm">
+<relationEntry localType="Legislation">
+Commission for Children and Young People Act 2000 (2000 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2008-01-01">2008</fromDate>
+<toDate standardDate="2008-12-31">2008</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00978b.htm">
+<relationEntry localType="Concept">
+Queensland State Government (1901 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2008-01-01">2008</fromDate>
+<toDate standardDate="2008-12-31">2008</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00979b.htm">
+<relationEntry localType="Concept">
+Law in Queensland (1859 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2008-01-01">2008</fromDate>
+<toDate standardDate="2008-12-31">2008</toDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Commission for Children and Young People and Child Guardian and Another Act Amendment Act 2008', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Commission for Children and Young People and Child Guardian and Another Act Amendment Act 2008</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE01043b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000625.htm">
+<relationEntry localType="published">Resource Section: Commissioner for Children and Young People and Child Guardian and Another Act Amendment Bill 2008</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Commissioner for Children and Young People and Child Guardian and Another Act Amendment Bill 2008</title>
+<imprint>
+<publisher>AusLit</publisher>
+<date>2008</date>
+</imprint>
+<bibseries>
+<title render="italic">Queensland Bills Explanatory Notes</title>
+<name type="author">The State of Queensland</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.legislation.qld.gov.au/Bills/52PDF/2008/CommChildAAAB08Exp.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

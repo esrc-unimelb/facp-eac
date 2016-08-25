@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000421</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-09">2009-09-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000421b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Peninsula Family Services</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1980-01-01">1980</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Anglican</term>
+</function>
+<function>
+<term>Protestant</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Peninsula Family Services was established in 1980 by the Mission of St James and St John. The Andrew Kerr Memorial Home had been closed in 1978, with its residents being moved to family group homes in the Mornington Peninsula region. Peninsula Family Services was first located above a coffee shop in Main Street, Mornington. In 1986, it moved to a new centre on the Nepean Highway. Peninsula Family Services provided a range of programs for families, including residential care.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1980-01-01">1980</fromDate>
+<toDate standardDate="1986-12-31">1986</toDate>
+</dateRange>
+<placeEntry>Mornington</placeEntry>
+<event>Location - Peninsula Family Services was located in Main Street, Mornington</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1986-01-01">1986</fromDate>
+<toDate standardDate="1986-12-31">1986</toDate>
+</dateRange>
+<placeEntry>Mornington</placeEntry>
+<event>Location - Peninsula Family Services was located in Nepean Highway, Mornington</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000730b.htm">
+<relationEntry localType="Archival Collection">
+Anglicare Victoria Records (1886 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000077b.htm">
+<relationEntry localType="Organisation">
+Mission of St James and St John (1919 - 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000078b.htm">
+<relationEntry localType="Organisation">
+Andrew Kerr Memorial Home (c. 1921 - c. 1980)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1980-01-01">1980</fromDate>
+</dateRange>
+<descriptiveNote>
+<p>Some children and young people were transferred from Andrew Kerr to family group homes run by Peninsula Family Services.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Peninsula Family Services', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Peninsula Family Services</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000421b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000057.htm">
+<relationEntry localType="published">Book: Billylids and 'Home Kids': The Story of The Mission of St James and St John 1919-1994</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Monk, Joanne; O'Donoghue, Gina</name>
+<title render="italic">Billylids and 'Home Kids': The Story of The Mission of St James and St John 1919-1994</title>
+<imprint>
+<place>Surrey Hills, Victoria</place>
+<publisher>The Mission of St. James and St. John</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

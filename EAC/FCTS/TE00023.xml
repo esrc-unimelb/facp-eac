@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00023</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-01-12">2011-01-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00023b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Department of Health and Human Services</part>
+<part localType="parent">State of Tasmania</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Abbreviation"><part>DHHS</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1998-01-01">1998</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Government Department</term>
+</function>
+<function>
+<term>Records Access Service</term>
+</function>
+<function>
+<term>Records Holder</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Department of Health and Human Services succeeded the Department of Community and Health Services in 1998.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00763b.htm">
+<relationEntry localType="Archival Collection">
+Children and Youth Services Records (1926? - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00741b.htm">
+<relationEntry localType="Archival Collection">
+Adoptions and Permanency Services Records (c. 2003 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00764b.htm">
+<relationEntry localType="Organisation">
+Children and Youth Services (c. 1998 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00022b.htm">
+<relationEntry localType="Organisation">
+Department of Community and Health Services, State of Tasmania (1993 - 1998)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00197b.htm">
+<relationEntry localType="Glossary Term">
+Home Based Care (2000? - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00213b.htm">
+<relationEntry localType="Glossary Term">
+Out-of Home Care
+</relationEntry>
+<descriptiveNote>
+<p>In 2014, child protection services at the Department of Health and Human Services use the term out of home care.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00215b.htm">
+<relationEntry localType="Glossary Term">
+Permanent Placements (1990? - )
+</relationEntry>
+<descriptiveNote>
+<p>In 2014, child protection services in the Department of Health and Human Services use the term permanent placement.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00172b.htm">
+<relationEntry localType="Glossary Term">
+Family Group Home (c. 1981 - )
+</relationEntry>
+<descriptiveNote>
+<p>The Department of Health and Human Services ran Family Group Homes.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00222b.htm">
+<relationEntry localType="Glossary Term">
+Siblings in Care (c. 1865 - )
+</relationEntry>
+<descriptiveNote>
+<p>In 2014, it is not policy at the Department of Health and Human Services to separate siblings.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00192b.htm">
+<relationEntry localType="Glossary Term">
+Kinship Care (c. 1985 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00585b.htm">
+<relationEntry localType="Glossary Term">
+Admitted to the Department Under Section 35 (1960 - 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00149b.htm">
+<relationEntry localType="Glossary Term">
+Adolescent Placement (1990? - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00582b.htm">
+<relationEntry localType="Glossary Term">
+Decl. (c. 1960 - c. 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00586b.htm">
+<relationEntry localType="Glossary Term">
+Board 1 (c. 1960 - c. 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00587b.htm">
+<relationEntry localType="Glossary Term">
+Board 2 (c. 1960 - c. 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00834b.htm">
+<relationEntry localType="Archival Item">
+Jane Monaghan interviewed by Caroline Evans for the Forgotten Australians and Former Child Migrants oral history project (2012)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00588b.htm">
+<relationEntry localType="Glossary Term">
+Board 3 (c. 1960 - c. 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00150b.htm">
+<relationEntry localType="Glossary Term">
+Adoption
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00227b.htm">
+<relationEntry localType="Glossary Term">
+Therapeutic Residential Care (1990? - )
+</relationEntry>
+<descriptiveNote>
+<p>Child protection services at the Department of Health and Human Services have placed children in therapeutic residential care.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00148b.htm">
+<relationEntry localType="Glossary Term">
+Aboriginal Placement (1984 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00146b.htm">
+<relationEntry localType="Glossary Term">
+Aboriginal Child Placement Principle (1984 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00013b.htm">
+<relationEntry localType="Glossary Term">
+Approved Children's Home (1960 - 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00012b.htm">
+<relationEntry localType="Glossary Term">
+Departmental Residential Care (1896 - c. 2012)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00208b.htm">
+<relationEntry localType="Glossary Term">
+Child Neglect (c. 1867 - )
+</relationEntry>
+<descriptiveNote>
+<p>Children come under the auspices of the Department of Health and Human Services because of neglect.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00011b.htm">
+<relationEntry localType="Glossary Term">
+Foster Care (c. 1955 - )
+</relationEntry>
+<descriptiveNote>
+<p>The Department of Health and Human Services managed the foster care system in Tasmania.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00095b.htm">
+<relationEntry localType="Event">
+Select Committee on Child Protection (2010 - 2011)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00001b.htm">
+<relationEntry localType="Event">
+Listen to the children: review of claims of abuse from adults in state care as children (2003 - 2006)
+</relationEntry>
+<descriptiveNote>
+<p>The Department of Health and Human Services assisted with the <span style="font-style:italic">Listen to the Children</span> inquiry.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00790b.htm">
+<relationEntry localType="Archival Series">
+Case Files of the Child Welfare Division (North West Office) (1943 - 2002)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00177b.htm">
+<relationEntry localType="Glossary Term">
+Government Department
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00153b.htm">
+<relationEntry localType="Glossary Term">
+At Home While Still a Ward (c. 1960 - c. 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00625b.htm">
+<relationEntry localType="Glossary Term">
+Written Off (c. 1960 - c. 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00336b.htm">
+<relationEntry localType="Archival Series">
+Correspondence Files, Public Health Department (1940 - 1989)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01017b.htm">
+<relationEntry localType="Event">
+System Development and Operational Improvement Project (2006)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00221b.htm">
+<relationEntry localType="Glossary Term">
+Shared Care (1990? - )
+</relationEntry>
+<descriptiveNote>
+<p>In 2014, child proetection services at the Department of Health and Human Services place children in shared care.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00589b.htm">
+<relationEntry localType="Glossary Term">
+Board (Special) (c. 1960 - c. 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00957b.htm">
+<relationEntry localType="Legislation">
+Personal Information Protection Act 2004 (2004 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00683b.htm">
+<relationEntry localType="Archival Series">
+Applications and Associated Correspondence for Compassionate Allowances (1913 - 1971)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00947b.htm">
+<relationEntry localType="Contact Details">
+Department of Health and Human Services - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00946b.htm">
+<relationEntry localType="Archival Series">
+Daily Record of Instructions and Orders Relating to Medication, Treatment, Admission and Discharge of Patients, Mothercraft Home (1968 - 1969)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00060b.htm">
+<relationEntry localType="Organisation">
+Centacare Tasmania (1977 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00623b.htm">
+<relationEntry localType="Glossary Term">
+Preventive Supervision (c. 1960 - c. 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00620b.htm">
+<relationEntry localType="Glossary Term">
+Remanded for any Purpose (1960 - 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00619b.htm">
+<relationEntry localType="Glossary Term">
+Remanded for Observation (1960 - 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00614b.htm">
+<relationEntry localType="Glossary Term">
+Extended Guardianship (1960 - 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00591b.htm">
+<relationEntry localType="Glossary Term">
+Approved Children's Home (Primary School Rate) (c. 1960 - c. 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00592b.htm">
+<relationEntry localType="Glossary Term">
+Approved Children's Home (High School Rate) (c. 1960 - c. 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00618b.htm">
+<relationEntry localType="Glossary Term">
+Temporary Admission (1960 - 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00590b.htm">
+<relationEntry localType="Glossary Term">
+Friends (c. 1960 - c. 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01022b.htm">
+<relationEntry localType="Event">
+KPMG's Review and Development of Potential Reforms for Tasmanian Child Protection and Out of Home Care Sectors (2007)
+</relationEntry>
+<descriptiveNote>
+<p>The Department of Health and Human Services runs child protection services.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00613b.htm">
+<relationEntry localType="Glossary Term">
+Provisional Discharge (1960 - 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00615b.htm">
+<relationEntry localType="Glossary Term">
+Discharge by Age (1960 - 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00616b.htm">
+<relationEntry localType="Glossary Term">
+Discharged by Minister's Authority (1960 - 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00617b.htm">
+<relationEntry localType="Glossary Term">
+Discharged (Adopted) (1960 - 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01024b.htm">
+<relationEntry localType="Event">
+Inquiry by the Auditor-General into Out of Home Care (2011 - 2012)
+</relationEntry>
+<descriptiveNote>
+<p>The Department of Health and Human Services ran the child protection system.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00292b.htm">
+<relationEntry localType="Organisation">
+Eastville Family Group Home (1981 - c. 1987)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00293b.htm">
+<relationEntry localType="Organisation">
+Lucinda Family Group Home (1980 - 1986)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00294b.htm">
+<relationEntry localType="Organisation">
+Miranda Family Group Home (1980? - 2005?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00291b.htm">
+<relationEntry localType="Organisation">
+Danbury Family Group Home (c. 1981 - c. 1987)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00290b.htm">
+<relationEntry localType="Organisation">
+Cornwall Family Group Home (c. 1981 - 2005?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00070b.htm">
+<relationEntry localType="Organisation">
+Ashley Youth Detention Centre (1999 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00488b.htm">
+<relationEntry localType="Organisation">
+Willowbend Family Group Home (1990? - 2005?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00283b.htm">
+<relationEntry localType="Organisation">
+Malmesbury Family Group Home (c. 1981 - 2009)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00295b.htm">
+<relationEntry localType="Organisation">
+Monomeeth Family Group Home (c. 1981 - c. 2011)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00938b.htm">
+<relationEntry localType="Organisation">
+Royal Hobart Hospital (1938 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00285b.htm">
+<relationEntry localType="Organisation">
+Mardon Family Group Home (c. 1981 - 2000?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00932b.htm">
+<relationEntry localType="Organisation">
+Queen Alexandra Maternity Hospital (1908 - 1999)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00537b.htm">
+<relationEntry localType="Glossary Term">
+Family Support (1980 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00535b.htm">
+<relationEntry localType="Glossary Term">
+Home Help (1947 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00355b.htm">
+<relationEntry localType="Glossary Term">
+Special Contract Care (1985 - 2000?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00374b.htm">
+<relationEntry localType="Organisation">
+Parenting Centres (c. 1993 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00818b.htm">
+<relationEntry localType="Organisation">
+Reeve House (1992 - 2011)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00819b.htm">
+<relationEntry localType="Organisation">
+Mental Health Services (1989? - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00296b.htm">
+<relationEntry localType="Organisation">
+Naramarrindi Family Group Home (c. 1983 - c. 2005)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00963b.htm">
+<relationEntry localType="Organisation">
+Mersey General Hospital (1958 - 1995)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00289b.htm">
+<relationEntry localType="Organisation">
+Connellen Family Group Home (c. 1981 - 2005?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00571b.htm">
+<relationEntry localType="Organisation">
+Haldon Family Group Home (c. 1987 - 2000?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00525b.htm">
+<relationEntry localType="Organisation">
+Woodlands Family Group Home (c. 1985 - 2000?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00306b.htm">
+<relationEntry localType="Organisation">
+Rochebank Family Group Home (c. 1981 - 2009)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00301b.htm">
+<relationEntry localType="Organisation">
+Kiah Family Group Home (1985 - c. 2000)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00851b.htm">
+<relationEntry localType="Organisation">
+Southern Parenting Centre (c. 1989 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00031b.htm">
+<relationEntry localType="Organisation">
+Ashley Home for Boys (1926 - 1999)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1998-01-01">1998</fromDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Department of Health and Human Services', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Department of Health and Human Services</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00023b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

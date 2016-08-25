@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00652</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-04-30">2013-04-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-05-14">2015-05-14</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00652b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Area School</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1936-01-01">1936</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government-run</term>
+</function>
+<function>
+<term>School</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Area schools, run by the Education Department, began in 1936. They were an attempt to improve the educations of rural children and keep them in the area after they left school, by providing a curriculum that met the needs of local industries. In 2013, the Education Department continues to run area schools.</abstract>
+<p>Until 1936, rural children were taught in one roomed schools where their education was limited by isolation and the necessity for the teacher, who had few facilities, to teach an age group that ranged from five to fourteen. Teachers in rural schools were usually inexperienced which, even though many were enthusiastic, further limited the quality of the education. The academic subjects taught did not prepare the children for work in their area so that any who did show academic promise would have to leave to attend high school. They usually did not return because academic studies prepared them for the kinds of jobs offered in the city.</p>
+<p>GV Brooks, the Director of the Education Department, was inspired by his observation of area schools in England. This led him to try and solve these problems by establishing larger schools in rural centres that could offer a wider curriculum and attract more experienced teachers. The schools were allowed to develop their curriculums so that they met the training needs of local industries.</p>
+<p>The first two schools to open were at Hagley and Sheffield. Hagley Area School, also known as Hagley Farm School, provided training in farming, building, and domestic science. It later offered a residential education to the sons of servicemen and child migrants from Belgium, Greece, and Britain.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00391b.htm">
+<relationEntry localType="Organisation">
+Education Department, State of Tasmania (1885 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00112b.htm">
+<relationEntry localType="Archival Item">
+Premier of Tasmania - Proposals Child Migration [6 folios], file number 1945/5/37 (1944)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01004b.htm">
+<relationEntry localType="Archival Item">
+Area Farm Schools Tasmania (1940 - 1951)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00097b.htm">
+<relationEntry localType="Organisation">
+Hagley Farm School (1936 - 1976?)
+</relationEntry>
+<descriptiveNote>
+<p>Hagley Farm School was an area school.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Area School', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Area School</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00652b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000294.htm">
+<relationEntry localType="published">Book: Making a more adequate provision: state education in Tasmania, 1839-1985</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Phillips, Derek</name>
+<title render="italic">Making a more adequate provision: state education in Tasmania, 1839-1985</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Education Department</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000486.htm">
+<relationEntry localType="published">Book: Hagley : the story of a Tasmanian Area School</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Maslin, JS</name>
+<title render="italic">Hagley : the story of a Tasmanian Area School</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Georgian House</publisher>
+<date>1948</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

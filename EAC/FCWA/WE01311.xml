@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01311</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Item</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-12-16">2013-12-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-13">2015-03-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01311b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Kalgoorlie Photos</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1913-01-01">1913</fromDate>
+<toDate standardDate="1943-12-31">1943</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Kalgoorlie Photos is a file held in the Children's Homes Files series at the Salvation Army Heritage Museum WA. This lever-arch file contains information and images relating to the activities of the Salvation Army Corps in Kalgoorlie-Boulder, and includes some information and images relating to the Salvation Army Girls' Home ('The Fold'), Kalgoorlie (Lamington).</abstract>
+<h4>Access Conditions</h4>
+<p>Access to most items in the file is open, but it is essential to make an appointment to view.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01303b.htm">
+<relationEntry localType="Archival Series">
+Children's Homes Files (1897 - 2012)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01300b.htm">
+<relationEntry localType="Contact Details">
+Salvation Army Heritage Museum WA - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Kalgoorlie Photos', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Kalgoorlie Photos</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01311b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000794.htm">
+<relationEntry localType="digitalObject">In the Army's Care</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Salvation Army Heritage Museum WA</repository>
+<unittitle>In the Army's Care</unittitle>
+<unitid>Kalgoorlie Photos file</unitid>
+<unitdate>1945</unitdate>
+<abstract>'In the Army's Care' is a digital copy of an excerpt from an item held in the <span style="font-style:italic">Kalgoorlie Photos</span> file at the Salvation Army Heritage Museum WA. The item is a booklet titled 'The Kalgoorlie Corps Golden Jubilee Celebrations May 30 - 1945 - June 3'. The item shows scenes from a Girl's Home which is likely to have been the Salvation Army Girls' Home, Kalgoorlie.</abstract>
+<note label="rights">Salvation Army Heritage Museum WA</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000793.htm">
+<relationEntry localType="digitalObject">Kalgoorlie Girls' Dormitory</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Salvation Army Heritage Museum WA</repository>
+<unittitle>Kalgoorlie Girls' Dormitory</unittitle>
+<unitid>Kalgoorlie Photos file</unitid>
+<unitdate>1913</unitdate>
+<abstract>'Kalgoorlie Girls' Dormitory' is a digital copy of an item held in the <span style="font-style:italic">Kalgoorlie Photos</span> file at the Salvation Army Heritage Museum WA. The item is a photocopy of an image of a dormitory at the Salvation Army Girls' Home, Kalgoorlie. A typed note on the item says it was donated by Mrs EM Teede, and that the pillows are embroided with the words, 'Jesus Saves'. It is adjacent to a very poor photocopy of the same image, and a handwritten note dates the image to 1913, and gives its title as 'Dark Girls Dormitory', located in the Battye (State Library of Western Australia) at Call No. 727B.</abstract>
+<note label="rights">Salvation Army Heritage Museum WA</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000792.htm">
+<relationEntry localType="digitalObject">Visit to Kalgoorlie</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Salvation Army Heritage Museum WA</repository>
+<unittitle>Visit to Kalgoorlie</unittitle>
+<unitid>Kalgoorlie Photos file</unitid>
+<unitdate>15 October 1921</unitdate>
+<abstract>'Visit to Kalgoorlie' is a digital copy of an item held in the <span style="font-style:italic">Kalgoorlie Photos</span> file at the Salvation Army Heritage Museum WA. The item is a photocopied excerpt from <span style="font-style:italic">The War Cry</span> dated 15 October 1921. The caption reports on a visit by the 'Subiaco Boys' and the presence of 'Girls from the Lamington Home'. These refer to the Salvation Army Boys' Home, West Subiaco (Nedlands) and the Salvation Army Girls' Home, Kalgoorlie (Lamington Heights).</abstract>
+<note label="rights">Salvation Army Heritage Museum WA</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000791.htm">
+<relationEntry localType="digitalObject">Our Children's Home at Kalgoorlie, W.A.</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Salvation Army Heritage Museum WA</repository>
+<unittitle>Our Children's Home at Kalgoorlie, W.A.</unittitle>
+<unitid>Kalgoorlie Photos file</unitid>
+<unitdate>26 March 1921</unitdate>
+<abstract>'Our Children's Home at Kalgoorlie, W.A.' is a digital copy of an item held in the <span style="font-style:italic">Kalgoorlie Photos</span> file at the Salvation Army Heritage Museum WA. The item is a photocopied excerpt from <span style="font-style:italic">The War Cry</span> dated 26 March 1921 and shows the building on a corner. A handwritten note reads, 'Lamington Heights', which was the Kalgoorlie suburb in which the Home was located, and 'Also known as The Fold'.</abstract>
+<note label="rights">Salvation Army Heritage Museum WA</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

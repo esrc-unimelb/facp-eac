@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01233</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-11-05">2013-11-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Margaret Pember and Elizabeth Daniels</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01233b.htm</entityId>
+<entityId localType="Wanslea Family Services Series Number">Series 06</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Incident Reports - Day Books - 1983-1985</part>
+<part localType="parent">Wanslea Family Services</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1983-01-01">1983</fromDate>
+<toDate standardDate="1985-12-31">1985</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Incident Reports - Day Books - 1983-1985 comprises two foolscap books, one with a red cover one with a green cover. These books provide a day to day record of activities and any incidents that may have occurred at Wanslea during this period, including names of children, messages from parents, etc.</abstract>
+<p>The Incident Report Day Books provide a day to day record of activities and any incidents that may have occurred, including names of children, messages from parents, etc.</p>
+<p>Wanslea Family Services has described the condition of these books as 'fair' and 'used'.</p>
+<p>Unfortunately Wanslea Family Services informed us that there are gaps in the books, the books cover the following dates: April 1983 to October 1983; November 1984 to March 1985. Sadly this means some information about some people may be missing.</p>
+<h4>Access Conditions</h4>
+<p>This Archival Series is classified as 'Closed' by Wanslea Family Services. This means only some people, such as people who experienced 'care' through Wanslea Family Services, can access these records. If you want to access these records you need to contact the Wanslea Family Services office in Scarborough because these records may contain personal or private information.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00591b.htm">
+<relationEntry localType="Archival Collection">
+Wanslea Family Services Records, Wanslea Family Services (1940s - 2004)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01172b.htm">
+<relationEntry localType="Contact Details">
+Wanslea Family Services - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Incident Reports - Day Books - 1983-1985', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Incident Reports - Day Books - 1983-1985</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01233b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

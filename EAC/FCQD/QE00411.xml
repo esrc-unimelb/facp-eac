@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00411</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-03-08">2012-03-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth and Nicola Laurent</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00411b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>State Library of Queensland</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Also known as"><part>Brisbane Public Library</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1896-01-01">1896</fromDate>
+<toDate standardDate="1898-12-31">1898</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+<nameEntry localType="Also known as"><part>The Public Library of Queensland</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1898-01-01">1898</fromDate>
+<toDate standardDate="1971-12-31">1971</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1896-01-01">1896</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Records Access Service</term>
+</function>
+<function>
+<term>Records Holder</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The State Library of Queensland was established in 1896 and opened in 1902. The State Library is the legal deposit library for Queensland, the main reference and research library of Queensland and its primary role is to ensure Queensland's documentary heritage is collected, preserved and made accessible to the public. The Library holds some records from past 'care providers', generally found in the John Oxley Library and genealogical records including birth and death certificates in the Family History Unit.</abstract>
+<p>The State Library of Queensland contains the John Oxley Library on Level 4. The John Oxley Library was opened in 1934 and is responsible for collecting, managing and providing access to material that documents Queensland's history, development and cultural life. The John Oxley Library collects widely and is assisted by the State Library's legal deposit role, which requires publishers, authors and others to deposit a copy of their works with the library.</p>
+<p>Some records of the Congregational, Methodist, Presbyterian and Uniting Church out-of-home care institutions were transferred to the John Oxley Library in Brisbane. These records only relate to church administration and operations. There are no individual files of former residents.</p>
+<p>The State Library of Queensland also has a large collection of genealogical resources within its Family History Unit. The resources cover records from Queensland, other Australian states and other countries and include census records, immigration and shipping, births, deaths and marriages among other items.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1934-01-01">1934</fromDate>
+<toDate standardDate="1934-01-01">1934</toDate>
+</dateRange>
+<placeEntry>South Bank</placeEntry>
+<event>Location - John Oxley Library was situated at Stanley Place, South Bank</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00926b.htm">
+<relationEntry localType="Archival Collection">
+John Oxley Library Records
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00974b.htm">
+<relationEntry localType="Archival Collection">
+Forgotten Australians : Micah Pilot Oral History and Digital Story Project [sound and video recording] (2011)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00704b.htm">
+<relationEntry localType="Contact Details">
+State Library of Queensland - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'State Library of Queensland', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">State Library of Queensland</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00411b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

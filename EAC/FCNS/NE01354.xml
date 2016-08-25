@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01354</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-08-12">2013-08-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-05-30">2014-05-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01354b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Methodist Department of Social Services</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Department of Social Responsibility</part>
+</nameEntry>
+<nameEntry localType=""><part>Department of Social Services and Public Questions</part>
+</nameEntry>
+<nameEntry localType=""><part>Public Questions Committee</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1943-01-01">c. 1943</fromDate>
+<toDate standardDate="1965-12-31">1965</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Methodist</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Methodist Department of Social Services was the social welfare arm of the Methodist Church. Its work evolved from the Methodist Missions at Leichhardt, Paddington, Balmain and the Central Methodist Mission. It ran Iandra at Grenfell and Heighway House at Drummoyne and Thornleigh.</abstract>
+<p>According to Reverend Harry Herbert, the Methodist Church's first Director of Social Services was Reverend Bill Hobbin, who had campaigned around the issue of slum housing in Bellevue Hill.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00248b.htm">
+<relationEntry localType="Organisation">
+Wesleyan Methodist Church of New South Wales (1912 - )
+</relationEntry>
+<descriptiveNote>
+<p>The Methodist Department of Social Services was the welfare arm of the Wesleyan Methodist Church of New South Wales.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00283b.htm">
+<relationEntry localType="Organisation">
+Central Methodist Mission, Sydney (1885 - 1977)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00241b.htm">
+<relationEntry localType="Organisation">
+Heighway House Project (1960 - 1979?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00246b.htm">
+<relationEntry localType="Organisation">
+Iandra Methodist Rural Centre (1956 - 1974)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1956-01-01">1956</fromDate>
+<toDate standardDate="1965-12-31">1965</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00245b.htm">
+<relationEntry localType="Organisation">
+Methodist Department of Christian Citizenship (1965 - 1977)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Methodist Department of Social Services', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Methodist Department of Social Services</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01354b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

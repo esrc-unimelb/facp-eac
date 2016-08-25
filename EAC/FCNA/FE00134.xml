@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>FE00134</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNA</agencyCode>
+<agencyName>Find &amp; Connect - Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2016-01-05">2016-01-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Michael Jones</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-06-01">2016-06-01</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/australia/biogs/FE00134b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Find and Connect Records Access Documentation Project</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2011-01-01">2011</fromDate>
+<toDate standardDate="2013-12-31">2013</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Project</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Find and Connect Records Access Documentation Project was implemented to help organisations document, index and release records relating to out-of-home 'care'. Following an application process successful organisations were funded from 2012-2013. The project was part of the suite of services known as the Find and Connect Program.</abstract>
+<p>The Find and Connect Records Access Documentation Project (RADP) was part of the suite of services known as the Find and Connect Program. The project was allocated funding in 2011-2012, with eligible organisations invited to submit applications by 18 April 2012. Twenty nine applications were received and following an assessment process all were subsequently funded from 2012-2013.</p>
+<p>In mid-2012, to conincide with the commencement of the project, the University of Melbourne's eScholarship Research Centre (ESRC) was contracted to develop training materials and tools, and to provide support to organisations who received grants. ESRC staff developed and ran training workshops in Melbourne, Sydney, Brisbane and Perth, developed an Excel indexing tool, and created online training videos and related material which was subsequently made accessible via the Find and Connect web resource in November 2012.</p>
+<p>Following the conclusion of the formal project, in October and November 2013, organisations were requested to send collection descriptions, series descriptions and other relevant information suitable for public release to the Find and Connect Web Resource Project team. Information received was then used to add or expand entries on the Find and Connect Web Resource.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00125b.htm">
+<relationEntry localType="Organisation">
+Find &amp; Connect Web Resource Project (2011 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00126b.htm">
+<relationEntry localType="Organisation">
+eScholarship Research Centre, The University of Melbourne (2007 - )
+</relationEntry>
+<descriptiveNote>
+<p>The eScholarship Research Centre developed tools and training for organisations participating in the Find and Connect Records Access Documentation Project.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00132b.htm">
+<relationEntry localType="Organisation">
+Department of Families, Housing, Community Services and Indigenous Affairs, Australian government (2007 - 2013)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Find and Connect Records Access Documentation Project', in <span style="font-style:italic">Find &amp; Connect - Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Find and Connect Records Access Documentation Project</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00134b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/bib/FP0000098.htm">
+<relationEntry localType="published">Resource: Resources for Record Holders</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Find &amp; Connect Web Resource Project, The University of Melbourne and Australian Catholic University</name>
+<title render="italic">Resources for Record Holders</title>
+<imprint>
+<publisher>eScholarship Research Centre, The University of Melbourne</publisher>
+</imprint>
+<extptr linktype="simple" href="http://findandconnect.gov.au/resources/radp/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

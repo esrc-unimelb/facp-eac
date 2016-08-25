@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01114</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-07-15">2013-07-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-01-28">2015-01-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01114b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Phoebe Holmes Hostel</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="possibly also known as"><part>Ministering Children’s League Hostel</part>
+</nameEntry>
+<nameEntry localType="possibly also known as"><part>Phoebe Holmes Cottage</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1961-01-01">1961</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Disability Institution</term>
+</function>
+<function>
+<term>Hostel</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Phoebe Holmes Hostel in Subiaco was run by the Slow Learning Children's Group from 1961 as accommodation for young people with developmental disabilities.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1961-01-01">1961</fromDate>
+<toDate standardDate="1961-12-31">1961</toDate>
+</dateRange>
+<placeEntry>Subiaco</placeEntry>
+<event>Location - The Phoebe Holmes Hostel was established in Union Street, Subiaco</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01113b.htm">
+<relationEntry localType="Organisation">
+Union Street Hostel (1959 - 1961)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01052b.htm">
+<relationEntry localType="Organisation">
+Slow Learning Children's Group (1951 - 1989)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1961-01-01">1961</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
+<relationEntry localType="Archival Collection">
+Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01213b.htm">
+<relationEntry localType="Archival Collection">
+Slow Learning Children's Group and Activ Foundation Records (1957 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01112b.htm">
+<relationEntry localType="Organisation">
+Ministering Children's League (1891 - 1957)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1957-01-01">1957</fromDate>
+<toDate standardDate="1957-12-31">1957</toDate>
+</dateRange>
+<descriptiveNote>
+<p>The Ministering Children's League (MCL) donated funds that the Slow Learning Children's Group used for the purchase of the property that later became known as the Phoebe Holmes Hostel in honour of the founder of the MCL.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Phoebe Holmes Hostel', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Phoebe Holmes Hostel</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01114b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001089.htm">
+<relationEntry localType="published">Book: </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James, Ruth Marchant</name>
+<imprint>
+<place>Perth Western Australia</place>
+<publisher>Meath Ministering League Anglican Homes Perth WA</publisher>
+<date>1982</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000855.htm">
+<relationEntry localType="published">Book: Our Children: A History of the Slow Learning Children's Group of WA</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hunt, Heather</name>
+<title render="italic">Our Children: A History of the Slow Learning Children's Group of WA</title>
+<imprint>
+<place>Perth</place>
+<publisher>Activ Foundation</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

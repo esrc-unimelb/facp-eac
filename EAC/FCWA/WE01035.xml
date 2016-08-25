@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01035</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-04-25">2013-04-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-02">2015-03-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01035b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Borderline Defective</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="also known as"><part>Border-Line Defective</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1920-01-01">1920s</fromDate>
+<toDate standardDate="1950-12-31">1950s</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Term commonly found on child welfare records</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Borderline defective was a term used in the twentieth century to describe people who had intellectual disabilities. The Minister for Public Health in Western Australia defined five classes of 'defectives' in 1929. The fifth class was border-line cases, who were 'persons in whose case there exists mental defectiveness, not amounting to feeble-mindedness, accompanied by instability which is so pronounced that they are rendered socially inefficient and in urgent need of supervision, treatment and training which cannot be given in the ordinary schools' (<span style="font-style:italic">Hansard</span>, 17 September 1929, p.742).</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01033b.htm">
+<relationEntry localType="Glossary Term">
+Feeble-Minded (1920s - 1950s)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00453b.htm">
+<relationEntry localType="Glossary Term">
+Mentally Deficient
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00990b.htm">
+<relationEntry localType="Glossary Term">
+Intellectual Disability
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Borderline Defective', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Borderline Defective</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01035b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000940.htm">
+<relationEntry localType="published">Resource Section: Bill - Mental Deficiency. Second Reading [Hansard p739-747]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Bill - Mental Deficiency. Second Reading [Hansard p739-747]</title>
+<imprint>
+<publisher>Parliament of Western Australia</publisher>
+<date>1929</date>
+</imprint>
+<bibseries>
+<title render="italic">Hansard Archive 1870 to 1995</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.parliament.wa.gov.au/Hansard%5Chansard1870to1995.nsf/vwMainBackground/19290917_Assembly.pdf/$File/19290917_Assembly.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000324.htm">
+<relationEntry localType="digitalObject">Annual Report for the Year June, 1927-28 [State Psychological Clinic]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Western Australia</repository>
+<unittitle>Annual Report for the Year June, 1927-28 [State Psychological Clinic]</unittitle>
+<unitid>Minutes and Votes and Proceedings of the Parliament, 1928, Vol.2 Paper No.22</unitid>
+<unitdate>1928</unitdate>
+<abstract>This is a digital copy of the Annual Report of the State Psychological Clinic for the year ending June 1928. It is part of the <span style="font-style:italic">Minutes, Votes and Proceedings</span> of the Western Australian Parliament. It shows the complicated tests that were used to classify and diagnose children with intellectual and psychological disabilities. The report also gives information about current and planned 'treatments'.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

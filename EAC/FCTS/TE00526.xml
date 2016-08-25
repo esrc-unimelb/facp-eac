@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00526</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-08-27">2012-08-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-05">2015-03-05</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00526b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Southern Regional Resource Centre</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Also known as"><part>Southern Regional Resource Unit</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1985-01-01">1985</fromDate>
+<toDate standardDate="1995-12-31">1995?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Agency</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Southern Regional Resource Centre opened in January 1985. Unlike the other resource centres, it did not run many activities. Instead, since the southern region already had a wide range of community groups, it linked welfare workers to those. The Centre closed in the 1990s.</abstract>
+<p>In 1985, staff at the Centre found camping programs for 25 teenagers. At the same time, they discovered that there was not enough of this kind of activity for teenagers and developed a holiday and camping program for them.</p>
+<p>By 1988, the Centre had initiated holiday programs, community-based camps, and a pilot accommodation program for troubled teenagers at Bevis Marks, as well as after school and weekend activities for children in family group homes. These included abseiling, climbing, making kayaks, kayaking, rafting, and athletics.</p>
+<p>The Centre also provided support to Family Group Homes in the south and took part in monthly meetings with the carers.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00020b.htm">
+<relationEntry localType="Organisation">
+Social Welfare Department, State of Tasmania (1961 - 1983)
+</relationEntry>
+<descriptiveNote>
+<p>The Social Welfare Department planned to open the Southern Resource Centre. This did not happen until 1985 when the Department had become the Department for Community Welfare.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00529b.htm">
+<relationEntry localType="Glossary Term">
+Independent Living Unit (c. 1983 - 1995?)
+</relationEntry>
+<descriptiveNote>
+<p>The Southern Regional Resource Centre ran the independent living unit at Bevis Marks.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00172b.htm">
+<relationEntry localType="Glossary Term">
+Family Group Home (c. 1981 - )
+</relationEntry>
+<descriptiveNote>
+<p>The Southern Regional Resource Centre offered support to family group homes in the area.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00318b.htm">
+<relationEntry localType="Glossary Term">
+Regional Resource Centre (c. 1980 - 1990?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00528b.htm">
+<relationEntry localType="Organisation">
+Bevis Marks Independent Living Unit (1988 - 1995?)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Southern Regional Resource Centre', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Southern Regional Resource Centre</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00526b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01176</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-07-26">2012-07-26</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-05-30">2014-05-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01176b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Bush Church Aid Society</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1919-01-01">1919</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Protestant</term>
+</function>
+<function>
+<term>Hostel</term>
+</function>
+<function>
+<term>Mission</term>
+</function>
+<function>
+<term>Anglican</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Bush Church Aid Society is a Christian ministry that has provided religious education, flying padres and counselling, welfare and medical services across outback Australia. In 2012, many of its workers are Aboriginal. It also ran children's hostels, providing accommodation and residential support for children who had to leave their homes for their education. One of these hostels was located in Broken Hill, at 182 Lane Street. It is thought that records of the Broken Hill Home are limited to one box of photos and Bush Church Aid Society magazines, <span style="font-style:italic">The Real Australian</span>. There are no lists of names of children.</abstract>
+<p>The Bush Church Aid Society was an offshoot of the Colonial and Continental Church Society, which began in the Swan River Colony in Western Australia in 1836. In 1919 missionary S.J. Kirby developed new work, via the Bush Church Aid Society, across Australia.</p>
+<p>The Bush Church Aid Society remains active in Christian missionary work.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1920-01-01">c. 1920</fromDate>
+<toDate standardDate="1920-12-31">c. 1920</toDate>
+</dateRange>
+<placeEntry>Broken Hill</placeEntry>
+<event>Address - Bush Church Aid Society established a hostel at 182 Lane Street, Broken Hill</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bush Church Aid Society', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bush Church Aid Society</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01176b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000205.htm">
+<relationEntry localType="published">Resource Section: History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">History</title>
+<imprint>
+<publisher>The Bush Church Aid Society of Australia</publisher>
+</imprint>
+<extptr linktype="simple" href="http://bushchurchaid.com.au/ourmission/history/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000198.htm">
+<relationEntry localType="published">Journal: The Real Australian</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">The Real Australian</title>
+<imprint>
+<publisher>Bush Church Aid Society (Australia)</publisher>
+<date>1920</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

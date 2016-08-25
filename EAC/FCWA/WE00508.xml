@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00508</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-01-16">2012-01-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-01-28">2015-01-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00508b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Broome Residential College</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2008-01-01">2008</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Hostel</term>
+</function>
+<function>
+<term>Government-run</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Broome Residential College opened in 2008, to provide accommodation for young people going to high school in Broome. It was one of the Country High School Hostels Authority colleges.</abstract>
+<p>Broome Residential College was established by the Country High School Hostels Authority in 2008. The Redress WA schedule of 'Facilities Operated Subject to the <span style="font-style:italic">Country High School [Hostels] Authority Act 1960</span> - Past and Present' (18 May 2011) includes a reference to the Broome Residential College. It has been common practice in Western Australia for children who were in the care of the Chief Executive Officer (CEO) of the department responsible for child welfare to be boarded in one of the Authority's hostels.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="2008-01-01">2008</fromDate>
+<toDate standardDate="2008-12-31">2008</toDate>
+</dateRange>
+<placeEntry>Broome</placeEntry>
+<event>Location - Broome Residential College accommodated high school students in Broome</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00510b.htm">
+<relationEntry localType="Organisation">
+Country High School Hostels Authority, State of Western Australia (1960 - )
+</relationEntry>
+<descriptiveNote>
+<p>The Country High School Hostels Authority was required by s7(1)(b) of its Act to 'supervise and maintain' this residential college.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
+<relationEntry localType="Archival Collection">
+Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Broome Residential College', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Broome Residential College</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00508b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000183.htm">
+<relationEntry localType="published">Report: Redress WA Guidelines: Guidelines to Provide for an Ex Gratia Payment to Persons Abused and/or Neglected as Children While in State Care</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Redress WA Guidelines: Guidelines to Provide for an Ex Gratia Payment to Persons Abused and/or Neglected as Children While in State Care</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+<date>2011</date>
+</imprint>
+<extptr linktype="simple" href=""></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000059.htm">
+<relationEntry localType="digitalObject">Country High School Hostels Authority Act 1960 (Western Australia)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Country High School Hostels Authority Act 1960 (Western Australia)</unittitle>
+<unitdate>1960</unitdate>
+<abstract>The Country High School Hostels Authority Act 1960 established and governed the operations of the Country High School Hostels Authority. It was not uncommon for children who were Wards of the State to be boarded in one of the Authority's hostels.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

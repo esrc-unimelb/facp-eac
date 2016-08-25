@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AE00006</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCAC</agencyCode>
+<agencyName>Find &amp; Connect - Australian Capital Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-05-04">2011-05-04</eventDateTime>
+<agentType>human</agentType>
+<agent>Lydia Connell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-25">2016-05-25</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/act/biogs/AE00006b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Dr Barnardo's Homes (Australia Branch)</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1883-01-01">1883</fromDate>
+<toDate standardDate="1966-12-31">1966</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Community Service Organisation</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Non-denominational</term>
+</function>
+<function>
+<term>Receiving Agency</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Dr Barnardo's Homes (Australia Branch) began in 1883 when eight boys travelled from Dr Barnardo's Home in Stepney, London, to Australia. From 1920 to 1965 Barnardo's ran an official Immigration Scheme under which many children migrated to Australia. In 1966 the name of the agency changed to Dr Barnardos in Australia.</abstract>
+<p>The initial aim of the charity founded by Dr Thomas Barnardo of Dublin, was to provide homes for the homeless children of London and other cities in the United Kingdom.</p>
+<p>Whilst contact with Australia had previously been made when several groups of Barnardos children emigrated from 1883, an official Immigration Scheme was implemented in 1920. Many children were sent to Australia under this scheme until 1965. In 1966 the name of the agency changed from Dr Barnardo's Homes (Australia Branch) to Dr Barnardos in Australia.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00126b.htm">
+<relationEntry localType="Glossary Term">
+Child Migrant (1913 - 1968)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00120b.htm">
+<relationEntry localType="Archival Collection">
+Barnardos Australia, Records (1883? - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00123b.htm">
+<relationEntry localType="Organisation">
+Barnardos House (1964 - 1982)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1964-01-01">1964</fromDate>
+<toDate standardDate="1966-12-31">1966</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00121b.htm">
+<relationEntry localType="Organisation">
+Dr Barnardos in Australia (1966 - 1995?)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Dr Barnardo's Homes (Australia Branch)', in <span style="font-style:italic">Find &amp; Connect - Australian Capital Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Dr Barnardo's Homes (Australia Branch)</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australian Capital Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/act/biogs/AE00006b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000143.htm">
+<relationEntry localType="published">Newspaper Article: Barnardo Home Price Cut</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Barnardo Home Price Cut</title>
+<imprint>
+<place>ACT</place>
+<date>1964</date>
+</imprint>
+<bibseries>
+<title render="italic">The Canberra Times</title>
+<num type="pages">9</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article131742819"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000054.htm">
+<relationEntry localType="published">Resource: Good British Stock: Child and Youth Migration to Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">National Archives of Australia</name>
+<title render="italic">Good British Stock: Child and Youth Migration to Australia</title>
+<extptr linktype="simple" href="http://www.naa.gov.au/naaresources/Publications/research_guides/guides/childmig/introduction.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000003.htm">
+<relationEntry localType="published">Resource: Barnardos</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Barnardos</title>
+<imprint>
+<publisher>Barnardos Australia</publisher>
+<date>2011</date>
+</imprint>
+<extptr linktype="simple" href="http://www.barnardos.org.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

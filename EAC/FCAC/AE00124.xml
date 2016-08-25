@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AE00124</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCAC</agencyCode>
+<agencyName>Find &amp; Connect - Australian Capital Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-10-23">2012-10-23</eventDateTime>
+<agentType>human</agentType>
+<agent>Lydia Connell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-25">2016-05-25</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/act/biogs/AE00124b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Berwick House</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1968-01-01">1968</fromDate>
+<toDate standardDate="1983-12-31">1983</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Family Group Home</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Non-denominational</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Berwick House, in Curtin, was established in 1968 and run by Dr Barnardos in Australia. It was a family group home that provided long-term accommodation for 8 to 10 children who were considered unable to live at home. It also housed some boys who were government wards awaiting private foster homes. In 1983, Berwick House was closed and replaced by the Barnardos Children's Family Centre.</abstract>
+<p>Berwick House was opened on 25 October 1968 by Lord Casey to supplement the organisation's already-established home in Downer, called Barnardos House.</p>
+<p>Berwick House provided long-term accommodation for a further 8-10 children who were thought to have been unable to live at home due to family circumstances. Together the homes could accommodate 23 children at a time. The two Barnardos homes were used in addition to Marymead for the temporary placement of boys who were government wards awaiting private foster homes.</p>
+<p>Berwick House was sold in 1984 as a private residence.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1968-01-01">1968</fromDate>
+<toDate standardDate="1968-12-31">1968</toDate>
+</dateRange>
+<placeEntry>Curtin</placeEntry>
+<event>Location - Berwick House was situated in James Place, Curtin</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00121b.htm">
+<relationEntry localType="Organisation">
+Dr Barnardos in Australia (1966 - 1995?)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1968-01-01">1968</fromDate>
+<toDate standardDate="1978-12-31">1978?</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00120b.htm">
+<relationEntry localType="Archival Collection">
+Barnardos Australia, Records (1883? - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00050b.htm">
+<relationEntry localType="Glossary Term">
+Family Group Home (c. 1946 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00123b.htm">
+<relationEntry localType="Organisation">
+Barnardos House (1964 - 1982)
+</relationEntry>
+<descriptiveNote>
+<p>A second Dr Barnardos Home called Berwick House opened in Curtin in October 1968 to supplement the organisation's established home, Barnardos House in Downer.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00004b.htm">
+<relationEntry localType="Organisation">
+Barnardos Children's Family Centre (c. 1983 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Berwick House', in <span style="font-style:italic">Find &amp; Connect - Australian Capital Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Berwick House</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australian Capital Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/act/biogs/AE00124b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000142.htm">
+<relationEntry localType="published">Newspaper Article: Sidewalk Supervisor - Dr Barnardo Home ready soon</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Sidewalk Supervisor - Dr Barnardo Home ready soon</title>
+<imprint>
+<place>ACT</place>
+<date>1968</date>
+</imprint>
+<bibseries>
+<title render="italic">The Canberra Times</title>
+<num type="pages">13</num>
+</bibseries>
+<extptr linktype="simple" href=""></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000141.htm">
+<relationEntry localType="published">Newspaper Article: Barnardo home up for auction</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Barnardo home up for auction</title>
+<imprint>
+<place>ACT</place>
+<date>1984</date>
+</imprint>
+<bibseries>
+<title render="italic">The Canberra Times</title>
+<num type="pages">19</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article125000140"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000099.htm">
+<relationEntry localType="published">Report: Department of the Interior, Welfare Section, Annual Report 1969-1970</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Department of the Interior, Welfare Section, Annual Report 1969-1970</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Commonwealth of Australia</publisher>
+<date>1971</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000098.htm">
+<relationEntry localType="published">Report: Department of the Interior, Welfare Section, Annual Report 1968-1969</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Department of the Interior, Welfare Section, Annual Report 1968-1969</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Commonwealth of Australia</publisher>
+<date>1970</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000097.htm">
+<relationEntry localType="published">Resource Section: Barnardos Australia, Records (1883?-)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Downing, Melissa</name>
+<title render="quoted">Barnardos Australia, Records (1883?-)</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2012</date>
+</imprint>
+<bibseries>
+<title render="italic">Find &amp; Connect New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/nsw/biogs/NE00706b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

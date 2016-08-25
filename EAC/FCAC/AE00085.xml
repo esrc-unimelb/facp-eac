@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AE00085</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCAC</agencyCode>
+<agencyName>Find &amp; Connect - Australian Capital Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-02-23">2012-02-23</eventDateTime>
+<agentType>human</agentType>
+<agent>Lydia Connell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-12-17">2015-12-17</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/act/biogs/AE00085b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>ACT Women and Prisons Group</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="acronym"><part>WAP</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2005-01-01">2005</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Community Service Organisation</term>
+</function>
+<function>
+<term>Advocacy Body</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The ACT Women and Prisons Group (WAP) is a not-for-profit community group established in 2005. WAP is made up of women with lived experience of prison, including ex-prisoners and those currently detained in the criminal justice system, as well as ACT women's services and other interested women. WAP advocates for the human rights of all women involved in the criminal justice system and provides them with emotional and practical support both during and after incarceration.</abstract>
+<p>Since its establishment, WAP has been supported by the Women's Centre for Health Matters Inc. (WCHM) and the ACT Council of Social Service Inc (ACTCOSS). The Women's Centre for Health Matters Inc. provides office assistance, capacity building development assistance and other forms of support to the ACT Women and Prisons Group.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00084b.htm">
+<relationEntry localType="Organisation">
+Women's Centre for Health Matters Inc. (1990 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2005-01-01">2005</fromDate>
+</dateRange>
+<descriptiveNote>
+<p>The Women's Centre for Health Matters Inc. provides office assistance, capacity building development assistance and other forms of support to the ACT Women and Prisons Group.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'ACT Women and Prisons Group', in <span style="font-style:italic">Find &amp; Connect - Australian Capital Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">ACT Women and Prisons Group</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australian Capital Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/act/biogs/AE00085b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000064.htm">
+<relationEntry localType="published">Report: The Experiences of Women Forgotten Australians- A literature Review</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ebbels, Jasmin</name>
+<title render="italic">The Experiences of Women Forgotten Australians- A literature Review</title>
+<imprint>
+<publisher>Women's Centre for Health Matters</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.wchm.org.au/our-voice/reports/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000063.htm">
+<relationEntry localType="published">Report: Invisible Bars - The Stories Behind the Stats</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wybron, Deb and Dicker, Kiri</name>
+<title render="italic">Invisible Bars - The Stories Behind the Stats</title>
+<imprint>
+<publisher>Centre for Women's Health Matters</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.wchm.org.au/our-voice/reports/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

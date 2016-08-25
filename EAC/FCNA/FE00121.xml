@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>FE00121</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNA</agencyCode>
+<agencyName>Find &amp; Connect - Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-12-12">2012-12-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-05-06">2015-05-06</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/australia/biogs/FE00121b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Aged Care Act</part>
+<part localType="parent">Commonwealth of Australia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1997-01-01">1997</fromDate>
+<toDate standardDate="1997-12-31">1997</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Aged Care Act 1997 is the legislation relating to the provision of aged care in Australia. From 1 December 2009, this Act has recognised 'care leavers' as a 'special needs group'. This amendment is part of the Federal Government's program to improve aged care for Forgotten Australians, in the wake of the Apology in November 2009. The inclusion of 'care leavers' in the Aged Care Act 1997 means that the needs of Forgotten Australians must be considered in the planning and allocation of aged care places.</abstract>
+<p>The Allocation Principles of the Aged Care Act were amended to include 'care leavers' as a 'special needs group' in December 2009. The Provisions contained the following definitions:</p>
+<p>''care-leaver' means a person who was in institutional care or other form of out-of-home care, including foster care, as a child or youth (or both) at some time during the 20th century.</p>
+<p>'institutional care' refers to residential care provided by a government or non government organisation, including (but not limited to) any of the following:
+<list><item>(a) orphanages; </item>
+<item> (b) children's homes; </item>
+<item> (c) industrial, training or farm schools; </item>
+<item> (d) dormitory or group cottage houses; </item>
+<item> (e) juvenile detention centres; </item>
+<item> (f) mental health or disability facilities. </item></list>
+'</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00122b.htm">
+<relationEntry localType="Glossary Term">
+Institutional Care (1860s - 1970s)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00081b.htm">
+<relationEntry localType="Event">
+Australian Parliament Apology to Forgotten Australians and Former Child Migrants (16 November 2009)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00006b.htm">
+<relationEntry localType="Glossary Term">
+Forgotten Australians (c. 2004 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00008b.htm">
+<relationEntry localType="Glossary Term">
+Care Leavers
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Aged Care Act', in <span style="font-style:italic">Find &amp; Connect - Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Aged Care Act</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00121b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/bib/FP0000058.htm">
+<relationEntry localType="published">Resource Section: Aged Care Act 1997</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Aged Care Act 1997</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+</imprint>
+<bibseries>
+<title render="italic">ComLaw</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.comlaw.gov.au/Series/C2004A05206"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/bib/FP0000057.htm">
+<relationEntry localType="published">Resource Section: Allocation Amendment Principles 2009 (No. 2), Aged Care Act 1997
+
+Allocation Amendment Principles 2009 (No. 2), Aged Care Act 1997</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Allocation Amendment Principles 2009 (No. 2), Aged Care Act 1997
+
+Allocation Amendment Principles 2009 (No. 2), Aged Care Act 1997</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2009</date>
+</imprint>
+<bibseries>
+<title render="italic">ComLaw</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.comlaw.gov.au/Details/F2009L04302"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

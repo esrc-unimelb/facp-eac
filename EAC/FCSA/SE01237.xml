@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01237</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-09-09">2013-09-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Gary George and Karen George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-11-17">2015-11-17</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01237b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Wentworth House</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1945-01-01">1945</fromDate>
+<toDate standardDate="1960-12-31">1960?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Hostel</term>
+</function>
+<function>
+<term>Non-denominational</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Wentworth House was opened by the Legacy Club of Adelaide at Woodville in 1945. It provided accommodation for the children of deceased servicemen who were attending school and apprenticeships in the city. In 1946 it could accommodate 13 children and 2 staff. A second Legacy Hostel, known as Waverley House, opened in Adelaide in 1946. The two Hostels operated concurrently for several years. The closing date of Wentworth House is not known, however, from 1960 all Legacy Children were accommodated at Waverley House.</abstract>
+<p>Wentworth House was opened by the Legacy Club of Adelaide at 18 Belmore Terrace, Woodville, in April 1945. The home had been donated to the Legacy Club of Adelaide anonymously. It provided accommodation for the children of deceased servicemen, many from the country, who were attending school or doing apprenticeships in the city. Demands for accommodation led to alterations and additions being made to Wentworth House so that by mid 1946 it had space for 13 'Legacy Wards' and a staff of two adults. The Hostel was often full to capacity and in 1946 Legacy purchased a second property at South Terrace, Adelaide, known as Waverley House. The two Hostels operated concurrently for several years.</p>
+<p>The closing date of Wentworth House is not known, however, from 1960 all Legacy children were accommodated at Waverley House.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1945-01-01">1945</fromDate>
+<toDate standardDate="1960-12-31">1960?</toDate>
+</dateRange>
+<placeEntry>Woodville</placeEntry>
+<event>Address - Wentworth House was situated at 18 Belmore Terrace, Woodville</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00177b.htm">
+<relationEntry localType="Organisation">
+Legacy Club of Adelaide Inc (1928 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00780b.htm">
+<relationEntry localType="Archival Collection">
+Records of the Legacy Club of Adelaide Inc. (1941? - 1979?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00176b.htm">
+<relationEntry localType="Organisation">
+Waverley House (1946 - 1964)
+</relationEntry>
+<descriptiveNote>
+<p>Waverley House in Adelaide was the second Hostel opened by the Legacy Club of Adelaide. The first was Wentworth House.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Wentworth House', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Wentworth House</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01237b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000270.htm">
+<relationEntry localType="published">Newspaper Article: NEW LEGACY HOSTEL</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">NEW LEGACY HOSTEL</title>
+<imprint>
+<place>Adelaide, South Australia</place>
+<date>1946</date>
+</imprint>
+<bibseries>
+<title render="italic">The Advertiser</title>
+<num type="pages">6</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article35697126"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000042.htm">
+<relationEntry localType="published">Resource: Finding your own way</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">George, Karen</name>
+<title render="italic">Finding your own way</title>
+<imprint>
+<publisher>Nunkuwarrin Yunti of South Australia Inc.</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://nunku.org.au/resources/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000040.htm">
+<relationEntry localType="published">Book: A generation of Legacy service: South Australia and Broken Hill since 1945</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dickey, Brian</name>
+<title render="italic">A generation of Legacy service: South Australia and Broken Hill since 1945</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Legacy Club of Adelaide Inc</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

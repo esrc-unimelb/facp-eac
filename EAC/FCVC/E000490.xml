@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000490</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-10-30">2009-10-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-04-10">2014-04-10</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000490b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Chief Secretary's Department</part>
+<part localType="parent">State Government of Victoria</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1901-01-01">1901</fromDate>
+<toDate standardDate="1979-12-31">1979</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Agency</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Chief Secretary's Department played a significant role in the administration of Victorian government agencies from the time of its establishment in 1855. Prior to this, the Colonial Secretary was responsible for many of these functions. The Chief Secretary's Department was part of the Colonial Government of Victoria up until the federation of the colonies in 1901.</abstract>
+<p>For a long period of Victoria's history, the Chief Secretary's Department was ultimately responsible for the care of 'neglected' children and juvenile offenders. For example, the Department of Neglected Children was a sub-department of the Chief Secretary's Department.</p>
+<p>The Chief Secretary was responsible for the registration of private homes for the purpose of maintaining, nursing, and later adopting out infants under Infant Life Protection legislative provisions from 1907, the provision of financial assistance towards child maintenance from 1919, the administration of the Children's Welfare Act 1924, the regulation of adoption from 1928, employment conditions for children from 1928, and guardianship of child migrants from 1952.</p>
+<p>It was not until the passage of the Social Welfare Act in 1970, that the Social Welfare Department finally assumed full responsibility for child and family welfare in Victoria.</p>
+<p>The Chief Secretary's administrative involvement in child welfare means that the records of the Chief Secretary are a potentially rich source of information about children and families' interactions with the 'care' system. For example, the Registers of Licences contain records of children licensed to the care of private persons between 1874 and 1878. Further references to children in institutions may be found in the Chief Secretary's correspondence, registers and indexes. These records are in the custody of Public Record Office Victoria (PROV).</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000377b.htm">
+<relationEntry localType="Organisation">
+Chief Secretary's Department, Colony of Victoria (1855 - 1901)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Chief Secretary's Department', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Chief Secretary's Department</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000490b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

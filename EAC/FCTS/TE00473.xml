@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00473</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Item</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-05-15">2012-05-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00473b.htm</entityId>
+<entityId localType="Tasmanian Archive and Heritage Office Item Number">HSD132/1/1</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Register of the Admission of 'Mental Defectives'</part>
+<part localType="parent">New Town Infirmary</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1926-01-01">1926</fromDate>
+<toDate standardDate="1965-12-31">1965</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Register of the Admission of 'Mental Defectives' lists people living at the New Town Infirmary, and the institutions that superceded it, who were registered as 'mental defects' under the <span style="font-style:italic">Mental Deficiency Act</span> 1920. The age ranges were from 10 to 54.</abstract>
+<h4>Access Conditions</h4>
+<p>Open</p>
+<h4>Records</h4>
+<p>The Register gives the person's name, age, date of admission, date of discharge or death, religion, if able to read or write, date of certification under the <span style="font-style:italic">Mental Deficiency Act</span>, trade or calling, pensions, and the names and addresses of relatives or friends. A column entitled 'from what district' often names a former institution, for example HM Gaol, Ashley Home, Lachlan Park Hospital, Clarendon Children's Home, Northern Tasmanian Home for Boys, Barrington Home for Boys, and Magdalen Home. The Register is organised alphabetically with men on the left hand page and women on the right.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00399b.htm">
+<relationEntry localType="Organisation">
+Risdon Prison (1960 - )
+</relationEntry>
+<descriptiveNote>
+<p>Risdon Prison may have transferred inmates to the Mental Defectives' Home.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00035b.htm">
+<relationEntry localType="Organisation">
+Barrington Boys' Home (1946 - 1981)
+</relationEntry>
+<descriptiveNote>
+<p>Barrington Boys' Home transferred children to the Mental Defectives' Home.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00040b.htm">
+<relationEntry localType="Organisation">
+Magdalen Home (1893 - 1974)
+</relationEntry>
+<descriptiveNote>
+<p>The Magdalen Home transferred children to the Mental Defectives' Home.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00034b.htm">
+<relationEntry localType="Organisation">
+Northern Tasmanian Home for Boys (1921 - 1973)
+</relationEntry>
+<descriptiveNote>
+<p>The Northern Tasmanian Home for Boys transferred children to the Mental Defectives' Home.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00028b.htm">
+<relationEntry localType="Organisation">
+Clarendon Children's Home (1923 - 2004)
+</relationEntry>
+<descriptiveNote>
+<p>Clarendon Children's Home transferred children to the Mental Defectives' Home.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00031b.htm">
+<relationEntry localType="Organisation">
+Ashley Home for Boys (1926 - 1999)
+</relationEntry>
+<descriptiveNote>
+<p>Ashley Home for Boys transferred children to the Mental Defectives' Home.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00559b.htm">
+<relationEntry localType="Organisation">
+Campbell Street Gaol (1821 - 1960)
+</relationEntry>
+<descriptiveNote>
+<p>The Campbell Street Gaol transferred inmates to the Mental Defectives Home.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00707b.htm">
+<relationEntry localType="Contact Details">
+Tasmanian Archive and Heritage Office - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00297b.htm">
+<relationEntry localType="Organisation">
+St John's Park (1936 - 1994)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00298b.htm">
+<relationEntry localType="Organisation">
+New Town Rest Home (1934 - 1936)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00431b.htm">
+<relationEntry localType="Glossary Term">
+Item Number
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00428b.htm">
+<relationEntry localType="Glossary Term">
+Access Conditions
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00474b.htm">
+<relationEntry localType="Archival Series">
+Register of the Admission of "Mental Defectives", New Town Infirmary (1926 - 1965)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00209b.htm">
+<relationEntry localType="Glossary Term">
+Open Access Records
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00434b.htm">
+<relationEntry localType="Glossary Term">
+Archival Item
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Register of the Admission of 'Mental Defectives'', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Register of the Admission of 'Mental Defectives'</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00473b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

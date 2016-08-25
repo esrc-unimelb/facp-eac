@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00774</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Item</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-08-24">2012-08-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00774b.htm</entityId>
+<entityId localType="National Library of Australia Bib ID">5717502</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Jasmine Bidwell interviewed by Virginia Macleod in the Forgotten Australians and Former Child Migrants oral history project</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2011-01-01">2011</fromDate>
+<toDate standardDate="2011-12-31">2011</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>[From the National Library of Australia's Forgotten Australians and Former Child Migrants oral history project]
+
+Jasmine Bidwell, born in London (1947), discusses her parents and siblings; early memories of family happiness; holidays and car trips; schooling; training as a hairdresser; meeting her first husband and having a child at age 19; working as an actor and model; meeting Peter Bidwell (1975), an Australian who came to be her second husband; marrying and moving to Australia (1976); happy memories of her first impressions of Australia; living by the ocean in Narrabeen, N.S.W.; working with children with special needs at a hospital school; her daughter's relationship with her new husband; homesickness and missing her parents; a visit from her parents; difficulties in her relationship with her husband; returning to England (1981); finding work in a nursery; her husband increasingly revealing information about his childhood experiences in an orphanage; her extended family's love of and support for her husband; her husband's relationship with his mother; visiting Nazareth House (Romsey, U.K.); her husband's childhood memories of Nazareth House; visiting Clontarf Boys Orphanage, W.A.; her husband's childhood memories of Clontarf; visiting Aquinas College, Perth; her feelings about the Australian and British Apologies; religion; Australia and cultural identity.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00471b.htm">
+<relationEntry localType="Archival Collection">
+Forgotten Australians and Former Child Migrants oral history project [sound recording], National Library of Australia (2009 - 2012)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01159b.htm">
+<relationEntry localType="Contact Details">
+National Library of Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00773b.htm">
+<relationEntry localType="Archival Item">
+Barbara Henderson interviewed by Virginia Macleod in the Forgotten Australians and Former Child Migrants oral history project (2011)
+</relationEntry>
+<descriptiveNote>
+<p>Jasmine Bidwell and Barbara Henderson mention each other in their interviews.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00772b.htm">
+<relationEntry localType="Archival Item">
+Peter Bidwell interviewed by Virginia Macleod in the Forgotten Australians and Former Child Migrants oral history project (2011)
+</relationEntry>
+<descriptiveNote>
+<p>Peter Bidwell and Jasmine Bidwell are married and they mention each other in their interviews.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00057b.htm">
+<relationEntry localType="Organisation">
+Clontarf (1901 - 1983)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Jasmine Bidwell interviewed by Virginia Macleod in the Forgotten Australians and Former Child Migrants oral history project', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Jasmine Bidwell interviewed by Virginia Macleod in the Forgotten Australians and Former Child Migrants oral history project</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00774b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

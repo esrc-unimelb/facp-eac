@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01336</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-08-01">2013-08-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-09-19">2014-09-19</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01336b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Mercy Family Centre, Waitara</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1994-01-01">1994</fromDate>
+<toDate standardDate="2001-12-31">2001</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Catholic</term>
+</function>
+<function>
+<term>Temporary Care</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Mercy Family Centre was the new name for the Mercy Family Life Centre, and was built on the grounds of the old Our Lady of Mercy Home at Waitara by the Sisters of Mercy. Its services included emergency accommodation, educational services to families and child care services. In 2001 the Mercy Family Centre was converted to an aged care home.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1994-01-01">1994</fromDate>
+<toDate standardDate="1994-01-01">1994</toDate>
+</dateRange>
+<placeEntry>Waitara</placeEntry>
+<event>Location - Mercy Family Centre was situated at McAuley Place, Waitara</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00184b.htm">
+<relationEntry localType="Organisation">
+Mercy Family Life Centre, Waitara (1977 - 1994)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00120b.htm">
+<relationEntry localType="Organisation">
+Centacare, Broken Bay (1988 - c. 2013)
+</relationEntry>
+<descriptiveNote>
+<p>When the Mercy Family Centre closed its services were transferred to Centacare Broken Bay, now CatholicCare Broken Bay.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01592b.htm">
+<relationEntry localType="Organisation">
+CatholicCare, Diocese of Broken Bay (2013 - )
+</relationEntry>
+<descriptiveNote>
+<p>When the Mercy Family Centre closed its services were transferred to Centacare Broken Bay, now CatholicCare Broken Bay.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00180b.htm">
+<relationEntry localType="Organisation">
+Sisters of Mercy, North Sydney Congregation (1865 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Mercy Family Centre, Waitara', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Mercy Family Centre, Waitara</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01336b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

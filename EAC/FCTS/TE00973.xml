@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00973</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-05-14">2014-05-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-05">2015-03-05</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00973b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Spencer Public Hospital</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Spencer Hospital</part>
+</nameEntry>
+<nameEntry localType=""><part>Spencer District Hospital</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1918-01-01">1918</fromDate>
+<toDate standardDate="1965-12-31">1965</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Hospital</term>
+</function>
+<function>
+<term>Government-run</term>
+</function>
+<function>
+<term>Maternity Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Spencer Public Hospital in Goldie Street, Wynyard, opened in 1918.Initially, it had a locally appointed board but, in 1929, the state government took the Hospital over along with the supervision of its board. In 1944, a new building opened for general hospital patients while the old buildings were retained for maternity care. In 1965, Spencer Public Hospital amalgamated with Burnie General Hospital to become part of the North Western General Hospital.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1918-01-01">1918</fromDate>
+<toDate standardDate="1965-12-31">1965</toDate>
+</dateRange>
+<placeEntry>Wynyard</placeEntry>
+<event>Location - Spencer Public Hospital was situated in Goldie Street, Wynyard</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00580b.htm">
+<relationEntry localType="Organisation">
+Public Health Department, State of Tasmania (1904 - 1956)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00974b.htm">
+<relationEntry localType="Archival Series">
+Admission Register, Spencer Public Hospital and North Western General Hospital (1928 - 1975)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00969b.htm">
+<relationEntry localType="Glossary Term">
+Maternity Home (c. 1874 - c. 1960)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00608b.htm">
+<relationEntry localType="Glossary Term">
+Hospital (c. 1820 - c. 1990)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00971b.htm">
+<relationEntry localType="Organisation">
+Burnie General Hospital (1951 - 1965)
+</relationEntry>
+<descriptiveNote>
+<p>In 1965, Spencer Public Hospital amalgamated with Burnie General Hospital to become the North Western General Hospital.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Spencer Public Hospital', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Spencer Public Hospital</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00973b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000137.htm">
+<relationEntry localType="published">Book: A Guide to Tasmanian Government Administration</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wettenhall, RL</name>
+<title render="italic">A Guide to Tasmanian Government Administration</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Platypus Publications</publisher>
+<date>1968</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000721.htm">
+<relationEntry localType="published">Newspaper Article: A house of mercy: the Spencer Hospital, Wynyard</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">O'Donnell, TJ</name>
+<title render="quoted">A house of mercy: the Spencer Hospital, Wynyard</title>
+<imprint>
+<place>Burnie</place>
+<date>1945</date>
+</imprint>
+<bibseries>
+<title render="italic">Advocate</title>
+<num type="pages">2</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article68912812"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000720.htm">
+<relationEntry localType="published">Newspaper Article: Spencer Hospital</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Spencer Hospital</title>
+<imprint>
+<place>Launceston</place>
+<date>1919</date>
+</imprint>
+<bibseries>
+<title render="italic">Examiner</title>
+<num type="pages">5</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article51027123"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000719.htm">
+<relationEntry localType="published">Newspaper Article: Spencer Hospital</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Spencer Hospital</title>
+<imprint>
+<place>Launceston</place>
+<date>1919</date>
+</imprint>
+<bibseries>
+<title render="italic">Examiner</title>
+<num type="pages">3</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article51024606"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000718.htm">
+<relationEntry localType="published">Newspaper Article: Spencer Hospital</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Spencer Hospital</title>
+<imprint>
+<place>Launceston</place>
+<date>1929</date>
+</imprint>
+<bibseries>
+<title render="italic">Examiner</title>
+<num type="pages">7</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article51540512"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000717.htm">
+<relationEntry localType="published">Newspaper Article: Spencer Hospital</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Spencer Hospital</title>
+<imprint>
+<place>Launceston</place>
+<date>1920</date>
+</imprint>
+<bibseries>
+<title render="italic">Examiner</title>
+<num type="pages">2</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article51168909"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000716.htm">
+<relationEntry localType="published">Newspaper Article: Spencer Hospital</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Spencer Hospital</title>
+<imprint>
+<place>Launceston</place>
+<date>1944</date>
+</imprint>
+<bibseries>
+<title render="italic">Examiner</title>
+<num type="pages">4</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article91407279"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000715.htm">
+<relationEntry localType="published">Newspaper Article: Spencer Hospital</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Spencer Hospital</title>
+<imprint>
+<place>Launceston</place>
+<date>1944</date>
+</imprint>
+<bibseries>
+<title render="italic">Examiner</title>
+<num type="pages">4</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article91420960"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/objects/TD0000265.htm">
+<relationEntry localType="digitalObject">Maternity Hospital, Wynyard</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>C Walker</repository>
+<unittitle>Maternity Hospital, Wynyard</unittitle>
+<unitid>WYHS_000355</unitid>
+<unitdate>c. 1955</unitdate>
+<note label="rights">Reproduction rights owned by C Walker. Contact Wynyard Online Access Centre Inc. and the Wynyard Historical Society</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00627</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-08-17">2013-08-17</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-21">2015-10-21</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00627b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Health and Home Affairs Department, State Children Department</part>
+<part localType="parent">State Government of Queensland</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1935-12-05">5 December 1935</fromDate>
+<toDate standardDate="1963-12-26">26 December 1963</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Department</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Health and Home Affairs Department, within the State Children's Department, was established in 1935 to provide care, management and control of orphaned, abandoned and convicted children and their property. Previously, it was known as the Home Secretary's Office, State Children Department. The Department ran Toowoomba Mental Hospital and Farm Home for Boys, Westbrook. Responsibility for State children passed to the Labour and Industry Department in 1963.</abstract>
+<p>Administrative Structure:<br />
+The State was divided into 3 Districts: the Southern District (Southern Queensland from Bundaberg to the NSW Border) with a head office in Brisbane; Central District (Mackay to Miriam Vale on the Coast and West along the Central Line) with a district office at Rockhampton; Northern District (North Queensland from the north and West of Townsville) with a district office at Townsville. Each office had inspectors and administrative staff.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00341b.htm">
+<relationEntry localType="Organisation">
+Home Secretary's Office, State Children Department, State Government of Queensland (1911 - 1935)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00012b.htm">
+<relationEntry localType="Legislation">
+Infant Life Protection Act 1905 (1905 - 1966)
+</relationEntry>
+<descriptiveNote>
+<p>Health and Home Affairs Department, State Children Department administered the Infant Life Protection Act 1905</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00004b.htm">
+<relationEntry localType="Legislation">
+State Children Act 1911 (1911 - 1966)
+</relationEntry>
+<descriptiveNote>
+<p>Health and Home Affairs Department, State Children Department administered the State Children Act 1911.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00533b.htm">
+<relationEntry localType="Organisation">
+Farm Home for Boys, Westbrook (1919 - 1966)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00608b.htm">
+<relationEntry localType="Organisation">
+Toowoomba Mental Hospital (1953 - 1968)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00628b.htm">
+<relationEntry localType="Organisation">
+Labour and Industry Department, State Children Department, State Government of Queensland (1963 - 1966)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Health and Home Affairs Department, State Children Department', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Health and Home Affairs Department, State Children Department</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00627b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

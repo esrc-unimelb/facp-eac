@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00322</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-12-15">2011-12-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-09">2016-03-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00322b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Child Protection Board</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1991-01-01">1991</fromDate>
+<toDate standardDate="1998-12-31">1998</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Agency</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Child Protection Board succeeded the Child Protection Assessment Board in 1991. It was more concerned with policy, community and professional education than the old Board had been. Following the <span style="font-style:italic">Children, Young Persons and their Families Act</span> (1997) the government abolished the Child Protection Board in 1998.</abstract>
+<p>The new name reflected the changed role for the Child Protection Board recommended by the Tasmanian Task Force Report on Sexual Abuse in November 1989. The Board's work now focused more strongly on coordinating and developing policy, community education, professional training, and planning services. Its members included representatives of the Department of Community Services, Police and Emergency Services, the Office of the Status of Women, the Department of Health, the Director of Public Prosecutions, and the Department of Education. It established a Child Protection Assessment Committee, made up of specialists such as a psychologist, social worker or paediatrician, to carry out assessments, early interventions, and to begin court actions. The Board also had committees for professional and community education.</p>
+<p>The government established a Child Protection and Domestic Violence Branch within the Department of Community Services which had offices in Hobart, Launceston, and Burnie. The Child Protection Board was located within that.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00321b.htm">
+<relationEntry localType="Organisation">
+Child Protection Assessment Board (1975 - 1991)
+</relationEntry>
+<descriptiveNote>
+<p>The Child Protection Board replaced the Child Protection Assessment Board.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00678b.htm">
+<relationEntry localType="Event">
+Tasmanian Task Force on Sexual Abuse (1989)
+</relationEntry>
+<descriptiveNote>
+<p>The Tasmanian Task Force on Sexual Abuse recommended establishing the Child Protection Board.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Child Protection Board', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Child Protection Board</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00322b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000548.htm">
+<relationEntry localType="published">Report: Tasmanian Task Force on Child Sexual Abuse: a report to the Minister for Community Services</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Tasmanian Task Force on Child Sexual Abuse: a report to the Minister for Community Services</title>
+<imprint>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000491.htm">
+<relationEntry localType="published">Book: Tasmanian Task Force Report on Child Sexual Assault : a report to the Minister for Community Services</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tasmania. Task Force on Child Sexual Assault</name>
+<title render="italic">Tasmanian Task Force Report on Child Sexual Assault : a report to the Minister for Community Services</title>
+<imprint>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000186.htm">
+<relationEntry localType="published">Report: Department of Community Services: Annual Report 1989-90</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Department of Community Services: Annual Report 1989-90</title>
+<imprint>
+<date>1990</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

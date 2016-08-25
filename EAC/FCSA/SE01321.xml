@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01321</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-05-07">2014-05-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Gary George and Karen George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-12-04">2015-12-04</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01321b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Select Committee of the Legislative Council on the Destitute Poor</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1867-01-01">1867</fromDate>
+<toDate standardDate="1867-12-31">1867</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Select Committee of the Legislative Council on the Destitute Poor was appointed by the Government in 1867 to enquire into the management of the Destitute Asylum and the Brighton Industrial School at the old Grace Darling Hotel. The Committee produced a report in October 1867 which was highly critical of the inadequate temporary accommodations provided for them first at the Exhibition Building on North Terrace, and then at the Grace Darling Hotel. It recommended children be moved as soon as possible to the Magill Industrial School which was being built.</abstract>
+<p>The Select Committee of the Legislative Council on the Destitute Poor was appointed by the Government in 1867 to enquire into the management of the Destitute Asylum and the Grace Darling Hotel at Brighton, also known as the Brighton Industrial School. The Report of the Select Committee was released in October 1867. The findings in relation to the Destitute Asylum were critical of the food supplied, the inadequate size of the men's dining room and also recommended the construction of a separate Lying In Ward for pregnant women.</p>
+<p>The decision to move children from the Destitute Asylum, first to the Exhibition Building on North Terrace for several months and then the Grace Darling Hotel, was heavily criticised by the Committee. Both buildings were considered highly unsuitable and were said to have led to the severe deterioration of the children's health. The Grace Darling Hotel was found to be in very poor repair, far too small for the numbers of children placed there, and lacking in necessary facilities. The Committee stated that overcrowding, lack of cleanliness, poor administration and lack of support for the Matron had lead to disease and the deaths of a number of children. Within a six month period 14 children had died at the grace Darling Hotel.</p>
+<p>The report urged that work on the Magill Industrial School be urgently completed so that all children could be moved out of the Brighton Institution as soon as possible.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00077b.htm">
+<relationEntry localType="Organisation">
+Magill Industrial School (1869 - 1898)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01320b.htm">
+<relationEntry localType="Place">
+First Exhibition Building, Adelaide (1860 - c. 1886)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00062b.htm">
+<relationEntry localType="Organisation">
+Destitute Asylum (1851 - c. 1917)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00068b.htm">
+<relationEntry localType="Organisation">
+Brighton Industrial School (1867 - 1869)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Select Committee of the Legislative Council on the Destitute Poor', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Select Committee of the Legislative Council on the Destitute Poor</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01321b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000344.htm">
+<relationEntry localType="published">Report: Report of the Select Committee of the Legislative Council on the Destitute Poor</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Report of the Select Committee of the Legislative Council on the Destitute Poor</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>South Australian Parliamentary Papers</publisher>
+<date>1867</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000343.htm">
+<relationEntry localType="published">Newspaper Article: THE DESTITUTE ESTABLISHMENT.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">THE DESTITUTE ESTABLISHMENT.</title>
+<imprint>
+<place>Adelaide</place>
+<date>1867</date>
+</imprint>
+<bibseries>
+<title render="italic">South Australian Weekly Chronicle</title>
+<num type="pages">4</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article91259385"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

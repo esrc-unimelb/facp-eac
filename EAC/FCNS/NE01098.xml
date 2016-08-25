@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01098</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-03-15">2012-03-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-23">2015-03-23</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01098b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Aborigines Protection Association</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1881-01-01">1881</fromDate>
+<toDate standardDate="1897-12-31">c. 1897</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Non-denominational</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Aborigines Protection Association was set up in 1881 to both control Aboriginal people and 'protect' them from the effects of white society. It was inspired by Christian missionary work conducted by Daniel Matthews at Maloga and Reverend J.B. Gribble at Warangesda and later expanded to include Brewarrina. In 1897 it was wound up and its properties were absorbed by the Aborigines Protection Board.</abstract>
+<p>The Society was headed by Dr Arthur Renwick, of the Benevolent Society and State Children's Relief Board and had the support of Premier Henry Parkes, but depended on private donations for survival. In 1883 the government established a separate organisation, the Aborigines Protection Board, which included MPs and the Police Commissioner, and was given power over lands reserved for Aboriginal people and the right to provide government aid.</p>
+<p>The Aborigines Protection Association clashed with the Protection Board and struggled to fund its operations. By 1897 it had collapsed and its books, money and properties were transferred to the Protection Board. Its legacy was the stations, and the Warangesda Dormitory.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01613b.htm">
+<relationEntry localType="Organisation">
+Brewarrina Aboriginal Station Dormitory (c. 1897 - c. 1940)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01380b.htm">
+<relationEntry localType="Glossary Term">
+Half-Caste (1788 - 1970s)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00034b.htm">
+<relationEntry localType="Organisation">
+Aborigines Protection Board (1883 - 1940)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1881-01-01">1881</fromDate>
+<toDate standardDate="1897-12-31">c. 1897</toDate>
+</dateRange>
+<descriptiveNote>
+<p>The Aborigines Protection Board was set up just after the Aborigines Protection Association and in 1897 took over the property of the Association.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00030b.htm">
+<relationEntry localType="Organisation">
+Warangesda Dormitory (1893 - 1912)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1893-01-01">1893</fromDate>
+<toDate standardDate="1897-12-31">1897</toDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Aborigines Protection Association', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Aborigines Protection Association</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01098b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000716.htm">
+<relationEntry localType="published">Resource Section: Warangesda Aboriginal Mission and Station</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Warangesda Aboriginal Mission and Station</title>
+<imprint>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="https://www.facebook.com/pages/Warangesda-Aboriginal-Mission-Station/736757123064257"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000489.htm">
+<relationEntry localType="digitalObject">The northern side of the former girls' dormitory [former Warangesda Station]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>The northern side of the former girls' dormitory [former Warangesda Station]</unittitle>
+<unitdate>November 2013</unitdate>
+<abstract>Photograph by Ray Christison</abstract>
+<note label="rights">Ray Christison, High Ground Consulting</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

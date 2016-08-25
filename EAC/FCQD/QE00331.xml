@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00331</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-12-05">2011-12-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-09-12">2014-09-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00331b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Corinda Infants' Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Also known as"><part>Infants' Home, Corinda</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1915-09-06">6 September 1915</fromDate>
+<toDate standardDate="1919-11-03">3 November 1919</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Babies' Home</term>
+</function>
+<function>
+<term>Non-denominational</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Corinda Infants' Home, at Corinda was run by the Queensland Association for the Saving of Infant Life. The Corinda Infant's Home was established in the home of Mrs W Duncan who handed over her home, rent free for four years. In 1919, the premises were handed back to Mrs Duncan and the Home's management committee then rented premises at Coorparoo. A decision was made to call the new home Duncan's Infant Home.</abstract>
+<p>The Home was licensed in September 1915 to care for 12 babies, but this number had increased to 18 babies by September 1916.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1915-01-01">1915</fromDate>
+<toDate standardDate="1919-12-31">1919</toDate>
+</dateRange>
+<placeEntry>Corinda</placeEntry>
+<event>Location - The Corinda Infants' Home was situated at Lynn Grove Avenue, Corinda</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00671b.htm">
+<relationEntry localType="Organisation">
+The Queensland Association for the Saving of Infant Life (1916 - 1923)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00670b.htm">
+<relationEntry localType="Organisation">
+Duncan Infants' Home (1921 - 1922)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Corinda Infants' Home', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Corinda Infants' Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00331b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000063.htm">
+<relationEntry localType="published">Newspaper Article: The Administrative Committee of The Queensland Association for the Saving of Children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Administrative Committee of The Queensland Association for the Saving of Children</title>
+<imprint>
+<date>1922</date>
+</imprint>
+<bibseries>
+<title render="italic">Brisbane Courier</title>
+<num type="pages">16</num>
+</bibseries>
+<extptr linktype="simple" href="http://trove.nla.gov.au/ndp/del/article/20551435"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000074.htm">
+<relationEntry localType="published">Newspaper Article: Corinda Infants' Home</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Corinda Infants' Home</title>
+<bibseries>
+<title render="italic">The Brisbane Courier</title>
+<num type="pages">9</num>
+</bibseries>
+<extptr linktype="simple" href="http://trove.nla.gov.au/ndp/del/article/20134505"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000073.htm">
+<relationEntry localType="published">Newspaper Article: Duncan Infant's Home</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Duncan Infant's Home</title>
+<bibseries>
+<title render="italic">The Brisbane Courier</title>
+<num type="pages">11</num>
+</bibseries>
+<extptr linktype="simple" href="http://trove.nla.gov.au/ndp/del/printArticlePdf/20397428/3"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/objects/QD0000010.htm">
+<relationEntry localType="digitalObject">Mrs Duncan of Mooraerrie and Brisbane</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Picture Queensland, John Oxley Library, State Library of Queensland</repository>
+<unittitle>Mrs Duncan of Mooraerrie and Brisbane</unittitle>
+<unitid>JOL,SLQ Negative number: 51997</unitid>
+<unitdate>1917</unitdate>
+<note label="rights">Reproduction rights owned by the State Library of Queensland</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

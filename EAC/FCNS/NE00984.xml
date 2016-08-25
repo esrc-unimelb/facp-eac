@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE00984</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-10-27">2011-10-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-09">2016-05-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00984b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>In Moral Danger</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="acronym"><part>IMD</part>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<functions>
+<function>
+<term>Term commonly found on child welfare records</term>
+</function>
+</functions>
+<biogHist>
+<abstract>In Moral Danger (sometimes abbreviated as IMD) was a term in common use in government departments and welfare agencies. It referred to one of the categories of a 'child in need of care and protection' under the New South Wales Child Welfare Act 1939. 'In moral danger' remained a reason for a child's admission into care under subsequent legislation. It was largely used for the committal of girls, although it did apply to some boys.</abstract>
+<p>The exact meaning of the phrase 'in moral danger' varied, depending on who was accusing the child of being endangered. Sometimes it meant a girl was sexually active, at risk of sexual abuse or had been sexually assaulted. It could also mean a child was exposed to crime or prostitution. Sometimes it meant the family of a child was judged as being involved in illegal or immoral activity, living in a rough environment such as a miner's camp or associated with different racial groups, such as Aboriginal or Chinese people. Single mothers were also regularly accused of exposing their children to moral danger, simply because they were unmarried. Single fathers could be accused of exposing their children to moral danger simply because there were no women present in the home.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01392b.htm">
+<relationEntry localType="Organisation">
+Metropolitan Girls' Shelter, Glebe (c. 1923 - 1978)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00994b.htm">
+<relationEntry localType="Glossary Term">
+Moral Defective
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'In Moral Danger', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">In Moral Danger</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00984b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001032.htm">
+<relationEntry localType="published">Resource Section: The Starting Point</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Laurent, Nicola</name>
+<title render="quoted">The Starting Point</title>
+<imprint>
+<publisher>eScholarship Research Centre, the University of Melbourne</publisher>
+<date>2015</date>
+</imprint>
+<bibseries>
+<title render="italic">Find &amp; Connect web resource blog</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnectwrblog.info/2015/08/the-starting-point/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000324.htm">
+<relationEntry localType="published">Resource Section: 'No eye contact'</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">'No eye contact'</title>
+<imprint>
+<publisher>Alliance for Forgotten Australians</publisher>
+<date>2011</date>
+</imprint>
+<bibseries>
+<title render="italic">Forgotten Australians: Life Stories</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.forgottenaustralians.org.au/dvd.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

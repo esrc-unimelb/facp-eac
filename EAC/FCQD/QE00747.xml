@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00747</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-12-14">2013-12-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-02-26">2015-02-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00747b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Stradbroke Island Lazaret</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Also known as"><part>Dunwich Leper Lazaret</part>
+</nameEntry>
+<nameEntry localType="Also known as"><part>Leper Lazaret</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1892-11-25">25 November 1892</fromDate>
+<toDate standardDate="1907-12-31">1907</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Leprosarium</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Stradbroke Island Lazaret, on North Stradbroke Island in Moreton Bay, was established for the reception and medical treatment of lepers. Run by the State government, it opened in 1892 and closed in 1907.</abstract>
+<p>Stradbroke Island Lazaret was established over an area of approximately 17 acres, about a mile from Dunwich Jetty, on Stradbroke Island, Moreton Bay. It was situated beside the Dunwich Benevolent Asylum, a location that was next to a swamp and described as dark and miserable.The lazaret only housed male white patients.</p>
+<p>In 1907, Stradbroke Island Lazaret was closed and all patients were transferred to Peel Island, where a new lazaret was established for both European and non-European patients. 11 year old Noel Agnew was among the patients transferred to Peel Island.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1892-01-01">1892</fromDate>
+<toDate standardDate="1907-12-31">1907</toDate>
+</dateRange>
+<placeEntry>Dunwich</placeEntry>
+<event>Location - Stradbroke Island Lazaret was situated at Dunwich, on North Stradbroke Island</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00607b.htm">
+<relationEntry localType="Organisation">
+Home Secretary's Office (1896 - 1935)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1892-01-01">1892</fromDate>
+<toDate standardDate="1907-12-31">1907</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00606b.htm">
+<relationEntry localType="Organisation">
+Colonial Secretary (1859 - 1896)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1892-01-01">1892</fromDate>
+<toDate standardDate="1896-12-31">1896</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00744b.htm">
+<relationEntry localType="Archival Item">
+Batch File, Lepers at Peel, Dayman, Stradbroke and Friday Islands (1891 - 1899)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00754b.htm">
+<relationEntry localType="Archival Series">
+Patient Registers, Leper Lazaret, Stradbroke Island (1892 - 1908)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00742b.htm">
+<relationEntry localType="Glossary Term">
+Leprosy
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00300b.htm">
+<relationEntry localType="Glossary Term">
+Leprosarium
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00741b.htm">
+<relationEntry localType="Legislation">
+Leprosy Act 1892 (1892 - 1937)
+</relationEntry>
+<descriptiveNote>
+<p>The Leprosy Act provided for the treatment of lepers as well as their detention and isolation. It also allowed for the government to appoint any place to be a lazaret for the reception and medical treatment of lepers.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00740b.htm">
+<relationEntry localType="Organisation">
+Peel Island Lazaret (1907 - 1959)
+</relationEntry>
+<descriptiveNote>
+<p>Patients from Stradebroke Island Lazaret were moved to Peel Island Lazaret in 1907.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Stradbroke Island Lazaret', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Stradbroke Island Lazaret</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00747b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000392.htm">
+<relationEntry localType="published">Book: Going to the gums: the lazaret on Peel Island</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Bryce, R , Ryan, T, Van Willigen, G, Opala, R, Venner, R, Friends of Peel Island</name>
+<title render="italic">Going to the gums: the lazaret on Peel Island</title>
+<imprint>
+<place>Cleveland DC</place>
+<publisher>Friends of Peel Island Association Inc</publisher>
+<date>2009</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

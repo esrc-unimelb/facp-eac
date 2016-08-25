@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00657</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Collection</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-08-28">2013-08-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00657b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>St George's Homes, Rockhampton Records</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1917-01-01">1917?</fromDate>
+<toDate standardDate="1982-12-31">1982</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Diocese of Rockhampton (Anglican Church of Australia) holds a collection of records relating to St George's Orphanage and St George's Homes.</abstract>
+<h4>Access Conditions</h4>
+<p>The records are not accessible to the general public. Former residents of the Homes are supplied with any personal information they seek.</p>
+<h4>Records</h4>
+<list><item>Admission Records: An admission register with names and dates and some detail as to reason for admission</item>
+<item>Discharge Records: A register with dates of discharge and some entries have reasons for discharge</item>
+<item>Register: An almost complete register of inmates. There would also be a register of baptisms at the Home, which would include the district of Parkhurst as well</item>
+<item>Indexes: An index of residents relating to the above</item>
+<item>Other records: Some general correspondence, a basic history of the institution, minute books of the committee of management (not complete), photographs of the Home<br />
+and some events, scrapbooks of Diocesan events including some of St George's Homes events from the Rockhampton Morning Bulletin</item></list>
+<p>The Homes (including the Group Homes) were governed by a Management Committee from 1917 until 1982 - most of the minutes of this committee still exist, as well as Synod Reports and Church Gazette articles. These are all kept in the Diocesan Registry.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00658b.htm">
+<relationEntry localType="Organisation">
+Anglican Diocese of Rockhampton (1892 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00654b.htm">
+<relationEntry localType="Organisation">
+St George's Orphanage, Rockhampton (1917 - 1922)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00663b.htm">
+<relationEntry localType="Organisation">
+St George's Family Group Home, Mason Street (1978 - 1982)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00662b.htm">
+<relationEntry localType="Organisation">
+St George's Family Group Home, Elphinstone Street (1978 - 1980)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00150b.htm">
+<relationEntry localType="Organisation">
+St George's Homes, Rockhampton (1922 - 1979)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00729b.htm">
+<relationEntry localType="Contact Details">
+Anglican Diocese of Rockhampton - Contact Details (1892 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'St George's Homes, Rockhampton Records', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">St George's Homes, Rockhampton Records</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00657b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

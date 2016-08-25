@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00555</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-11-09">2012-11-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-14">2015-08-14</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00555b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Savio College</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1956-01-01">1956</fromDate>
+<toDate standardDate="1973-12-31">1973</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Approved Children's Home</term>
+</function>
+<function>
+<term>Children's Home</term>
+</function>
+<function>
+<term>Catholic</term>
+</function>
+<function>
+<term>School</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Savio College, run by the Salesians of Don Bosco, replaced Boys' Town in 1956. It was in New Town. Boys' Town had been a Catholic Home and school, that received child migrants from Britain. Two of the migrants remained at Savio with the last one leaving in 1959. Savio also accepted wards of state. In 1973, it amalgamated with other Catholic schools in the area to form Dominic College.</abstract>
+<p>Savio College was in Glenorchy. All of the Schools that it merged with in 1973 were in the Glenorchy area.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1956-01-01">1956</fromDate>
+<toDate standardDate="1973-12-31">1973</toDate>
+</dateRange>
+<placeEntry>Glenorchy</placeEntry>
+<event>Location - Savio College was in Tolosa Street, Glenorchy</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00042b.htm">
+<relationEntry localType="Organisation">
+Boys' Town (1945 - 1956)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00058b.htm">
+<relationEntry localType="Organisation">
+Salesians of Don Bosco (1922 - )
+</relationEntry>
+<descriptiveNote>
+<p>The Salesians of Don Bosco ran Savio College.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00914b.htm">
+<relationEntry localType="Event">
+Inquiry into Child Migration (2000 - 2001)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00041b.htm">
+<relationEntry localType="Organisation">
+Catholic Church (1821 - )
+</relationEntry>
+<descriptiveNote>
+<p>Savio College was a Catholic school.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00489b.htm">
+<relationEntry localType="Archival Collection">
+Records held by Centacare (1959 - 1979)
+</relationEntry>
+<descriptiveNote>
+<p>The records held by Centacare include some information about Savio College.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00773b.htm">
+<relationEntry localType="Archival Collection">
+Dominic College Records (1945 - 1959)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00556b.htm">
+<relationEntry localType="Organisation">
+Dominic College (1973 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Savio College', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Savio College</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00555b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/objects/TD0000071.htm">
+<relationEntry localType="digitalObject">Boys Town</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Dominic College</repository>
+<unittitle>Boys Town</unittitle>
+<unitdate>1948</unitdate>
+<note label="rights">Reproduction rights owned by Dominic College</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

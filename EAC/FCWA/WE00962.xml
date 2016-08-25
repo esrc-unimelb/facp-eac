@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00962</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Item</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-03-08">2013-03-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00962b.htm</entityId>
+<entityId localType="National Archives of Australia Reference Number">D400, SA1955/8761</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Child migration - visit to Australia by U.K. fact finding mission Feb 1956 re upbringing in Australia of migrant children unaccompanied by their parents</part>
+<part localType="parent">National Archives of Australia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1955-01-01">1955</fromDate>
+<toDate standardDate="1957-12-31">1957</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>'Child Migration - visit by U.K. fact finding mission 1956' is a file held by the National Archives of Australia. The travel itinerary of the Committee (pages 37-38) shows that they arrived in Canberra on 9 February 1956, visited New South Wales, then Queensland, Victoria, Tasmania, South Australia and Western Australia. They departed for the UK from Canberra on 19 March 1956. The file can be read online.</abstract>
+<h4>Access Conditions</h4>
+<p>Open.</p>
+<h4>Records</h4>
+<p>On page 27, there is a timetable of inspections in Western Australia after the arrival of the Committee in the afternoon of Saturday 10 March 1956:</p>
+<list><item>Monday, 12 March: Discussion in Perth</item>
+<item>Tuesday, 13 March: Fairbridge, Pinjarra</item>
+<item>Wednesday, 14 March: 'R.C. Homes, Clontarf and Leederville'</item>
+<item>Thursday, 15 March: Swan Homes and Methodist Home</item>
+<item>Friday, 16 March: Boys' Town, Bindoon then return to Melbourne by air at 11.30pm</item></list>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01455b.htm">
+<relationEntry localType="Organisation">
+National Archives of Australia - Adelaide Office (1998 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00960b.htm">
+<relationEntry localType="Event">
+Ross Fact-Finding Mission [British child migration] (1956)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01456b.htm">
+<relationEntry localType="Contact Details">
+National Archives of Australia - Adelaide Office - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Child migration - visit to Australia by U.K. fact finding mission Feb 1956 re upbringing in Australia of migrant children unaccompanied by their parents', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Child migration - visit to Australia by U.K. fact finding mission Feb 1956 re upbringing in Australia of migrant children unaccompanied by their parents</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00962b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00570</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-01-31">2012-01-31</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-21">2016-04-21</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00570b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Mission Station</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1900-01-01">1900?</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>A mission station as defined by <span style="font-style:italic">Macquarie Dictionary</span> is 'an outback establishment administered by a Christian religious denomination to house Aboriginal people and provide them with education, including religious education, and other care.'</abstract>
+<p><span style="font-style:italic">Macquarie Dictionary</span> add the following quotation to give some context to the 'care' provided:''In the 1920s, the Queensland government pushed tribes out of their traditional areas and placed them onto mission stations and government reserves, allegedly to protect them from whites but in reality to place them under the control of missionaries and government officials.' - Jackie Huggins, 1998.'</p>
+<p>In 1905 at a royal commission in WA, Commissioner Roth had the following exchange with the Chief Protector of Aborigines Henry Prinsep: '[Commissioner]: Does your Department presume that these mission stations are run in the interests of the natives and not of the managers, trustees, or people in charge? [Prinsep]: Yes; I presume so. Have you a reason to doubt such a presumption? [Commissioner]: I have.'</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00492b.htm">
+<relationEntry localType="Concept">
+Aboriginal Protection (c. 1832 - c. 1972)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00571b.htm">
+<relationEntry localType="Glossary Term">
+Mission (1829? - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00561b.htm">
+<relationEntry localType="Event">
+Royal Commission to Enquire into and Report Upon [inter alia] the Administration of the Aborigines Department and the Condition of the Natives, State of Western Australia (1904? - 1905)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Mission Station', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Mission Station</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00570b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000249.htm">
+<relationEntry localType="published">Newspaper Article: The Treatment of Aborigines</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Treatment of Aborigines</title>
+<imprint>
+<date>1905</date>
+</imprint>
+<bibseries>
+<title render="italic">Western Mail</title>
+<num type="pages">44</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article37807591"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000232.htm">
+<relationEntry localType="published">Newspaper Article: The Aborigines Question</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Aborigines Question</title>
+<imprint>
+<date>1905</date>
+</imprint>
+<bibseries>
+<title render="italic">Western Mail</title>
+<num type="pages">12</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article37384000"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000231.htm">
+<relationEntry localType="published">Resource: Macquarie Dictionary Online</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Macquarie Dictionary Online</title>
+<extptr linktype="simple" href="http://www.macquariedictionary.com.au"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

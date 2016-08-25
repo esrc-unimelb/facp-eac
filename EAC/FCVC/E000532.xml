@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000532</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-12-02">2009-12-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Nell Musgrove</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-07-27">2015-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000532b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Opening of Victoria's first children's institution</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1850-01-01">1850</fromDate>
+<toDate standardDate="1850-12-31">1850</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+</functions>
+<biogHist>
+<abstract>In 1849 the Dorcas Society (the women's charitable society affiliated with the male-run Anglican St. James' Visiting Society) first began providing shelter for children who could not live with their own families by placing children in the homes of whoever could and would provide care and shelter. In 1850 a widow with children of her own was employed as a matron, and the children under the 'care' of the society were all moved into a cottage behind the Royal Oak Hotel in Queen Street, making this the first residential children's institution in Victoria.</abstract>
+<p>During the 1840s the Friendly Brothers began finding local Catholic families to provide shelter for children who would otherwise have been sent to gaol (either alone or alongside their mothers), and Protestant charitable societies took an interest in assisting impoverished children by supplying cash or groceries to their struggling parents.</p>
+<p>John Thomas Smith, who was both the Mayor of Melbourne and a Justice in the Melbourne Court of Petty Sessions, heard a case in 1849 which concerned him greatly. A man appeared before him, accused of murder, and who confessed to having killed his wife, two of his children and who threatened to kill a third child. Investigations proved that all three children were alive, but they were clearly in need of assistance. Justice Smith asked Eleanor Nicholson, a prominent member of the Dorcas Society (the women's charitable group associated with the Anglican St. James' Visiting Society), to take an interest in the case. She agreed, and proceeded to find a woman who would provide lodgings for the children for a small fee.</p>
+<p>Within a short time several more children were directed to the Dorcas Society, and so the women of the society secured the use of a building behind the Royal Oak Hotel in Queen Street, Melbourne, and employed a widow with children of her own to work as the matron. This was the first residential children's institution in Victoria. Early in 1851 the ladies' Dorcas Society changed its name to the St James' Orphan Asylum and Visiting Society in recognition of its growing commitment to residential children's services, and from this event the Melbourne Orphan Asylum (now Oz Child) dates its beginnings.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1850-01-01">1850</fromDate>
+<toDate standardDate="1850-12-31">1850</toDate>
+</dateRange>
+<placeEntry>Melbourne</placeEntry>
+<event>Location - Victoria's first residential institution for children was located in a cottage behind the Royal Oak Hotel in Queen Street, Melbourne</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000180b.htm">
+<relationEntry localType="Organisation">
+Melbourne Orphan Asylum (1853 - 1926)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000181b.htm">
+<relationEntry localType="Organisation">
+St James' Orphan Asylum and Visiting Society (c. 1845 - 1853)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Opening of Victoria's first children's institution', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Opening of Victoria's first children's institution</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000532b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000292.htm">
+<relationEntry localType="published">Book: Asylum to action. Family Action 1851-1991: a history of services and policy development for families in times of vulnerability</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jaggs, Donella</name>
+<title render="italic">Asylum to action. Family Action 1851-1991: a history of services and policy development for families in times of vulnerability</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Family Action</publisher>
+<date>1991</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000007.htm">
+<relationEntry localType="published">Book: Holding on to Hope: a history of the founding agencies of MacKillop Family Services 1854-1997</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Barnard, Jill; Twigg, Karen</name>
+<title render="italic">Holding on to Hope: a history of the founding agencies of MacKillop Family Services 1854-1997</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Australian Scholarly Publishing</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

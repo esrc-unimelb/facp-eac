@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000206</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-03-20">2009-03-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000206b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>St Joseph's Babies' and Family Service</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1985-01-01">1985</fromDate>
+<toDate standardDate="1997-12-31">1997</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Catholic</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Babies' Home</term>
+</function>
+<function>
+<term>Maternity Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>St Joseph's Babies' and Family Service in Glenroy was established in 1985 when the Sisters of St Joseph merged the St Joseph's Babies' Home in Glenroy with the St Joseph's Receiving Home in Carlton. The Babies' and Family Service was located in a small residential unit that had previously been part of the St Joseph's Babies' Home. In July 1997, St Joseph's became part of MacKillop Family Services.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1985-01-01">1985</fromDate>
+<toDate standardDate="1997-12-31">1997</toDate>
+</dateRange>
+<placeEntry>Glenroy</placeEntry>
+<event>Location - St Joseph's Babies' and Family Service was located in Glenroy</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000207b.htm">
+<relationEntry localType="Organisation">
+St Joseph's Receiving Home (1902 - 1985)
+</relationEntry>
+<descriptiveNote>
+<p>In 1985 the Receiving Home merged with the St Joseph's Babies' Home and became the St Josephe's Babies and Family Service in Glenroy.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000049b.htm">
+<relationEntry localType="Organisation">
+St Joseph's Babies' Home (1975 - 1985)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1985-01-01">1985</fromDate>
+<toDate standardDate="1985-12-31">1985</toDate>
+</dateRange>
+<descriptiveNote>
+<p>In 1985, St Joseph's Babies' Home and St Joseph's Receiving Home merged to form the St Joseph's Babies' and Family Service in Glenroy..</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000045b.htm">
+<relationEntry localType="Organisation">
+Sisters of St Joseph (1890 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1985-01-01">1985</fromDate>
+<toDate standardDate="1997-12-31">1997</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000691b.htm">
+<relationEntry localType="Archival Collection">
+MacKillop Family Services Records (1857 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000004b.htm">
+<relationEntry localType="Organisation">
+MacKillop Family Services (1997 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1997-01-01">1997</fromDate>
+<toDate standardDate="1997-12-31">1997</toDate>
+</dateRange>
+<descriptiveNote>
+<p>In 1997, St Joseph's Babies' and Family Service became part of MacKillop Family Services.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'St Joseph's Babies' and Family Service', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">St Joseph's Babies' and Family Service</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000206b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001108.htm">
+<relationEntry localType="published">Resource Section: Heritage Display</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Heritage Display</title>
+<imprint>
+<publisher>MacKillop Family Services</publisher>
+<date>2013</date>
+</imprint>
+<bibseries>
+<title render="italic">MacKillop Family Services website</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.mackillop.org.au/heritagedisplay"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000007.htm">
+<relationEntry localType="published">Book: Holding on to Hope: a history of the founding agencies of MacKillop Family Services 1854-1997</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Barnard, Jill; Twigg, Karen</name>
+<title render="italic">Holding on to Hope: a history of the founding agencies of MacKillop Family Services 1854-1997</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Australian Scholarly Publishing</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

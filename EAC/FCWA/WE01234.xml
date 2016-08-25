@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01234</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-11-05">2013-11-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Margaret Pember and Elizabeth Daniels</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01234b.htm</entityId>
+<entityId localType="Wanslea Family Services Series Number">Series 07</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Client Files - Microfiche - Index</part>
+<part localType="parent">Wanslea Family Services</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1971-01-01">1971</fromDate>
+<toDate standardDate="1998-12-31">1998</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Client Files - Microfiche - Index is a series comprising computer printouts, in a file titled 'Wanslea Hostel Archival Records 1971-1998'.</abstract>
+<p>These computer print outs provide indexes to microfiche records (A microfiche record is a miniature photo of a record on film like that found in an analogue camera. Microfiche is commonly used to make the storage and access of records easier).</p>
+<p>The print outs list children alphabetically by surname and initials, and microfiche reference number. The condition of these records is described as 'good' by Wanslea Family Services.</p>
+<p>The records in this series cover the following dates: 1971-1985; 1985-1987; 1995; 1996-1998.</p>
+<h4>Access Conditions</h4>
+<p>This Archival Series is classified as 'Closed' by Wanslea Family Services. This means only some people, such as people who experienced 'care' through Wanslea Family Services, can access these records. If you want to access these records you need to contact the Wanslea Family Services office in Scarborough because these records may contain personal or private information.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00591b.htm">
+<relationEntry localType="Archival Collection">
+Wanslea Family Services Records, Wanslea Family Services (1940s - 2004)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01172b.htm">
+<relationEntry localType="Contact Details">
+Wanslea Family Services - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Client Files - Microfiche - Index', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Client Files - Microfiche - Index</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01234b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

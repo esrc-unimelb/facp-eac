@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00244</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-10-27">2011-10-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-02">2015-03-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00244b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Hope Cottage</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1887-01-01">1887</fromDate>
+<toDate standardDate="1900-12-31">1900?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Protestant</term>
+</function>
+<function>
+<term>Anglican</term>
+</function>
+<function>
+<term>Maternity Home</term>
+</function>
+<function>
+<term>Female Rescue Home</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Hope Cottage opened in 1887. It was a lying-in Home for single mothers giving birth to their first babies. Many of the mothers may have have been only 14 years old. The Home closed in the early twentieth century.</abstract>
+<p>Grace Soltau, the first president of the Woman's Christian Temperance Union, established Hope Cottage. In 1892, she handed it over to Maud Montgomery, the Anglican Bishop of Tasmania's wife and the founder of the Anglican run Home of Mercy. A committee in Launceston was supposed to manage Hope Cottage but there was little interest in it and responsibility largely fell to the Rector of St John's and his wife. Hope Cottage eventually amalgamated with the Home of Mercy.</p>
+<p>According to Geoffrey Stephens, the historian of Clarendon Children's Home which developed out of the Home of Mercy, many of the mothers at Hope Cottage were 14 years old.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1887-01-01">1887</fromDate>
+<toDate standardDate="1887-12-31">1887</toDate>
+</dateRange>
+<placeEntry>Launceston</placeEntry>
+<event>Location - Hope Cottage was situated in Launceston</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00543b.htm">
+<relationEntry localType="Organisation">
+The Church of England in Australia and Tasmania (1788 - 1981)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00969b.htm">
+<relationEntry localType="Glossary Term">
+Maternity Home (c. 1874 - c. 1960)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00634b.htm">
+<relationEntry localType="Organisation">
+Woman's Christian Temperance Union (1885 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00323b.htm">
+<relationEntry localType="Organisation">
+Home of Mercy (1890 - c. 1953)
+</relationEntry>
+<descriptiveNote>
+<p>Hope Cottage eventually amagamated with the Home of Mercy.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00175b.htm">
+<relationEntry localType="Glossary Term">
+Rescue Home (1856 - c. 1940)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hope Cottage', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hope Cottage</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00244b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000095.htm">
+<relationEntry localType="published">Book: 'Poverty is not a crime': the development of social services in Tasmania, 1803-1900</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Brown, Joan C.</name>
+<title render="italic">'Poverty is not a crime': the development of social services in Tasmania, 1803-1900</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Tasmanian Historical Research Association</publisher>
+<date>1972</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000087.htm">
+<relationEntry localType="published">Book: Clarendon: a century of care</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stephens, Geoffrey</name>
+<title render="italic">Clarendon: a century of care</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Board of Clarendon Home</publisher>
+<date>1990</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000093.htm">
+<relationEntry localType="published">Thesis: The public role of women in Tasmania, 1803 - 1914</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Alexander, Alison</name>
+<title render="quoted">The public role of women in Tasmania, 1803 - 1914</title>
+<imprint>
+<publisher>University of Tasmania</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

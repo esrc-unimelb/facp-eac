@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00619</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-08-14">2013-08-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-12">2015-03-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00619b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Chelmer Children's Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1969-11-29">29 November 1969</fromDate>
+<toDate standardDate="1995-12-31">1995</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Children's Home</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Presbyterian</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Chelmer Children's Home, situated at 7 Laurel Avenue, Chelmer was operated by the Presbyterian Church. It opened on 29 November 1969 as a special care centre for disabled babies and toddlers, with a family group wing. The house is now a private residence and has been substantially remodelled.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1969-11-29">29 November 1969</fromDate>
+</dateRange>
+<placeEntry>Chelmer</placeEntry>
+<event>Address - Chelmer Children's Home was situated at 7 Laural Avenue, Chelmer</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00057b.htm">
+<relationEntry localType="Organisation">
+W. R. Black Home (1928 - 1965)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00094b.htm">
+<relationEntry localType="Organisation">
+Presbyterian Church of Queensland (1849 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1969-01-01">1969</fromDate>
+<toDate standardDate="1995-12-31">1995</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00940b.htm">
+<relationEntry localType="Archival Collection">
+UnitingCare Queensland Records (1977? - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Chelmer Children's Home', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Chelmer Children's Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00619b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/objects/QD0000144.htm">
+<relationEntry localType="digitalObject">WR Black Home at Chelmer</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>WR Black Home at Chelmer</unittitle>
+<unitdate>Unknown</unitdate>
+<note label="rights">Image taken from the report of the Commission of Inquiry into Child Abuse in Queensland institutions.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/objects/QD0000146.htm">
+<relationEntry localType="digitalObject">Plans to Restore Victorian Home</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Plans to Restore Victorian Home</unittitle>
+<unitdate>13 January 1996</unitdate>
+<abstract>This is a copy of an article from the <span style="font-style:italic">Courier Mail</span>.</abstract>
+<note label="rights">Courier Mail</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/objects/QD0000145.htm">
+<relationEntry localType="digitalObject">Landmark Home for Sale</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Landmark Home for Sale</unittitle>
+<unitdate>27 September 1995</unitdate>
+<note label="rights">South West News</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000840</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-05-22">2013-05-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000840b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Harrison House Youth Services</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1982-01-01">1982</fromDate>
+<toDate standardDate="1994-12-31">1994</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Hostel</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Harrison House Youth Services was the name given to Harrison House Youth Hostel in 1982. It was originally called the Arthur Harrison Boys' Home. The name change reflected its expansion in services from that date.</abstract>
+<p>Volunteers staffed the Arthur Harrison Boys' Home, renamed the Harrison House Youth Hostel in 1978, until 1979. Staff were employed from 1978.</p>
+<p>By 1982 when it had changed its name to Harrison House Youth Services, the organisation had expanded its services to accommodate and supervise up to 20 youths at any one time and could respond to the needs of young people of both sexes. It had developed additional accommodation and community support services in the eastern suburbs. In 1983/84 a community support unit/program was established.</p>
+<p>In 1985 Harrison House Youth Services helped a community group to establish 'Courtney Youth Services' in North Melbourne. Courtney Youth Services set up Hotham Hostel, a specialist youth hostel for girls. Courtney Youth Services became autonomous in 1988.</p>
+<p>By 1986, the agency had been through several name changes, its program had 7 houses and also included girls at risk of homelessness. Harrison House Youth Services closed its Power Street hostel in 1987/88 and moved its hostel operations to an existing facility in Mitcham. A new project, 'Harrison Industries', commenced in the same year.</p>
+<p>By 1991, Harrison House Youth Services operated 11 houses and in 1992 moved its administrative headquarters to Wantirna. In 1993, it merged with the Waverley Youth Housing Group.</p>
+<p>In 1994 the name changed again to Harrison Community Services reflecting a broadening of services delivered by the agency.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000229b.htm">
+<relationEntry localType="Organisation">
+Arthur Harrison Boys' Home (1960 - 1977)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Harrison House Youth Services', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Harrison House Youth Services</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000840b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
+<relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James Jenkinson Consulting</name>
+<title render="italic">Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</title>
+<imprint>
+<publisher>Unpublished</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

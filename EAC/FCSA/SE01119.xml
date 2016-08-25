@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01119</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-05-15">2012-05-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-05-04">2015-05-04</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01119b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Queen Victoria Convalescent Home for Children</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1898-01-01">1898</fromDate>
+<toDate standardDate="1943-12-31">1943?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Convalescent Home</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Queen Victoria Convalescent Home for Children opened at Mount Lofty in 1898. The home was operated by the Adelaide Children's Hospital as a Convalescent home for children recovering from illness. It operated until the early 1940s.</abstract>
+<p>The Queen Victoria Convalescent Home for Children was built at Mount Lofty in 1897 and opened in 1898. Built and named in honour of Queen Victoria's Diamond Jubilee, the home was operated by the Adelaide Children's Hospital as a Convalescent home where children recovering from illness could go and 'gain strength and health in the pure hill air'.</p>
+<p>Situated on large grounds, the Home was built at a cost of £1,734 and it was reported that £1,000 of that amount was raised by the fund raising activities of the children of the Sunbeam Society. £518 was spent after the opening, adding a large underground water tank and a sunroom/children's playroom that came off the one large ward.</p>
+<p>In 1899 newspapers reported that on average 10 to 12 children were convalescing at the Home at one time. By 1905 there had been 366 children admitted the Home since its opening. In 1909 a reporter noted that some of the patients admitted were tuberculosis cases. In May 1941 papers reported that the Home was caring for 16 children.</p>
+<p>The Queen Victoria Convalescent Home for Children operated until the early 1940s and later became a holiday home for nurses. The building was auctioned by the Hospital on 17 September 1947.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1898-01-01">1898</fromDate>
+<toDate standardDate="1943-12-31">c. 1943</toDate>
+</dateRange>
+<placeEntry>Mount Lofty</placeEntry>
+<event>Location - The Queen Victoria Convalescent Home for Children was situated at Mount Lofty, South Australia</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00154b.htm">
+<relationEntry localType="Organisation">
+Adelaide Children's Hospital (1876 - 1989)
+</relationEntry>
+<descriptiveNote>
+<p>The Queen Victoria Convalescent Home for Children was run by the Adelaide Childrens Hospital Board.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00821b.htm">
+<relationEntry localType="Glossary Term">
+Convalescent Home
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Queen Victoria Convalescent Home for Children', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Queen Victoria Convalescent Home for Children</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01119b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000280.htm">
+<relationEntry localType="published">Newspaper Article: QUEEN VICTORIA HOME</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">QUEEN VICTORIA HOME</title>
+<imprint>
+<place>Adelaide, South Australia</place>
+<date>1909</date>
+</imprint>
+<bibseries>
+<title render="italic">The Register</title>
+<num type="pages">6</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article57551585"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000279.htm">
+<relationEntry localType="published">Newspaper Article: FOR LITTLE CHILDREN</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">FOR LITTLE CHILDREN</title>
+<imprint>
+<place>Adelaide, South Australia</place>
+<date>1905</date>
+</imprint>
+<bibseries>
+<title render="italic">The Register</title>
+<num type="pages">5</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article56855619"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000278.htm">
+<relationEntry localType="published">Newspaper Article: QUEEN VICTORIA CONVALESCENT HOME FOR CHILDREN</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">QUEEN VICTORIA CONVALESCENT HOME FOR CHILDREN</title>
+<imprint>
+<place>Adelaide, South Australia</place>
+<date>1899</date>
+</imprint>
+<bibseries>
+<title render="italic">South Australian Register</title>
+<num type="pages">4</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article54587276"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000277.htm">
+<relationEntry localType="published">Newspaper Article: CARING FOR SICK CHILDREN</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">CARING FOR SICK CHILDREN</title>
+<imprint>
+<place>Adelaide, South Australia</place>
+<date>1941</date>
+</imprint>
+<bibseries>
+<title render="italic">The Advertiser</title>
+<num type="pages">12</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article45006883"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000107.htm">
+<relationEntry localType="published">Newspaper Article: Diamond Jubilee Memorial - Home for convalescent children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Diamond Jubilee Memorial - Home for convalescent children</title>
+<imprint>
+<place>Adelaide</place>
+<date>1897</date>
+</imprint>
+<bibseries>
+<title render="italic">South Australian Register</title>
+<num type="pages">5-6</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article54506400"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000106.htm">
+<relationEntry localType="published">Newspaper Article: Queen Victoria Convalescent Home for Children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Queen Victoria Convalescent Home for Children</title>
+<imprint>
+<place>Adelaide</place>
+<date>1899</date>
+</imprint>
+<bibseries>
+<title render="italic">South Australian Register</title>
+<num type="pages">4</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article54587276"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/objects/SD0000078.htm">
+<relationEntry localType="digitalObject">Queen Victoria Children's Convalescent Home</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia</repository>
+<unittitle>Queen Victoria Children's Convalescent Home</unittitle>
+<unitid>b 62449</unitid>
+<unitdate>c. 1900</unitdate>
+<abstract>Distant view of children on the verandah of the premises of the Queen Victoria Children's Convalescent Home at Mount Lofty, South Australia</abstract>
+<note label="rights">No known copyright restrictions</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

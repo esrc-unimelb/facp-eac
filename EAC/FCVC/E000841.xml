@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000841</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-05-22">2013-05-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-09-11">2014-09-11</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000841b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Antonian Children's Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Antonian Institute for Children</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1959-01-01">1959</fromDate>
+<toDate standardDate="1966-12-31">1966</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1966-01-01">1966</fromDate>
+<toDate standardDate="1979-12-31">1979</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Antonian Children's Home as it was known from 1966, formerly the Antonian Institute for Children, was established in Richmond in 1959 to cater for children of Italian origin, including state wards. It closed in 1979.</abstract>
+<p>The Antonian Institute for Children was established at 311 Church Street, Richmond in 1959 by the Daughters of Divine Zeal.</p>
+<p>In January 1960, the Antonian Institute for Children was declared an approved children's home under the Children's Welfare Act 1958. The Home's name was changed in 1966, to the Antonian Children's Home. The Home closed in 1979.</p>
+<p>It is now known as the Madre Nazarena Students' House.</p>
+<p>In 2013 Find &amp; Connect staff were advised by the Daughters of Divine Zeal that they do not hold any records from the Antonian Children's Home.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1966-01-01">1966</fromDate>
+<toDate standardDate="1979-12-31">1979</toDate>
+</dateRange>
+<placeEntry>Richmond</placeEntry>
+<event>Location - Antonian Children's Home was situated in Richmond</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000243b.htm">
+<relationEntry localType="Organisation">
+Antonian Institute for Children (1959 - 1966)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000244b.htm">
+<relationEntry localType="Organisation">
+Daughters of Divine Zeal (1959 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Antonian Children's Home', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Antonian Children's Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000841b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000463.htm">
+<relationEntry localType="digitalObject">Antonian Children's Home</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Antonian Children's Home</unittitle>
+<abstract>This resource comprises 20 images of the Antonian Children's Home as part of the Jubilee celebrations of the Daughters of Divine Zeal.
+This webpage is no longer in operation. The page was taken from the Wayback Machine and is dated 30th April 2013.</abstract>
+<note label="rights">Daughters of Divine Zeal.</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000503.htm">
+<relationEntry localType="digitalObject">Children and Sisters, Antonian Institute for Children</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Children and Sisters, Antonian Institute for Children</unittitle>
+<unitdate>1960?</unitdate>
+<note label="rights">Daughters of Divine Zeal</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000502.htm">
+<relationEntry localType="digitalObject">Antonian Children's Home</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Antonian Children's Home</unittitle>
+<unitdate>1960?</unitdate>
+<abstract>This is a copy of an image of the exterior of the Antonian Institution for Children (later known as the Antonian Children's Home) in Richmond.</abstract>
+<note label="rights">Daughters of Divine Zeal</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

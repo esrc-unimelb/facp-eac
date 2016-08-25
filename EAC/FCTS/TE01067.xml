@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE01067</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-12-23">2014-12-23</eventDateTime>
+<agentType>human</agentType>
+<agent>Elizabeth Daniels</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-15">2015-10-15</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE01067b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Apprentices and Servants 1840</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1840-01-01">1840</fromDate>
+<toDate standardDate="1852-12-31">1852</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Apprentices and Servants 1840 is also known by its full title 'An Act to consolidate the Laws relating to Apprentices and Servants'(Act no. 4 Vict. No.12). This act was developed to alleviate uncertainty regarding the administration of justice between masters, servants and apprentices in an environment extremely different from the United Kingdom. A similar piece of legislation was enacted in 1837, Apprentice and Servants 1837 Act (Act no.1 Vict. No.15) before being disallowed in 1838. This legislation was repealed in 1852 by the Servants and Apprentices' Act 1852 (Act no.16 Vict. No.23).</abstract>
+<p>Much of Tasmania's early legislation mirrored the United Kingdom's, other legislation was developed or adapted especially for Tasmania's operation as a penal colony. Overtime compromises had to be made between these two approaches to legislation taking into account the very different environmental and contextual factors of life in the colony and the increase of free settlers making their lives in Tasmania.</p>
+<p>There were multiple 'master and servant acts' in the United Kingdom across the 1800's and 1900's which often legislated strong punishment including imprisonment and hard labour for absenteeism or 'abandonment' of employment by employees.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00151b.htm">
+<relationEntry localType="Glossary Term">
+Apprenticeship (c. 1833 - c. 1945)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01036b.htm">
+<relationEntry localType="Concept">
+Colony of Van Diemens Land (1825 - 1856)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01039b.htm">
+<relationEntry localType="Concept">
+Law in Tasmania (1825 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01068b.htm">
+<relationEntry localType="Legislation">
+Servants and Apprentices' Act 1852 (1852 - 1854)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Apprentices and Servants 1840', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Apprentices and Servants 1840</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01067b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000752.htm">
+<relationEntry localType="published">Resource Section: Master and Servant Act</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Master and Servant Act</title>
+<imprint>
+<date>2013</date>
+</imprint>
+<bibseries>
+<title render="italic">Wikipedia: The Free Encyclopedia</title>
+</bibseries>
+<extptr linktype="simple" href="http://en.wikipedia.org/wiki/Master_and_Servant_Act"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00872</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-01-27">2013-01-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-02">2015-03-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00872b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Ministerial Advisory Council on Child Protection [II, Western Australia]</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2009-03-01">1 March 2009</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Advisory Council</term>
+</function>
+</functions>
+<biogHist>
+<abstract>A second Ministerial Advisory Council on Child Protection was established on 1 March 2009 with an independent chairperson. The multi-discipinary committee includes senior representatives from government and non-government agencies, and members of the community. The Council advises the Minister on child protection matters.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00870b.htm">
+<relationEntry localType="Organisation">
+Ministerial Advisory Council on Child Protection [I, Western Australia] (2003 - 2008?)
+</relationEntry>
+<descriptiveNote>
+<p>It has been part of the practice of child welfare in Western Australian for the Minister to appoint an advisory body.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00696b.htm">
+<relationEntry localType="Glossary Term">
+Child Abuse
+</relationEntry>
+<descriptiveNote>
+<p>The Ministerial Advisory Council on Child Protection advises the Minister on child protection matters, including child abuse in WA.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Ministerial Advisory Council on Child Protection [II, Western Australia]', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Ministerial Advisory Council on Child Protection [II, Western Australia]</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00872b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000656.htm">
+<relationEntry localType="published">Resource Section: Government Departments and Agencies - Reviews Committees Inquiries and Taskforces [Hansard p3295c-3260a]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Government Departments and Agencies - Reviews Committees Inquiries and Taskforces [Hansard p3295c-3260a]</title>
+<imprint>
+<publisher>Parliament of Western Australia</publisher>
+<date>2009</date>
+</imprint>
+<bibseries>
+<title render="italic">parliament.wa.gov.au</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.parliament.wa.gov.au/Hansard%5Chansard.nsf/0/755270699a9b06e8c82575b500299972/$FILE/C38%20S1%2020090505%20p3259c-3260a.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

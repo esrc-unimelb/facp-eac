@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01241</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-09-12">2013-09-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-06-15">2016-06-15</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01241b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Pleasant Avenue Cottage</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1975-01-01">1975</fromDate>
+<toDate standardDate="1979-12-31">1979</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Government-run</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Pleasant Avenue Cottage was the new name given to the Glandore Family Home in 1975. Run by the government it was situated on the ground of the former Glandore Boys' Home in Glandore. The Cottage generally accommodated six State children. Pleasant Avenue Cottage closed in 1979.</abstract>
+<p>Pleasant Avenue Cottage was the new name given to the Glandore Family Home in 1975. Run by the Department for Community Welfare, the Cottage was situated at 58 Pleasant Avenue, Glandore, on the grounds of the former Glandore Boys' Home.</p>
+<p>As with most cottage homes established during the 1960s and early 1970s, the emphasis of the Home was on smaller group, family-style care. Departmental Annual Reports from the 1960s stress the belief that cottage care allowed for more individual attention to be given to each child. The Department also felt that children who were living in cottage style accommodation and attending local schools would be less conspicuous as 'State' children. This may make it easier for them to become part of the local community. The cottage system also allowed for brothers and sisters to be placed together. Reports also noted that providing cottage care was less costly for the government than running large institutions.</p>
+<p>Pleasant Avenue Cottage could house up to eight children but generally accommodated six. In 1979 Pleasant Avenue Cottage was closed. Two years later in 1981 the Southern Region Group Home was opened at the former site of Pleasant Avenue Cottage.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1975-01-01">1975</fromDate>
+<toDate standardDate="1979-12-31">1979</toDate>
+</dateRange>
+<placeEntry>Glandore</placeEntry>
+<event>Address - Pleasant Avenue Cottage was situated at 58 Pleasant Avenue, Glandore</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00098b.htm">
+<relationEntry localType="Organisation">
+Glandore Family Home (1972 - 1975)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00073b.htm">
+<relationEntry localType="Organisation">
+Department for Community Welfare, South Australian Government (1972 - 1990)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01149b.htm">
+<relationEntry localType="Event">
+Children in State Care Commission of Inquiry, State of South Australia (2004 - 2008)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00825b.htm">
+<relationEntry localType="Glossary Term">
+Cottage Home (c. 1870 - c. 1970)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00230b.htm">
+<relationEntry localType="Organisation">
+Southern Region Group Home (1979 - 1990)
+</relationEntry>
+<descriptiveNote>
+<p>In 1981 the Southern Region Group Home opened at 58 Pleasant Avenue, Glandore, in the former Pleasant Avenue Cottage</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Pleasant Avenue Cottage', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Pleasant Avenue Cottage</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01241b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000042.htm">
+<relationEntry localType="published">Resource: Finding your own way</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">George, Karen</name>
+<title render="italic">Finding your own way</title>
+<imprint>
+<publisher>Nunkuwarrin Yunti of South Australia Inc.</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://nunku.org.au/resources/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000114.htm">
+<relationEntry localType="published">Report: Children in State Care Commission of Inquiry: Allegations of sexual abuse and death from criminal conduct, presented to the South Australian Parliament by the Hon. E.P. Mullighan QC, Commisioner</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mullighan, the Hon E.P.</name>
+<title render="italic">Children in State Care Commission of Inquiry: Allegations of sexual abuse and death from criminal conduct, presented to the South Australian Parliament by the Hon. E.P. Mullighan QC, Commisioner</title>
+<imprint>
+<place>Adelaide, South Australia</place>
+<publisher>Children in State Care Commission of Enquiry</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="https://www.decd.sa.gov.au/department/reviews-and-responses/children-state-care"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

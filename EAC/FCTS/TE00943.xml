@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00943</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-05-06">2014-05-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-05">2015-03-05</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00943b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Hobart General Hospital</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1860-01-01">1860</fromDate>
+<toDate standardDate="1938-12-31">1938</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Hospital</term>
+</function>
+<function>
+<term>Government-run</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Hobart General Hospital replaced the Colonial Hospital in 1860. It remained on the Liverpool Street site. Until 1878, when a Board of Management took over, the Hospital was run by a committee chaired by the Colonial Secretary. In 1919, the newly formed Hobart Public Hospitals District took over from the Board. In 1901, a children's ward opened. The Hobart General Hospital became the Royal Hobart Hospital in 1938.</abstract>
+<p>In the 1870s, the Hospital began evolving from a pauper institution to a public hospital. This process involved employing qualified nurses and trainees. Florence Abbott became the first qualified Matron during this time. Nurse training began in 1876.</p>
+<p>The process of evolution also involved new buildings. In the late nineteenth century, the replacement of the old unsanitary convict buildings with new ones resulted in a cleaner more modern hospital.</p>
+<p>A children's block opened in 1901. It had 25 cots for children under 10. This brought the Hospital's capacity to 175. By 1925, it was 250.</p>
+<p>Under the 1918 <span style="font-style:italic">Hospitals Act</span>, which also set up the Hobart Public Hospitals District, the Hobart General officially became a public hospital that treated people from all sections of society.</p>
+<p>In 1938, the Hobart General Hospital became the Royal Hobart Hospital with its own coat of arms. The Latin motto underneath the coat of arms meant 'to care with compassion'.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1860-01-01">1860</fromDate>
+<toDate standardDate="1938-12-31">1938</toDate>
+</dateRange>
+<placeEntry>Hobart</placeEntry>
+<event>The Hobart General Hospital was in Liverpool Street, central Hobart</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00942b.htm">
+<relationEntry localType="Organisation">
+Colonial Hospital (1820 - 1860)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00608b.htm">
+<relationEntry localType="Glossary Term">
+Hospital (c. 1820 - c. 1990)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00938b.htm">
+<relationEntry localType="Organisation">
+Royal Hobart Hospital (1938 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hobart General Hospital', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hobart General Hospital</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00943b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000137.htm">
+<relationEntry localType="published">Book: A Guide to Tasmanian Government Administration</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wettenhall, RL</name>
+<title render="italic">A Guide to Tasmanian Government Administration</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Platypus Publications</publisher>
+<date>1968</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000698.htm">
+<relationEntry localType="published">Resource Section: Hospitals</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rimon, Wendy</name>
+<title render="quoted">Hospitals</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Centre for Tasmanian Historical Studies</publisher>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">The companion to Tasmanian history</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.utas.edu.au/library/companion_to_tasmanian_history/H/Hospitals.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000683.htm">
+<relationEntry localType="published">Book: Our first 100 years: the history of nursing at the Royal Hobart Hospital</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Downie, Angus</name>
+<title render="italic">Our first 100 years: the history of nursing at the Royal Hobart Hospital</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Government Printer</publisher>
+<date>1975</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000676.htm">
+<relationEntry localType="published">Book: Portrait of a hospital: the Royal Hobart</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rimmer, WG</name>
+<title render="italic">Portrait of a hospital: the Royal Hobart</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Royal Hobart Hospital</publisher>
+<date>1981</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000680.htm">
+<relationEntry localType="published">Resource Section: The Royal Hobart Hospital</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rimon, Wendy</name>
+<title render="quoted">The Royal Hobart Hospital</title>
+<imprint>
+<publisher>Centre for Tasmanian Historical Studies</publisher>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">The Companion to Tasmanian History</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.utas.edu.au/library/companion_to_tasmanian_history/R/RHH.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000681.htm">
+<relationEntry localType="published">Book: In my day: a history of general nurse training at the Royal Hobart Hospital, 1803-1993</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Norris, Cheryl</name>
+<title render="italic">In my day: a history of general nurse training at the Royal Hobart Hospital, 1803-1993</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Cheryl Norris</publisher>
+<date>2011</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000682.htm">
+<relationEntry localType="published">Book: Time line: 1803-2008: development of nursing education and the Royal Hobart Hospital</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Norris, Cheryl</name>
+<title render="italic">Time line: 1803-2008: development of nursing education and the Royal Hobart Hospital</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Cheryl Norris</publisher>
+<date>2010</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/objects/TD0000255.htm">
+<relationEntry localType="digitalObject">The exterior of Hobart General Hospital</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Tasmanian Images: Tasmanian Archive and Heritage Office</repository>
+<unittitle>The exterior of Hobart General Hospital</unittitle>
+<unitid>TAHO Reference: PH30-1-9946</unitid>
+<unitdate>c. 1860</unitdate>
+<note label="rights">Reproduction rights owned by Tasmanian Archive and Heritage Office</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

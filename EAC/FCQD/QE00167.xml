@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00167</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-06-23">2011-06-23</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-19">2016-05-19</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00167b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>The Friary</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1966-01-01">1966</fromDate>
+<toDate standardDate="1981-12-31">1981</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Protestant</term>
+</function>
+<function>
+<term>Anglican</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Friary, in Brookfield, was operated by the Anglican Society of St Francis. Located on the former site of St Christopher's Lodge, it was the first Australian friary of the Society of St Francis. The Friary provided residential care for young people on probation and for people with mental health issues. It was established in 1966 and licensed on 1 April 1980. The licence was cancelled prior to closure of the institution on 28 August 1981.</abstract>
+<p>According to a timeline in the collection of Kenmore &amp; District Historical Society, compiled by Jane Scragg, the Friary was a 'halfway house', providing temporary shelter for men after their discharge from prison. It would seem that some young men under the age of 18 were accommodated at the Friary.</p>
+<p>After the Friary closed in 1981, the property lay idle for a time, until it became the Brookfield Centre for Christian Spirituality, in the late 1980s.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1966-01-01">1966</fromDate>
+<toDate standardDate="1981-08-28">28 August 1981</toDate>
+</dateRange>
+<placeEntry>Brookfield</placeEntry>
+<event>Address - The Friary was situated at 139 Brookfield Road, Brookfield</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00124b.htm">
+<relationEntry localType="Organisation">
+Anglican Society of St Francis (1937 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1966-01-01">1966</fromDate>
+<toDate standardDate="1980-12-31">1980</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00845b.htm">
+<relationEntry localType="Archival Item">
+Miscellaneous, St Christopher's Lodge and The Friary (1844 - 2002)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00439b.htm">
+<relationEntry localType="Organisation">
+St Christopher's Lodge (1934 - c. 1959)
+</relationEntry>
+<descriptiveNote>
+<p>The Friary was located in the same building as St Christopher's Lodge, in Brookfield.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'The Friary', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">The Friary</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00167b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000678.htm">
+<relationEntry localType="published">Newspaper Article: Golden Jubilee</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Br William SSF</name>
+<title render="quoted">Golden Jubilee</title>
+<imprint>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">Franciscan Angles: Australian Newsletter of the Society of St Francis</title>
+<num type="issue">Eastertide 2005</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000007.htm">
+<relationEntry localType="published">Book: For the Record: Background information on the work of the Anglican Church with Aboriginal Children and Directory of Anglican Agencies providing residential care to children from 1830 to 1980</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Boyce, James</name>
+<title render="italic">For the Record: Background information on the work of the Anglican Church with Aboriginal Children and Directory of Anglican Agencies providing residential care to children from 1830 to 1980</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Anglicare Australia</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000001.htm">
+<relationEntry localType="published">Book: Missing pieces: information to assist former residents of children's institutions to access records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Families</name>
+<title render="italic">Missing pieces: information to assist former residents of children's institutions to access records</title>
+<imprint>
+<publisher>State of Queensland</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/objects/QD0000298.htm">
+<relationEntry localType="digitalObject">The Old Friary</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Weekend Notes, On Topic Media</repository>
+<unittitle>The Old Friary</unittitle>
+<unitdate>2015</unitdate>
+<abstract>This is an image of the Brookfield Centre - also known as the 'Old Friary' - in Kenmore Hills. The building was formerly the site of St Christopher's Lodge (1932-1959) and The Friary (1966-1981).</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

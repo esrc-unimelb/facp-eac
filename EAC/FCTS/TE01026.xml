@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE01026</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-05-29">2014-05-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-02-25">2015-02-25</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE01026b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Public Health Model</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2000-01-01">c. 2000</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The public health model provides a method for preventing social problems such as child abuse or neglect through early intervention. According to the model, removal of a child from the family only happens as a last resort.</abstract>
+<p>The public health model is a policy method used to prevent medical and social problems and deal with them quickly and effectively if they occur. It has three tiers of intervention, primary or universal, secondary, and tertiary. Recent reports in Tasmania and elsewhere in Australia have advocated the model's use in the child welfare sector.</p>
+<p>Primary or universal intervention includes services available to all families that can reduce social inequality. Health and education are good examples. This approach also involves attempts to use public campaigns to change social attitudes that might lead to children being harmed.</p>
+<p>Secondary intervention is more targeted. It works by identifying families whose children might be at risk through poverty, mental health issues, problems in relationships, family violence, and over use of drugs and alcohol. Families are offered appropriate services to help with their problems in a discrete way that avoids causing a social stigma.</p>
+<p>Tertiary intervention takes place where abuse has already occurred and usually involves the legal system and the child's removal from their family.</p>
+<p>Sometimes families will need more than one level of intervention at once.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01025b.htm">
+<relationEntry localType="Organisation">
+National Framework for Protecting Australia's Children (2009 - )
+</relationEntry>
+<descriptiveNote>
+<p>The National Framework for Protecting Australia's Children recommended using the Public Health Model.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00095b.htm">
+<relationEntry localType="Event">
+Select Committee on Child Protection (2010 - 2011)
+</relationEntry>
+<descriptiveNote>
+<p>The Select Committee on Child Protection recommended implementing the Public Health Model.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00925b.htm">
+<relationEntry localType="Glossary Term">
+Child Abuse
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Public Health Model', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Public Health Model</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01026b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000731.htm">
+<relationEntry localType="published">Report: Select Committee on child protection: final report</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Select Committee on child protection: final report</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Parliament of Tasmania</publisher>
+<date>2011</date>
+</imprint>
+<extptr linktype="simple" href="http://www.parliament.tas.gov.au/ctee/House/Reports/Final%20Report%20CP.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000735.htm">
+<relationEntry localType="published">Report: Protecting children is everybody's business: national framework for protecting Australia's children, 2009-2020</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Protecting children is everybody's business: national framework for protecting Australia's children, 2009-2020</title>
+<imprint>
+<place>Canberra</place>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.dss.gov.au/sites/default/files/documents/child_protection_framework.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000732.htm">
+<relationEntry localType="published">Resource: Defining the public health model for the child welfare services context</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hunter, Cathryn</name>
+<title render="italic">Defining the public health model for the child welfare services context</title>
+<imprint>
+<publisher>National Child Protection Clearing House</publisher>
+<date>2011</date>
+</imprint>
+<extptr linktype="simple" href="http://www.aifs.gov.au/nch/pubs/sheets/rs11/rs11.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

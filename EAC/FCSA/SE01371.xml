@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01371</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-06-11">2014-06-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-02-23">2015-02-23</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01371b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Miroma Respite Care</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Also known as"><part>Respite Care Facility, Mount Gambier</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1985-01-01">1985</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Catholic</term>
+</function>
+<function>
+<term>Temporary Care</term>
+</function>
+<function>
+<term>Disability Institution</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Miroma Respite Care was established by the Catholic Church in 1985 in Mt Gambier. It provided respite care for young people up to the age of 20 who had intellectual or multiple disabilities. In 2014 Miroma provided day, overnight and emergency care for children through to adults with intellectual or multiple disabilities.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1985-01-01">1985</fromDate>
+<toDate standardDate="1986-12-31">1986</toDate>
+</dateRange>
+<placeEntry>Mount Gambier</placeEntry>
+<event>Address - Miroma Respite Care was situated at 8 Acacia Street, Mount Gambier</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1986-01-01">1986</fromDate>
+<toDate standardDate="1986-12-31">1986</toDate>
+</dateRange>
+<placeEntry>Mount Gambier</placeEntry>
+<event>Address - Miroma Respite Care was situated at 12 Yeats Street, Mount Gambier</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01290b.htm">
+<relationEntry localType="Organisation">
+Centacare Catholic Family Services (1992 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01189b.htm">
+<relationEntry localType="Archival Series">
+Former Residents' Folders (1900s - )
+</relationEntry>
+<descriptiveNote>
+<p>The Former Residents' folders, held by the Professional Standards Office, may contain information relating to Miroma Respite Care.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Miroma Respite Care', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Miroma Respite Care</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01371b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000395.htm">
+<relationEntry localType="published">Resource Section: Miroma Cottage Inc</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Miroma Cottage Inc</title>
+<imprint>
+<publisher>Seniors Information Service</publisher>
+<date>2014</date>
+</imprint>
+<bibseries>
+<title render="italic">Commonwealth Carelink SA</title>
+</bibseries>
+<extptr linktype="simple" href="http://www9.health.gov.au/ccsd/usr_general/gen_service_details.cfm?provider_ID=255917&amp;providerLocationID=267755&amp;SearchType=QCK_FIND&amp;state_id=7&amp;suburb=Mount%20Gambier&amp;postcode=&amp;service=&amp;service_type_id=9&amp;service_id="></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

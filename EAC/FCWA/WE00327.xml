@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00327</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-03-16">2011-03-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Leanne Howard</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2013-09-11">2013-09-11</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00327b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Marist Order</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1837-01-01">c. 1837</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Religious Order</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Catholic</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Marist Brothers, or Little Brothers of Mary, are a Catholic religious order of brothers and affiliated lay people. The first Marist contact with Australia in 1837 and took up permanent residence at Villa Maria, Hunters Hill, New South Wales in 1847. The Australian community was part of the Pacific missions province (Oceania) until 1926 and then part of the New Zealand province of the Society of Mary until 1938. In that year the province of Australia was established.</abstract>
+<p>The Marist Brothers, or Little Brothers of Mary, are a Catholic religious order of brothers and affiliated lay people. The order was founded in France, at La Valla-en-Gier near Lyon in 1817 by Saint Marcellin Champagnat, a young French priest of the Society of Mary (Marist Fathers).<br />
+The first Marist contact with Australia came in 1837. Using Sydney as a supply base to support their efforts in missions throughout the vast South Pacific, the early members of the Society of Mary were based in various places around Sydney until they took up permanent residence at Villa Maria, Hunters Hill in 1847.</p>
+<p>The Australian community was part of the Pacific missions province (Oceania) until 1926 and then part of the New Zealand province of the Society of Mary until 1938.<br />
+In that year the province of Australia was established. The provincial superior lived at St Patrick's, Church Hill in Sydney until 1966, after which the provincial headquarters were moved to Hunters Hill.</p>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Marist Order', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Marist Order</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00327b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000054.htm">
+<relationEntry localType="published">Resource: Catholic Diocese of Broome [website]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Catholic Church</name>
+<title render="italic">Catholic Diocese of Broome [website]</title>
+<extptr linktype="simple" href="http://www.broomediocese.org"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000053.htm">
+<relationEntry localType="published">Resource: Catholic Archdiocese of Perth [website]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Catholic Church</name>
+<title render="italic">Catholic Archdiocese of Perth [website]</title>
+<extptr linktype="simple" href="http://www.perthcatholic.org.au"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

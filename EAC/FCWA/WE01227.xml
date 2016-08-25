@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01227</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-11-04">2013-11-04</eventDateTime>
+<agentType>human</agentType>
+<agent>Elizabeth Daniels</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01227b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Student Boarder Files</part>
+<part localType="parent">Anglican Diocese of Perth</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1940-01-01">c. 1940</fromDate>
+<toDate standardDate="1970-12-31">c. 1970</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Student Boarder Files is an archival series held by the Anglican Diocese of Perth. The contents of the earlier files are organised by family rather than by individual student boarder. In later decades, the organisation of files changes to individuals. Files have been sorted into decades via the decade the first child in the family attended Swan Homes or Swanleigh as it became known in November 1957. Swanleigh informed us that "Very few files remain prior to the 1960's as the earlier files were destroyed by mould having been stored in the cellar and affected by high temperatures and moisture". Unfortunately this means that records about some individuals may be missing.</abstract>
+<p>This series contains the following records:</p>
+<list><item>2012-00020 Student files for residents of the Swan Homes in the decade of the 1940's (5 files)</item>
+<item>2012-00021 Student files for residents of the Swan Homes in the decade of the 1950's.(158 files)</item>
+<item>2012-00022 Student files for residents of the Swanleigh in the decade of the 1960's (698 files)</item>
+<item>2012-00023 Student files for residents of the Swanleigh in the decade of the 1970's (695 files)</item></list>
+<h4>Access Conditions</h4>
+<p>People who experienced 'care' (and their families) through Swanleigh or Swan Homes, wanting to find information about their time in 'care', or access personal files can contact the Anglican Diocese of Perth.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00010b.htm">
+<relationEntry localType="Organisation">
+Anglican Diocese of Perth (1856 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00593b.htm">
+<relationEntry localType="Archival Collection">
+Anglican Diocese of Perth, Western Australia, Records (1880s - 2010)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01170b.htm">
+<relationEntry localType="Contact Details">
+Anglican Diocese Archives - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00214b.htm">
+<relationEntry localType="Organisation">
+Swan Homes (1943 - 1959)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00806b.htm">
+<relationEntry localType="Organisation">
+Swanleigh (1960 - 2010)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Student Boarder Files', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Student Boarder Files</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01227b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

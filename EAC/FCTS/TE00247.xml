@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00247</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-10-27">2011-10-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-15">2015-10-15</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00247b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Cascades House of Correction</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1856-01-01">1856</fromDate>
+<toDate standardDate="1877-12-31">c. 1877</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government-run</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Cascades House of Correction opened in the former Female Factory at Cascades, South Hobart, in 1856. It housed the children of the prisoners living there as well as children who were orphaned or neglected and waiting for transferral to Queen's Asylum or the boarding-out system. Between 1869 and 1876, the Boys' Reformatory was also on the site. The House of Correction closed in about 1877.</abstract>
+<p>The Cascades House of Correction was on the site of the Cascades Female Factory. Its main purpose was to accommodate women who had received their sentences in Tasmania. During the 1860s, it became less of a gaol and more of an invalid depot for aging and destitute former convicts.</p>
+<p>In 1870, a <span style="font-style:italic">Mercury</span> article referred to a children's refuge at the site of the Cascades House of Correction. It accommodated children whose parents had deserted them or were prisoners. This appears to be the same establishment that the English social reformers and advocates of the boarding-out system, Florence and Rosamund Hill, saw when they visited the site in 1874. In their book <span style="font-style:italic">What we saw in Australia</span>, they wrote that about 18 children, 'all very little', lived there in a separate section to the prisoners. One of the prisoners looked after the children. They attended school on the site.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1856-01-01">1856</fromDate>
+<toDate standardDate="1856-12-31">1856</toDate>
+</dateRange>
+<placeEntry>South Hobart</placeEntry>
+<event>Location - The Cascades House of Correction was situated at the Female Factory, Cascades, South Hobart</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00092b.htm">
+<relationEntry localType="Organisation">
+Convict Department (1818 - 1877)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00846b.htm">
+<relationEntry localType="Legislation">
+Queen's Asylum Act 1861 (1861 - 1934)
+</relationEntry>
+<descriptiveNote>
+<p>According to the <span style="font-style:italic">Queen's Asylum Act</span>, apprentices aged between 12 and 18 who misbehaved could be sent to the Cascades House of Correction.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00156b.htm">
+<relationEntry localType="Glossary Term">
+Boarding Out (1844 - c. 1970)
+</relationEntry>
+<descriptiveNote>
+<p>Some of the children at the Cascades House of Correction awaited a placement in the boarding-out system.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00053b.htm">
+<relationEntry localType="Organisation">
+Queen's Orphan Asylum (1833 - 1879)
+</relationEntry>
+<descriptiveNote>
+<p>Some of the children at the Cascades House of Correction awaited transfer to the Queen's Orphan Asylum.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00242b.htm">
+<relationEntry localType="Organisation">
+New Town Charitable Institution (1879 - 1912)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00328b.htm">
+<relationEntry localType="Organisation">
+Female Factory, Cascades (1827 - 1853)
+</relationEntry>
+<descriptiveNote>
+<p>The Cascades House of Correction was located on the site of the former Female Factory, Cascades.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00557b.htm">
+<relationEntry localType="Organisation">
+Boys' Reformatory (1869 - 1876)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Cascades House of Correction', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Cascades House of Correction</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00247b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000570.htm">
+<relationEntry localType="published">Newspaper Article: Editorial</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Editorial</title>
+<imprint>
+<date>1870</date>
+</imprint>
+<bibseries>
+<title render="italic">The Mercury</title>
+<num type="pages">2</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article8869597"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000115.htm">
+<relationEntry localType="published">Report: The Female Factory Historic Site: Historical Report</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Scripps, L. and Hudspeth, A</name>
+<title render="italic">The Female Factory Historic Site: Historical Report</title>
+<imprint>
+<date>1992</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000285.htm">
+<relationEntry localType="published">Book: What we saw in Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hill, Rosamund Davenport and Hill Florence Davenport</name>
+<title render="italic">What we saw in Australia</title>
+<imprint>
+<place>London</place>
+<publisher>Macmillan and Co</publisher>
+<date>1875</date>
+</imprint>
+<extptr linktype="simple" href="http://archive.org/details/whatwesawinaustr00hilliala"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/objects/TD0000030.htm">
+<relationEntry localType="digitalObject">Female Factory Cascades from the east</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Tasmanian Images: Tasmanian Archive and Heritage Office</repository>
+<unittitle>Female Factory Cascades from the east</unittitle>
+<unitid>TAHO Reference: NS1013-1-48</unitid>
+<unitdate>1880 - 1920</unitdate>
+<abstract>The photograph of the Female Factory Cascades from the east is part of ER Pretyman's collection of photographs and glass plate negatives, 1880 - 1920</abstract>
+<note label="rights">Reproduction rights owned by the Tasmanian Archive and Heritage Office</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

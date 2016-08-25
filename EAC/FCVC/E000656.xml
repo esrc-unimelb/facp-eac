@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000656</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-11-11">2010-11-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000656b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>North East Foster Care</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Joint Anglican Foster Care</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1976-01-01">c. 1976</fromDate>
+<toDate standardDate="1997-12-31">1997?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Foster Care</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+</functions>
+<biogHist>
+<abstract>North East Foster Care was established in around 1976. It was jointly auspiced by the Anglican Diocesan Mission to the Streets and Lanes and St John's Homes for Boys and Girls. From 1989, North East Foster Care's Greensborough office was auspiced by the Mission to the Streets and Lanes, and the Preston office remained under the management of St John's. In 1991, the Greensborough office of North East Foster Care changed auspice to Sutherland Child Youth and Family Services.</abstract>
+<p>Originally, North East Foster Care was known as Joint Anglican Foster Care, and located in the suburb of Preston. The program was established in c.1976 to supplement the foster care services provided by the Broadmeadows Family Centre (run by the Mission to the Streets and Lanes).</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1976-01-01">1976</fromDate>
+<toDate standardDate="1976-12-31">1976</toDate>
+</dateRange>
+<placeEntry>Preston</placeEntry>
+<event>Location - North East Foster Care was located in Preston</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1989-01-01">1989</fromDate>
+<toDate standardDate="1989-12-31">1989</toDate>
+</dateRange>
+<placeEntry>Greensborough</placeEntry>
+<event>Location - North East Foster Care was located on Diamond Creek Road, Greensborough</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000211b.htm">
+<relationEntry localType="Organisation">
+St John's Home for Boys and Girls (1958 - 1997)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1976-01-01">c. 1976</fromDate>
+<toDate standardDate="1989-12-31">1989</toDate>
+</dateRange>
+<descriptiveNote>
+<p>St John's Home for Boys and Girls auspiced North East Foster Care jointly with the Mission to the Streets and Lanes from c.1976 to 1989. From 1989, St John's auspiced the Preston office, and the Mission to the Streets and Lanes auspiced the Greensborough office.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000097b.htm">
+<relationEntry localType="Organisation">
+Mission to the Streets and Lanes (1886 - 1997)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1976-01-01">c. 1976</fromDate>
+<toDate standardDate="1991-12-31">1991</toDate>
+</dateRange>
+<descriptiveNote>
+<p>St John's Home for Boys and Girls auspiced North East Foster Care jointly with the Mission to the Streets and Lanes from c.1976 to 1989. From 1989, St John's auspiced the Preston office, and the Mission to the Streets and Lanes auspiced the Greensborough office.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000041b.htm">
+<relationEntry localType="Organisation">
+Sutherland Child Youth and Family Services (1991 - 1994)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1991-01-01">1991</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000621b.htm">
+<relationEntry localType="Organisation">
+Broadmeadows Family Centre (1974 - 1997?)
+</relationEntry>
+<descriptiveNote>
+<p>North East Foster Care was established to supplement the foster care program at Broadmeadows Family Centre.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'North East Foster Care', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">North East Foster Care</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000656b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000687.htm">
+<relationEntry localType="published">Book: Publicity and recruitment: the North East Foster Care experience 1985-1990</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Howe, Kathryn, Deborah Kearsey and Helen Murphy</name>
+<title render="italic">Publicity and recruitment: the North East Foster Care experience 1985-1990</title>
+<imprint>
+<place>Greensborough</place>
+<publisher>North East Foster Care</publisher>
+<date>1991</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000093.htm">
+<relationEntry localType="published">Book: The Sutherland Story: a century of caring for children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Groll, Nancy</name>
+<title render="italic">The Sutherland Story: a century of caring for children</title>
+<imprint>
+<publisher>Berry Street Victoria</publisher>
+<date>2000</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000486.htm">
+<relationEntry localType="published">Report: Annual report: Church of England, Diocesan Mission to the Streets and Lanes of Melbourne</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Annual report: Church of England, Diocesan Mission to the Streets and Lanes of Melbourne</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>The Mission</publisher>
+<date>-1980</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

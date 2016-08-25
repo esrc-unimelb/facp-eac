@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01161</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-06-21">2012-06-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-07-29">2015-07-29</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01161b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Hillside Training Home for Girls</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1920-01-01">1920</fromDate>
+<toDate standardDate="1923-12-31">1923?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Children's Home</term>
+</function>
+<function>
+<term>Government-run</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Hillside Training Home for Girls was established in Ormond House in Paddington in 1920 by the State Children's Relief Department. It was a home that trained girls aged 10 to 14 in domestic service. It possibly closed when the State Children's Relief Board became the Child Welfare Department and its activities were moved from Ormond House.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1920-01-01">1920</fromDate>
+<toDate standardDate="1923-12-31">1923?</toDate>
+</dateRange>
+<placeEntry>Paddington</placeEntry>
+<event>Address - Hillside Training Home for Girls was situated in Ormond House, 1 Ormond Street, Paddington</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01160b.htm">
+<relationEntry localType="Organisation">
+Hillside Home for Mothers and Babies (1913 - 1920)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00037b.htm">
+<relationEntry localType="Organisation">
+State Children's Relief Board (1881 - 1923)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00930b.htm">
+<relationEntry localType="Archival Collection">
+Records relating to State Wards, New South Wales (1881 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01509b.htm">
+<relationEntry localType="Place">
+Ormond House (1824 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1920-01-01">1920</fromDate>
+<toDate standardDate="1923-12-31">1923</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Hillside Training Home for Girls was located in Ormond House.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01063b.htm">
+<relationEntry localType="Organisation">
+Ormond House (1884 - 1923)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1920-01-01">1920</fromDate>
+<toDate standardDate="1923-12-31">1923</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Hillside Training Home for Girls was located within Ormond House.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hillside Training Home for Girls', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hillside Training Home for Girls</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01161b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000206.htm">
+<relationEntry localType="published">Report: Report of the State Children's Relief Board</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Report of the State Children's Relief Board</title>
+<imprint>
+<place>Sydney</place>
+<publisher>W.A. Gullick, Government Printer</publisher>
+<date>1894-1920</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000372.htm">
+<relationEntry localType="digitalObject">"Ormond House," Paddington, Which Includes Girls' Shelter</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>"Ormond House," Paddington, Which Includes Girls' Shelter</unittitle>
+<unitdate>1911</unitdate>
+<abstract>This is a digital copy of an image that appeared in the State Children's Relief Department Annual Report for 1911.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>
