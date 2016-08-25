@@ -2,7 +2,7 @@
 Find & Connect Open Dataset 
 *****************************
 
-This dataset contains information relating to the history of child welfare and institutional ‘care’ in Australia, with a particular focus on the period 1920- 1989. It includes data about: private organisations and government departments that housed children or were otherwise responsible for their ‘care’; the legislation under which these bodies acted; and the types of records that were created to document childhoods in ‘care’, as well as information about  where surviving records relating to homes in the database are currently held. The dataset also incorporates digital images for many of organisations described in the dataset, as well as publications data for many related information sources.
+This dataset contains information relating to the history of child welfare and institutional ‘care’ in Australia, with a particular focus on the period 1920- 1989. It includes data about: private organisations and government departments that housed children or were otherwise responsible for their ‘care’; the legislation under which these bodies acted; and the types of records that were created to document childhoods in ‘care’, as well as information about  where surviving records relating to homes in the database are currently held. The dataset also incorporates digital images for many organisations described in the dataset, as well as publications data for many related information sources.
 The dataset does not contain copies of archival records, nor does it include information about individuals who provided or spent time in ‘care’.
  
 ### Data Schema
@@ -21,4 +21,4 @@ Funding for the Find and Connect web resource has been provided by The Australia
 Find and Connect is a response to recommendations of two separate Senate Inquiries into institutional out-of-home-care - [Inquiry into Children in Institutional Care (2003 - 2004)](https://www.findandconnect.gov.au/ref/australia/biogs/FE00079b.htm) & [Inquiry into the Implementation of the Recommendations of the Lost Innocents and Forgotten Australians Reports (2008 - 2009)](https://www.findandconnect.gov.au/ref/australia/biogs/FE00078b.htm), and would not exist at all were it not for the hundreds of people who have had the courage to tell their stories. Thank you to those who have shared their experience so that this chapter of Australia's history can be better understood.
 
 ### Licence
-All data produced by The Find & Connect Project is licensed under [The Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License).
+All data produced by The Find & Connect Project is licensed under [The Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-nc-sa/3.0/au/).
