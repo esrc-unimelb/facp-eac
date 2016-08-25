@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01319</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-05-07">2014-05-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-06-02">2015-06-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01319b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Freedom of Information Act 1991</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1992-01-01">1992</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Freedom of Information Act 1991 (Act No. 201991) was assented to on 18 April 1991 and commenced on 1 January 1992. The Act regulates access to documents held by the State Government and local councils. The act gives individuals the right to apply for access to documents held by these bodies. This includes access to records related to State Care. Under the Act, individuals can also request that records related to them be amended. This Act does not apply to Commonwealth records or records of private organisations.</abstract>
+<p>The Freedom of Information Act 1991 gives individuals the legally enforceable right to access to documents created and held by the government, subject to some restrictions.</p>
+<p>The act allows people to apply for access to documents held by local councils, the State Government and its agencies or a University. Applications for access to records related to State Care are included in this. Under the Act, individuals can also request that records related to them be amended when they are found to be incorrect, out-of date, misleading or incomplete.</p>
+<p>The Freedom of Information Act does not apply to private organisations or businesses in South Australia. It also does not apply to records held by the Commonwealth Government.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01407b.htm">
+<relationEntry localType="Concept">
+State of South Australia (1901 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01409b.htm">
+<relationEntry localType="Concept">
+Law in South Australia (1834 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00981b.htm">
+<relationEntry localType="Glossary Term">
+FOI
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Freedom of Information Act 1991', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Freedom of Information Act 1991</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01319b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/objects/SD0000294.htm">
+<relationEntry localType="digitalObject">Freedom of Information Act 1991</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Freedom of Information Act 1991</unittitle>
+<unitdate>1991</unitdate>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

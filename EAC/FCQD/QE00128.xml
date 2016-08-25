@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00128</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-06-22">2011-06-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-09">2015-03-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00128b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Mi Gunyah Youth Hostel</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1991-01-01">1991</fromDate>
+<toDate standardDate="1999-12-31">1999</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Hostel</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Mi Gunyah Youth Hostel, in Toowoomba, was established in early 1991 by the Toowoomba Aboriginal Corporation for Cultural and Recreational Activities (TACCRA). Funding was approved for the Hostel in April 1991. In 1997, TACCRA was re-incorporated as South East Qld Aboriginal Community Care Agency Aboriginal Corporation (SEQACCA). According to the publication <span style="font-style:italic">Missing Pieces </span>, Mi Gunyah closed in November 1999.</abstract>
+<p>The publication <span style="font-style:italic">Missing Pieces</span> (2001) stated that Mi Gunyah Youth Hostel was located at 5 Bowen Street, Toowoomba.</p>
+<p>The publication <span style="font-style:italic">Toowoomba: a sense of history</span> (1991) states that Mi Gunyah was located in Euston Road, Toowoomba.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1991-01-01">1991</fromDate>
+<toDate standardDate="1999-12-31">1999</toDate>
+</dateRange>
+<placeEntry>Toowoomba</placeEntry>
+<event>Location - Mi Gunyah Youth Hostel was situated at Euston Road, Toowoomba</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00129b.htm">
+<relationEntry localType="Organisation">
+Toowoomba Aboriginal Corporation for Cultural and Recreational Activities (1990? - 1997?)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1991-01-01">1991</fromDate>
+<toDate standardDate="1997-12-31">1997</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00130b.htm">
+<relationEntry localType="Organisation">
+South East Queensland Aboriginal Community Care Agency (1997 - 1999?)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1997-01-01">1997</fromDate>
+<toDate standardDate="1999-12-31">1999</toDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Mi Gunyah Youth Hostel', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Mi Gunyah Youth Hostel</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00128b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000508.htm">
+<relationEntry localType="published">Book: Toowoomba: a sense of history: 1840 - 2008</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Maurice French</name>
+<title render="italic">Toowoomba: a sense of history: 1840 - 2008</title>
+<imprint>
+<place>Toowoomba</place>
+<publisher>University of Southern Queensland</publisher>
+<date>1991</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000001.htm">
+<relationEntry localType="published">Book: Missing pieces: information to assist former residents of children's institutions to access records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Families</name>
+<title render="italic">Missing pieces: information to assist former residents of children's institutions to access records</title>
+<imprint>
+<publisher>State of Queensland</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

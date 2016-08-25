@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00889</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Item</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-01-31">2013-01-31</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-26">2015-08-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00889b.htm</entityId>
+<entityId localType="State Records of Western Australia Reference code">AU WA S1099- cons2532 A0366 v1</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Western Australia Child Welfare Department's Annual Reports</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1946-06-26">26 June 1946</fromDate>
+<toDate standardDate="1969-02-04">4 February 1969</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Western Australia Child Welfare Department's Annual Reports contain draft copies and correspondence relating to the preparation of annual reports of the Child Welfare Department in Western Australia (CWD). The file is in poor condition and has few page numbers. It is arranged in reverse date order, with newer entries appearing first. The file begins with a draft of the report for the five years ended 30 June 1946 and a complete, original version of the final report for that period.</abstract>
+<h4>Access Conditions</h4>
+<p>Open</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00839b.htm">
+<relationEntry localType="Archival Series">
+Files - Community Welfare ("A" Series), State Records Office of Western Australia (1908 - 1990)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01156b.htm">
+<relationEntry localType="Contact Details">
+State Records Office of Western Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Western Australia Child Welfare Department's Annual Reports', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Western Australia Child Welfare Department's Annual Reports</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00889b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000250.htm">
+<relationEntry localType="digitalObject">Report of Child Welfare Department for the Five Years Ended 30th June, 1946</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Records Office Western Australia</repository>
+<unittitle>Report of Child Welfare Department for the Five Years Ended 30th June, 1946</unittitle>
+<unitid>Series 1099 Cons 2532 Item A0366 v1</unitid>
+<unitdate>30 June 1942 - 30 June 1946</unitdate>
+<abstract>This is a digital copy of a document included in the archival item 'Western Australia Child Welfare Department's Annual Reports' held by the State Records Office of WA. It covers the financial years 1942 to 1946 and was published in 1947.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

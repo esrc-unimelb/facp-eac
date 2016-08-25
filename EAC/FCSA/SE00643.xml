@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE00643</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-08-11">2011-08-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-11-17">2015-11-17</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE00643b.htm</entityId>
+<entityId localType="United Aborigines Mission Archives Reference Number">Box 72</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Correspondence</part>
+<part localType="parent">Gerard Mission Children's Dormitory</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1945-01-01">1945</fromDate>
+<toDate standardDate="1987-12-31">1987</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Letters, reports and other documents addressing many subjects including: (1) General running of the children's dormitory, (2) Repairs and maintenance, (3) Food and clothing requirements, (4) Children's health, (5) Staff changes and letters from staff to Secretary of the UAM, (6) Fortnightly, monthly and yearly reports from the Mission superintendent which include mention of the dormitory, (7) Correspondence relating to individual children. Correspondence on various subjects sometimes refers to children by name. Quantity: 1 folders.</abstract>
+<h4>Access Conditions</h4>
+<p>To make an enquiry with regard to personal records which may be held by the UAM Archives, you will need to fill out a form entitled 'Request for details of personal information held by the United Aborigines Mission'. This form requires the provision of personal details and as much information as possible with regard to the home in which they were resident. Dates of admission and discharge are also required. The UAM will search records free of charge subject to the researcher signing the following agreement, included on the form:</p>
+<p>1. That the UAM has no obligation to ensure that any information which it has in its records is found;</p>
+<p>2. That you release UAM from any action, suit, claim or demand in respect of any act or omission of UAM and its servants and agents in respect of the subject of your inquiry.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00767b.htm">
+<relationEntry localType="Archival Collection">
+Records of Gerard Mission (1940s - 1987)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01258b.htm">
+<relationEntry localType="Contact Details">
+UAM Ministries - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Correspondence', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Correspondence</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00643b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000042.htm">
+<relationEntry localType="published">Resource: Finding your own way</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">George, Karen</name>
+<title render="italic">Finding your own way</title>
+<imprint>
+<publisher>Nunkuwarrin Yunti of South Australia Inc.</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://nunku.org.au/resources/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

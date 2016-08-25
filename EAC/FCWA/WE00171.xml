@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00171</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-03-15">2011-03-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-31">2016-03-31</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00171b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Pallottine Boys' Hostel</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="also known as"><part>Tintinara</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1970-01-01">1970?</fromDate>
+<toDate standardDate="1978-12-31">1978</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Hostel</term>
+</function>
+<function>
+<term>Catholic</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Adolescent Care</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Pallottine's Boys' Hostel, Albany (which was also known as 'Tintinara') admitted male Aboriginal teenagers from all over Western Australia, including the Kimberleys, from around 1970. It was intended to house only those young men who faced social and emotional challenges, including those who were wards of the State and others. There were 11 boys in residence when the hostel closed in 1978.</abstract>
+<p>According to the State Solicitor's Office in Western Australia (<span style="font-style:italic">Guide to Institutions Attended by Aboriginal People in Western Australia</span> 2005, p.108), the Pallottine's Boys' Hostel, Albany was run by the Catholic male religious order, the Society of the Catholic Apostolates (Pallottines) at the request of the Commissioner of Native Welfare. In 1968, development of the hostel began, with funds contributed by the government, the Lotteries Commission and the Pallottines. The intention of the Pallottines, as reported in the <span style="font-style:italic">Guide</span>, 'was to accept children who were not socially or emotionally stable and reliable, often taking State Wards or children from broken homes'.</p>
+<p>Files created by child welfare agencies show that the hostel was also known as 'Tintinara'.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1970-01-01">1970?</fromDate>
+<toDate standardDate="1978-12-31">1978</toDate>
+</dateRange>
+<placeEntry>Albany</placeEntry>
+<event>Location - Pallottine Boys' Hostel was located at Albany</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00274b.htm">
+<relationEntry localType="Organisation">
+Pallottines (Society of the Catholic Apostolates) (1901 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01202b.htm">
+<relationEntry localType="Archival Collection">
+Pallottines, Records (1895? - 1993?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00635b.htm">
+<relationEntry localType="Glossary Term">
+Aboriginal Education and Employment Hostels (1950 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Pallottine Boys' Hostel', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Pallottine Boys' Hostel</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00171b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000204.htm">
+<relationEntry localType="published">Resource: Guide to Institutions Attended by Aboriginal People in Western Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">State Solicitor's Office of Western Australia</name>
+<title render="italic">Guide to Institutions Attended by Aboriginal People in Western Australia</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://web.archive.org/web/20140126131607/http://www.dpc.wa.gov.au/lantu/MediaPublications/Documents/Guide-to-Institutions-attended-by-Aboriginal-people-in-WA-2005.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000254.htm">
+<relationEntry localType="published">Resource: Society of the Catholic Apostolate (Pallottine Fathers and Brothers)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Society of the Catholic Apostolate (Pallottine Fathers and Brothers)</title>
+<extptr linktype="simple" href="http://www.pallottine.org.au"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000032.htm">
+<relationEntry localType="published">Report: A Piece of the Story: A Research Project Undertaken by the Australian Catholic Social Welfare Commission and the Australian Conference of Leaders of Religious Institutes</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">National Directory of Records of Catholic Organisations Caring for Children Separated from Families</name>
+<title render="italic">A Piece of the Story: A Research Project Undertaken by the Australian Catholic Social Welfare Commission and the Australian Conference of Leaders of Religious Institutes</title>
+<imprint>
+<date>November 1999</date>
+</imprint>
+<extptr linktype="simple" href="http://www.cssa.org.au/storage/A%20Piece%20of%20the%20Story.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
+<relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Information Services, Department for Community Development</name>
+<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+</imprint>
+<extptr linktype="simple" href="http://signposts.cpfs.wa.gov.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

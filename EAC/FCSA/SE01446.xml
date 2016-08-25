@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01446</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2015-01-21">2015-01-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Christine Moje</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-09">2016-03-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01446b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Guardianship of Infants Act 1887</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1887-01-01">1887</fromDate>
+<toDate standardDate="1940-12-31">1940</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Guardianship of Infants Act 1887 (No 400 of 50 and 51 Vic, 1887) was passed on 16 November 1887, and repealed the Infants Custody Act 1883. Its full title was: An Act to amend the law relating to the Guardianship and Custody of Infants. The Act was repealed by the Guardianship of Infants Act 1940 on 5 December 1940.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01445b.htm">
+<relationEntry localType="Legislation">
+Infants Custody Act 1883 (1884 - 1887)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01407b.htm">
+<relationEntry localType="Concept">
+State of South Australia (1901 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01408b.htm">
+<relationEntry localType="Concept">
+Colony of South Australia (1834 - 1901)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01409b.htm">
+<relationEntry localType="Concept">
+Law in South Australia (1834 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01503b.htm">
+<relationEntry localType="Legislation">
+Guardianship of Infants Act 1940 (1940 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Guardianship of Infants Act 1887', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Guardianship of Infants Act 1887</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01446b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

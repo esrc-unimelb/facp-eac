@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000891</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-07-10">2013-07-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000891b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Bukawert Reformatory School</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1894-01-01">1894</fromDate>
+<toDate standardDate="1899-12-31">1899</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Reformatory</term>
+</function>
+<function>
+<term>Non-denominational</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Bukawert Reformatory School opened in 1894 in Buln Buln, West Gippsland. It was gazetted as a 'reformatory school for Protestant boys' in 1894, and was located on the premises of Henry Beresford Sadleir, who was appointed as the Superintendent.
+It closed in 1899.</abstract>
+<p>The Bukawert Reformatory School was a private reformatory, which attempted to extend to the boys who were sent there the advantages of the boarding out system. The policy intended to 'strengthen the hand' of the superintendent by placing as few children as possible in each school, thus enabling him to take an interest in each boy in order to exert a reforming influence.</p>
+<p>In 1898 the school moved to another site as a result of a bushfire. At the time three boys were at the school, five were 'at service' and two boys were on probation.</p>
+<p>The school closed in 1899.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1894-01-01">1894</fromDate>
+<toDate standardDate="1899-12-31">1899</toDate>
+</dateRange>
+<placeEntry>Buln Buln</placeEntry>
+<event>Location - Bukawert Reformatory School was situated at Buln Buln (West Gippsland)</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000219b.htm">
+<relationEntry localType="Glossary Term">
+Reformatory (1864 - c. 1954)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bukawert Reformatory School', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bukawert Reformatory School</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000891b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000495.htm">
+<relationEntry localType="published">Report: Department for Neglected Children and Reformatory Schools. Report of the Secretary.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Department for Neglected Children and Reformatory Schools. Report of the Secretary.</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Government Printer</publisher>
+<date>1887 - 1924</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000579</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-05-05">2010-05-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-04-20">2015-04-20</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000579b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Catholic Social Service Bureau</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Catholic Family Welfare Bureau</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1956-01-01">1956</fromDate>
+<toDate standardDate="1998-12-31">1998</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1935-01-01">1935</fromDate>
+<toDate standardDate="1998-12-31">1998</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Catholic</term>
+</function>
+<function>
+<term>Church Agency</term>
+</function>
+<function>
+<term>Adoption Agency</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Catholic Social Service Bureau was established in 1935 by Archbishop of Melbourne Daniel Mannix. It employed two of Australia's first 'professional' social workers, Norma Parker and Constance Moffitt. Barnard and Twigg write that Moffitt and Parker were concerned that too many children were being placed in institutional care simply because of family poverty. They urged the Archbishop Mannix to establish an organisation to coordinate the work of Catholic institutions. In 1935, Constance Moffitt was appointed the Bureau's first head. One of the Bureau's functions was to administer applications for children to be admitted to the many Catholic children's homes in Victoria. It also counselled unmarried mothers and arranged foster care placements and adoptions. In 1956, it changed its name to the Catholic Family Welfare Bureau and in 1966, it was approved as an adoption agency under the Victorian legislation. In 1998 it became known as Centacare Catholic Family Services.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000794b.htm">
+<relationEntry localType="Archival Collection">
+Records of Teresa Wardell (1866 - 1984)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000835b.htm">
+<relationEntry localType="Archival Collection">
+Adoption records (copies) (c. 1956 - c. 1985)
+</relationEntry>
+<descriptiveNote>
+<p>CatholicCare holds copies of records of adoptions arranged by the Catholic Family Welfare Bureau (as it was known from 1956).</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000915b.htm">
+<relationEntry localType="Organisation">
+Cortona Hostel (1973? - 1989?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000530b.htm">
+<relationEntry localType="Organisation">
+Centacare Catholic Family Services (1998 - 2011)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Catholic Social Service Bureau', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Catholic Social Service Bureau</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000579b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000007.htm">
+<relationEntry localType="published">Book: Holding on to Hope: a history of the founding agencies of MacKillop Family Services 1854-1997</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Barnard, Jill; Twigg, Karen</name>
+<title render="italic">Holding on to Hope: a history of the founding agencies of MacKillop Family Services 1854-1997</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Australian Scholarly Publishing</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000411.htm">
+<relationEntry localType="published">Resource Section: Parker, Norma Alice</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Land, Clare and Nikki Henningham</name>
+<title render="quoted">Parker, Norma Alice</title>
+<imprint>
+<publisher>National Foundation for Australian Women</publisher>
+<date>2010</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/IMP0264b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

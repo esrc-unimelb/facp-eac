@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00579</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-02-14">2012-02-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-10-23">2014-10-23</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00579b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Metropolitan Cemeteries Board</part>
+<part localType="parent">State of Western Australia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<functions>
+<function>
+<term>Records Holder</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Metropolitan Cemeteries Board is a statutory authority of the Government of Western Australia. The Board is responsible for managing cemeteries at Fremantle, Guildford, Karrakatta, Midland, Pinnaroo and Rockingham. Their website holds a number of useful links and resources to help people discover their family history.</abstract>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Metropolitan Cemeteries Board', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Metropolitan Cemeteries Board</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00579b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000221.htm">
+<relationEntry localType="published">Resource Section: Research and Genealogy</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Research and Genealogy</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Metropolitan Cemeteries Board, Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.mcb.wa.gov.au/ResearchAndGenealogy"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>FE00091</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNA</agencyCode>
+<agencyName>Find &amp; Connect - Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-11-11">2011-11-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-02-26">2016-02-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/australia/biogs/FE00091b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>World War Two</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Second World War</part>
+</nameEntry>
+<nameEntry localType=""><part>WWII</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1939-01-01">1939</fromDate>
+<toDate standardDate="1945-12-31">1945</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The significance of World War Two, and the role this event plays in the history of the institutional 'care' of Australian children is an emerging area of research. It is evident that World War Two, directly or indirectly, was a factor in thousands of children's placement in 'care' in the mid-twentieth century.
+
+The Alliance for Forgotten Australians (AFA) submitted to the Senate inquiry of 2009 about the impact of World War Two on Australian social conditions, and the consequences for many families:
+'Many of the children were in these institutions because their parents were, or had been, in the armed forces. They may have lost parent/s, through death or serious injury; many children also had parents who had returned from overseas war service with untreated post-traumatic stress disorder, unable to care for their children.'
+
+A survey conducted by the Care Leavers of Australia Network (CLAN) in 2007 found that up to half of all fathers of children who subsequently grew up in 'care' served in the Australian armed forces. Frank Golding's submission to the Senate inquiry in 2009 asserted that 'Service for the nation by parents undoubtedly created unintended harmful consequences for families, and countless children were separated from their fragmented families as a result of war'.
+
+The 'Forgotten Australians' report made reference to the experiences of 'repatriation wards' during and after World War Two. These children who had lost parents during the War were placed in institutions run by ex-servicemen's organisations like Legacy (for example, Blamey House in Victoria).</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00113b.htm">
+<relationEntry localType="Event">
+World War One (1914 - 1918)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'World War Two', in <span style="font-style:italic">Find &amp; Connect - Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">World War Two</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00091b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/bib/FP0000050.htm">
+<relationEntry localType="published">Resource Section: Service Records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Service Records</title>
+<imprint>
+<publisher>National Archives of Australia</publisher>
+<date>2012</date>
+</imprint>
+<bibseries>
+<title render="italic">National Archives of Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.naa.gov.au/collection/explore/defence/service-records/index.aspx"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/bib/FP0000004.htm">
+<relationEntry localType="published">Report: Lost Innocents and Forgotten Australians Revisited: Report on the progress with the implementation of the recommendations of the Lost Innocents and Forgotten Australians Reports</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Senate Community Affairs References Committee Secretariat, Parliament of Australia</name>
+<title render="italic">Lost Innocents and Forgotten Australians Revisited: Report on the progress with the implementation of the recommendations of the Lost Innocents and Forgotten Australians Reports</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2008-10/recs_lost_innocents_forgotten_aust_rpts/report/index"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

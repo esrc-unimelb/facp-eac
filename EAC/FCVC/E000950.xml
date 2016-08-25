@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000950</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Concept</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2015-06-18">2015-06-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Elizabeth Daniels and Christine Moje</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-07-23">2015-07-23</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000950b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Port Phillip District</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1836-01-01">1836</fromDate>
+<toDate standardDate="1851-12-31">1851</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Port Phillip District was a district of the Colony of New South Wales from 1836 until 1851. The Port Phillip District achieved independence from New South Wales in 1851 and became the Colony of Victoria. Prior to 1836 the Port Phillip District had been governed by multiple Indigenous groups under many different names.</abstract>
+<p>Prior to 1851 Victoria was a district of New South Wales known as the Port Phillip District. In 1835 a group of 15 Tasmanian colonists formed the Port Phillip Association and commenced 'purchasing' large amounts of land off the Indigenous peoples of Victoria. The New South Wales Governor declared that the colonists were trespassers and their 'purchase' of land from Indigenous Australians to be invalid.</p>
+<p>In 1836 the Governor gave up the battle against settlement in what would become Victoria, and in an effort to regain control of the territory, appointed William Lonsdale as Chief Agent of Government, Police Magistrate and Commandant of the Port Phillip District. Colonists living in the District continued to petition to gain independence from New South Wales.</p>
+<p>Some of the arguments made for separation from New South Wales included concerns about law and justice. The inhabitants of the Port Phillip District wanted their own Supreme Court Judge and building. Inhabitants were also angry that the taxes from land sales went to Sydney and New South Wales rather than funding the development of the Port Phillip District.</p>
+<p>In 1850 on 1 July the petitioners were successful and under the passing of the Australian Colonies Act were granted separation from New South Wales. At this time, the Port Phillip District also changed its name to the Colony of Victoria.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000949b.htm">
+<relationEntry localType="Concept">
+Law in Victoria (1836 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000951b.htm">
+<relationEntry localType="Concept">
+Colony of Victoria (1851 - 1901)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Port Phillip District', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Port Phillip District</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000950b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001129.htm">
+<relationEntry localType="published">Resource Section: Explore History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Explore History</title>
+<imprint>
+<publisher>State Library of Victoria</publisher>
+<date>2015</date>
+</imprint>
+<bibseries>
+<title render="italic">Ergo</title>
+</bibseries>
+<extptr linktype="simple" href="http://ergo.slv.vic.gov.au/explore-history/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001128.htm">
+<relationEntry localType="published">Resource Section: Electoral Act 1856 (Vic)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Electoral Act 1856 (Vic)</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2011</date>
+</imprint>
+<bibseries>
+<title render="italic">Documenting a Democracy</title>
+<name type="author">Museum of Australian Democracy</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.foundingdocs.gov.au/item-sdid-20.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

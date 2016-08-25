@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE00174</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-02-16">2011-02-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-11-17">2015-11-17</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE00174b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Australian Inland Mission</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Acronym"><part>AIM</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1912-01-01">1912</fromDate>
+<toDate standardDate="1977-12-31">1977</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Mission</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Australian Inland Mission (AIM) was established in 1912 by the Rev John Flynn (later founder of the Royal Flying Doctor Service) of the Presbyterian Church. The AIM's work was primarily in the Northern Territory, but also was in remote South Australia, Western Australia and Queensland. In 1950, the AIM purchased Warrawee, at Grange as a location for seaside camps for children from inland Australia. The SA Council of the Australian Inland Mission ran Warrawee from 1950 until 1975. With the formation of the Uniting Church of Australia in 1977, the work of AIM was continued through the Presbyterian Inland Mission and Frontier Services.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00881b.htm">
+<relationEntry localType="Glossary Term">
+Mission
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00175b.htm">
+<relationEntry localType="Organisation">
+Far North Children's Health Scheme (1957 - 1975?)
+</relationEntry>
+<descriptiveNote>
+<p>The Far North Children's Health Scheme was part of the SA Council of the Australian Inland Mission</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00173b.htm">
+<relationEntry localType="Organisation">
+Warrawee, Grange (1950 - 1975)
+</relationEntry>
+<descriptiveNote>
+<p>The SA Council of the Australian Inland Mission ran Warrawee.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Australian Inland Mission', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Australian Inland Mission</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00174b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000441.htm">
+<relationEntry localType="published">Resource Section: Our history</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Our history</title>
+<imprint>
+<publisher>Frontier Services</publisher>
+<date>2011</date>
+</imprint>
+<bibseries>
+<title render="italic">Frontier Services</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.frontierservices.org/about-us/our-history"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000440.htm">
+<relationEntry localType="published">Resource Section: Australian Inland Mission (1912 - 1977)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Trengove, Anna</name>
+<title render="quoted">Australian Inland Mission (1912 - 1977)</title>
+<imprint>
+<publisher>Find &amp; Connect Web Resource Project for the Commonwealth of Australia</publisher>
+<date>2011</date>
+</imprint>
+<bibseries>
+<title render="italic">Find &amp; Connect web resource</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00079b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000439.htm">
+<relationEntry localType="published">Resource Section: Australian Inland Mission</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Australian Inland Mission</title>
+<imprint>
+<publisher>National Library of Australia</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.nla.gov.au/selected-library-collections/australian-inland-mission"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000042.htm">
+<relationEntry localType="published">Resource: Finding your own way</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">George, Karen</name>
+<title render="italic">Finding your own way</title>
+<imprint>
+<publisher>Nunkuwarrin Yunti of South Australia Inc.</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://nunku.org.au/resources/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

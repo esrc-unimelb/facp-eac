@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>YE00321</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNT</agencyCode>
+<agencyName>Find &amp; Connect - Northern Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-11-06">2013-11-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Anita Maertens and Elizabeth Daniels</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-12-10">2014-12-10</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nt/biogs/YE00321b.htm</entityId>
+<entityId localType="Roman Catholic Church, Diocese of Darwin Reference Number">Series 004</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Letter books relating to children in care</part>
+<part localType="parent">Garden Point Mission</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1941-01-01">1941</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>This series of Letter books consists of two sets of binders, referred to as books. Each book includes correspondence and other documents relating to children who were in care at the Garden Point Mission from 1941.</abstract>
+<h4>Access Conditions</h4>
+<p>Because of the potentially private and personal content of records in this Archival Series, it is only open only to family relations and people who experienced 'care' through the Garden Point Mission upon request.</p>
+<p>You may be directed to a digital copy of records in this Archival Collection due to the condition of the original records. Some records deteriorate due to age and are no longer in one piece (they may literally fall apart), become faded, or suffer from mould or water damage etc. In these instances the original record may no longer be legible. Digital copies are used not only to prevent damage to the fragile original records by reducing the amount of handling, but also to present records in readable format.</p>
+<p>People who lived at the Garden Point Mission or at other missions or institutions run by the Catholic Church in the Northern Territory may be able to amend records about them.</p>
+<h4>Records</h4>
+<p>The information contained in the books is referenced by two sets of Index Cards. These are arranged alphabetically by surname of children and they provide a list of the documents in the books which relate to each child. This system was presumably implemented by volunteers to improve accessibility to information about children who were accommodated at the Garden Point Mission. Provenance and original order were largely lost, because the binders consist of compilations of documents from a number of sources, including correspondence and invoices. This means that sometimes not all records that relate to an individual will be together or in date order, but may be distributed amongst the 'books'.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00317b.htm">
+<relationEntry localType="Archival Collection">
+Garden Point Collection (1941 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00320b.htm">
+<relationEntry localType="Archival Series">
+Index Cards, Garden Point Mission (1941 - )
+</relationEntry>
+<descriptiveNote>
+<p>Index Cards are used in conjunction with the Letter books to locate documents related to particular chidlren</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00315b.htm">
+<relationEntry localType="Contact Details">
+Roman Catholic Church, Diocese of Darwin - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Letter books relating to children in care', in <span style="font-style:italic">Find &amp; Connect - Northern Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Letter books relating to children in care</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Northern Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00321b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

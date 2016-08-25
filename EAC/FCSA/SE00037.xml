@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE00037</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-02-07">2011-02-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Ann McCarthy</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-09">2016-03-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE00037b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Brothers of St John the Baptist</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1892-01-01">c. 1892</fromDate>
+<toDate standardDate="1941-12-31">c. 1941</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Catholic</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Catholic Order of the Brothers of St John the Baptist was founded by Father John Healy of the Thebarton parish in around 1892. The Order ran a reformatory called St John the Baptist Home for Boys. In 1941, the Salesians of Don Bosco took over management of the St John the Baptist Home for Boys. By command of the Archbishop, at that time the Order of the Brothers of St John the Baptist was suppressed, and ceased to operate.</abstract>
+<p>The handing over of control in 1941 of the St John the Baptist Home for Boys to the Salesians of Don Bosco resulted from internal problems within the Order of the Brothers of St John the Baptist, and concerns about the management of the Home.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00036b.htm">
+<relationEntry localType="Organisation">
+St John the Baptist Home for Boys (1898 - 1941)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1898-01-01">1898</fromDate>
+<toDate standardDate="1941-12-31">1941</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Brothers of St John the Baptist ran St John's Boys Town under the control of the State Children's Council and its successor, the Children's Welfare and Public Relief Board.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00347b.htm">
+<relationEntry localType="Organisation">
+St John's Boys Town (1941 - 1954)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1941-01-01">1941</fromDate>
+<toDate standardDate="1942-12-31">1942</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Brothers of St John the Baptist ran St John's Boys Town under the control of the Children's Welfare and Public Relief Board.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Brothers of St John the Baptist', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Brothers of St John the Baptist</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00037b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000417.htm">
+<relationEntry localType="published">Resource Section: Fr Francis Smyth [biography]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Fr Francis Smyth [biography]</title>
+<imprint>
+<publisher>Catholic Archdiocese of Adelaide</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Catholic Archdiocese of Adelaide</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.adelaide.catholic.org.au/view-biography?guid=10354"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000042.htm">
+<relationEntry localType="published">Resource: Finding your own way</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">George, Karen</name>
+<title render="italic">Finding your own way</title>
+<imprint>
+<publisher>Nunkuwarrin Yunti of South Australia Inc.</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://nunku.org.au/resources/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

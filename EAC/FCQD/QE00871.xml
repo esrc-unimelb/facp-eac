@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00871</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-04-11">2014-04-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-11-28">2014-11-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00871b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Pallarenda Family Group Home - Correspondence</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1979-01-01">1979?</fromDate>
+<toDate standardDate="1994-12-31">1994?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Pallarenda Family Group Home - Correspondence is held by the Presbyterian Church of Queensland. These records consist of correspondence about the Home's administration, registration and general issues. The PCQ Archives has advised that there are very few surviving records for this Home and its residents.</abstract>
+<h4>Access Conditions</h4>
+<p>To request access to the Pallarenda Family Group Home - Correspondence records, write to the Presbyterian Church of Queensland Archives.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00094b.htm">
+<relationEntry localType="Organisation">
+Presbyterian Church of Queensland (1849 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00698b.htm">
+<relationEntry localType="Contact Details">
+Presbyterian Church of Queensland - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00137b.htm">
+<relationEntry localType="Organisation">
+Pallarenda Family Group Home (1979 - 1994)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Pallarenda Family Group Home - Correspondence', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Pallarenda Family Group Home - Correspondence</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00871b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

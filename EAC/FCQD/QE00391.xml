@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00391</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-02-23">2012-02-23</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-06-12">2014-06-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00391b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>University of Queensland Library</part>
+<part localType="parent">University of Queensland</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1910-01-01">1910</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Records Access Service</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The University of Queensland Library has one of the largest collections amongst academic libraries in Australia and by far the largest in Queensland. The Library consists of 15 branches spread acoss the University's campuses, hospitals and research stations.</abstract>
+<p>The library is divided into five sections:</p>
+<p>1. Research Information<br />
+2. Scholarly Publishing and Digitisation<br />
+3. Library Resources and Technology<br />
+4. Teaching and Learing<br />
+5. Marketing, Outreach and Corporate Services</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00387b.htm">
+<relationEntry localType="Organisation">
+Fryer Library, University of Queensland (1927 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'University of Queensland Library', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">University of Queensland Library</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00391b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

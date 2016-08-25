@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00116</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-06-15">2011-06-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-09">2015-03-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00116b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Mareeba Youth Farm</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Also known as"><part>Mareeba Youth Rehabilitation Farm</part>
+</nameEntry>
+<nameEntry localType="Also known as"><part>Mareeba Youth Centre</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1979-12-01">December 1979</fromDate>
+<toDate standardDate="1982-12-31">1982</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Youth Training Centre</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Mareeba Youth Farm was operated by the Far North Queensland Youth Assistance Fund. The Farm functioned as a rehabilitation centre for youths. It was operational from December 1979 and was funded from December 1980. Funding ceased March 1982.
+
+.</abstract>
+<p>The Youth Farm received referrals from the Department of Children's Services, Police, Courts, Probation and Parole and other Welfare Agencies.</p>
+<p>It operated as a rehabilitation farm for youths, many of whom were struggling with drug and alcohol problems, for which they had been treated prior to taking up residence at the farm. They were able to stay at the farm for a recovery period of up to six months.</p>
+<p>The Mareeba Youth Farm was associated with the Cairns Drug and Referral Centre and the joint Government National Anti-Drug Campaign for a three year period.</p>
+<p>The Mareeba Youth Farm aimed to get young people back into the workforce in the rural Industry through the Northern Cattle Traineeship Incorporated, Commonwealth Employment Service and Mareeba College of T.A.F.E.</p>
+<p>Most of the young people who took part in the program were later employed on farms or stations.</p>
+<h4>Records</h4>
+<p>In the 2001 publication, <span style="font-style:italic">Missing Pieces</span>, it stated that "The Far North Queensland Youth Assistance Fund has advised that no State wards were placed at the Farm. They advise that there were no surviving records of boys who were at the farm."</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1979-01-01">1979</fromDate>
+<toDate standardDate="1982-12-31">1982</toDate>
+</dateRange>
+<placeEntry>Mareeba, North Queensland</placeEntry>
+<event>Location - The Mareeba Youth Centre/Farm was siatuated at Mareeba</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00205b.htm">
+<relationEntry localType="Organisation">
+Far North Queensland Youth Assistance Fund
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00392b.htm">
+<relationEntry localType="Organisation">
+Children's Services Department, State Government of Queensland (1966 - 1987)
+</relationEntry>
+<descriptiveNote>
+<p>Children's Services Department referred youths to the Mareeba Youth Farm</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Mareeba Youth Farm', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Mareeba Youth Farm</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00116b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000125.htm">
+<relationEntry localType="published">Resource: FNQ Youth Assistance Fund</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Far North Queensland Youth Assistance Fund</name>
+<title render="italic">FNQ Youth Assistance Fund</title>
+<imprint>
+<date>2012</date>
+</imprint>
+<extptr linktype="simple" href="http://www.fnqyaf.org.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000001.htm">
+<relationEntry localType="published">Book: Missing pieces: information to assist former residents of children's institutions to access records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Families</name>
+<title render="italic">Missing pieces: information to assist former residents of children's institutions to access records</title>
+<imprint>
+<publisher>State of Queensland</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

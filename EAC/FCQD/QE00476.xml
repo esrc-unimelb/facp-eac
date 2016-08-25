@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00476</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-09-19">2012-09-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2012-11-26">2012-11-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00476b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Broken Rites (1992 - )</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1992-01-01">1992</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Support Service</term>
+</function>
+<function>
+<term>Advocacy Body</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Broken Rites is an organisation formed in 1992 by victims of church-related sexual abuse. About 90 per cent of the men and women who have contacted Broken Rites Australia have been from a Catholic background. The organisation also supports victims from other denominations including the Anglican Church and the Uniting Church.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00244b.htm">
+<relationEntry localType="Glossary Term">
+Forgotten Australians (c. 2004 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Broken Rites (1992 - )', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Broken Rites (1992 - )</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00476b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000164.htm">
+<relationEntry localType="published">Resource: Broken Rites Australia: Fighting Church Sexual Abuse Since 1993</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Broken Rites (Australia) Collective Inc.</name>
+<title render="italic">Broken Rites Australia: Fighting Church Sexual Abuse Since 1993</title>
+<imprint>
+<date>2011</date>
+</imprint>
+<extptr linktype="simple" href="http://brokenrites.alphalink.com.au"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

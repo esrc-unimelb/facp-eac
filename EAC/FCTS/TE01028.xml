@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE01028</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-09-15">2014-09-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-11-28">2014-11-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE01028b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Annie Kenney Young Women's Emergency Accommodation Service</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2009-01-01">2009</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Hostel</term>
+</function>
+<function>
+<term>Records Access Service</term>
+</function>
+<function>
+<term>Records Holder</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Annie Kenney Young Women's Emergency Accommodation Service has been run by Centacare since 2009. It provides emergency accommodation of up to six weeks for young women under the age of 21 who are homeless.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="2009-01-01">2009</fromDate>
+<toDate standardDate="2009-12-31">2009</toDate>
+</dateRange>
+<event>Location - Annie Kenney Young Women's Emergency Accommodation Service is in Hobart</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01029b.htm">
+<relationEntry localType="Archival Collection">
+Annie Kenney Young Women's Emergency Accommodation Service Records (2009 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00564b.htm">
+<relationEntry localType="Organisation">
+Annie Kenney Young Women's Refuge (1978 - 2009)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00060b.htm">
+<relationEntry localType="Organisation">
+Centacare Tasmania (1977 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01030b.htm">
+<relationEntry localType="Contact Details">
+Annie Kenney Young Women's Emergency Accommodation Service - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Annie Kenney Young Women's Emergency Accommodation Service', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Annie Kenney Young Women's Emergency Accommodation Service</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01028b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

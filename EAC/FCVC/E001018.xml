@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E001018</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2015-10-16">2015-10-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Rachel Tropea</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E001018b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>The Wards Record Plan Project</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2012-01-01">2012</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Wards Record Plan Project was conceived in 2012 in response to the Victorian Ombudsman findings of its investigation into the storage and management of ward records by the former Department of Human Services (DHS). Rolled out over three years from 2013 - 2016, the Plan involves the identification, indexation, storage, management and digitisation of 148,000 original ward records, which relate to 'wards of the state' or children in Government care dating back to 1864 in Victoria.</abstract>
+<p>In March 2012, the Victorian Ombudsman released the findings of its investigation into the storage and management of ward records by the former Department of Human Services (DHS). To address the report's findings and recommendations, DHS implemented the Wards Record Plan.</p>
+<p>Rolled out over three years, the Plan involves the identification, indexation, storage, management and digitisation of 148,000 original ward records, which relate to 'wards of the state' or children in Government care dating back to 1864 in Victoria. Provenance of these records stretches across approximately 45 Victorian Government-run children's institutions.</p>
+<p>The 2015-2016 financial year will see the project shift to the final phase. It is expected that the project will result in ward records that are better identified, indexed, conserved, stored and managed, allowing better retrieval and easier access for the 1200 viewing requests that come through each year.</p>
+<p>Kylie Auld, Manager and Chris Hofmann, Principal Project Manager Ward Records Plan, Records Management Unit, Department of Health and Human Services (DHHS), are responsible for the project.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001017b.htm">
+<relationEntry localType="Organisation">
+Department of Health &amp; Human Services, State Government of Victoria (2015 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000125b.htm">
+<relationEntry localType="Organisation">
+Department of Human Services, State Government of Victoria (1995 - 2014)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'The Wards Record Plan Project', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">The Wards Record Plan Project</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E001018b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

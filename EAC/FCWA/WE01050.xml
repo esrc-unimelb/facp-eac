@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01050</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-04-29">2013-04-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-06">2016-04-06</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01050b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Royal Commission appointed to inquire into the Heathcote Mental Reception Home and the administration of mental hospitals generally</part>
+<part localType="parent">State of Western Australia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1938-09-06">6 September 1938</fromDate>
+<toDate standardDate="1938-11-30">30 November 1938</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>A Royal Commission to inquire into the administration of Heathcote and other mental health hospitals was held in Western Australia in 1938. The Report of the Royal Commission does not mention children, but it does describe conditions at Heathcote and Claremont during years when children were sent there. Hospitals in the mental health system were found to be over-crowded, with generally poor facilities and few activities to occupy and rehabilitate patients.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01026b.htm">
+<relationEntry localType="Organisation">
+Heathcote (1929 - 1994)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00999b.htm">
+<relationEntry localType="Organisation">
+Claremont Mental Hospital (1903 - 1972)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Royal Commission appointed to inquire into the Heathcote Mental Reception Home and the administration of mental hospitals generally', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Royal Commission appointed to inquire into the Heathcote Mental Reception Home and the administration of mental hospitals generally</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01050b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000975.htm">
+<relationEntry localType="published">Resource Section: Report of the Royal Commissioner appointed to inquire into the Heathcote Mental Reception Home and the administration of mental hospitals generally</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Report of the Royal Commissioner appointed to inquire into the Heathcote Mental Reception Home and the administration of mental hospitals generally</title>
+<imprint>
+<publisher>Parliament of Western Australia</publisher>
+<date>1938</date>
+</imprint>
+<bibseries>
+<title render="italic">Royal Commissions Held in Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.parliament.wa.gov.au/intranet/libpages.nsf/WebFiles/Report+of+the+Royal+Commissioner+appointed+to+inquire+into+the+Heathcote+Mental+Reception+Home+and+the+administration+of+mental+hospitals+generally/$FILE/Heathcote+mental+reception+home.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01255</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-03-29">2013-03-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-06-28">2016-06-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01255b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Inspector General of the Insane</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1876-01-01">1876</fromDate>
+<toDate standardDate="1917-12-31">1917</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Agency</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Inspector General of the Insane was an agency of the New South Wales Government that was created in 1876. The office was renamed Inspector General of Mental Hospitals in 1917.</abstract>
+<p>The first inspector, F Norton Manning, was appointed to supervise the Asylum for Imbeciles and Institutions for Idiots at Newcastle, the Lunatic Reception House at Sydney (Darlinghurst Reception Centre), the Branch Asylum at Callan Park and the Temporary Lunatic Asylum, Cooma. The Inspector General of the Insane later took over supervision of Tarban Creek Lunatic Asylum, Parramatta Hospital for the Insane, Bay View House Tempe and Broughton Hall Psychiatric Clinic.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01657b.htm">
+<relationEntry localType="Organisation">
+Rabbit Island Hospital for the Insane (1910 - 1917?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01256b.htm">
+<relationEntry localType="Organisation">
+Inspector General of Mental Hospitals (1917 - 1958)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Inspector General of the Insane', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Inspector General of the Insane</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01255b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000531.htm">
+<relationEntry localType="published">Resource Section: Mental Health Facilities Guide</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Mental Health Facilities Guide</title>
+<imprint>
+<publisher>State Records Authority of New South Wales</publisher>
+</imprint>
+<bibseries>
+<title render="italic">State Records Authority of New South Wales website</title>
+</bibseries>
+<extptr linktype="simple" href="https://www.records.nsw.gov.au/archives/collections-and-research/guides-and-indexes/mental-health-facilities-guide"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000489.htm">
+<relationEntry localType="published">Resource Section: Inspector General of the Insane (1876-1917) / Inspector General of Mental Hospitals (1917-1958) / Director of State Psychiatric Services (1958-1973) [State Records NSW Agency number 60]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Inspector General of the Insane (1876-1917) / Inspector General of Mental Hospitals (1917-1958) / Director of State Psychiatric Services (1958-1973) [State Records NSW Agency number 60]</title>
+<imprint>
+<publisher>State Records Authority of New South Wales</publisher>
+</imprint>
+<bibseries>
+<title render="italic">SRNSW collection catalogue</title>
+</bibseries>
+<extptr linktype="simple" href="http://search.records.nsw.gov.au/agencies/60"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

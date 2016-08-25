@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000620</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-07-22">2010-07-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-06">2015-03-06</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000620b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Lincoln House</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Central Mission Hostel for Boys</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1939-01-01">c. 1939</fromDate>
+<toDate standardDate="1950-12-31">1950</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Methodist</term>
+</function>
+<function>
+<term>Hostel</term>
+</function>
+<function>
+<term>Protestant</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Lincoln House, Melbourne, was established by the Central Mission in around 1939. It was a hostel for around 20 young men who were leaving the Tally Ho Boys' Training Farm and looking for employment. Lincoln House closed in 1950.</abstract>
+<p>Lincoln House was a hostel in King Street, Melbourne, established by the Central Mission to cater for older boys when they left Tally Ho Training Farm to seek employment (around 25% of boys leaving Tally Ho went to Lincoln House).</p>
+<p>A publication in 1940 described Lincoln House:</p>
+<p>'For those who have aspirations towards factory or other work in the city, a hostel is provided in Melbourne for the boy who has no home. About twenty-eight boys live at Lincoln House and work in industry. Occasionally boys from the country and other institutions are given a home also, for, when these lads start, their wages are not sufficient for them to go to a guest house, and they need more attention and guidance than these places usually provide … The boys have their religious, social and educational activities cared for also, and an attempt is made to guide them safely through the turbulent years of adolescence.'</p>
+<p>Like many other hostels during this period, Lincoln House received some subsidy from the state government.</p>
+<p>The hostel closed on 6 May 1950.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1947-01-01">1947</fromDate>
+<toDate standardDate="1947-12-31">1947</toDate>
+</dateRange>
+<placeEntry> Melbourne</placeEntry>
+<event>Address - Lincoln House was located at 411-415 King Street, Melbourne</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000388b.htm">
+<relationEntry localType="Organisation">
+Wesley Central Mission (1893 - 1977)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000698b.htm">
+<relationEntry localType="Archival Collection">
+Wesley Mission Victoria Records (1902 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000119b.htm">
+<relationEntry localType="Organisation">
+Tally Ho Boys' Training Farm (1903 - 1986)
+</relationEntry>
+<descriptiveNote>
+<p>Boys leaving Tally Ho to work in the city sometimes lived at Lincoln House.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Lincoln House', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Lincoln House</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000620b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001106.htm">
+<relationEntry localType="published">Book: For whom the trail is steep</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">For whom the trail is steep</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Central Mission Boys' Training Farm</publisher>
+<date>1940</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000005.htm">
+<relationEntry localType="published">Book: The Challenge of the City: the centenary history of Wesley Central Mission 1893-1993</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Howe, Renate; Swain, Shurlee</name>
+<title render="italic">The Challenge of the City: the centenary history of Wesley Central Mission 1893-1993</title>
+<imprint>
+<place>Flemington</place>
+<publisher>Hyland House</publisher>
+<date>1993</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000505.htm">
+<relationEntry localType="digitalObject">Lincoln House, Hostel for Boys</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Lincoln House, Hostel for Boys</unittitle>
+<unitdate>c. 1940</unitdate>
+<abstract>This is a copy of an image that appeared in the publication, <span style="font-style:italic">For whom the trail is steep</span> (1940).</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

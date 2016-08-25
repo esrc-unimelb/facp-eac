@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE00232</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-03-10">2011-03-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-11-06">2015-11-06</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00232b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Algate House</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1968-01-01">1968</fromDate>
+<toDate standardDate="1996-12-31">1996</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Family Group Home</term>
+</function>
+<function>
+<term>Salvation Army</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Children's Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Algate House was opened as a boys' home by the Salvation Army in Lane Street, Broken Hill in 1968. It was converted to a family group home consisting of three residences, each supervised by a house parent, though it retained one name. The home closed on 30 June 1996.</abstract>
+<p>According to staff members from the Salvation Army, the houseparents of the individual houses at Algate House tried to make them as much like a family home as possible, but they did some activities with all the children and carers together from each house. For example, one of the carers would drive all the high school children to school in the home bus, and shopping was bought in bulk and distributed to each house.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1968-01-01">1968</fromDate>
+<toDate standardDate="1996-12-31">1996</toDate>
+</dateRange>
+<placeEntry>Broken Hill</placeEntry>
+<event>Address - Algate House was situated at 633 Lane Street, Broken Hill</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00208b.htm">
+<relationEntry localType="Organisation">
+The Salvation Army Australia Eastern Territory (1882 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01633b.htm">
+<relationEntry localType="Archival Series">
+Photographs of Salvation Army Children's Homes (1922 - 1993)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00683b.htm">
+<relationEntry localType="Archival Series">
+Client Files, Algate House (1970s - 1980s)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00682b.htm">
+<relationEntry localType="Archival Series">
+Register, Algate House (1968 - 1995)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Algate House', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Algate House</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00232b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000625.htm">
+<relationEntry localType="published">Resource Section: Submission 46: EASTERN TERRITORY SOCIAL CENTRES: A list of openings, closings, and function</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">The Salvation Army Australia Eastern Territory</name>
+<title render="quoted">Submission 46: EASTERN TERRITORY SOCIAL CENTRES: A list of openings, closings, and function</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
+<name type="author">Senate Community Affairs Committee</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000533.htm">
+<relationEntry localType="published">Report: Why are they in children's homes: report of the ACOSS children's home intake survey</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hanson, Dallas</name>
+<title render="italic">Why are they in children's homes: report of the ACOSS children's home intake survey</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Government Publishing Service</publisher>
+<date>1979</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000001.htm">
+<relationEntry localType="published">Resource: Connecting Kin: Guide to Records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Thinee, Kristy and Bradford, Tracy</name>
+<title render="italic">Connecting Kin: Guide to Records</title>
+<imprint>
+<place>Sydney, New South Wales</place>
+<publisher>New South Wales Department of Community Services</publisher>
+<date>1998</date>
+</imprint>
+<extptr linktype="simple" href="http://www.community.nsw.gov.au/__data/assets/pdf_file/0008/319256/connectkin_guide.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

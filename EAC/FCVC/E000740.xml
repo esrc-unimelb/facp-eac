@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000740</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-10-26">2011-10-26</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-12-16">2014-12-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000740b.htm</entityId>
+<entityId localType="National Library of Australia Bib ID">2299995</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Smoky Dawson, country music singer [sound recording] / interviewer, Rob Willis</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2000-01-01">c. 2000</fromDate>
+<toDate standardDate="2000-12-31">c. 2000</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>'Smoky Dawson, country music singer' is a sound recording held at the National Library of Australia. It is part of the Rob Willis Folklore Collection. The sound recording comprises 2 digital audio tapes.</abstract>
+<h4>Access Conditions</h4>
+<p>Access open for research, personal copies and public use</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000939b.htm">
+<relationEntry localType="Organisation">
+National Library of Australia (1960 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000847b.htm">
+<relationEntry localType="Contact Details">
+National Library of Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000061b.htm">
+<relationEntry localType="Organisation">
+St Vincent de Paul Orphanage (1855 - 1967)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Smoky Dawson, country music singer [sound recording] / interviewer, Rob Willis', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Smoky Dawson, country music singer [sound recording] / interviewer, Rob Willis</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000740b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000328.htm">
+<relationEntry localType="published">Resource Section: Smoky Dawson, excerpt from interview with Rob Willis, 20 April 2000</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Willis, Rob</name>
+<title render="quoted">Smoky Dawson, excerpt from interview with Rob Willis, 20 April 2000</title>
+<imprint>
+<publisher>Australian Government</publisher>
+<date>2009</date>
+</imprint>
+<bibseries>
+<title render="italic">Forgotten Australians: Our History website</title>
+<name type="author">National Museum of Australia; National Library of Australia</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.forgottenaustralianshistory.gov.au/oral_histories.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

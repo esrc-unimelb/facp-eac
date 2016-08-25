@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>FE00026</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNA</agencyCode>
+<agencyName>Find &amp; Connect - Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-08-20">2009-08-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-05-06">2015-05-06</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/australia/biogs/FE00026b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Cottage Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1870-01-01">c. 1870</fromDate>
+<toDate standardDate="1970-12-31">c. 1970</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+</functions>
+<biogHist>
+<abstract>Cottage Homes or family cottages were a model of institutional 'care' which began in the United Kingdom in the late nineteenth century. Along with boarding out, cottage Home accommodation was seen as an alternative to congregate, dormitory-style accommodation (although cottage Homes could house up to 40 children).</abstract>
+<p>The model of the cottage Home was based on ideas that children had to be housed in a situation resembling the 'normal' family, if they were to develop into healthy, productive adults.</p>
+<p>It was also influenced by the assumption that 'spatial designs could shape the individual's identity and regulate his or her role in the larger society' (Murdoch). The move towards cottage Homes was often part of a larger scheme to create 'model villages' or 'colonies'.</p>
+<p>In the United Kingdom, Dr Thomas John Barnardo established a 'Village Home for Girls' in the 1870s. Homer Lane managed the Ford Boys' Republic in Detroit, and later came to England to be the superintendent at the 'Little Commonwealth' in Dorset.</p>
+<p>In cottage Homes, children were 'cared' for by 'cottage mothers', and sometimes by fathers as well.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00122b.htm">
+<relationEntry localType="Glossary Term">
+Institutional Care (1860s - 1970s)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Cottage Home', in <span style="font-style:italic">Find &amp; Connect - Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Cottage Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00026b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

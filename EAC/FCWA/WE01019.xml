@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01019</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-04-23">2013-04-23</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-02">2015-03-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01019b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Superintending Medical Officer of Asylums</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1901-01-01">1901</fromDate>
+<toDate standardDate="1903-12-31">1903?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Public Servant</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Superintending Medical Officer of Asylums was the first full-time position created to provide medical leadership at the Fremantle Asylum and Whitby Falls Hospital.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01024b.htm">
+<relationEntry localType="Event">
+Select Committee of the Legislative Assembly appointed to inquire into the condition of the Fremantle and Whitby Falls Lunatic Asylums, Colony of Western Australia (1900)
+</relationEntry>
+<descriptiveNote>
+<p>A full-time medical officer was appointed to the Fremantle Asylum after the Select Committee found this was needed.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00998b.htm">
+<relationEntry localType="Organisation">
+Whitby Falls Hospital (1897 - 1972)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00997b.htm">
+<relationEntry localType="Organisation">
+Fremantle Asylum (1857 - 1909)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01018b.htm">
+<relationEntry localType="Glossary Term">
+Principal Medical Officer (1895 - 1911)
+</relationEntry>
+<descriptiveNote>
+<p>The Superintending Medical Officer of Asylums reported to the Principal Medical Officer.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01020b.htm">
+<relationEntry localType="Glossary Term">
+Inspector General of the Insane (1904 - 1947)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Superintending Medical Officer of Asylums', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Superintending Medical Officer of Asylums</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01019b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000851.htm">
+<relationEntry localType="published">Book: Eloquent Testimony : the Story of the Mental Health Services in Western Australia, 1830-1975</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ellis, A.S.</name>
+<title render="italic">Eloquent Testimony : the Story of the Mental Health Services in Western Australia, 1830-1975</title>
+<imprint>
+<place>Nedlands, Western Australia</place>
+<publisher>University of Western Australia Press</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

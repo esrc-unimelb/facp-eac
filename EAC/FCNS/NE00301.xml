@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE00301</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-03-17">2011-03-17</eventDateTime>
+<agentType>human</agentType>
+<agent>Melissa Downing &amp; Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-06-15">2016-06-15</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00301b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Hartwell House</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1960-01-01">1960</fromDate>
+<toDate standardDate="1970-12-31">1970</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Non-denominational</term>
+</function>
+<function>
+<term>Family Group Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Hartwell House was a Dr Barnardo's family group home for boys and girls that opened in 1960 at Kiama. It closed in 1970.</abstract>
+<p>In 1994 a former housemaster of Hartwell House, Vic Holyoak, was sentenced to 10 years jail for sexually abusing children placed in his care.</p>
+<p>Hartwell House was sold by Barnardo's and became a private residence.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1960-01-01">1960</fromDate>
+<toDate standardDate="1970-12-31">1970</toDate>
+</dateRange>
+<placeEntry>Kiama</placeEntry>
+<event>Address - Hartwell House was located on the corner of Bourroul St and Farmer St, Kiama</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00293b.htm">
+<relationEntry localType="Organisation">
+Dr Barnardo's Homes (Australia Branch) (1883 - 1966)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1960-01-01">1960</fromDate>
+<toDate standardDate="1966-12-31">1966</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00294b.htm">
+<relationEntry localType="Organisation">
+Dr Barnardos in Australia (1966 - c. 1995)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1966-01-01">1966</fromDate>
+<toDate standardDate="1970-12-31">1970</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00949b.htm">
+<relationEntry localType="Archival Collection">
+Records relating to Child and Youth Migration, New South Wales (c. 1919 - c. 1974)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00706b.htm">
+<relationEntry localType="Archival Collection">
+Barnardos Australia, Records (c. 1883 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hartwell House', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hartwell House</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00301b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001053.htm">
+<relationEntry localType="published">Newspaper Article: Welfare official arrives</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Welfare official arrives</title>
+<imprint>
+<place>NSW</place>
+<date>1966</date>
+</imprint>
+<bibseries>
+<title render="italic">The Sydney Morning Herald</title>
+<num type="pages">6</num>
+</bibseries>
+<extptr linktype="simple" href="https://news.google.com/newspapers?id=7_xjAAAAIBAJ&amp;sjid=CucDAAAAIBAJ&amp;pg=3606%2C2813865"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001047.htm">
+<relationEntry localType="published">Newspaper Article: Hartwell House escapes hammer: couple plan authentic restoration</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Hartwell House escapes hammer: couple plan authentic restoration</title>
+<imprint>
+<date>1971</date>
+</imprint>
+<bibseries>
+<title render="italic">	Illawarra Mercury</title>
+<num type="pages">6</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000640.htm">
+<relationEntry localType="published">Resource: Nardy Old Boys &amp; Girls Reunion Club</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Remmer, Clifford</name>
+<title render="italic">Nardy Old Boys &amp; Girls Reunion Club</title>
+<imprint>
+<publisher>The Remmers</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://www.nardyaustralia.com/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000100.htm">
+<relationEntry localType="published">Article: Reap as you sow</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Matthews, Bernie</name>
+<title render="quoted">Reap as you sow</title>
+<imprint>
+<date>2007</date>
+</imprint>
+<bibseries>
+<title render="italic">The Griffith Review, Edition 16: Unintended Consequences</title>
+<num type="pages">10</num>
+</bibseries>
+<extptr linktype="simple" href="https://griffithreview.com/articles/reap-as-you-sow/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000105.htm">
+<relationEntry localType="published">Report: Mick's story</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Matthews, Bernie</name>
+<title render="italic">Mick's story</title>
+<imprint>
+<publisher>Online Opinion</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.onlineopinion.com.au/view.asp?article=6235"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000001.htm">
+<relationEntry localType="published">Resource: Connecting Kin: Guide to Records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Thinee, Kristy and Bradford, Tracy</name>
+<title render="italic">Connecting Kin: Guide to Records</title>
+<imprint>
+<place>Sydney, New South Wales</place>
+<publisher>New South Wales Department of Community Services</publisher>
+<date>1998</date>
+</imprint>
+<extptr linktype="simple" href="http://www.community.nsw.gov.au/__data/assets/pdf_file/0008/319256/connectkin_guide.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000778.htm">
+<relationEntry localType="digitalObject">Hartwell House Kiama</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Hartwell House Kiama</unittitle>
+<unitdate>n.d.</unitdate>
+<abstract>This is an image from the Nardy - Old Boys &amp; Girls Reunion Club website Cottage Homes Album. This image shows the back of Hartwell House and some of the garden.</abstract>
+<note label="rights">Cliff Remmer</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000777.htm">
+<relationEntry localType="digitalObject">Hartwell House</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Hartwell House</unittitle>
+<unitdate>n.d.</unitdate>
+<abstract>This is an image from the Nardy - Old Boys &amp; Girls Reunion Club website Cottage Homes Album. This image shows the front porch of Hartwell House, a Barnardo's family group home in Kiama.</abstract>
+<note label="rights">Cliff Remmer</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

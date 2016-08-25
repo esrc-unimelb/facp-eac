@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>FE00049</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNA</agencyCode>
+<agencyName>Find &amp; Connect - Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-03-09">2010-03-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-01">2016-03-01</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/australia/biogs/FE00049b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Unmarried Mother</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Also known as"><part>Single Mother</part>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<functions>
+</functions>
+<biogHist>
+<abstract>Unmarried mother was a term commonly used to describe single pregnant women. These women (and their children who were born out of wedlock) were the targets of various charitable endeavours in Australia from the earliest days of white settlement. Until perhaps the 1970s, to be an 'unmarried mother' carried significant stigma and the approach taken by institutions was usually to hide the 'unfortunate' woman away from society, in institutions such as maternity homes, rescue homes and lying-in hospitals. Single pregnant women were generally regarded as a disgrace, and institutions often took a punitive approach to their 'care'.</abstract>
+<p>Single pregnant women came to institutions for the period of 'confinement' and their babies were usually born at a nearby hospital. Many unmarried mothers were separated from their children after their stay in a maternity home and hospital, and their children were adopted. Others found it impossible to care for their children and earn a living, with the result that children ended up in some form of out-of-home 'care'.</p>
+<p>If a young woman who was a ward of the state in a children's institution became pregnant, she was likely to be transferred into a maternity home, usually one of the same denomination.</p>
+<p>With the election of the Whitlam Government in 1972, and following the efforts of feminist activists, single mothers were finally entitled to receive the 'Supporting Mothers' Benefit' on the same basis as all other unsupported mothers (such as widows). This shift reflected a more accepting attitude from Australian society to single mothers. From the early 1970s, less children were available for adoption, and charitable services for single mothers and their children shifted away from maternity homes.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00092b.htm">
+<relationEntry localType="Event">
+Commonwealth Contribution to Former Forced Adoption Policies and Practices (2011 - 2012)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Unmarried Mother', in <span style="font-style:italic">Find &amp; Connect - Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Unmarried Mother</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00049b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

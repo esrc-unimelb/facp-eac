@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00949</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Item</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-06-17">2014-06-17</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-07">2015-08-07</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00949b.htm</entityId>
+<entityId localType="Anglican Records and Archives Centre Reference Number">BWEBS224-1</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Correspondence</part>
+<part localType="parent">Female Refuge and Infants Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1875-01-01">1875?</fromDate>
+<toDate standardDate="1910-12-31">1910?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Correspondence (BWEBS224-1) is an archival item, which contains records listed as: "Female Refuge and Infants Home (Turbot, Edward &amp; Ann Sts) 1875 - 1910". The records include general correspondence related to the management of the Female Refuge and Infants Home.</abstract>
+<h4>Access Conditions</h4>
+<p>Access to some of these records is restricted to protect personal privacy.</p>
+<h4>Records</h4>
+<p>Correspondence BWEBS224-1 is part of the archvial series Series BWEBS224 - Records of the office of Bishop during the Episcopate of The Right Reverend William Thomas Thornhill Webber.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00495b.htm">
+<relationEntry localType="Organisation">
+Anglican Records and Archives Centre (1979 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00329b.htm">
+<relationEntry localType="Organisation">
+Female Refuge and Infants Home (1870 - 1919)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00683b.htm">
+<relationEntry localType="Contact Details">
+Anglican Records and Archives Centre - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Correspondence', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Correspondence</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00949b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000670.htm">
+<relationEntry localType="published">Resource: The Anglican Records and Archives Centre Guide to Records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Records and Archives Centre, Diocese of Brisbane</name>
+<title render="italic">The Anglican Records and Archives Centre Guide to Records</title>
+<imprint>
+<date>2001-2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.anglicanarchives.org.au/collections/HDMS.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00537</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-02-17">2013-02-17</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-21">2015-10-21</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00537b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Commission of Inquiry into the Farm Home for Boys, Westbrook</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Schwarten Inquiry</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1961-05-16">16 May 1961</fromDate>
+<toDate standardDate="1961-09-27">27 September 1961</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Commission of Inquiry into the Farm Home for Boys, Westbrook, was established by Order in Council 16 May 1961. The Commission was directed to look specifically at the circumstances surrounding the escape of a number of inmates on Sunday 14 May 1961. It also investigated other matters relating to the conduct of the institution and the welfare of inmates generally.
+
+Stipendary Magistrate, Alfred Edward Schwarten, conducted the inquiry. The inquiry unearthed cases of abuse and deficient standards of food, education and hygiene.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00538b.htm">
+<relationEntry localType="Archival Series">
+Commission of Inquiry Exhibits, Farm Home for Boys Westbrook (c. 1915 - c. 1961)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00562b.htm">
+<relationEntry localType="Archival Series">
+Commission of Inquiry Transcripts of Proceedings, Farm Home for Boys Westbrook (1961)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00561b.htm">
+<relationEntry localType="Archival Series">
+Commission of Inquiry Papers (1961)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00533b.htm">
+<relationEntry localType="Organisation">
+Farm Home for Boys, Westbrook (1919 - 1966)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1961-01-01">1961</fromDate>
+<toDate standardDate="1961-12-31">1961</toDate>
+</dateRange>
+<descriptiveNote>
+<p>The Commission of Inquiry into the Farm Home for Boys, Westbrook, was established in 1961 to investigate circumstances surrounding the escape of a number of inmates on Sunday 14 May 1961. It also investigated other matters relating to the conduct of the institution and the welfare of inmates generally.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Commission of Inquiry into the Farm Home for Boys, Westbrook', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Commission of Inquiry into the Farm Home for Boys, Westbrook</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00537b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000238.htm">
+<relationEntry localType="published">Report: Westbrook Farm Home for Boys Inquiry</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Schwartan, Alfred Edward</name>
+<title render="italic">Westbrook Farm Home for Boys Inquiry</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>Queensland Government</publisher>
+<date>1961</date>
+</imprint>
+<extptr linktype="simple" href="http://www.parliament.qld.gov.au/documents/tableOffice/TabledPapers/1961/3661T299.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

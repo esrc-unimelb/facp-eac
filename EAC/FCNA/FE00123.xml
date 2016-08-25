@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>FE00123</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNA</agencyCode>
+<agencyName>Find &amp; Connect - Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-02-15">2013-02-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-05-26">2015-05-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/australia/biogs/FE00123b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Child Abuse</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<biogHist>
+<abstract>Child abuse refers to behaviours of others, (usually adults) against children. The behaviours include: maltreatment, physical and psychological abuse and neglect, sexual abuse and witnessing family violence.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00101b.htm">
+<relationEntry localType="Event">
+Royal Commission into Institutional Responses to Child Sexual Abuse, Commonwealth Government (2012 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Child Abuse', in <span style="font-style:italic">Find &amp; Connect - Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Child Abuse</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00123b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/bib/FP0000064.htm">
+<relationEntry localType="published">Resource Section: Australian legal definitions: When is a child in need of protection?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Holzer, Prue and Bromfield, Leah</name>
+<title render="quoted">Australian legal definitions: When is a child in need of protection?</title>
+<imprint>
+<publisher>Australian Institute of Family Studies</publisher>
+<date>2010</date>
+</imprint>
+<bibseries>
+<title render="italic">National Child Protection Clearinghouse Resource Sheet April 2010</title>
+</bibseries>
+<extptr linktype="simple" href="https://www3.aifs.gov.au/cfca/publications/australian-legal-definitions-when-child-need-pro"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/bib/FP0000063.htm">
+<relationEntry localType="published">Journal Article: A history of child protection: back to the future?</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tomison, Adam M.</name>
+<title render="quoted">A history of child protection: back to the future?</title>
+<imprint>
+<publisher>Australian Institute of Family Studies</publisher>
+<date>2001</date>
+</imprint>
+<bibseries>
+<title render="italic">Family Matters</title>
+<num type="volume">60</num>
+<num type="issue">Spring/Summer 2001</num>
+<num type="pages">46-57</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

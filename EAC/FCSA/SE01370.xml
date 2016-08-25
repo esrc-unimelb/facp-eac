@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01370</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-06-11">2014-06-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-02-23">2015-02-23</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01370b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Auricht House</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2005-01-01">2005</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Cottage Home</term>
+</function>
+<function>
+<term>Disability Institution</term>
+</function>
+<function>
+<term>Catholic</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Auricht House in Elizabeth North was opened in 2005 as a respite centre for children with intellectual disabilities. Run by Centacare, it accommodated up to ten children. The House was named after mountain climber, Mark Auricht who attempted to climb Mt Everest in 2001 to raise funds for a new respite service. Auricht died during the climb and Centacare named the House in his honour.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="2005-01-01">2005</fromDate>
+<toDate standardDate="2005-12-31">2005</toDate>
+</dateRange>
+<placeEntry>Elizabeth North</placeEntry>
+<event>Location - Auricht House was situated at Elizabeth North</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01290b.htm">
+<relationEntry localType="Organisation">
+Centacare Catholic Family Services (1992 - )
+</relationEntry>
+<descriptiveNote>
+<p>Professional Standards Office Records Service of the Catholic Church manages records about Auricht House</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01189b.htm">
+<relationEntry localType="Archival Series">
+Former Residents' Folders (1900s - )
+</relationEntry>
+<descriptiveNote>
+<p>The Former Residents' folders, held by the Professional Standards Office, may contain information relating to Auricht House.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Auricht House', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Auricht House</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01370b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

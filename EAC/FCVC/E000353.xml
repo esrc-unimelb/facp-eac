@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000353</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-07-09">2009-07-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-07-27">2015-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000353b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>The Foundling Hospital and Infants' Home (Incorporated)</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1914-01-01">1914</fromDate>
+<toDate standardDate="1964-12-31">1964</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Foundling Hospital and Infants' Home was incorporated in 1914 to run the Foundling Hospital and Infants' Home in East Melbourne as well as the Beaconsfield Babies' Home. The Beaconsfield Home closed in 1946, and in 1964 the East Melbourne Foundling Hospital became known as Berry Street Babies' Home and Hospital.</abstract>
+<p>The Foundling Hospital and Infants' Home (Incorporated) came into being under the Hospitals and Charities Act 1890. This new body was established to run the Foundling Hospital in East Melbourne, which had been operating since 1877. It also ran the Beaconsfield Babies' Home.</p>
+<p>In 1914, the Victorian Government Gazette published a petition from 25 signatories for the Foundling Hospital and Infants' Home, in East Melbourne and Beaconsfield, to be incorporated.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000352b.htm">
+<relationEntry localType="Organisation">
+Beaconsfield Babies' Home (1915 - 1946)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000036b.htm">
+<relationEntry localType="Organisation">
+The Foundling Hospital and Infants' Home (1906 - 1964)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1914-01-01">1914</fromDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'The Foundling Hospital and Infants' Home (Incorporated)', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">The Foundling Hospital and Infants' Home (Incorporated)</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000353b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000134.htm">
+<relationEntry localType="published">Resource Section: The Foundling Hospital and Infants' Home - Petition for Incorporation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Foundling Hospital and Infants' Home - Petition for Incorporation</title>
+<imprint>
+<publisher>State Library of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Victoria Government Gazette Online Archive 1836-1997</title>
+</bibseries>
+<extptr linktype="simple" href="http://gazette.slv.vic.gov.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

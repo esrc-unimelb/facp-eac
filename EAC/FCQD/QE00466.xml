@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00466</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-09-14">2012-09-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-11">2015-03-11</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00466b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Redress Scheme</part>
+<part localType="parent">Queensland</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2007-10-01">1 October 2007</fromDate>
+<toDate standardDate="2010-12-31">2010</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+</functions>
+<biogHist>
+<abstract>The Queensland Government introduced the Redress Scheme in May 2007. The scheme provided ex-gratia payments to victims of abuse and neglect as children in Queensland institutions. Applications for a payment under the scheme opened 1 October 2007 and closed 30 September 2008. The scheme was finalised in June 2010. After that date, any claims for monetary compensation from people who did not lodge an application to the Redress Scheme proceeded through the usual legal processes.</abstract>
+<p>The Queensland Government commissioned the Commission of inquiry into abuse of children in Queensland institutions (Forde Inquiry) to investigate the treatment of children in licensed government and non-government institutions in Queensland. The inquiry found abuse had occurred and made forty-two recommendations relating to contemporary child protection practices, youth justice and redress of past abuse.</p>
+<p>In response to the recommendations of the Forde Inquiry the Queensland Government introduced the $100 million Redress Scheme in May 2007. The scheme provided ex-gratia payments, ranging from $7,000 to $40,000, to people who experienced abuse and neglect as children in Queensland institutions. This was made in acknowledgement of the impact of past abuse and neglect and to help people move forward with their lives.</p>
+<p>Applications for a payment under the scheme opened 1 October 2007 and closed 30 September 2008. More than 10,200 applications were received by the closing date, with over 7,400 applications assessed as eligible for payment under the scheme.</p>
+<p>Two levels of payment were offered through the scheme, with level two payments for those who were assessed by an expert panel as having suffered more serious harm. The scheme was finalised in June 2010.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00269b.htm">
+<relationEntry localType="Event">
+Commission of Inquiry into Abuse of Children in Queensland Institutions (1998 - 1999)
+</relationEntry>
+<descriptiveNote>
+<p>The Redress Scheme, Queensland was established in response to recommendations of the Commission of Inquiry into Abuse of Children in Queensland Institutions.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Redress Scheme', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Redress Scheme</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00466b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000609.htm">
+<relationEntry localType="published">Resource Section: Support for Forgotten Australians</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Support for Forgotten Australians</title>
+<imprint>
+<publisher>Queensland Government</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Queensland Government home</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.qld.gov.au/community/getting-support-health-social-issue/support-for-forgotten-australians/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

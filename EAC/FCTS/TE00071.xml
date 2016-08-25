@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00071</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-01-20">2011-01-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill and Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-06-27">2016-06-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00071b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Tasmanian Aboriginal Child Care Association</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Abbreviation"><part>TACCA</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1983-01-01">1983</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Peak Body</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Tasmanian Aboriginal Child Care Association was established in 1983 in Launceston. In 2014, it provides long term day child care, an Aboriginal parenting support service, and manages the funds for other projects that support learning for young Aboriginal people.</abstract>
+<p>The Tasmanian Aboriginal Child Care Association was established by Molly Mallett who was born on Cape Barren Island in 1926 and died in 2005. She coordinated the Association for its first two years of operation.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00225b.htm">
+<relationEntry localType="Glossary Term">
+Stolen Generations (1981 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Tasmanian Aboriginal Child Care Association', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Tasmanian Aboriginal Child Care Association</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00071b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000026.htm">
+<relationEntry localType="published">Book: My Past - Their Future: Stories from Cape Barren Island</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mallett, Molly</name>
+<title render="italic">My Past - Their Future: Stories from Cape Barren Island</title>
+<imprint>
+<place>Sandy Bay</place>
+<publisher>Blubber Head Press in association with Riawunna, Centre for Aboriginal Education</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

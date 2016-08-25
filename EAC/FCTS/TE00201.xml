@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00201</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-10-25">2011-10-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-13">2015-10-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00201b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Guardianship Board</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1963-01-01">1963</fromDate>
+<toDate standardDate="1995-12-31">c. 1995</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Agency</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Guardianship Board, established by the <span style="font-style:italic">Mental Health Act</span> of 1963, replaced the Mental Deficiency Board in 1963. Its purpose was to assume the guardianship of people with an intellectual disability or mental illness. It also advised the Minister about the care, treatment and occupations of people suffering from an intellectual disability or psychiatric illness. The Guardianship and Administration Board replaced the Guardianship Board in about 1995.</abstract>
+<p>The Guardianship Board had five members. In 1963, they were the Director of Social Welfare, the Director of Psychiatric Services and three others, one of whom had to be a woman, and the other, a medical practitioner with experience in diagnosing and treating mental illness. In 1965, eighty people came under the auspices of the Guardianship Board.</p>
+<p>The <span style="font-style:italic">Guardianship and Administration Act</span> of 1995 replaced the Guardianship Board with the Guardianship and Administration Board.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00200b.htm">
+<relationEntry localType="Organisation">
+Mental Deficiency Board (1922 - 1964)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00848b.htm">
+<relationEntry localType="Legislation">
+Guardianship and Administration Act 1995 (1995 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00639b.htm">
+<relationEntry localType="Organisation">
+Division of Psychiatric Services (1963 - 1968)
+</relationEntry>
+<descriptiveNote>
+<p>The Guardianship Board was a part of the Division of Psychiatric Services.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00628b.htm">
+<relationEntry localType="Archival Series">
+Correspondence Files-About Patients, Guardianship Board (1960 - 1969)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00627b.htm">
+<relationEntry localType="Archival Series">
+Case Files of Mental Defectives Placed under Guardianship (1947 - 1974)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00010b.htm">
+<relationEntry localType="Legislation">
+Mental Health Act 1963 (1963 - 1999)
+</relationEntry>
+<descriptiveNote>
+<p>The Mental Health Act 1963 established the Guardianship Board.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00847b.htm">
+<relationEntry localType="Organisation">
+Guardianship and Administration Board (1995 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Guardianship Board', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Guardianship Board</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00201b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000646.htm">
+<relationEntry localType="published">Statute: Guardianship and Administration Act</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Guardianship and Administration Act</title>
+<imprint>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000134.htm">
+<relationEntry localType="published">Statute: Mental Health Act 1963 (TAS)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Mental Health Act 1963 (TAS)</title>
+<imprint>
+<date>1963</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000137.htm">
+<relationEntry localType="published">Book: A Guide to Tasmanian Government Administration</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wettenhall, RL</name>
+<title render="italic">A Guide to Tasmanian Government Administration</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Platypus Publications</publisher>
+<date>1968</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

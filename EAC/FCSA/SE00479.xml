@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE00479</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-08-11">2011-08-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-11-17">2015-11-17</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE00479b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>State Children's Department Lying-in Home Register, August 1901-May 1907</part>
+<part localType="parent">St Joseph's Refuge Fullarton</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1901-08-12">12 Aug 1901</fromDate>
+<toDate standardDate="1907-05-10">10 May 1907</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Purpose printed volume produced for State Children's Department. Each page carries title, Pursuant to "The State Children's Act, 1895" Lying-in Home Register and has printed columns and headings with handwritten entries: (1) Name and usual residence of woman confined, (2) Date of confinement, (3) Name of Doctor or midwife who attended during confinement, (4) Here state with whom the child leaves the home - if with other, enter where gone to; if placed with Licensed Foster-mother or near relative, enter name and address; if deceased, enter cause of death, (5) Date when woman left, (6) Date when child left. Notes on contents - First column also includes reference or admission number and gives the name of the child. Many entries note 'Gone with mother to St Joseph's Refuge, Fullarton'. Entries also record death or adoption of children.
+
+Quantity: 1 volume</abstract>
+<h4>Access Conditions</h4>
+<p>The Sisters of St Joseph welcome contact from previous residents of homes run by the order. Please contact Sisters of St Joseph for details of how to access records held by the Archives.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00735b.htm">
+<relationEntry localType="Archival Collection">
+Records of St Joseph's Refuge, Fullarton (1873 - 1970s)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01246b.htm">
+<relationEntry localType="Contact Details">
+Professional Standards Office Records Service of the Catholic Church - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00042b.htm">
+<relationEntry localType="Organisation">
+St Joseph's Refuge (1868 - c. 2001)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'State Children's Department Lying-in Home Register, August 1901-May 1907', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">State Children's Department Lying-in Home Register, August 1901-May 1907</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00479b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000042.htm">
+<relationEntry localType="published">Resource: Finding your own way</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">George, Karen</name>
+<title render="italic">Finding your own way</title>
+<imprint>
+<publisher>Nunkuwarrin Yunti of South Australia Inc.</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://nunku.org.au/resources/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

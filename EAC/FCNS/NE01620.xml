@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01620</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-05-18">2014-05-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-02-04">2015-02-04</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01620b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Challenge Foundation</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1984-01-01">1984</fromDate>
+<toDate standardDate="1993-12-31">1993</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Non Government Organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Challenge Foundation was the new name for the Sub-Normal Children's Association. The name change occurred in 1984, after conflict within the Association led to its collapse. The Challenge Foundation ran Crowle House from 1984 until 1993. The Crowle Foundation is a subequent of the Challenge Foundation, when the branches of the Challenge Foundation incorporated.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01618b.htm">
+<relationEntry localType="Organisation">
+Sub-Normal Children's Welfare Association (NSW) (1946 - 1984)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01619b.htm">
+<relationEntry localType="Organisation">
+Crowle House (1952 - 2012)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1984-01-01">1984</fromDate>
+<toDate standardDate="1993-12-31">1993</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01678b.htm">
+<relationEntry localType="Organisation">
+Crowle Foundation (1993 - 2008)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Challenge Foundation', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Challenge Foundation</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01620b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000904.htm">
+<relationEntry localType="published">Resource: Crowle Foundation v New South Wales Trustee and Guardian [2010] NSWSC 647 (Supreme Court of New South Wales, Ball J, 25 June 2010)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Overell, Anne</name>
+<title render="italic">Crowle Foundation v New South Wales Trustee and Guardian [2010] NSWSC 647 (Supreme Court of New South Wales, Ball J, 25 June 2010)</title>
+<imprint>
+<publisher>Australian Centre for Philanthropy and Nonprofit Studies, Queensland University of Technology</publisher>
+<date>2010</date>
+</imprint>
+<extptr linktype="simple" href="https://wiki.qut.edu.au/display/CPNS/Crowle+Foundation+v+New+South+Wales+Trustee+and+Guardian"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

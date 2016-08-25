@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00869</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-03-27">2014-03-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-05-16">2014-05-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00869b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Law Officers' Establishment</part>
+<part localType="parent">Colony of Tasmania</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1823-01-01">1823</fromDate>
+<toDate standardDate="1856-12-31">1856</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Agency</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Law Officers' Establishment, set up in 1823, was a loose term to describe the organisation that contained the Supreme Court and the Sheriff's Department, which after the early 1830s, included gaols, which housed children. In 1856, following self-government, the Law Officer's Establishment became the Office of the Attorney-General, one of the first three ministerial portfolios.</abstract>
+<p>The Supreme Court Registry recorded, among other things, births, deaths, and marriages.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00687b.htm">
+<relationEntry localType="Organisation">
+Sherriff and Gaols Department, Colony of Tasmania (1824 - 1936)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00558b.htm">
+<relationEntry localType="Organisation">
+Launceston Gaol (1827 - 1917)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00870b.htm">
+<relationEntry localType="Organisation">
+Attorney General's Department, Colony of Tasmania (1856 - 1901)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Law Officers' Establishment', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Law Officers' Establishment</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00869b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000137.htm">
+<relationEntry localType="published">Book: A Guide to Tasmanian Government Administration</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wettenhall, RL</name>
+<title render="italic">A Guide to Tasmanian Government Administration</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Platypus Publications</publisher>
+<date>1968</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

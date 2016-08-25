@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE00361</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-02-28">2011-02-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-06-10">2014-06-10</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE00361b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Department of Aboriginal Affairs</part>
+<part localType="parent">Federal Government</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1972-01-01">1972</fromDate>
+<toDate standardDate="1990-12-31">1990</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Department</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Commonwealth Department of Aboriginal Affairs was formed in 1972. As a result of the creation of this department, the Federal Government took over responsibility for all issues related to Aboriginal and Torres Strait Islander people in Australia. Policy and planning functions which had previously been the responsibility of the States were transferred to the Commonwealth. The States retained State offices of Aboriginal Affairs. The Department of Aboriginal Affairs was abolished on 5 March 1990 and replaced by the Aboriginal and Torres Strait Islander Commission, often referred to as ATSIC.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01325b.htm">
+<relationEntry localType="Organisation">
+Ernabella Mission (1937 - 1974)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00090b.htm">
+<relationEntry localType="Organisation">
+Nindee Hostel (1971 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1972-01-01">1972</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01358b.htm">
+<relationEntry localType="Organisation">
+Koonibba Mission (1901 - 1975)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1972-01-01">1972</fromDate>
+<toDate standardDate="1975-12-31">1975</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01329b.htm">
+<relationEntry localType="Organisation">
+Point McLeay Mission Station (1859 - 1974)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1972-01-01">1972</fromDate>
+<toDate standardDate="1974-12-31">1974</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00143b.htm">
+<relationEntry localType="Organisation">
+Gerard Mission (1946 - 1974)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1972-01-01">1972</fromDate>
+<toDate standardDate="1974-12-31">1974</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01326b.htm">
+<relationEntry localType="Organisation">
+Nepabunna Mission (1931 - 1977)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1973-01-01">1973</fromDate>
+<toDate standardDate="1977-12-31">1977</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00089b.htm">
+<relationEntry localType="Organisation">
+Luprina Hostel (1971 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1974-12-31">31 December 1974</fromDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Department of Aboriginal Affairs', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Department of Aboriginal Affairs</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00361b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

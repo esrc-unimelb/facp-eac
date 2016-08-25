@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01378</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-06-27">2014-06-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-07-23">2015-07-23</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01378b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Receiving Depot</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1907-01-01">1907</fromDate>
+<toDate standardDate="1976-12-31">1976</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Term commonly found on child welfare records</term>
+</function>
+</functions>
+<biogHist>
+<abstract>A receiving depot was a type of institution defined under the <span style="font-style:italic">State Children Act 1907</span> (s.4) in Western Australia. The Government Industrial School became the Government Receiving Depot in 1908, for the temporary admission of all children committed to an institution after the Act became operational. Children were transferred to other institutions after a short time in the receiving depot. Many, though not all, children were admitted into out-of-home care via this receiving depot, which changed its name a number of times over the years. It remained the only receiving depot in the State until 1964, when Bridgewater opened. The term, receiving depot remained in legislation until the term institution was deleted by the <span style="font-style:italic">Child Welfare Act Amendment Act No.2 1976</span> (s.5(i)).</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00036b.htm">
+<relationEntry localType="Organisation">
+Bridgewater Care and Assessment Centre (1969 - 1983)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00612b.htm">
+<relationEntry localType="Organisation">
+Government Receiving Depot (1907 - 1935)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01377b.htm">
+<relationEntry localType="Glossary Term">
+Institution (1907 - 1976)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Receiving Depot', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Receiving Depot</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01378b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000017.htm">
+<relationEntry localType="published">Report: Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Western Australia. Charities Department</name>
+<title render="italic">Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</title>
+<imprint>
+<place>Perth, [W.A.]</place>
+<publisher>Government Printer</publisher>
+<date>1899-1907</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000093.htm">
+<relationEntry localType="published">Resource Section: Child Welfare Amendment Act (No 2) 1976 (WA)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Child Welfare Amendment Act (No 2) 1976 (WA)</title>
+<imprint>
+<date>1976</date>
+</imprint>
+<extptr linktype="simple" href="http://www.slp.wa.gov.au/legislation/statutes.nsf/main_mrtitle_5034_homepage.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000078.htm">
+<relationEntry localType="published">Resource Section: State Children Act 1907 (WA)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">State Children Act 1907 (WA)</title>
+<imprint>
+<publisher>State Law Publisher of Western Australia</publisher>
+<date>1907</date>
+</imprint>
+<extptr linktype="simple" href="http://www.slp.wa.gov.au/legislation/statutes.nsf/main_mrtitle_9527_homepage.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

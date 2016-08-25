@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>YE00364</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNT</agencyCode>
+<agencyName>Find &amp; Connect - Northern Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-04-08">2014-04-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George, Megg Kelham and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-06-23">2016-06-23</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nt/biogs/YE00364b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Department of Correctional Services</part>
+<part localType="parent">Northern Territory Government</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1984-01-01">1984</fromDate>
+<toDate standardDate="1987-12-31">1987</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Government Department</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Department of Correctional Services was established as a department in its own right in 1984. Correctional Services had previously operated as a Division under the Department of Community Development. In 1986 the new department took responsibility for youth justice and took charge of the two existing detention centres, Giles House, in Alice Springs and Malak House in Darwin. It also established the Wildman River Wilderness Work Camp. At that time, the Northern Territory was the only place where youth justice was under the control of correctional rather than welfare personnel. In 1987 the Department of Correctional Services amalgamated with the Department of Health and Community Services to become the Department of Health and Community Services - Correctional Services.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00297b.htm">
+<relationEntry localType="Organisation">
+Her Majesty's Gaol and Labour Prison, Alice Springs (1938 - 1996)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00305b.htm">
+<relationEntry localType="Organisation">
+Darwin Correctional Centre, Berrimah (1979 - 2014)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00278b.htm">
+<relationEntry localType="Organisation">
+Malak House Remand and Assessment Centre (1979 - 1987)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1986-01-01">1986</fromDate>
+<toDate standardDate="1987-12-31">1987</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00260b.htm">
+<relationEntry localType="Organisation">
+Giles House Juvenile Detention and Training Centre (1978 - 1991)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1986-01-01">1986</fromDate>
+<toDate standardDate="1987-12-31">1987</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00365b.htm">
+<relationEntry localType="Organisation">
+Department of Health and Community Services - Correctional Services, Northern Territory Government (1987 - 1989)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Department of Correctional Services', in <span style="font-style:italic">Find &amp; Connect - Northern Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Department of Correctional Services</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Northern Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00364b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

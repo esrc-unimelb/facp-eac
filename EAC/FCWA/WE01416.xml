@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01416</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-09-02">2014-09-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-11-18">2015-11-18</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01416b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>South Perth Community Centre Hospital Inc</part>
+<part localType="parent">South Perth Community Hospital</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1956-01-01">1956</fromDate>
+<toDate standardDate="2003-12-31">2003</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Hospital</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The South Perth Community Centre Hospital Inc was established as a community-run, not-for-profit private hospital in 1956. It had a maternity suite from June 1959. From August 1959 to 1980, expectant mothers who were accommodated at the Ngal-a Mothercraft Home and Training Centre Inc (Ngala) in Kensington often had their babies at the hospital. In 2003, the hospital changed its name to South Perth Hospital Inc.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1956-01-01">1956</fromDate>
+<toDate standardDate="1956-12-31">1956</toDate>
+</dateRange>
+<placeEntry>South Perth</placeEntry>
+<event>Address - South Perth Community Centre Hospital Inc was established at 76 South Terrace, South Perth</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01493b.htm">
+<relationEntry localType="Archival Collection">
+Picture South Perth Photograph Collection (1870s - 2000s)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00159b.htm">
+<relationEntry localType="Organisation">
+Ngal-a Mothercraft Home and Training Centre Inc (1956 - 1989)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1959-01-01">1959</fromDate>
+<toDate standardDate="1980-12-31">1980</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Ngal-a Mothercraft Home and Training Centre Inc sent some expectant mothers to the South Perth Community Centre Hospital Inc for the birth of their babies.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01417b.htm">
+<relationEntry localType="Organisation">
+South Perth Hospital Inc (2003 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'South Perth Community Centre Hospital Inc', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">South Perth Community Centre Hospital Inc</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01416b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001384.htm">
+<relationEntry localType="published">Resource Section: South Perth Hospital - Our History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">South Perth Hospital - Our History</title>
+<imprint>
+<place>Perth, Western Australia</place>
+<publisher>South Perth Hospital</publisher>
+<date>1989</date>
+</imprint>
+<extptr linktype="simple" href="http://www.sph.org.au/our-history"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000096.htm">
+<relationEntry localType="published">Resource: ROADS. An index of locations and access to adoption records.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Western Australia. Department for Community Development</name>
+<title render="italic">ROADS. An index of locations and access to adoption records.</title>
+<imprint>
+<publisher>Dept. For Community Development</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://www.dcp.wa.gov.au/FosteringandAdoption/Documents/ROADS2006.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0001022.htm">
+<relationEntry localType="digitalObject">South Perth Community Hospital site, c.1950</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>City of South Perth Local History Collection</repository>
+<unittitle>South Perth Community Hospital site, c.1950</unittitle>
+<unitid>City of South Perth Local History Collection COSP_PH_78</unitid>
+<unitdate>1950?</unitdate>
+<abstract>'South Perth Community Hospital site, c.1950' is an image from the Picture South Perth Photograph Collection held in the City of South Perth's online collection of historical images. As the sign in the image says, it shows the site of the South Perth Community Centre Inc hospital on South Terrace.</abstract>
+<note label="rights">City of South Perth</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

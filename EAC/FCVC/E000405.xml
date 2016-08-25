@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000405</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-08-21">2009-08-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-06-03">2016-06-03</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000405b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Berry Street Incorporated</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1992-01-01">1992</fromDate>
+<toDate standardDate="1994-12-31">1994</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Non-denominational</term>
+</function>
+<function>
+<term>Community Service Organisation</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Berry Street Incorporated came into being in 1992. It was previously known as Berry Street - Child and Family Care. In 1994, a decision was made to amalgamate with Sutherland Child Youth and Family Services. The merger became official on 6 September 1994. The new organisation retained the name Berry Street.</abstract>
+<p>Regarding the amalgamation of Berry Street Incorporated with Sutherland Child Youth and Family Services in 1994, Nancy Groll wrote:</p>
+<p>'Sutherland needed to increase its financial base. Berry Street needed to increase its range of services. Both organisations were looking to secure their futures into the 21st century. Both Boards recognised that the stronger the organisation, the better it's placed to respond to, if not have some effect on, changes in funding and government policy. The amalgamation of Berry Street and Sutherland would create an organisation much stronger than either could ever have hoped to be on their own. It could be, as they say, 'a match made in heaven'.'</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000038b.htm">
+<relationEntry localType="Organisation">
+Berry Street - Child and Family Care (1975 - 1992)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1992-01-01">1992</fromDate>
+<toDate standardDate="1992-12-31">1992</toDate>
+</dateRange>
+<descriptiveNote>
+<p>In 1992, Berry Street - Child and Family Care changed its name to Berry Street Incorporated.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000693b.htm">
+<relationEntry localType="Archival Collection">
+Berry Street Heritage Collection (c. 1877 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000041b.htm">
+<relationEntry localType="Organisation">
+Sutherland Child Youth and Family Services (1991 - 1994)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1994-01-01">1994</fromDate>
+<toDate standardDate="1994-12-31">1994</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Berry Street Incorporated amalgamated with Sutherland Child Youth and Family Services in 1994.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000006b.htm">
+<relationEntry localType="Organisation">
+Berry Street (1994 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1994-01-01">1994</fromDate>
+<toDate standardDate="1994-12-31">1994</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Berry Street was formed in 1994, with the amalgamation of Berry Street Incorporated and Sutherland Child Youth and Family Services.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Berry Street Incorporated', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Berry Street Incorporated</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000405b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

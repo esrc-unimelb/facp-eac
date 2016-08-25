@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00552</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-03-18">2013-03-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-12">2015-03-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00552b.htm</entityId>
+<entityId localType="Queensland State Archives Series ID">993</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Matron's Daily Report Book</part>
+<part localType="parent">Westbrook Training Centre and Westbrook Youth Centre</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1968-12-10">10 December 1968</fromDate>
+<toDate standardDate="1990-10-02">2 October 1990</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Matron's Daily Report Book, Series ID 993, relates to the Westbrook Training Centre and Westbrook Youth Centre. It records daily observations made by the Matron of Westbrook Training Centre and Westbrook Youth Centre, in terms of the general condition of inmates.
+
+.</abstract>
+<h4>Access Conditions</h4>
+<p>Access to some of these records is restricted to protect personal privacy</p>
+<h4>Records</h4>
+<p>[Taken from the Queensland State Archives web site]<br />
+Until 1960, medical services were provided to boys at Westbrook by a Visiting Medical Officer who travelled from Toowoomba to Westbrook periodically (fortnightly, monthly, or only on an as-needs basis).</p>
+<p>From 4 December 1960, first aid and basic medical attention was made available on a daily basis with the appointment of a resident Matron (a qualified nursing sister). The regular fortnightly visits by the Visiting Medical Officer continued, and emergency treatment was still carried out at the Toowoomba General Hospital until the reformatory was closed in 1994.</p>
+<p>This series records the daily observations made by the Matron in terms of the general condition of inmates, any health problems, psycological state of the boys, and any medications being taken. Information recorded includes: date, name of boy, officer's observations. At the rear of the register is a month-by- month list of accidents in which boys were injured (from January 1990 - July 1990). Details recorded include: accident number, name of boy, nature of injury, cause of injury, and action taken.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00208b.htm">
+<relationEntry localType="Organisation">
+Queensland State Archives
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00699b.htm">
+<relationEntry localType="Contact Details">
+Queensland State Archives - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00534b.htm">
+<relationEntry localType="Organisation">
+Westbrook Training Centre (1966 - 1987)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00535b.htm">
+<relationEntry localType="Organisation">
+Westbrook Youth Centre (1987 - 1993)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00479b.htm">
+<relationEntry localType="Glossary Term">
+Conditional Access to Records
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Matron's Daily Report Book', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Matron's Daily Report Book</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00552b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

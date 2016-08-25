@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01143</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-05-30">2012-05-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-11-28">2014-11-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01143b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Dunlea Centre</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Boys' Town Engadine</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2010-01-01">2010</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Children's Home</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Catholic</term>
+</function>
+<function>
+<term>Records Holder</term>
+</function>
+<function>
+<term>Records Access Service</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Dunlea Centre was opened in Engadine in 2010. It had been called Boys' Town Engadine, but became the Dunlea Centre when it included the Margaret residential unit for young women. In 2012 the Dunlea Centre provides a range of services to adolescent children and their families including life skills education and residential out of home care for boys and girls.</abstract>
+<p>In 2010 the management of Boys' Town Engadine recognised the need for a residential girls unit. It changed its name to the Dunlea Centre and established the Margaret Unit to help young women in need.</p>
+<p>The Dunlea Centre provides a range of services to adolescent children and their families who are at risk of family breakdown but wish to restore their relationships. It provides family and individual therapy, academic and life skills education and residential care for boys and girls. It also provides out of home care for children.</p>
+<p>The Dunlea Centre follows the Salesian 'Preventive System' of Don Bosco, although the Salesians are no longer actively involved in the Centre.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="2010-01-01">2010</fromDate>
+<toDate standardDate="2010-12-31">2010</toDate>
+</dateRange>
+<placeEntry>Engadine</placeEntry>
+<event>Address - The Dunlea Centre was situated at 35a Waratah Road, Engadine</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00583b.htm">
+<relationEntry localType="Archival Collection">
+Records of Boys Town Engadine (1939 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00141b.htm">
+<relationEntry localType="Organisation">
+Boys' Town, Engadine (1939 - 2010)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2010-01-01">2010</fromDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00140b.htm">
+<relationEntry localType="Organisation">
+Salesians of Don Bosco (1922 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01412b.htm">
+<relationEntry localType="Contact Details">
+Dunlea Centre - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Dunlea Centre', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Dunlea Centre</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01143b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

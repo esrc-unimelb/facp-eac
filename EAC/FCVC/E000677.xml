@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000677</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-08-02">2011-08-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-09-10">2014-09-10</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000677b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Yooralla</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1945-01-01">1945</fromDate>
+<toDate standardDate="1993-12-31">1993</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Hostel</term>
+</function>
+<function>
+<term>School</term>
+</function>
+<function>
+<term>Disability Institution</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Yooralla was established in Balwyn in 1945. It was a hostel and school for children with a disability. It accommodated some Victorian wards of state. The Balwyn site and facilities were sold in 1993.</abstract>
+<p>Yooralla purchased a property on the corner of Belmore and Balwyn Roads, known as Windsor Lodge, in 1945. This became a hostel with accommodation for children, and a school was established by the Education Department on the adjacent site.</p>
+<p>Yooralla had first begun as a kindergarten for children with disabilities in 1918. Located in Drummond, and later Pelham Street, in Carlton, it was renamed Yooralla Hospital School and Kindergarten in 1922.</p>
+<p>In 1959, following the first GTV9 Telethon for Yooralla, funds were raised which enabled the expansion of the Balwyn hostel and school, and the establishment of a medical treatment block.</p>
+<p>In 1977, Yooralla merged with the Victorian Society for Crippled Children and Adults to become the Yooralla Society of Victoria. The Balwyn site and facilities were sold in 1993.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1945-01-01">1945</fromDate>
+<toDate standardDate="1945-12-31">1945</toDate>
+</dateRange>
+<placeEntry>Balwyn</placeEntry>
+<event>Location - Yooralla Hostel wa located at the corner of Belmore and Balwyn Roads, Balwyn</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Yooralla', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Yooralla</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000677b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000752.htm">
+<relationEntry localType="published">Book: The society: being some account of the Victorian Society for Crippled Children and Adults</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Norris, Ada M. Dame</name>
+<title render="italic">The society: being some account of the Victorian Society for Crippled Children and Adults</title>
+<imprint>
+<place>South Melbourne</place>
+<publisher>Victorian Society for Crippled Children and Adults</publisher>
+<date>1974</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000370.htm">
+<relationEntry localType="digitalObject">Yooralla Balwyn</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Yooralla Balwyn</unittitle>
+<note label="rights">Courtesy Yooralla</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

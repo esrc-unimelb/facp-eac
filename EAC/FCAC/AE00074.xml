@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AE00074</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCAC</agencyCode>
+<agencyName>Find &amp; Connect - Australian Capital Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-12-05">2011-12-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Lydia Connell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-02-04">2014-02-04</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/act/biogs/AE00074b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Aboriginal and Torres Strait Islander Services</part>
+<part localType="parent">Australian Capital Territory</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="acronym"><part>ATSIS</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2005-08-01">August 2005</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Government Agency</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Aboriginal and Torres Strait Islander Services (ATSIS) is part of the Office for Children Youth and Family Support within the Community Services Directorate. The ATSIS unit was established in 2005. It administers a range of program initiatives and also provides advice on policy and procedural issues across the Office for Children Youth and Family Support and the Community Services Directorate on matters relating to Aboriginal and Torres Strait Islander communities in the ACT.</abstract>
+<p>ATSIS offers a number of Aboriginal and Torres Strait Islander-specific programs including accommodation, kinship and foster care services. Aboriginal and Torres Strait Islander Services staff undertake joint visits with Care and Protection workers as part of a review process after an initial assessment and support visits to children and carers in Kinship placements.<br />
+The ACT is the only jurisdiction in Australia with an elected Indigenous representative body which is involved in the full spectrum of program delivery, from advice to Government on the early design of services, through to a review of their effectiveness through an estimates process.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="2005-01-01">2005</fromDate>
+<toDate standardDate="2005-12-31">2005</toDate>
+</dateRange>
+<placeEntry>Canberra</placeEntry>
+<event>Location - Aboriginal and Torres Strait Islander Services was situated in Canberra</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00077b.htm">
+<relationEntry localType="Organisation">
+Aboriginal and Torres Strait Islander Kinship and Foster Care Service
+</relationEntry>
+<descriptiveNote>
+<p>The Aboriginal and Torres Strait Islander Kinship and Foster Care Service is administered by Aboriginal and Torres Strait Islander Services.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Aboriginal and Torres Strait Islander Services', in <span style="font-style:italic">Find &amp; Connect - Australian Capital Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Aboriginal and Torres Strait Islander Services</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australian Capital Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/act/biogs/AE00074b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

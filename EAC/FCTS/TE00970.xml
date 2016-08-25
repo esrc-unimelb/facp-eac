@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00970</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-05-12">2014-05-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-05">2015-03-05</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00970b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Darwin Private Hospital</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Darwin Hospital</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1933-01-01">1933</fromDate>
+<toDate standardDate="1951-12-31">1951</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Hospital</term>
+</function>
+<function>
+<term>Government-run</term>
+</function>
+<function>
+<term>Maternity Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Darwin Private Hospital, run by a group of doctors, opened in Burnie in 1933. It had 20 general and 10 maternity beds. The government bought Darwin Private Hospital in 1950 and it became part of the new Burnie General Hospital in 1951.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1933-01-01">1933</fromDate>
+<toDate standardDate="1951-12-31">1951</toDate>
+</dateRange>
+<placeEntry>Burnie</placeEntry>
+<event>Location - Darwin Private Hospital was in Burnie</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00580b.htm">
+<relationEntry localType="Organisation">
+Public Health Department, State of Tasmania (1904 - 1956)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00969b.htm">
+<relationEntry localType="Glossary Term">
+Maternity Home (c. 1874 - c. 1960)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00608b.htm">
+<relationEntry localType="Glossary Term">
+Hospital (c. 1820 - c. 1990)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00971b.htm">
+<relationEntry localType="Organisation">
+Burnie General Hospital (1951 - 1965)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Darwin Private Hospital', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Darwin Private Hospital</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00970b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000713.htm">
+<relationEntry localType="published">Newspaper Article: £11,000 paid for Darwin Hospital</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">£11,000 paid for Darwin Hospital</title>
+<imprint>
+<place>Burnie</place>
+<date>1950</date>
+</imprint>
+<bibseries>
+<title render="italic">Advocate</title>
+<num type="pages">3</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article69268688"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000712.htm">
+<relationEntry localType="published">Newspaper Article: Obituary Matron B. V. Clare</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Obituary Matron B. V. Clare</title>
+<imprint>
+<place>Burnie</place>
+<date>1954</date>
+</imprint>
+<bibseries>
+<title render="italic">Advocate</title>
+<num type="pages">4</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article69881008"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000710.htm">
+<relationEntry localType="published">Newspaper Article: Immediate start with Burnie Hospital urgent need</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Immediate start with Burnie Hospital urgent need</title>
+<imprint>
+<place>Burnie</place>
+<date>1945</date>
+</imprint>
+<bibseries>
+<title render="italic">Advocate</title>
+<num type="pages">7</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article68921257"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000708.htm">
+<relationEntry localType="published">Newspaper Article: Darwin Hospital sold</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Darwin Hospital sold</title>
+<imprint>
+<place>Burnie</place>
+<date>1950</date>
+</imprint>
+<bibseries>
+<title render="italic">Advocate</title>
+<num type="pages">1</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article69268207"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

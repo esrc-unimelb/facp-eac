@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01375</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Item</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-06-12">2014-06-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-05-05">2015-05-05</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01375b.htm</entityId>
+<entityId localType="National Library of Australia Bib ID">5813861</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Ivor Snaith interviewed by Karen George in the Forgotten Australians and Former Child Migrants Oral History Project [sound recording]</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2001-01-01">2001</fromDate>
+<toDate standardDate="2001-12-31">2001</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Ivor Snaith was the superintendent of the Church of England Boys Home, Walkerville, later known as Kennion House. In this interview he talks about his social work training and work with Boys' Clubs in Liverpool. He then discusses his move to Adelaide and his role as superintendent from 1954 to 1969. He describes the routine of the Home and his aims to create a less institutional, more family-like atmosphere. He mentions a number of the boys.</abstract>
+<h4>Access Conditions</h4>
+<p>To access tapes and transcripts held in the Collection at the National Library of Australia readers must fill in an Oral History Request form, available from the Petherick Reading Room. Access to tapes and transcripts is subject to the conditions imposed by interviewees. In most cases access is available, but in some cases recordings are restricted. Sometimes written permission from the interviewee is required. In other cases the tapes and transcripts are subject to complete restriction for a long period of time. Tape recordings may be listened to and transcripts viewed in the Petherick Reading Room. Unrestricted tapes and transcripts can also be accessed through inter-library loan through another state or local library. Some audio recordings are available online.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01092b.htm">
+<relationEntry localType="Archival Collection">
+Forgotten Australians and Former Child Migrants oral history project [sound recording] (2009 - 2012)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00842b.htm">
+<relationEntry localType="Glossary Term">
+Forgotten Australians (c. 2004 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00013b.htm">
+<relationEntry localType="Organisation">
+Kennion House (1955 - 1982)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00346b.htm">
+<relationEntry localType="Organisation">
+The Church of England Boys' Home at Walkerville (1903 - 1955)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Ivor Snaith interviewed by Karen George in the Forgotten Australians and Former Child Migrants Oral History Project [sound recording]', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Ivor Snaith interviewed by Karen George in the Forgotten Australians and Former Child Migrants Oral History Project [sound recording]</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01375b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

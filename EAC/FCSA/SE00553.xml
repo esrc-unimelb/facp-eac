@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE00553</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-08-11">2011-08-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-10">2016-03-10</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE00553b.htm</entityId>
+<entityId localType="State Records of South Australia Series ID">GRG27/11</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Register of Admissions - Industrial School, Edwardstown</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1903-01-01">1903</fromDate>
+<toDate standardDate="1908-12-31">1908</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Entries across two pages. Date in top left hand corner. Left hand page: (1) Number; (2) Name; (3) Age; (4) Date of birth; (5) Late place of residence; (6) What relatives in the State, where Living, Earnings and Occupation; (7) Religion. Right hand page: (8) Court of committal, (9) Reasons for admission etc, (10) Date of admission, (11) Date of leaving, (12) Where gone to. Notes on contents - (6) What relatives: gives names of parents and whether they are living or deceased. Quantity: 1 register</abstract>
+<h4>Access Conditions</h4>
+<p>A Research Centre Members card, obtainable at the Archives, is required to research records held at State Records.</p>
+<p>Although some very early records relating to children in care in South Australia are open for access, most records relating to children are subject to a 100 year restriction, particularly those which contain personal information about individuals. Written permission must be obtained from the government agency which created the record in order to access restricted material. To obtain permission a Freedom of Information (FOI) request form must be submitted to the relevant government department. State Records staff will be able to assist you with this.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00726b.htm">
+<relationEntry localType="Archival Collection">
+Records of the Social Welfare Department and predecessors (1849 - c. 1987)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01247b.htm">
+<relationEntry localType="Contact Details">
+State Records of South Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00064b.htm">
+<relationEntry localType="Organisation">
+Edwardstown Industrial School (1898 - 1949)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Register of Admissions - Industrial School, Edwardstown', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Register of Admissions - Industrial School, Edwardstown</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00553b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000042.htm">
+<relationEntry localType="published">Resource: Finding your own way</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">George, Karen</name>
+<title render="italic">Finding your own way</title>
+<imprint>
+<publisher>Nunkuwarrin Yunti of South Australia Inc.</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://nunku.org.au/resources/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

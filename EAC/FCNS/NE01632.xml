@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01632</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-06-12">2014-06-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-04-24">2015-04-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01632b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Native Institution</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1814-01-01">1814</fromDate>
+<toDate standardDate="1833-12-31">1833</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Children's Home</term>
+</function>
+<function>
+<term>School</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Native Institution was established at Parramatta by Governor Lachlan Macquarie on 10 December 1814 as a 'school for the education of the native children'. It was a children's home and asylum and was run by a Christian missionary, William Shelley. In 1823 it was moved to Blacktown. It closed in 1833.</abstract>
+<p>The Native Institution was significant as the first school for Aboriginal children in New South Wales. A number of the students who attended it used their education to prosper in white society, including Maria Lock, daughter of Yarramundi of the Boorooberongal clan of the Darug. Maria is recognised as a matriarch by the Darug people of western Sydney, and was one of the first Aboriginal people to claim a land grant.</p>
+<p>However, the practice of government authorities removing Aboriginal children from their families to educate them, as occurred at the Native Institution, is seen as an important precursor to the policies that led to the stolen generations.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1814-01-01">1814</fromDate>
+<toDate standardDate="1823-12-31">1823</toDate>
+</dateRange>
+<placeEntry>Parramatta</placeEntry>
+<event>Location - The Native Institution was located at Parramatta</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1823-01-01">1823</fromDate>
+<toDate standardDate="1833-12-31">1833</toDate>
+</dateRange>
+<placeEntry>Blacktown</placeEntry>
+<event>Location - The Native Institution was located at the corner of Richmond Road and Rooty Hill Road, Blacktown</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01137b.htm">
+<relationEntry localType="Organisation">
+Colonial Secretary (1821 - 1959)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01683b.htm">
+<relationEntry localType="Organisation">
+Secretary to the Governor (1788 - 1821)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01008b.htm">
+<relationEntry localType="Glossary Term">
+Stolen Generations
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Native Institution', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Native Institution</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01632b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000161.htm">
+<relationEntry localType="published">Report: Bringing them home: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Bringing them home: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</title>
+<imprint>
+<publisher>Commonwealth of Australia: Human Rights and Equal Opportunities Commission</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000888.htm">
+<relationEntry localType="published">Resource: A history of Aboriginal Sydney</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">A history of Aboriginal Sydney</title>
+<imprint>
+<publisher>University of Sydney</publisher>
+<date>2010-2013</date>
+</imprint>
+<extptr linktype="simple" href="http://www.historyofaboriginalsydney.edu.au/about"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000461.htm">
+<relationEntry localType="published">Resource: State archives relating to Aboriginal people</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">State archives relating to Aboriginal people</title>
+<imprint>
+<publisher>State Records NSW</publisher>
+<date>1998</date>
+</imprint>
+<extptr linktype="simple" href="http://www.records.nsw.gov.au/state-archives/guides-and-finding-aids/archives-relating-to-aboriginal-people/state-archives-relating-to-aboriginal-people"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

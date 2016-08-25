@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00851</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Item</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-01-17">2013-01-17</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-26">2015-08-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00851b.htm</entityId>
+<entityId localType="State Records of Western Australia Reference code">AU WA S4392- cons7271 1</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Form Manual</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1955-01-01">1955?</fromDate>
+<toDate standardDate="1972-12-31">1972?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Form Manual contains samples of forms used by the Child Welfare Department and the Department of Native Welfare. The file is divided into three sections. Section 1 contains Department of Native Welfare forms. Section 2 contains forms from other Western Australian departments, including the Children's Court. Section 3 contains forms from Commonwealth departments. There is an index of forms at the start of each section.</abstract>
+<h4>Access Conditions</h4>
+<p>Open</p>
+<h4>Records</h4>
+<p>The file shows the types of forms that might have been used for children in 'care' during the 1950s and up until the early 1970s, but as the file is undated, these years are approximate, based on the departments named on the files.</p>
+<p>The file was created by the Department of Native Welfare and shows all the forms that may have been used for administration of matters involving Aboriginal people. Many of these forms will also interest non-Aboriginal people who were in out of home care as they were forms in general use.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00850b.htm">
+<relationEntry localType="Archival Series">
+Forms, Child Welfare Department (1955 - 1972)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01156b.htm">
+<relationEntry localType="Contact Details">
+State Records Office of Western Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Form Manual', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Form Manual</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00851b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000235.htm">
+<relationEntry localType="digitalObject">Form Manual [Department of Native Welfare, Excerpts]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Records Office of Western Australia</repository>
+<unittitle>Form Manual [Department of Native Welfare, Excerpts]</unittitle>
+<unitid>Series 4392 - Forms; Cons: 7271 Item: 1</unitid>
+<unitdate>1955? - 1972?</unitdate>
+<abstract>This is a digital copy of an archival item held at the State Records Office of Western Australia ('Form manual'). The item is a collection of forms used by the Department of Native Welfare between 1955 and 1972, approximately. The pages that have been included in this version are relevant to the out-of-home-care of Aboriginal and non-Aboriginal children in WA.
+
+The text in this PDF version of the instruction manual is searchable. Please be aware that it is a large size (47 pages) and may take some time to download.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

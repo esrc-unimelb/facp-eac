@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000822</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Collection</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-01-29">2013-01-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Nell Musgrove</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-19">2015-03-19</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000822b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Bethany Community Support Records</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1896-01-01">1896</fromDate>
+<toDate standardDate="2007-12-31">2007?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Bethany Community Support holds a small collection of general historical records relating to Bethany Babies' Home, its predecessor the Geelong Female Refuge, and Bethany Community Support. The collection includes annual reports, staff records, some admissions and discharge registers and photographs. The collection does not include client files.</abstract>
+<h4>.Access Conditions</h4>
+<p>Those interested in accessing this historical information relating to the history of the organisation can contact Bethany Community Support.</p>
+<h4>Records</h4>
+<p>More specifically the collection includes:</p>
+<list><item>Admission and Discharge Records (1896-1979 - possibly incomplete) </item>
+<item>Annual Reports (1950-2007) </item>
+<item>Newspaper clippings (1990s) </item>
+<item>Governance documents; By-laws and Constitution (1930s and 1980s) </item>
+<item>Minutes of Bethany Babies Auxiliary (1949-1978) </item>
+<item>Financial records (1868-1980s) </item>
+<item>Organisational publications and promotional literature (1970s-2000s) </item>
+<item>Mothercraft publications and lecture notes, baby clothes patterns and a cookery book</item>
+<item>Infant Life protection Act Roll Book (1952-1967) </item>
+<item>Nurses' Register (1935-1941) </item>
+<item>Staff records (1936-1954) </item>
+<item>Nurses' Notes (1969) </item>
+<item>Nursing Staff reports (1970s) </item>
+<item>Unit Accommodation notes (1979-1981) </item>
+<item>Enquiries Book December 1981-1983</item>
+<item>Residential Admissions Book (1981-1984) </item>
+<item>Photographs (1930s-2000s) - mostly unnamed</item></list>
+<p>In 1977, when Bethany ceased operations as an adoption agency and babies' home, all records pertaining to individuals, placements and adoptions were transferred to the Department of Human Services. These records can be accessed through the Family Information Networks and Discovery (FIND).</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000280b.htm">
+<relationEntry localType="Organisation">
+Bethany Community Support (1977 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000842b.htm">
+<relationEntry localType="Organisation">
+Geelong Female Refuge (1868 - 1928)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000279b.htm">
+<relationEntry localType="Organisation">
+Bethany Babies' Home (1928 - 1977)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000859b.htm">
+<relationEntry localType="Contact Details">
+Bethany Community Support - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bethany Community Support Records', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bethany Community Support Records</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000822b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

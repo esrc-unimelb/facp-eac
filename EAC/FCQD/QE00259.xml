@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00259</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-10-28">2011-10-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-02-26">2015-02-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00259b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Residential Care</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1980-01-01">1980s</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Type of 'care'</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Residential care is a term to describe a model of out-of-home care that is distinct from home-based models such as foster or kinship care. Residential care services are provided to a child or young person in residential premises by live-in staff or rostered workers. Residential care usually involves care for up to 6 people. Therapeutic residential services specifically provide residential care for complex to extreme needs young people. Indigenous safe houses also offer specialised residential care.</abstract>
+<p>Residential care in Queensland originated with the children's institutions established in the nineteenth century. The deinstitutionalisation of the 1980s and 1990s coincided with a trend away from residential care, towards other options like foster or kinship care. In Queensland this trend has been reversed, and since 2005 the number of childen and young people in residential care has grown substantially.</p>
+<p>According to the Department of Communities (2010), the model of residential care in Queensland is a trauma and attachment informed model, and "placements in residential care are time-limited, with interventions aimed at preparing the child or young person for reunification or transition to family-based placement or independent living".</p>
+<p>By 2010, the non-government sector, with government funding, provided all out-of-home residential care in Queensland.</p>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Residential Care', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Residential Care</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00259b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000581.htm">
+<relationEntry localType="published">Report: A Contemporary Model of Residential Care for Children and Young People in Care</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Communities (Child Safety Services) in partnership with PeakCare Queensland</name>
+<title render="italic">A Contemporary Model of Residential Care for Children and Young People in Care</title>
+<imprint>
+<publisher>Queensland Government</publisher>
+<date>2010</date>
+</imprint>
+<extptr linktype="simple" href="https://www.communities.qld.gov.au/resources/childsafety/publications/documents/model-residential-care.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

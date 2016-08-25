@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01651</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2015-02-17">2015-02-17</eventDateTime>
+<agentType>human</agentType>
+<agent>Christine Moje</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-09">2016-03-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01651b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Statutes Amendment (Recidivist Young Offenders and Youth Parole Board) Act 2009</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2010-01-01">2010</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Amending Act</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Statutes Amendment (Recidivist Young Offenders and Youth Parole Board) Act 2009 (Act No.52/2009) was passed on 5 November 2009 and commenced 27 June 2010. The full title of the Act is 'An Act to amend the Criminal Law Consolidation Act 1935, the Criminal Law (Sentencing) Act 1988 and the Young Offenders Act 1993'.</abstract>
+<p>The amendment of the Criminal Law Consolidation Act 1935 deals with the authority of the Minister of the Parole Board to delegate a power or function to a person deemed competent in his opinion.</p>
+<p>The Amendment of Young Offenders Act 1993 contains various amendments, notably the introduction of the Victims Register and amendments to the section dealing with the Establishment of the Training Review Centre Board.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01488b.htm">
+<relationEntry localType="Legislation">
+Criminal Law Consolidation Act 1935 (1936 - )
+</relationEntry>
+<descriptiveNote>
+<p>Amendment of section 269V - Custody, supervision and care. The Minister of the Parole Board has authority to delegate a power or function to a person he deemes competent.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00279b.htm">
+<relationEntry localType="Legislation">
+Young Offenders Act 1993 (1993 - )
+</relationEntry>
+<descriptiveNote>
+<p>Amendments of note are the introduction of the Victims Register, and amending the section dealing with the Establishment of the Training Review Centre Board.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01407b.htm">
+<relationEntry localType="Concept">
+State of South Australia (1901 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01409b.htm">
+<relationEntry localType="Concept">
+Law in South Australia (1834 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Statutes Amendment (Recidivist Young Offenders and Youth Parole Board) Act 2009', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Statutes Amendment (Recidivist Young Offenders and Youth Parole Board) Act 2009</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01651b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

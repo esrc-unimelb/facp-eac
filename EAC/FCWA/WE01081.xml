@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01081</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Collection</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-05-02">2013-05-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-11-28">2014-11-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01081b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>St Anne's Hospital Records</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1937-01-01">1937</fromDate>
+<toDate standardDate="1982-12-31">1982</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The St Anne's Hospital Records date from around 1937 until 1982. They are related to St Anne's Nursing Home and St Anne's Maternity Home/Hospital. The collection includes records such as birth registers, admission and discharge records, and medical records.</abstract>
+<h4>Access Conditions</h4>
+<p>While access to these records is restricted to protect the privacy of individuals, you are very welcome to enquire. To access the records please contact the Health Information Manager at St John of God Mt Lawley Hospital.</p>
+<h4>Records</h4>
+<p>The St Anne's Hospital Records include:</p>
+<list><item>Birth registers from 1937</item>
+<item>Medical records from 1959 to 1974 with surnames J-R</item>
+<item>Medical records post-1978</item>
+<item>Theatre registers from 1937</item>
+<item>Admission and discharge registers from 1956 onwards.</item></list>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01432b.htm">
+<relationEntry localType="Organisation">
+St John of God Mount Lawley Hospital (2014 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01466b.htm">
+<relationEntry localType="Contact Details">
+St John of God Mt Lawley Hospital - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01080b.htm">
+<relationEntry localType="Organisation">
+St Anne's Nursing Home (1937 - c. 1958)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01429b.htm">
+<relationEntry localType="Organisation">
+St Anne's Maternity Home (c. 1958 - 1982)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'St Anne's Hospital Records', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">St Anne's Hospital Records</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01081b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000096.htm">
+<relationEntry localType="published">Resource: ROADS. An index of locations and access to adoption records.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Western Australia. Department for Community Development</name>
+<title render="italic">ROADS. An index of locations and access to adoption records.</title>
+<imprint>
+<publisher>Dept. For Community Development</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://www.dcp.wa.gov.au/FosteringandAdoption/Documents/ROADS2006.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

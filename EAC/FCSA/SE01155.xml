@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01155</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-09-17">2012-09-17</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-10">2016-03-10</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01155b.htm</entityId>
+<entityId localType="State Records of South Australia Series ID">GRS/4060</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Case cards, alphabetical by surname - Women Police Branch, South Australian Police Department</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1940-01-01">c. 1940</fromDate>
+<toDate standardDate="1974-12-31">1974</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>This series of Case Cards comprises a record of cases dealt with by the Women Police Branch. The date range of the cards runs from 1940 to 1974.</abstract>
+<h4>Access Conditions</h4>
+<p>A Research Centre Members card, obtainable at the Archives, is required to research records held at State Records.</p>
+<p>Although some very early records relating to children in care in South Australia are open for access, most records relating to children are subject to a 100 year restriction, particularly those which contain personal information about individuals. Written permission must be obtained from the government agency which created the record in order to access restricted material. To obtain permission a Freedom of Information (FOI) request form must be submitted to the relevant government department. State Records staff will be able to assist you with this.</p>
+<h4>Records</h4>
+<p>Women Police during the period dealt primarily with the moral and social welfare of women and children, with criminal offences being handled by the regular police force. The cases documented in these cards include: domestic issues, persons placed in or missing from institutions, including the elderly, missing children and family members, advising people re: conduct in public, charges of drunkenness and larceny, and enquiries made for other government departments.</p>
+<p>Cards are arranged alphabetically by name of woman or child, with contacts listed chronologically on each card. The date range of the cards is circa 1940 to 1974, although the bulk of them date from circa 1962 to 1974. It may be that 'inactive' cards were removed from this set while in use.</p>
+<p>Information includes personal details of woman or child, e.g.. Age, address, and occupation, together with details of incident, observations by police officer, circumstances of case and other general information. In some cases, a photograph is also attached to the card.</p>
+<p>This series ended in 1974 when women were integrated into the same chain of command as male police officers, and the welfare aspect of the job was undertaken by officers of the Department for Community Welfare.</p>
+<p>Arranged alphabetically by surname. These records are closed for 75 years after the last date on card.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00024b.htm">
+<relationEntry localType="Organisation">
+State Records of South Australia (1919 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00897b.htm">
+<relationEntry localType="Glossary Term">
+Women Police (1916 - 1970s)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01247b.htm">
+<relationEntry localType="Contact Details">
+State Records of South Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01156b.htm">
+<relationEntry localType="Archival Series">
+Case cards, arranged by subject - Women Police Branch, South Australian Police Department (1960 - 1973)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Case cards, alphabetical by surname - Women Police Branch, South Australian Police Department', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Case cards, alphabetical by surname - Women Police Branch, South Australian Police Department</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01155b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

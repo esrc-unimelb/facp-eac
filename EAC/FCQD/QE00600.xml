@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00600</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-05-01">2013-05-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-12-03">2014-12-03</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00600b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Brisbane Mental Hospital</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1940-01-01">c. 1940</fromDate>
+<toDate standardDate="1963-12-31">1963</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Disability Institution</term>
+</function>
+<function>
+<term>Government-run</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Brisbane Mental Hospital, situated at Wacol, Queensland, was a State run facility. The hospital, originally named the Woogaroo Lunatic Asylum, was first established in 1865 on a 120 acre horse stud farm owned by Dr Stephen Simpson. The Brisbane Mental Hospital was previously known as the Goodna Hospital for the Insane.
+
+Evidence shows that children were inmates of Queensland mental institutions however more research is needed to find out about children placed at the Brisbane Mental Hospital.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1940-01-01">c. 1940</fromDate>
+<toDate standardDate="1963-12-31">c. 1963</toDate>
+</dateRange>
+<placeEntry>Wacol</placeEntry>
+<event>Location - The Brisbane Mental Hospital was situated at Wacol</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00598b.htm">
+<relationEntry localType="Organisation">
+Goodna Hospital for the Insane (1898 - c. 1940)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00605b.htm">
+<relationEntry localType="Organisation">
+Health and Home Affairs Department (1935 - 1963)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00645b.htm">
+<relationEntry localType="Archival Series">
+Registers of Patients and Admission Books (1861 - 1994)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00602b.htm">
+<relationEntry localType="Organisation">
+Brisbane Special Hospital (1963 - 1969)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Brisbane Mental Hospital', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Brisbane Mental Hospital</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00600b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000292.htm">
+<relationEntry localType="published">Resource: The road to recovery - a history of mental health services in Queensland 1859-2009</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Queensland Health</name>
+<title render="italic">The road to recovery - a history of mental health services in Queensland 1859-2009</title>
+<imprint>
+<publisher>Queensland Government</publisher>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="http://www.health.qld.gov.au/mentalhealth/docs/qld-mh-history.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

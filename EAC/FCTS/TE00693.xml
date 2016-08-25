@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00693</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-08-26">2013-08-26</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-05">2015-03-05</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00693b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Danbury Receiving Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1976-01-01">1976</fromDate>
+<toDate standardDate="1980-12-31">1980</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Receiving Home</term>
+</function>
+<function>
+<term>Government-run</term>
+</function>
+<function>
+<term>Temporary Care</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Danbury Family Receiving Home, run by the government, opened in 1976. It provided temporary accommodation to children who were wards of state or supervised in other ways by the Social Welfare Department. The Home became Danbury Family Group Home in 1980.</abstract>
+<p>A married woman, known as a Receiving Home Keeper, managed Danbury with the assistance of her husband, who was in paid employment outside the Home. In return, they received free accommodation.</p>
+<p>The Home provided accommodation for new wards of the state or children on remand from the courts until the Department found a more permanent placement for them. The Home also took in children requiring temporary accommodation under the <span style="font-style:italic">Domestic Service Assistance Act</span> and in transit between homes.</p>
+<p>The Department changed the name in the early 1980s to Danbury Family Group Home, apparently to emphasise its domestic environment and the fact that some children stayed in the Home longer if they got on well with the Receiving Home Keeper.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1976-01-01">1976</fromDate>
+<toDate standardDate="1980-12-31">1980</toDate>
+</dateRange>
+<placeEntry>Launceston</placeEntry>
+<event>Location - Danbury Receiving Home located in Penquite Road, Launceston</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00020b.htm">
+<relationEntry localType="Organisation">
+Social Welfare Department, State of Tasmania (1961 - 1983)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00469b.htm">
+<relationEntry localType="Glossary Term">
+Receiving Home Keeper (1898 - c. 1980)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00089b.htm">
+<relationEntry localType="Glossary Term">
+Receiving Home (1898 - c. 1980)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00291b.htm">
+<relationEntry localType="Organisation">
+Danbury Family Group Home (c. 1981 - c. 1987)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Danbury Receiving Home', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Danbury Receiving Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00693b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000279.htm">
+<relationEntry localType="published">Report: Department of Social Welfare: report for the year ended 30 June 1976</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Department of Social Welfare: report for the year ended 30 June 1976</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Department of Social Welfare</publisher>
+<date>1976</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

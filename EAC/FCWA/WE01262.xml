@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01262</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Collection</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-11-26">2013-11-26</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-04-16">2015-04-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01262b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Sisters of St Joseph of the Sacred Heart, Records</part>
+<part localType="parent">Sisters of St Joseph of the Sacred Heart</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1929-01-01">1929</fromDate>
+<toDate standardDate="1975-12-31">1975</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Sisters of St Joseph of the Sacred Heart, Records, is a small collection of information relating to the St Joseph's Preventorium and school, Kellerberrin. The Sisters of St Joseph ran the Preventorium from from 1929 to 1976. They do not hold any case records for children placed during this time, but there are is an admission and discharge register (1929-1975, incomplete); some school admission and discharge registers; and various school reports (some mention children by name, but they are mostly descriptions of teaching activities). Unfortunately, there are no photographs of the Preventorium but there are some photographs of the school.</abstract>
+<h4>Access Conditions</h4>
+<p>Access to records is restricted to protect the privacy of individuals, but you are very welcome to enquire. The archives are open on a part-time basis. You are encouraged to make an appointment to visit.</p>
+<h4>Records</h4>
+<p>Sisters of St Joseph of the Sacred Heart, Records, is a small collection of information relating to the St Joseph's Preventorium, Kellerberrin. The Sisters of St Joseph ran the Preventorium from from 1929 to 1975. The children who were resident in the Preventorium also went to the school. Sometimes, the school registers note students' addresses as 'Preventorium', and parents' names and addresses may be included. Unfortunately, there are no photographs of the Preventorium but some photographs of the school survive.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01261b.htm">
+<relationEntry localType="Organisation">
+Sisters of St Joseph of the Sacred Heart (1887 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01263b.htm">
+<relationEntry localType="Contact Details">
+Sisters of St Joseph of the Sacred Heart - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00193b.htm">
+<relationEntry localType="Organisation">
+St Joseph's Preventorium (1929 - 1976)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Sisters of St Joseph of the Sacred Heart, Records', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Sisters of St Joseph of the Sacred Heart, Records</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01262b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000670.htm">
+<relationEntry localType="digitalObject">Archivist, Sisters of St Joseph of the Sacred Heart</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Debra Rosser</repository>
+<unittitle>Archivist, Sisters of St Joseph of the Sacred Heart</unittitle>
+<unitdate>23 October 2013</unitdate>
+<abstract>'Archivist, Sisters of St Joseph of the Sacred Heart' shows Sue Sondalini, archivist, in the archives at York Street, South Perth, on 23 October 2013.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00969</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-09-16">2014-09-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Nicola Laurent</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-09-17">2014-09-17</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00969b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Aboriginal and Torres Strait Islander Policy and Development Department</part>
+<part localType="parent">State Government of Queensland</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1998-01-01">1998</fromDate>
+<toDate standardDate="2001-12-31">2001</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Department</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Aboriginal and Torres Strait Islander Policy and Development Department was created on 4 September 1998. The Department amalgamated the Office of Aboriginal and Torres Strait Islander Policy and the Community and Personal Histories Section from various Government Departments. The creation of this department reflected a shift in policy at this time away from a welfare model to community capacity building. From February until June 2001, the Department was known as the Aboriginal and Torres Strait Islanders Partnerships Agency Queensland. In June 2001, the Department was renamed the Aboriginal and Torres Strait Islander Policy Department.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00968b.htm">
+<relationEntry localType="Organisation">
+Office of Aboriginal and Torres Strait Islander Policy, State Government of Queensland (1996 - 1998)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00907b.htm">
+<relationEntry localType="Archival Collection">
+Aboriginal and Torres Strait Islander Affairs Records (1880s - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00970b.htm">
+<relationEntry localType="Organisation">
+Aboriginal and Torres Strait Islander Policy Department, State Government of Queensland (2001 - 2006)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Aboriginal and Torres Strait Islander Policy and Development Department', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Aboriginal and Torres Strait Islander Policy and Development Department</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00969b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000591.htm">
+<relationEntry localType="published">Resource Section: Queensland State Archives Agency ID9450, Aboriginal and Torres Strait Islander Policy and Development Department</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Queensland State Archives Agency ID9450, Aboriginal and Torres Strait Islander Policy and Development Department</title>
+<imprint>
+<publisher>The State of Queensland - Queensland State Archives</publisher>
+<date>2004 - 2013</date>
+</imprint>
+<bibseries>
+<title render="italic">Queensland State Archives website</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.archivessearch.qld.gov.au/Search/AgencyDetails.aspx?AgencyId=9450"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

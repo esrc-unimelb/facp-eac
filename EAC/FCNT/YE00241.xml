@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>YE00241</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNT</agencyCode>
+<agencyName>Find &amp; Connect - Northern Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-09-10">2012-09-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-12-03">2014-12-03</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nt/biogs/YE00241b.htm</entityId>
+<entityId localType="National Library of Australia Bib ID">951410</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Margaret Somerville interviewed by Franks Heimans in the Bringing Them Home Oral History Project</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2001-01-01">2001</fromDate>
+<toDate standardDate="2001-12-31">2001</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Margaret Somerville worked as a cottage mother at the Croker Island Mission which was run by the Methodist Overseas Mission. She travelled with children from the island when they were evacuated to New South Wales during World War II. She returned to Croker Island in 1946 and remained there until 1965. The interview covers many aspects of her work with the Mission.</abstract>
+<h4>Access Conditions</h4>
+<p>Some interviews from the Bringing Them Home Oral History Project are available to listen to online in cases where interviewees have given their permission for this to happen. Other recordings and transcripts of interviews are available to in the Library. A number of interviews are subject to restricted access. For further information, please contact the National Library.</p>
+<h4>Records</h4>
+<p>Margaret Somerville was born in Lismore in 1912. In this interview she speaks about her father who was a Methodist minister, and about her religious upbringing. From 1941-65 she worked as a cottage mother at the Methodist Mission on Croker Island, NT.</p>
+<p>She describes living conditions at the Mission, the evacuation of the Mission to Otford, NSW, during World War II, and about the return to Croker Island in 1946. In 1965, Somerville returned to Sydney, accompanied by two foster children who were later returned to their family. She talks about some of the children she cared for, and gives her views on institutional care. Somerville Cottage Homes in Darwin are named after her.</p>
+<p>The interview is available to listen to online. A timed summary and transcript are also available.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00162b.htm">
+<relationEntry localType="Archival Collection">
+Bringing Them Home Oral History Project [sound recording] (1998 - 2002)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00049b.htm">
+<relationEntry localType="Organisation">
+Somerville Cottage Homes (1968 - 1980s)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00309b.htm">
+<relationEntry localType="Contact Details">
+National Library of Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00021b.htm">
+<relationEntry localType="Organisation">
+Croker Island Mission (1940 - 1968)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Margaret Somerville interviewed by Franks Heimans in the Bringing Them Home Oral History Project', in <span style="font-style:italic">Find &amp; Connect - Northern Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Margaret Somerville interviewed by Franks Heimans in the Bringing Them Home Oral History Project</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Northern Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00241b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

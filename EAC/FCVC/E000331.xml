@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000331</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-06-12">2009-06-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000331b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Holmbush</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1942-01-01">1942</fromDate>
+<toDate standardDate="1956-12-31">1956</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Hostel</term>
+</function>
+<function>
+<term>Non-denominational</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Holmbush was the first residential accommodation operated by Melbourne Legacy, and was established in 1942. It accommodated boys aged between 9 and 19, usually attending secondary school. In 1956, Holmbush became known as Blamey House.</abstract>
+<p>Holmbush was for children aged 9 to 19. It was located not far from another Legacy home, Stanhope (1245 Burke Road).</p>
+<p>Residents of Holmbush and other Legacy homes were the children of deceased ex-servicemen. Sometimes residents at Legacy homes were both children of ex-servicemen and wards of state.</p>
+<p>In 1956, Blamey House, another Legacy children's home formerly in Beaumaris moved into the Holmbush property in Kew, and it was renamed Blamey House.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1942-01-01">1942</fromDate>
+<toDate standardDate="1956-12-31">1956?</toDate>
+</dateRange>
+<placeEntry>Kew</placeEntry>
+<event>Address - Holmbush was located at 1267 Burke Road, Kew</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000348b.htm">
+<relationEntry localType="Organisation">
+Melbourne Legacy (1923 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000330b.htm">
+<relationEntry localType="Organisation">
+Stanhope (c. 1945 - 1982)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000340b.htm">
+<relationEntry localType="Organisation">
+Harelands (c. 1952 - 1977)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000323b.htm">
+<relationEntry localType="Glossary Term">
+Hostel
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000888b.htm">
+<relationEntry localType="Archival Collection">
+Legacy Records (1942? - 1982?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000327b.htm">
+<relationEntry localType="Organisation">
+Blamey House (c. 1949 - c. 1977)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1956-01-01">1956</fromDate>
+</dateRange>
+<descriptiveNote>
+<p>In 1956, Holmbush was renamed Blamey House, and children were transferred from Beaumaris to the Kew Home.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Holmbush', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Holmbush</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000331b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000043.htm">
+<relationEntry localType="published">Report: Protecting Vulnerable Children: a national challenge: Second report on the inquiry into children in institutional or out-of-home care</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Senate Community Affairs References Committee Secretariat, Parliament of Australia</name>
+<title render="italic">Protecting Vulnerable Children: a national challenge: Second report on the inquiry into children in institutional or out-of-home care</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/report2/index"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
+<relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James Jenkinson Consulting</name>
+<title render="italic">Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</title>
+<imprint>
+<publisher>Unpublished</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000435.htm">
+<relationEntry localType="digitalObject">Veteran's 'Adopt' Violin Prodigy</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Veteran's 'Adopt' Violin Prodigy</unittitle>
+<unitdate>12 September 1951</unitdate>
+<abstract>Caption reads, 'John Heywood, 11, arrives from Hamilton, a 154 year-old Lipollo fiddle under his arm, a brilliant career ahead.'</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

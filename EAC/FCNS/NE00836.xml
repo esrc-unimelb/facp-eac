@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE00836</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-08-10">2011-08-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Melissa Downing</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-06-28">2016-06-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00836b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Card Indexes</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1919-01-01">1919</fromDate>
+<toDate standardDate="1949-12-31">1949</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The card indexes listed below are open to public access with the exception of the index to unsatisfactory migrants which is closed for 70 years.
+
+Card index to assisted immigrants, 1919-26 [11/23045-23054, 11/23056-23065]
+Card index to assisted immigrants, 1925-39 [6/994-1000, 11/23066-23074]
+Card index to nominations/inspections, c. 1947 [11/23075-23085]
+Card index to migrants transferred from other States, 1923-45 [11/23086-23090.1]
+Place index, 1922-40 [11/23091-23092.1]
+Arranged by main railway line, then by towns on the line and then by name of migrant, forming a list of migrants by most recent address.
+Card index to enquiries re settlement, 1945-48 [11/23092.2]
+Card index to the deaths of Dreadnought immigrants, 1924-38 [11/23092.3]
+Card index to nominators, 1930-39 [11/23093.1]
+Card index to immigrants under youth group schemes, c. 1930-46 [11/23093.2]
+Indexes youths assisted under the Big Brother Movement, The Dreadnought Trust Fund, the Salvation Army and the Church of England (Council of Empire Settlement).
+Card index to migrant passport clearances issued, 1924-40 [11/23094]
+Appears to be an index to immigrants brought out under the Dreadnought Trust Fund who returned to England. The index is incomplete (Abbott-Myson only).
+Unidentified card index to immigrants, 1921-47 [11/23095-23100]
+Appears to index immigrants under the age of 21 who probably arrived under the Dreadnought Trust Fund.
+Card index to unsatisfactory migrants, c.1925-49 [11/23101] Closed for 70 years.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00949b.htm">
+<relationEntry localType="Archival Collection">
+Records relating to Child and Youth Migration, New South Wales (c. 1919 - c. 1974)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01466b.htm">
+<relationEntry localType="Contact Details">
+State Records Authority of New South Wales - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Card Indexes', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Card Indexes</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00836b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000019.htm">
+<relationEntry localType="published">Resource Section: Child/Youth Migration in the 20th Century</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Child/Youth Migration in the 20th Century</title>
+<imprint>
+<publisher>State Records Authority of New South Wales</publisher>
+</imprint>
+<bibseries>
+<title render="italic">State Records Authority of New South Wales website</title>
+</bibseries>
+<extptr linktype="simple" href="https://www.records.nsw.gov.au/archives/collections-and-research/guides-and-indexes/child-youth-migration-the-20th-century"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

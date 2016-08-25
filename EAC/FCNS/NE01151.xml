@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01151</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-06-05">2012-06-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-04-27">2015-04-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01151b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Mt Penang Juvenile Justice Centre</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Mt Penang</part>
+</nameEntry>
+<nameEntry localType=""><part></part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1991-01-01">1991</fromDate>
+<toDate standardDate="1999-12-31">1999</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Juvenile Justice Centre</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Government-run</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Mt Penang Juvenile Justice Centre at Kariong was the new name given in 1991 to the Mount Penang Detention Centre. It was run by the Department of Community Services. Mt Penang Juvenile Justice Centre closed in 1999. Its functions were taken over by Kariong Juvenile Correction Centre.</abstract>
+<p>When Kariong was converted to a prison for serious offenders another facility, Frank Baxter Juvenile Justice Centre, was built near the original site.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1991-01-01">1991</fromDate>
+<toDate standardDate="1999-12-31">1999</toDate>
+</dateRange>
+<placeEntry>Kariong</placeEntry>
+<event>Location - Mt Penang Juvenile Justice Centre was situated at Kariong</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01150b.htm">
+<relationEntry localType="Organisation">
+Mount Penang Detention Centre (1988 - 1991)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01028b.htm">
+<relationEntry localType="Organisation">
+Department of Family and Community Services, State Government of New South Wales (1988 - 1991)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00043b.htm">
+<relationEntry localType="Organisation">
+Department of Health and Community Services, State Government of New South Wales (1991 - 1992)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00986b.htm">
+<relationEntry localType="Glossary Term">
+Juvenile Justice
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01189b.htm">
+<relationEntry localType="Archival Item">
+Ken Buttrum interviewed by Gail Winkworth in the National Library of Australia's Children and the State oral history project [sound recording] (2009)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Mt Penang Juvenile Justice Centre', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Mt Penang Juvenile Justice Centre</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01151b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000927.htm">
+<relationEntry localType="published">Conference Paper: An overview of juvenile detention in Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Atkinson, Lynn</name>
+<title render="quoted">An overview of juvenile detention in Australia</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Institute of Criminology</publisher>
+<date>1993</date>
+</imprint>
+<bibseries>
+<title render="italic">National Conference on Juvenile Detention: Proceedings of a conference held 10-13 August 1993</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.aic.gov.au/media_library/publications/proceedings/25/atkinson.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000417.htm">
+<relationEntry localType="published">Report: Report to Parliament Under Section 31 of the Ombudsman Act 1974: Concerning the failure of the former Department of Family and Community Services to issue instructions to superintendent and staff on the requirements of the Children (Detention Centres) Act and its regulations, in terms of minor and serious misbehaviour and in particular instructions on dealing with assaults on detainees by detainees</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Landa, D.E., Ombudsman</name>
+<title render="italic">Report to Parliament Under Section 31 of the Ombudsman Act 1974: Concerning the failure of the former Department of Family and Community Services to issue instructions to superintendent and staff on the requirements of the Children (Detention Centres) Act and its regulations, in terms of minor and serious misbehaviour and in particular instructions on dealing with assaults on detainees by detainees</title>
+<imprint>
+<date>1991</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000402.htm">
+<relationEntry localType="published">Resource: Deaths in Custody Australia: No. 3 Deaths in Juvenile Detention, 1980-1992</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Howlett, Christine</name>
+<title render="italic">Deaths in Custody Australia: No. 3 Deaths in Juvenile Detention, 1980-1992</title>
+<imprint>
+<publisher>Australian Institute of Criminology</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.aic.gov.au/documents/3/2/1/%7B321C197B-92EA-4379-8EB1-7B96415B9A5C%7Ddic3.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000169.htm">
+<relationEntry localType="published">Book: Sent to the Mountain: A History of Mount Penang Juvenile Justice Centre</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rubie, Valerie</name>
+<title render="italic">Sent to the Mountain: A History of Mount Penang Juvenile Justice Centre</title>
+<imprint>
+<place>Gosford</place>
+<publisher>Closure Committee of Mount Penang Juvenile Justice Centre</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

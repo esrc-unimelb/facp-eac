@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00872</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-04-03">2014-04-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-12-10">2014-12-10</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00872b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Attorney-General's Department</part>
+<part localType="parent">State of Tasmania</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Also known as"><part>Law Department</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1901-01-01">1901</fromDate>
+<toDate standardDate="1983-12-31">1983</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Department</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Attorney General's Department, which served the state government from 1901, was mostly concerned with the administration of justice in the Supreme Court of Tasmania. It had other, subsidiary functions that varied over the years. One of them was, from 1946, the administration of the Probation and Paroles Service for adults and children, formerly run by the Gaols Department. In 1955, the Service was split, with the Social Services Department taking over the children. In 1983, the Attorney-General's Department became the Law Department.</abstract>
+<p>In 1907, when the government formally listed its Departments for the first time, the Attorney-General's Department appeared as the Law Department with the Attorney-General as the Minister and the Solicitor-General as the Departmental head.</p>
+<p>In the 1920s,the Attorney-General's Department became a branch of the Solicitor-General's Department.</p>
+<p>The Sheriff's, Supreme Court, Magisterial and other Departments came under the Attorney-General but were not part of the Attorney-General's Department. In 1934, they were amalgamated. After that, the Department became involved in policy making, advising the government on developments in legal, judicial, criminal, and prison management.</p>
+<p>In 1946, the Department took responsibility for a probation service recommended by the Chief Justice, John Morris, following the 1943 Royal Commission on the Hobart Gaol. Tasmania was the first Australian state to assist people released by the courts on probation. The system included the juvenile probation service, which the Social Services Department took over in 1955.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00870b.htm">
+<relationEntry localType="Organisation">
+Attorney General's Department, Colony of Tasmania (1856 - 1901)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00991b.htm">
+<relationEntry localType="Archival Series">
+General Correspondence (Classified Sequence) (1920 - 1992)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00018b.htm">
+<relationEntry localType="Organisation">
+Social Services Department, State of Tasmania (1934 - 1961)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00873b.htm">
+<relationEntry localType="Organisation">
+Law Department, State of Tasmania (1983 - c. 1992)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Attorney-General's Department', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Attorney-General's Department</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00872b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000137.htm">
+<relationEntry localType="published">Book: A Guide to Tasmanian Government Administration</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wettenhall, RL</name>
+<title render="italic">A Guide to Tasmanian Government Administration</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Platypus Publications</publisher>
+<date>1968</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000656.htm">
+<relationEntry localType="published">Report: Report of the Royal Commissioner on the Hobart Gaol</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Morris, John</name>
+<title render="italic">Report of the Royal Commissioner on the Hobart Gaol</title>
+<imprint>
+<place>Hobart</place>
+<publisher>The Commission</publisher>
+<date>1943</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

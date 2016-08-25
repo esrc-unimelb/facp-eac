@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01157</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Item</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-09-26">2012-09-26</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-02-23">2015-02-23</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01157b.htm</entityId>
+<entityId localType="National Library of Australia Bib ID">36926</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Alan McWilliams and Ivy McWilliams interviewed by Karen George in the Bringing them home oral history project [sound recording]</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2001-01-01">2001</fromDate>
+<toDate standardDate="2001-12-31">2001</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Alan and Ivy McWilliams speak about their childhood, including the period that Ivy spent in the Christian Brethren Children's Home, Wentworth Falls, New South Wales. After marrying in 1957, they were drawn to mission work by letters from Umeewarra Mission, South Australia. To their church asking for help. They arrived at Umeewarra Mission in 1959 and stayed until 1995. They describe the staff, living conditions and routines of the Mission, and how the children were placed there. They discuss the Mission's interactions with the Aborigines Protection Board and the Department of Native Welfare. They also speak about the changes that occurred when the government took over the Mission in 1964, including the transition to foster home arrangements.</abstract>
+<h4>Access Conditions</h4>
+<p>To access tapes and transcripts held in the Collection at the National Library of Australia readers must fill in an Oral History Request form, available from the Petherick Reading Room. Access to tapes and transcripts is subject to the conditions imposed by interviewees. In most cases access is available, but in some cases recordings are restricted. Sometimes written permission from the interviewee is required. In other cases the tapes and transcripts are subject to complete restriction for a long period of time. Tape recordings may be listened to and transcripts viewed in the Petherick Reading Room. Unrestricted tapes and transcripts can also be accessed through inter-library loan through another state or local library. Some audio recordings are available online.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00640b.htm">
+<relationEntry localType="Archival Collection">
+Bringing them home oral history project [sound recording] (1998 - 2002)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01254b.htm">
+<relationEntry localType="Contact Details">
+National Library of Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00351b.htm">
+<relationEntry localType="Organisation">
+Umeewarra Mission Home, Davenport Reserve (1964 - 1995)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00052b.htm">
+<relationEntry localType="Organisation">
+Umeewarra Mission Children's Home (1937 - 1964)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Alan McWilliams and Ivy McWilliams interviewed by Karen George in the Bringing them home oral history project [sound recording]', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Alan McWilliams and Ivy McWilliams interviewed by Karen George in the Bringing them home oral history project [sound recording]</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01157b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

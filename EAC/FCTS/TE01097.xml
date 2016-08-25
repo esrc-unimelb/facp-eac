@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE01097</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2015-01-19">2015-01-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Elizabeth Daniels</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-16">2015-10-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE01097b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>The Training Schools Amendment Act 1885</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1885-01-01">1885</fromDate>
+<toDate standardDate="1896-12-31">1896</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Amending Act</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Training Schools Amendment Act 1885 also known by its full title "An Act to further amend 'The Training Schools Act 1867'" (Act no.49 Vict. No.26) repealed in full the amendments made in 1880. The Training Schools Amendment Act 1885 was repealed by the Youthful Offenders, Destitute and Neglected Children Act 1896.</abstract>
+<p>The Training Schools Amendment Act 1885 repealed in full the amendments made in the Training Schools Amendment Act 1880.</p>
+<p>The maximum age of detention was changed from 18 to 16 years for males, but for females it remained at 18.</p>
+<p>This 1885 legislation also extended the minimum period of detention in a Training School from 1 year to 3 years. The other significant change made by the Training Schools Amendment Act 1885 was to remove the 18 month time period before a detained child could be sent to live with 'any trustworthy and respectable person' licenced by the Training School Managers with the approval of the Chief Secretary.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00099b.htm">
+<relationEntry localType="Legislation">
+The Training Schools Act 1867 (1867 - 1896)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01037b.htm">
+<relationEntry localType="Concept">
+Colony of Tasmania (1856 - 1901)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01039b.htm">
+<relationEntry localType="Concept">
+Law in Tasmania (1825 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'The Training Schools Amendment Act 1885', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">The Training Schools Amendment Act 1885</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01097b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000305</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-05-19">2009-05-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-06-24">2016-06-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000305b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Residential Care</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<functions>
+<function>
+<term>Type of 'care'</term>
+</function>
+</functions>
+<biogHist>
+<abstract>'Residential care' (as distinct from 'home-based care') is the term used by the Department of Human Services to describe the placement of children and young people at risk of abuse and neglect in residential units, operated by community service organisations (or CSOs).</abstract>
+<p>Residential care is provided by paid staff employed by a CSO. Residential care properties usually house three or four people at a time and these are generally, though not always, adolescents.</p>
+<p>The majority of children and young people referred to residential care services are on Children's Court Protection Orders.</p>
+<p>The Department distinguishes between different forms of residential care. General residential care is for short and long term care of children and young people aged 0-17 years who are unable to be placed in home-based care.</p>
+<p>'Residential care - intermediate' describes short and long term care in residential facilities for children and young people aged 0-17 years who display a significant level of challenging behaviour.</p>
+<p>'Residential care - high risk' refers to short and long term care in residential facilities for young people aged 13-17 years who display multiple and complex needs and whose behaviours place them at extreme risk of significant harm.</p>
+<p>'Lead tenant' programs provide supported semi-independent accommodation options for young people aged 13-17 years who are homeless or in crisis as a result of family conflict, breakdown or violence or who may be subject to a statutory order. The short, medium and long term accommodation and support is provided in households supported by either a volunteer lead tenant or care management support.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000220b.htm">
+<relationEntry localType="Glossary Term">
+Community Service Organisation
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000300b.htm">
+<relationEntry localType="Glossary Term">
+Out of Home Care
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000301b.htm">
+<relationEntry localType="Glossary Term">
+Home-Based Care
+</relationEntry>
+<descriptiveNote>
+<p>In Victoria, 'residential care' has a distinct meaning from 'home-based care' - residential care refers to residential units generally run by community service organisations</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Residential Care', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Residential Care</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000305b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001154.htm">
+<relationEntry localType="published">Report: Guide to Out-of-Home Care Services 1940-2000 - Volume Two: Data Base</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James Jenkinson Consulting</name>
+<title render="italic">Guide to Out-of-Home Care Services 1940-2000 - Volume Two: Data Base</title>
+<imprint>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001078.htm">
+<relationEntry localType="published">Conference Proceedings: Directions for residential child care in Victoria: invited papers: invited papers, summaries and discussion notes. Seminar held at Melbourne University, 26 November 1984.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Perry, Graeme</name>
+<title render="italic">Directions for residential child care in Victoria: invited papers: invited papers, summaries and discussion notes. Seminar held at Melbourne University, 26 November 1984.</title>
+<imprint>
+<publisher>Department of Community Services</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000082.htm">
+<relationEntry localType="published">Report: The Home-based Care Handbook</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Human Services</name>
+<title render="italic">The Home-based Care Handbook</title>
+<imprint>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.dhs.vic.gov.au/__data/assets/pdf_file/0010/584326/home-based-care-handbook-revised-2007.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>YE00332</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNT</agencyCode>
+<agencyName>Find &amp; Connect - Northern Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-02-27">2014-02-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Gary George and Karen George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-20">2016-04-20</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nt/biogs/YE00332b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Elcho Island Mission</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1921-01-01">1921</fromDate>
+<toDate standardDate="1923-12-31">1923</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Mission</term>
+</function>
+<function>
+<term>Methodist</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Elcho Island Mission was established in 1921 by the Methodist Missionary Society of Australasia at Elcho Island. The Island is 550 km north-east of Darwin and is a part of the Wessel Island Group. Two years later in 1923, when oil drilling began on the island, the Mission was closed.</abstract>
+<p>The Elcho Island Mission was first established in 1921 by the Methodist Missionary Society of Australasia. It was situated at Elcho Island, 550 km north-east of Darwin, a part of the Wessel Island Group. In 1923 the Naphtha Petroleum Company began drilling for oil on the island and the Mission was closed. A new Mission was then established at Milingimbi Island.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1921-01-01">1921</fromDate>
+<toDate standardDate="1921-12-31">1921</toDate>
+</dateRange>
+<placeEntry>Elcho Island</placeEntry>
+<event>Location - Elcho Island Mission was situated on Elcho Island</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00057b.htm">
+<relationEntry localType="Organisation">
+Methodist Missionary Society of Australasia (1916 - 1930s)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1921-01-01">1921</fromDate>
+<toDate standardDate="1923-12-31">1923</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00385b.htm">
+<relationEntry localType="Archival Item">
+Goulburn &amp; Elcho Island Mission Review Reports - Northern Territory (1923 - 1952)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00016b.htm">
+<relationEntry localType="Organisation">
+Milingimbi Mission (1923 - 1974)
+</relationEntry>
+<descriptiveNote>
+<p>When Elcho Island Mission closed in 1923 the missionaries moved to Milingimbi Island and began the Milingimbi Mission.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00022b.htm">
+<relationEntry localType="Organisation">
+Elcho Island Mission (1942 - 1974?)
+</relationEntry>
+<descriptiveNote>
+<p>The original Elcho Island Mission was closed in 1923 and then re-opened in 1942.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00108b.htm">
+<relationEntry localType="Archival Collection">
+Records of the Uniting Church in Australia, Northern Synod (1940 - 1986)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00118b.htm">
+<relationEntry localType="Archival Collection">
+Records of the Methodist Church of Australasia, Department of Overseas Missions (1830 - 1980)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Elcho Island Mission', in <span style="font-style:italic">Find &amp; Connect - Northern Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Elcho Island Mission</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Northern Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00332b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/bib/YP0000246.htm">
+<relationEntry localType="published">Resource Section: East Arnhem Shire - Galiwin'ku</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">East Arnhem Shire - Galiwin'ku</title>
+<imprint>
+<publisher>East Arnhem Shire Council</publisher>
+<date>2012</date>
+</imprint>
+<bibseries>
+<title render="italic">East Arnhem Shire Council</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.eastarnhem.nt.gov.au/galiwinku/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/objects/YD0000191.htm">
+<relationEntry localType="digitalObject">Eight Aboriginal children of the Yolngu language group, Elcho Island, Northern Territory, ca. 1923 [picture]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Eight Aboriginal children of the Yolngu language group, Elcho Island, Northern Territory, ca. 1923 [picture]</unittitle>
+<unitid>nla.pic-vn6105841</unitid>
+<unitdate>c. 1923</unitdate>
+<note label="rights">National Library of Australia</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

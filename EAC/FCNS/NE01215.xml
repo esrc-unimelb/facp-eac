@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01215</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-11-16">2012-11-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-05-14">2015-05-14</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01215b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Child Migrants Trust</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1987-01-01">1987</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Support Service</term>
+</function>
+<function>
+<term>Advocacy Body</term>
+</function>
+<function>
+<term>Non-denominational</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Child Migrants Trust was established in 1987 by Margaret Humphreys CBE, OAM; a Nottinghamshire social worker. It addresses the issues surrounding the deportation of children from Britain. In the post-war period, child migrants as young as three were shipped to Canada, New Zealand, the former Rhodesia and Australia, a practice that continued as late as 1970. The Child Migrants Trust, a registered charity in both Australia and Britain, provides a range of social work services, including counselling and support for family reunions. The Trust's offices in Nottingham, UK as well as Perth and Melbourne in Australia also offer information, advice and family research to former child migrants and their families.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00507b.htm">
+<relationEntry localType="Event">
+Child and Youth Migration to New South Wales (c. 1911 - 1983)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01029b.htm">
+<relationEntry localType="Glossary Term">
+Child Migrant
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01187b.htm">
+<relationEntry localType="Archival Item">
+Michael Snell interviewed by Rob Willis in the Forgotten Australians and Former Child Migrants oral history project [sound recording] (17 November 2009)
+</relationEntry>
+<descriptiveNote>
+<p>Michael Snell describes the importance of the work done by the Child Migrants Trust in this interview.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01030b.htm">
+<relationEntry localType="Glossary Term">
+Youth Migrant
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Child Migrants Trust', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Child Migrants Trust</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01215b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000372.htm">
+<relationEntry localType="published">Book: Oranges and Sunshine</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Humphreys, Margaret</name>
+<title render="italic">Oranges and Sunshine</title>
+<imprint>
+<place>London</place>
+<publisher>Corgi</publisher>
+<date>2010</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000371.htm">
+<relationEntry localType="published">Book: Empty Cradles</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Humphreys, Margaret</name>
+<title render="italic">Empty Cradles</title>
+<imprint>
+<place>London; Sydney</place>
+<publisher>Doubleday</publisher>
+<date>2010</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000370.htm">
+<relationEntry localType="published">Resource Section: Oranges and Sunshine</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Oranges and Sunshine</title>
+<imprint>
+<publisher>Barnardos Australia</publisher>
+<date>2013</date>
+</imprint>
+<bibseries>
+<title render="italic">Barnardos Australia: We Believe in Children: History</title>
+</bibseries>
+<extptr linktype="simple" href="http://web.archive.org/web/20130430050808/https://www.barnardos.org.au/barnardos/html/oranges_and_sunshine.cfm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

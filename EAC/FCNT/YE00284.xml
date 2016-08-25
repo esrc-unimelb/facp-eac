@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>YE00284</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNT</agencyCode>
+<agencyName>Find &amp; Connect - Northern Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Item</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-02-13">2013-02-13</eventDateTime>
+<agentType>human</agentType>
+<agent>Gary George and Karen George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-01-28">2015-01-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nt/biogs/YE00284b.htm</entityId>
+<entityId localType="National Archives of Australia Reference Number">A1928, 635/33</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Leprosy, Transfer of Lepers from North Australia to the Peel Island Lazarette</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1929-01-01">1929</fromDate>
+<toDate standardDate="1929-12-31">1929</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>This file contains a small amount of correspondence relating to the movement of people suffering from leprosy from the Northern Territory to the Peel Island Leprosarium in Queensland.</abstract>
+<h4>Access Conditions</h4>
+<p>Open.</p>
+<p>This record is open for access and a digitised version is available for viewing through Recordsearch. Information about how to access records through Recordsearch is also available on the website.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00126b.htm">
+<relationEntry localType="Organisation">
+National Archives of Australia (1998 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00313b.htm">
+<relationEntry localType="Contact Details">
+National Archives of Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00283b.htm">
+<relationEntry localType="Organisation">
+Mud Island Lazaret (1889 - 1931)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Leprosy, Transfer of Lepers from North Australia to the Peel Island Lazarette', in <span style="font-style:italic">Find &amp; Connect - Northern Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Leprosy, Transfer of Lepers from North Australia to the Peel Island Lazarette</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Northern Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00284b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/objects/YD0000071.htm">
+<relationEntry localType="digitalObject">Leprosy, Transfer of Lepers from North Australia to the Peel Island Lazarette</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia</repository>
+<unittitle>Leprosy, Transfer of Lepers from North Australia to the Peel Island Lazarette</unittitle>
+<unitid>NAA: A1928, 653/33</unitid>
+<unitdate>1929</unitdate>
+<abstract>Digital copy of paper file and documents</abstract>
+<note label="rights">Copyright Commonwealth of Australia (National Archives of Australia)</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

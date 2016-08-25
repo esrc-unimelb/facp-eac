@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00419</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-03-29">2012-03-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-10">2015-08-10</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00419b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Arthur Young Review of Services</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1986-01-01">1986</fromDate>
+<toDate standardDate="1986-12-31">1986</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Arthur Young Review of Services recommended that the Society for the Blind, Deaf and Dumb be separated into two organisations, one to offer services to people with visual disabilities and the other for those with hearing impairments. In 1987, the Society split into the Royal Guide Dogs and the Tasmanian Deaf Society or Tasdeaf.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00421b.htm">
+<relationEntry localType="Organisation">
+Royal Guide Dogs Tasmania (1987 - )
+</relationEntry>
+<descriptiveNote>
+<p>The Arthur Young Review of Services recommended the division into two of the Society for the Blind Deaf and Dumb which led to the formation of the Royal Guide Dogs.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00420b.htm">
+<relationEntry localType="Organisation">
+Tasdeaf (1987 - )
+</relationEntry>
+<descriptiveNote>
+<p>The Arthur Young Review of Services recommended the division into two of the Society for the Blind Deaf and Dumb which led to the formation of the Tasmanian Deaf Society.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00415b.htm">
+<relationEntry localType="Organisation">
+Blind, Deaf and Dumb Institution (1898 - 1987)
+</relationEntry>
+<descriptiveNote>
+<p>In 1986, the Arthur Young Review of Services recommended that the Society for the Blind, Deaf and Dumb, which ran the Blind, Deaf and Dumb Institution, be split into two.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00418b.htm">
+<relationEntry localType="Organisation">
+Society for the Blind, Deaf and Dumb (1887 - 1987)
+</relationEntry>
+<descriptiveNote>
+<p>In 1986, the Arthur Young Review of Services recommended that the Society for the Blind, Deaf and Dumb be split into two.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Arthur Young Review of Services', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Arthur Young Review of Services</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00419b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

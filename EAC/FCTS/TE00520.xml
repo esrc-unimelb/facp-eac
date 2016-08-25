@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00520</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-08-13">2012-08-13</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-08-01">2014-08-01</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00520b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Relief Division</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1953-01-01">c. 1953</fromDate>
+<toDate standardDate="1980-12-31">1980?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Agency</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Relief Division of the Social Services Department, and the Social Welfare Department that succeeded it, was established in the early 1950s. It provided financial and other assistance to people without enough money to meet everyday expenses. Family welfare work often involved both the Relief and the Child Welfare Divisions. After the early 1980s, the approach to relief changed and this category was no longer used.</abstract>
+<p>The Relief Division gave financial assistance to deserted wives, single mothers, and wives of prisoners if they had dependent children. The women initially received a special grant but once they had taken 'reasonable' action to recover maintenance from the children's fathers, the Division paid them a regular allowance at the same rate as the Commonwealth widow's pension. After six months, they became eligible for the Commonwealth pension.</p>
+<p>The Relief Division also paid funeral, transport, and removal expenses. It paid for artificial limbs or glasses and other similar necessities.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00279b.htm">
+<relationEntry localType="Organisation">
+Child Welfare Division (c. 1953 - 1980)
+</relationEntry>
+<descriptiveNote>
+<p>Families often required help from both the Relief and Child Welfare Divisions.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00018b.htm">
+<relationEntry localType="Organisation">
+Social Services Department, State of Tasmania (1934 - 1961)
+</relationEntry>
+<descriptiveNote>
+<p>The Relief Division was part of the Social Services Department.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00020b.htm">
+<relationEntry localType="Organisation">
+Social Welfare Department, State of Tasmania (1961 - 1983)
+</relationEntry>
+<descriptiveNote>
+<p>The Relief Division was part of the Social Welfare Department.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Relief Division', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Relief Division</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00520b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000164.htm">
+<relationEntry localType="published">Report: Department for Community Welfare: annual report for the year ended 30 June 1984</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Department for Community Welfare: annual report for the year ended 30 June 1984</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Department for Community Welfare</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000651.htm">
+<relationEntry localType="published">Report: Social Services Department: report for the year 1954-55</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Social Services Department: report for the year 1954-55</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Social Services Department</publisher>
+<date>1955</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000279.htm">
+<relationEntry localType="published">Report: Department of Social Welfare: report for the year ended 30 June 1976</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Department of Social Welfare: report for the year ended 30 June 1976</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Department of Social Welfare</publisher>
+<date>1976</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

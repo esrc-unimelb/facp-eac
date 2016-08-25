@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>FE00113</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNA</agencyCode>
+<agencyName>Find &amp; Connect - Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-11-16">2012-11-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-01">2016-03-01</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/australia/biogs/FE00113b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>World War One</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Also known as"><part>First World War</part>
+</nameEntry>
+<nameEntry localType="Also known as"><part>Great War</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1914-01-01">1914</fromDate>
+<toDate standardDate="1918-12-31">1918</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The significance of World War One, and the role this event plays in the history of the institutional 'care' of Australian children is an emerging area of research. Clearly, the departure of thousands of Australian men to fight with Britain had a great impact on society, families, and children.</abstract>
+<p>Many households had to adjust to the absence of male breadwinners (be it temporary or permanent). In the post-war period, the profound impacts of battle on many former servicemen flowed on to affect their wives and children.</p>
+<p>Many residents of orphanages enlisted to fight in the War. Annual reports from institutions during the War years often carried lists of those who were serving, and news of those who had 'made the supreme sacrifice'.</p>
+<p>The military records of the Australian Infantry Forces from World War One can be a rich source of information about orphanage 'old boys' who served. Some Forgotten Australians have found vital information about fathers, uncles and grandfathers in these records, which are available online from the National Archives of Australia.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00091b.htm">
+<relationEntry localType="Event">
+World War Two (1939 - 1945)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'World War One', in <span style="font-style:italic">Find &amp; Connect - Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">World War One</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00113b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/bib/FP0000050.htm">
+<relationEntry localType="published">Resource Section: Service Records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Service Records</title>
+<imprint>
+<publisher>National Archives of Australia</publisher>
+<date>2012</date>
+</imprint>
+<bibseries>
+<title render="italic">National Archives of Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.naa.gov.au/collection/explore/defence/service-records/index.aspx"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/objects/FD0000020.htm">
+<relationEntry localType="digitalObject">A02744 [march through Melbourne, 1914]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Australian War Memorial</repository>
+<unittitle>A02744 [march through Melbourne, 1914]</unittitle>
+<unitid>ID No: A02744</unitid>
+<unitdate>17 December 1914</unitdate>
+<abstract>This is a copy of an image held by the Australian War Memorial. [From catalogue description:] Captain J F Walsh (left) and Lieutenant N T Svensen (right) leading files of A Company, 15th Battalion during a march through Melbourne. Two children are in the right foreground.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

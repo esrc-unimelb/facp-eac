@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01325</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-07-22">2013-07-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-11-28">2014-11-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01325b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Weldon Centre</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1980-01-01">c. 1980</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Anglican</term>
+</function>
+<function>
+<term>Records Holder</term>
+</function>
+<function>
+<term>Records Access Service</term>
+</function>
+<function>
+<term>Protestant</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Weldon Centre at Burwood was a new name for the Church of England Children's Homes, Burwood. It operated in the same buildings. The Weldon Centre closed its residential operations in 1993 and in 2012 offered a range of early childhood services.</abstract>
+<p>In 2012 the Weldon Centre was operating Before, After and Vacation Care Programs, a Helping Early Leaver's Program, a Family Support Program, a Youth Development Officer and Occasional Care.</p>
+<p>In 2012 a former youth worker at the Weldon Centre contacted the NSW State-Based Historian to donate a collection of 100 photographs, taken in 1981. These colour snapshots, which feature excursions and events within the home, have the names of children and workers written on the back. They have been deposited with the National Orphanage Museum (Care Leavers Australia Network).</p>
+<p>The Weldon Centre holds records relating to the Church of England Children's Homes, Burwood, and other Homes.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1980-01-01">1980</fromDate>
+<toDate standardDate="1993-12-31">1993</toDate>
+</dateRange>
+<placeEntry>Burwood</placeEntry>
+<event>Address - Weldon Centre was situated at 23 Weldon Street, Burwood</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00554b.htm">
+<relationEntry localType="Archival Collection">
+Records of the Weldon Centre, Church of England Children's Homes, Burwood (1893 - 1993)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01424b.htm">
+<relationEntry localType="Contact Details">
+Weldon Centre - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01500b.htm">
+<relationEntry localType="Archival Collection">
+Weldon Centre Photographs (c. 1981)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00094b.htm">
+<relationEntry localType="Organisation">
+Wyatt Lodge (1980s - 1993)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1980-01-01">c. 1980</fromDate>
+<toDate standardDate="1993-12-31">c. 1993</toDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Weldon Centre', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Weldon Centre</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01325b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

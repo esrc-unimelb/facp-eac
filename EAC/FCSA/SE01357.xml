@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01357</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Collection</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-06-04">2014-06-04</eventDateTime>
+<agentType>human</agentType>
+<agent>Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-12">2015-03-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01357b.htm</entityId>
+<entityId localType="AIATSIS Call Number">MS 3761</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Records of the Evangelical Lutheran Immanuel Synod in Australia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1863-01-01">1863</fromDate>
+<toDate standardDate="1966-12-31">1966</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The collection, Records of the Evangelical Lutheran Immanuel Synod in Australia, contains records relating to the Kallilpaninna Mission (also known as the Bethesda Mission Station) at Killalpaninna in South Australia and its outstations at Kopperamanna and Etadunna. It also contains records relating to the Hermannsburg Mission in the Northern Territory. The collection includes correspondence, school and other reports, hymns, songs and Bible stories in Diyari, some miscellaneous papers and extracts from South Australian Lutheran German religious periodicals. This collection is made up of photocopies of records held by the Lutheran Church of Australia.</abstract>
+<h4>Access Conditions</h4>
+<p>AIATSIS collections can be accessed in several ways including onsite in Canberra or through copies of material. Prior arrangement is required to access many of the materials held by Collections. Materials may be subject to access conditions imposed by Indigenous communities and/or depositors. Users are advised that access to some materials may be subject to these terms and conditions which the Institute is required to maintain.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01355b.htm">
+<relationEntry localType="Organisation">
+Australian Institute of Aboriginal and Torres Strait Islander Studies (1964 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01354b.htm">
+<relationEntry localType="Organisation">
+Killalpaninna Mission (1867 - 1915)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01356b.htm">
+<relationEntry localType="Contact Details">
+Australian Institute of Aboriginal and Torres Strait Islander Studies - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Records of the Evangelical Lutheran Immanuel Synod in Australia', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Records of the Evangelical Lutheran Immanuel Synod in Australia</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01357b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00556</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-11-09">2012-11-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-11-28">2014-11-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00556b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Dominic College</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1973-01-01">1973</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Catholic</term>
+</function>
+<function>
+<term>School</term>
+</function>
+<function>
+<term>Records Holder</term>
+</function>
+<function>
+<term>Records Access Service</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Dominic College, a Catholic school in Glenorchy, was formed in 1973 by an amalgamation of three schools, including Savio College, formerly Boys' Town, which was a children's Home and school that received child migrants in the early 1950s. Dominic College has a strong old boys' network that includes the former child migrants. In October 2012, the College celebrated the sixtieth anniversary of their arrival at Boys' Town.</abstract>
+<p>Dominic College has its origins in the Salesian and Dominican orders. It was formed in 1973 by an amalgamation of St John's Primary, Savio Primary, Holy Name School, and Savio College. Dominic College was the first co-educational Catholic school in Tasmania. Originally a day and boarding school, it stopped taking boarders in 1994.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1973-01-01">1973</fromDate>
+<toDate standardDate="1973-12-31">1973</toDate>
+</dateRange>
+<placeEntry>Glenorchy</placeEntry>
+<event>Location - Dominic College was in Glenorchy</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00773b.htm">
+<relationEntry localType="Archival Collection">
+Dominic College Records (1945 - 1959)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00555b.htm">
+<relationEntry localType="Organisation">
+Savio College (1956 - 1973)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00769b.htm">
+<relationEntry localType="Contact Details">
+Dominic College - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00041b.htm">
+<relationEntry localType="Organisation">
+Catholic Church (1821 - )
+</relationEntry>
+<descriptiveNote>
+<p>Dominic College is a Catholic school.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Dominic College', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Dominic College</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00556b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/objects/TD0000154.htm">
+<relationEntry localType="digitalObject">Dominic College</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Dominic College</unittitle>
+<unitdate>c. 2012</unitdate>
+<note label="rights">Reproduction rights belong to Dominic College.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

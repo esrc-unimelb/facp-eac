@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE01026</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-11-18">2014-11-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Elizabeth Daniels</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-04-16">2015-04-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE01026b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Community Services (Aborigines) Act Amendment Act 1990</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1990-01-01">1990</fromDate>
+<toDate standardDate="1995-12-31">1995</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Amending Act</term>
+</function>
+</functions>
+<biogHist>
+<abstract>An Act to amend the Community Services (Aborigines) Act 1984-1986 in certain particulars and for related purposes" (Act no. 104/1990). This act amends the Community Services (Aborigines) Act 1984 (Act no.51/1984) in particular relation, although not exclusively, the funding, operation and governance of Aboriginal Councils. This act was repealed by the Statute Law Revision Act 1995 (Act No.57) on 29 November 1995</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE01020b.htm">
+<relationEntry localType="Legislation">
+Community Services (Aborigines) Act 1984 (1984 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1990-01-01">1990</fromDate>
+<toDate standardDate="1995-12-31">1995</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00978b.htm">
+<relationEntry localType="Concept">
+Queensland State Government (1901 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1990-01-01">1990</fromDate>
+<toDate standardDate="1995-12-31">1995</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00979b.htm">
+<relationEntry localType="Concept">
+Law in Queensland (1859 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1990-01-01">1990</fromDate>
+<toDate standardDate="1995-12-31">1995</toDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Community Services (Aborigines) Act Amendment Act 1990', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Community Services (Aborigines) Act Amendment Act 1990</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE01026b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

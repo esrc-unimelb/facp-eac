@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01294</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-05-10">2013-05-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-12-01">2014-12-01</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01294b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Rainbow Lodge</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1970-01-01">1970</fromDate>
+<toDate standardDate="1979-12-31">c. 1979</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Children's Home</term>
+</function>
+<function>
+<term>Disability Institution</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Rainbow Lodge was a children's home at Hazelbrook operated by the Handicapped Children's Centre of New South Wales from 1970. The building, located on the Great Western Highway, had previously been Haddon Hall.</abstract>
+<p>Rainbow Lodge was in the former Haddon Hall buildings. These had been owned by Japanese businessman and vice-consul Toransuki Kitamura, who had bought them and built the bungalow 'Yama' before his death in 1930. The Sydney City Mission bought them and ran 'Haddon Hall' on the site until 1967.</p>
+<p>Rainbow Lodge was described as a children's home in a 1979 Commonwealth Government report called <span style="font-style:italic">Why are they in children's homes: report of the ACOSS children's home intake survey</span>.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1970-01-01">1970</fromDate>
+<toDate standardDate="1979-12-31">c. 1979</toDate>
+</dateRange>
+<placeEntry>Hazelbrook</placeEntry>
+<event>Address - Rainbow Lodge was situated at 123-125 Great Western Highway, Hazelbrook</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00356b.htm">
+<relationEntry localType="Organisation">
+Haddon Hall (1950 - 1967)
+</relationEntry>
+<descriptiveNote>
+<p>Rainbow Lodge used the buildings that had been Haddon Hall.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Rainbow Lodge', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Rainbow Lodge</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01294b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000534.htm">
+<relationEntry localType="published">Resource Section: Rainbow Lodge and Grounds</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Heritage Branch</name>
+<title render="quoted">Rainbow Lodge and Grounds</title>
+<imprint>
+<publisher>NSW Office of Environment and Heritage</publisher>
+<date>2004</date>
+</imprint>
+<bibseries>
+<title render="italic">State Heritage Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.environment.nsw.gov.au/heritageapp/ViewHeritageItemDetails.aspx?ID=1170660"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000533.htm">
+<relationEntry localType="published">Report: Why are they in children's homes: report of the ACOSS children's home intake survey</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hanson, Dallas</name>
+<title render="italic">Why are they in children's homes: report of the ACOSS children's home intake survey</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Government Publishing Service</publisher>
+<date>1979</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000395.htm">
+<relationEntry localType="digitalObject">Rainbow Lodge and grounds (II)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Rainbow Lodge and grounds (II)</unittitle>
+<abstract>This is an image from the State Heritage Register.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000394.htm">
+<relationEntry localType="digitalObject">Rainbow Lodge and Grounds (I)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Rainbow Lodge and Grounds (I)</unittitle>
+<unitdate>c. 2004</unitdate>
+<abstract>This is an image taken from the State Heritage Register.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

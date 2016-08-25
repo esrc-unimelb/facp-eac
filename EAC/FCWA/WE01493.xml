@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01493</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Collection</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2015-03-27">2015-03-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Nicola Laurent</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-11-18">2015-11-18</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01493b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Picture South Perth Photograph Collection</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1870-01-01">1870s</fromDate>
+<toDate standardDate="2000-12-31">2000s</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Picture South Perth Photograph Collection is an online collection of digitised historic images dating from the 1870s to the 2000s. It was created by the City of South Perth and as at 2015 the collection has over 1500 images. The collection includes photos of Ngal-a Mothercraft Home and Training Centre Inc and Clontarf in operation and of the sites in later years. There is also an image of the selected site for South Perth Community Centre Hospital.</abstract>
+<h4>Access Conditions</h4>
+<p>The collection is available online. The rights to use an image varies for each photo, please check the information below the specific image for any permissions or copyrights.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01498b.htm">
+<relationEntry localType="Organisation">
+South Perth Library (1960 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01497b.htm">
+<relationEntry localType="Contact Details">
+Picture South Perth - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01416b.htm">
+<relationEntry localType="Organisation">
+South Perth Community Centre Hospital Inc, South Perth Community Hospital (1956 - 2003)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00057b.htm">
+<relationEntry localType="Organisation">
+Clontarf (1901 - 1983)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00159b.htm">
+<relationEntry localType="Organisation">
+Ngal-a Mothercraft Home and Training Centre Inc (1956 - 1989)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Picture South Perth Photograph Collection', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Picture South Perth Photograph Collection</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01493b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0001020.htm">
+<relationEntry localType="digitalObject">The entrance of Ngala, 1961</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>City of South Perth Local History Collection</repository>
+<unittitle>The entrance of Ngala, 1961</unittitle>
+<unitid>City of South Perth Local History Collection COSP_PH_2224/</unitid>
+<unitdate>1961</unitdate>
+<abstract>This digitised image is part of the Picture South Perth Photograph Collection. Matron Beryl Grant is pictured with some children at the front entrance of the Ngal-a Mothercraft Home and Training Centre Inc.</abstract>
+<note label="rights">Reproduction rights owned by City of South Perth</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

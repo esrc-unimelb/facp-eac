@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000819</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-12-20">2012-12-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000819b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Parliamentary Apology for Past Adoption Practices</part>
+<part localType="parent">Parliament of Victoria</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2012-10-25">25 October 2012</fromDate>
+<toDate standardDate="2012-10-25">25 October 2012</toDate>
+</dateRange>
+</existDates>
+<places>
+<place>
+<placeRole>Start Place</placeRole>
+<placeEntry>Melbourne, Victoria, Australia</placeEntry>
+</place>
+</places>
+<biogHist>
+<abstract>On 25 October 2012 at 11.30 am, the Premier of Victoria, Ted Baillieu, Opposition leader Daniel Andrews and Nationals leader Peter Ryan addressed a joint sitting of the Victorian Parliament to apologise officially to all those who were affected by the forced adoption practices in the state between the 1950s and the 1970s.
+
+The Apology was an outcome of the Federal Senate Inquiry into forced adoption practices, which found that up to 250,000 babies were forcibly removed from their predominantly young mothers.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000555b.htm">
+<relationEntry localType="Glossary Term">
+Unmarried Mothers
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000155b.htm">
+<relationEntry localType="Glossary Term">
+Adoption
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000778b.htm">
+<relationEntry localType="Event">
+Commonwealth Contribution to Former Forced Adoption Policies and Practices (2011 - 2012)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Parliamentary Apology for Past Adoption Practices', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Parliamentary Apology for Past Adoption Practices</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000819b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000980.htm">
+<relationEntry localType="published">Resource: Parliamentary Apology for Past Adoption Practices</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Parliament of Victoria</name>
+<title render="italic">Parliamentary Apology for Past Adoption Practices</title>
+<extptr linktype="simple" href="http://www.parliament.vic.gov.au/images/stories/documents/assembly/Apology.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000979.htm">
+<relationEntry localType="published">Resource Section: Victoria apologises for forced adoptions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Victoria apologises for forced adoptions</title>
+<imprint>
+<publisher>Australian Broadcasting Corporation</publisher>
+<date>2012</date>
+</imprint>
+<bibseries>
+<title render="italic">ABC News</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.abc.net.au/news/2012-10-25/victorian-parliament-apologises-over-forced-adoptions/4333238"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

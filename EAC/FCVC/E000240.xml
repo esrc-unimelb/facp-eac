@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000240</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-05-01">2009-05-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000240b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Ballarat Female Refuge</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Ballarat Female Home</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1900-01-01">1900</fromDate>
+<toDate standardDate=""></toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+<nameEntry localType=""><part>Ballarat Town and City Mission Rescue Home</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1921-01-01">1921</fromDate>
+<toDate standardDate=""></toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1867-01-01">1867</fromDate>
+<toDate standardDate="1921-12-31">1921</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Non-denominational</term>
+</function>
+<function>
+<term>Female Rescue Home</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Maternity Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Ballarat Female Refuge was established in 1867 by a group of protestant women, with the objective of reforming 'prostitutes'. It became a shelter for single mothers. It was the first such institution on Australia's goldfields. In 1921, the Refuge became part of the Ballarat Town and City Mission Rescue and Children's Home.</abstract>
+<p>Initially, the Female Refuge was managed by a ladies' committee and a committee comprising lay men and ministers from various Protestant denominations.</p>
+<p>The Ballarat Female Refuge's first location was in Grant Street, Ballarat. In 1885, it moved to new premises at 183 Scott Parade.</p>
+<p>In 1921, the Ballarat Town and City Mission took over the management of the Ballarat Female Refuge.</p>
+<p>At this time, a new institution for single mothers and their babies was established by the Mission, on the site of the original Refuge at 183 Scott Parade. This institution was known as the Ballarat Town and City Mission Rescue and Children's Home. The Alexandra Babies' Home (built in 1909) was situated on the same complex, at 187 Scott Parade.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1867-01-01">1867</fromDate>
+<toDate standardDate="1867-12-31">1867</toDate>
+</dateRange>
+<placeEntry>Ballarat</placeEntry>
+<event>Location - Ballarat Female Refuge was located in Grant Street, Ballarat</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1885-01-01">1885</fromDate>
+<toDate standardDate="1885-12-31">1885</toDate>
+</dateRange>
+<placeEntry>Ballarat</placeEntry>
+<event>Location - Ballarat Female Refuge relocated to Scott Parade, Ballarat</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000744b.htm">
+<relationEntry localType="Archival Collection">
+Ballarat Female Refuge Records (1892 - 1930)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000239b.htm">
+<relationEntry localType="Organisation">
+Alexandra Babies' Home (c. 1909 - 1974)
+</relationEntry>
+<descriptiveNote>
+<p>The Alexandra Babies' Home began operation as part of the Ballarat Female Refuge. It was located on the same site as the original refuge at 183 Scott Parade.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000680b.htm">
+<relationEntry localType="Archival Collection">
+Town and City Mission Records (1892? - c. 1974)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000468b.htm">
+<relationEntry localType="Organisation">
+Ballarat Town and City Mission Rescue and Children's Home (c. 1921 - 1941)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1921-01-01">1921</fromDate>
+</dateRange>
+<descriptiveNote>
+<p>When the Ballarat Town and City Mission took over the management of Ballarat Female Refuge in 1921, the Refuge became part of the new Ballarat Town and City Mission Rescue and Children's Home.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Ballarat Female Refuge', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Ballarat Female Refuge</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000240b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000226.htm">
+<relationEntry localType="published">Report: Orphanages in Ballarat – brief historical notes (draft)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Golding, Frank</name>
+<title render="italic">Orphanages in Ballarat – brief historical notes (draft)</title>
+<imprint>
+<date>2009</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000068.htm">
+<relationEntry localType="published">Article: Beyond the Wall: Ballarat Female Refuge, A Study in Moral Authority</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wickham, Dorothy Glennys</name>
+<title render="quoted">Beyond the Wall: Ballarat Female Refuge, A Study in Moral Authority</title>
+<imprint>
+<publisher>Australian Catholic University</publisher>
+<date>2003</date>
+</imprint>
+<extptr linktype="simple" href="http://dlibrary.acu.edu.au/digitaltheses/public/adt-acuvp42.02112007/02whole.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000050.htm">
+<relationEntry localType="digitalObject">Female Refuge Complex, 183 Scott Parade, Ballarat East [former site]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Female Refuge Complex, 183 Scott Parade, Ballarat East [former site]</unittitle>
+<unitid>Victorian Heritage Database VHR No H1893</unitid>
+<abstract>This two-storey building was constructed c.1884. Before the building at 187 Scott Parade was built for the Alexandra Babies' Home (later known as the Alexandra Toddlers' Home), babies and their mothers were accommodated at this site.</abstract>
+<note label="rights">Heritage Victoria</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

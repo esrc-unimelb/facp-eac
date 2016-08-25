@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000741</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Collection</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-10-26">2011-10-26</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-11-28">2014-11-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000741b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Salvation Army Westcare Records</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1980-01-01">c. 1980</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Salvation Army Westcare Records date from around 1980 when the organisation began. It was then known as Western Region Youth and Child Care Services. The collection includes the records of Westcare and its predecessors, Crossroads Child and Adolescent Family Services; Salvation Army Western Region Family Service; and Salvation Army Western Region Youth and Childcare Services. There are records that relate to children placed in out of home care, and there also other organisational records like annual reports and staff files.</abstract>
+<h4>Access Conditions</h4>
+<p>Conditional access. Care leavers (and their families) wanting to find information about their time in care, or access personal files can contact Westcare.</p>
+<h4>Records</h4>
+<p>The collection includes:</p>
+<list><item>Case management files, Client files</item>
+<item>Carer files</item>
+<item>Financial records 1975? - current</item>
+<item>Meeting Minutes</item>
+<item>Committee records</item>
+<item><span style="font-style:italic">Warcry</span>, a magazine produced by The Salvation Army</item>
+<item>Staff files</item>
+<item>Annual Reports from the 1990s</item>
+<item>Activity Reports</item>
+<item>Published histories</item>
+<item>a DVD history developed in 2008 titled <span style="font-style:italic">Boundless Salvation</span></item></list>
+<p>A typical case management file may include some or all of the following records: client information; court reports and related documents; Department of Human Services (DHS) correspondence, forms, etc. In some instances files may also contain letters, photos, jewellery, cards, awards and other keepsakes.</p>
+<p>For children and young people placed in out of home care after 2004 the file should also contain information collected under the Looking After Children framework including information about their health, emotional and behavioural development, education, family and social relationships and identity.</p>
+<p>If a child has moved, the record might have gone with them to the new program or service provider.</p>
+<p>There are digital copies of the paper client files in Westcare in Sunshine. The original records are in offsite secure storage in Sunshine.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000274b.htm">
+<relationEntry localType="Organisation">
+The Salvation Army Westcare (c. 1980 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000884b.htm">
+<relationEntry localType="Contact Details">
+The Salvation Army Westcare - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000905b.htm">
+<relationEntry localType="Organisation">
+Carinya Youth Hostel (1965 - 1980?)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Salvation Army Westcare Records', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Salvation Army Westcare Records</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000741b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

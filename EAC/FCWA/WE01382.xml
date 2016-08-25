@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01382</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-06-27">2014-06-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-31">2016-03-31</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01382b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Bethel Home Nutwood Crescent</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1970-01-01">1970</fromDate>
+<toDate standardDate="1986-12-31">1986</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Cottage Care</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Non-denominational</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Bethel Home Nutwood Crescent was established in Kununurra in 1970 by Bethel Inc, a non-denominational independent mission society, to provide accommodation for up to 12 primary school aged Aboriginal children (girls and boys) whose parents were not living in the Kununurra township. It had closed by 1986.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1970-01-01">1970</fromDate>
+<toDate standardDate="1986-12-31">1986</toDate>
+</dateRange>
+<placeEntry>Kununurra</placeEntry>
+<event>Address - Bethel Home Nutwood Crescent was located at Lot 109 Nutwood Crescent, Kununurra</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00029b.htm">
+<relationEntry localType="Organisation">
+Bethel Inc. (1964 - 1986)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00635b.htm">
+<relationEntry localType="Glossary Term">
+Aboriginal Education and Employment Hostels (1950 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00467b.htm">
+<relationEntry localType="Glossary Term">
+Stolen Generations (c. 1981 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
+<relationEntry localType="Archival Collection">
+Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+</relationEntry>
+<descriptiveNote>
+<p>Children at Bethel Home Nutwood Crescent may have family records held in the Department for Child Protection and Family Support [and its predecessors] Records collection but the Department does not hold specific records from Homes run by Bethel Inc.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Bethel Home Nutwood Crescent', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Bethel Home Nutwood Crescent</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01382b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001337.htm">
+<relationEntry localType="published">Book: Black and white best together: the Bethel story</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Shedley, Don and Shedley, Meg</name>
+<title render="italic">Black and white best together: the Bethel story</title>
+<imprint>
+<place>Carlisle, Western Australia</place>
+<publisher>Hesperian Press</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href=""></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

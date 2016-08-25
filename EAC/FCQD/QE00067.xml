@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00067</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-06-08">2011-06-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-07">2015-08-07</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00067b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Dowdle Family Group Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Dowdle</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1963-01-01">c. 1963</fromDate>
+<toDate standardDate="1993-12-31">1993</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Family Group Home</term>
+</function>
+<function>
+<term>Presbyterian</term>
+</function>
+<function>
+<term>Uniting Church</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Dowdle Family Group Home was operated by the Presbyterian and Uniting Churches. First located in Fairfield, it opened in around 1963. Around 1977, the Dowdle Family Group Home moved from Fairfield to Salisbury. On 22 June 1977 control was transferred to the newly-formed Uniting Church. From March 1985 it was known as "Dowdle". In October 1986, Dowdle moved to Bellevue Avenue, Salisbury. It closed in 1993.
+
+.</abstract>
+<p>Dowdle Family Group Home was licensed initially under The State Children Act. Subsequently it was licensed under The Children's Services Act on 4 August 1966.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1963-01-01">c. 1963</fromDate>
+<toDate standardDate="1977-12-31">c. 1977</toDate>
+</dateRange>
+<placeEntry>Fairfield</placeEntry>
+<event>Address - The Dowdle Family Group Home was situated at 119 Ashby Street, Fairfield</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1977-01-01">c. 1977</fromDate>
+<toDate standardDate="1986-10-31">c. October 1986</toDate>
+</dateRange>
+<placeEntry>Salisbury</placeEntry>
+<event>Location - The Dowdle Family Group Home was situated in Salisbury</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1986-10-01">October 1986</fromDate>
+<toDate standardDate="1993-12-31">1993</toDate>
+</dateRange>
+<placeEntry>Salisbury</placeEntry>
+<event>Location - Dowdle was situated at Bellevue Avenue, Salisbury</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00094b.htm">
+<relationEntry localType="Organisation">
+Presbyterian Church of Queensland (1849 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1963-01-01">1963</fromDate>
+<toDate standardDate="1977-12-31">1977</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00011b.htm">
+<relationEntry localType="Organisation">
+Uniting Church in Australia (1977 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1977-01-01">1977</fromDate>
+<toDate standardDate="1993-12-31">1993</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00940b.htm">
+<relationEntry localType="Archival Collection">
+UnitingCare Queensland Records (1977? - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00425b.htm">
+<relationEntry localType="Organisation">
+UnitingCare Queensland (c. 1999 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Dowdle Family Group Home', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Dowdle Family Group Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00067b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000001.htm">
+<relationEntry localType="published">Book: Missing pieces: information to assist former residents of children's institutions to access records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Families</name>
+<title render="italic">Missing pieces: information to assist former residents of children's institutions to access records</title>
+<imprint>
+<publisher>State of Queensland</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

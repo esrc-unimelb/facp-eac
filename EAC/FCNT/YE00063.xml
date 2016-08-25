@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>YE00063</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNT</agencyCode>
+<agencyName>Find &amp; Connect - Northern Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-02-15">2011-02-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-10-27">2014-10-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nt/biogs/YE00063b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Australian Baptist Home Mission</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1945-01-01">c. 1945</fromDate>
+<toDate standardDate="1978-12-31">1978</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Baptist</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Australian Baptist Home Mission was the missionary arm of the Baptist Church in Australia. It first began mission work in Central and Northern Australia during the Second World War. In 1947 the first Baptist missionaries were sent to the Government settlement at Yuendumu. This practice was was repeated at Warrabri and Hooker Creek Native Settlement. In 1978 the Australian Baptist Home Mission was renamed the Australian Baptist Missionary Society.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00066b.htm">
+<relationEntry localType="Organisation">
+Warrabri (1954 - 1978)
+</relationEntry>
+<descriptiveNote>
+<p>Missionaries from the Australian Baptist Home Mission worked as staff at Warrabri</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00111b.htm">
+<relationEntry localType="Archival Collection">
+Records of Baptist Church Missions, Central Australia (1947 - 1970s)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00056b.htm">
+<relationEntry localType="Organisation">
+Yuendumu Native Settlement (1946 - 1976)
+</relationEntry>
+<descriptiveNote>
+<p>The Australian Baptist Home Mission supplied missionaries to work at Yuendumu Native Settlement</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00072b.htm">
+<relationEntry localType="Organisation">
+Wave Hill Welfare Settlement (1970 - 1975)
+</relationEntry>
+<descriptiveNote>
+<p>Missionaries from the Australian Baptist Home Mission operated at the Wave Hill Welfare Settlement</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00061b.htm">
+<relationEntry localType="Organisation">
+Hooker Creek Native Settlement (1948 - 1978)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00168b.htm">
+<relationEntry localType="Organisation">
+Australian Baptist Missionary Society (1978 - 2003?)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Australian Baptist Home Mission', in <span style="font-style:italic">Find &amp; Connect - Northern Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Australian Baptist Home Mission</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Northern Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00063b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/bib/YP0000030.htm">
+<relationEntry localType="published">Resource: Baptists in Australia: Brief History of Baptist Ministry to the Indigenous People of Central Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jordan, Rev. Ivan</name>
+<title render="italic">Baptists in Australia: Brief History of Baptist Ministry to the Indigenous People of Central Australia</title>
+<imprint>
+<publisher>Baptists in Australia</publisher>
+<date>1999</date>
+</imprint>
+<extptr linktype="simple" href="http://www.bwa-baptist-heritage.org/bap-ab.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

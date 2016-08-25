@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00775</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-12-18">2013-12-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-02-26">2015-02-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00775b.htm</entityId>
+<entityId localType="Queensland State Archives Series ID">5146</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Minute Books</part>
+<part localType="parent">Townsville Orphanage</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1885-08-19">19 August 1885</fromDate>
+<toDate standardDate="1926-06-02">2 June 1926</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Minute Books, Series ID 5146, relate to the Townsville Orphanage. They record the minutes of meetings of the Townsville Orphanage Committee.</abstract>
+<h4>Access Conditions</h4>
+<p>Access to some of these records is restricted to protect personal privacy.</p>
+<h4>Records</h4>
+<p>The committee minutes from 1885 to 1906 record the date, who was present, any general correspondence and occasional information on financial accounts. General correspondence can include references to applications made by parents for their children to be admitted to the orphanage.</p>
+<p>The committee minute book for 1917 to 1924 records the date the meeting was held, those present, approval of the previous minutes, any significant inward or outward correspondence and information on trade accounts.</p>
+<p>Significant items from the Matron's Report have been recorded and this includes details such as the total number staff and children and details of any sickness which had affected the children.</p>
+<p>Statistics for boys and girls are also given for the number of new admittances, the number of returns from hire and boarder situations and the number who were hired or boarded out over the month.</p>
+<p>The Caretaker's Report provides details of the orphanage's dairy production, and general stock details. When conducted, the Inspector's Reports were also discussed in the minutes providing details of both staff and students.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00208b.htm">
+<relationEntry localType="Organisation">
+Queensland State Archives
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00196b.htm">
+<relationEntry localType="Organisation">
+Townsville Orphanage (1878 - 1934)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00479b.htm">
+<relationEntry localType="Glossary Term">
+Conditional Access to Records
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00699b.htm">
+<relationEntry localType="Contact Details">
+Queensland State Archives - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00420b.htm">
+<relationEntry localType="Glossary Term">
+Access Conditions
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Minute Books', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Minute Books</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00775b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

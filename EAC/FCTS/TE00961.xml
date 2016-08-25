@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00961</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-05-07">2014-05-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-02-25">2015-02-25</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00961b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Devon Public Hospital</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Devon Cottage Hospital</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1888-01-01">1888</fromDate>
+<toDate standardDate="1903-12-31">1903</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+<nameEntry localType=""><part>Devon General Hospital</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1888-01-01">1888</fromDate>
+<toDate standardDate="1958-12-31">1958</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Hospital</term>
+</function>
+<function>
+<term>Government-run</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Devon Public Hospital opened in 1888 in Latrobe as the Devon Cottage Hospital. Initially, it was a private hospital but, on 24 July 1925, the government took it over. Although babies tended to be born at home, the Hospital's work included maternity services from which adoptions are likely to have taken place. On 10 January 1958, Devon Public Hospital merged with the Meercroft Hospital to become the Mersey General Hospital.</abstract>
+<p>The Hospital was initially called the Devon Cottage Hospital. In 1903, it moved to a new site and became the Devon Public Hospital.</p>
+<p>The maternity hospital opened in a separate building in August 1926. A year later, the Burnie <span style="font-style:italic">Advocate</span> described it as:</p>
+<p>'well arranged and contains bright wards, large sun wards and every modern convenience. The grounds are large, and are being improved daily, so that in a short time the surroundings will be very pleasing to the eye...The sun wards provide ample space for convalescent patients, and are much appreciated.'</p>
+<p>The <span style="font-style:italic">Advocate</span> portrayed the Hospital as an example of the latest scientific advances in obstetrics:</p>
+<p>'Leading authorities the world over are insistent on the value of such hospitals and it is noted everywhere that these institutions have materially reduced the death rate. That stands to reason, because in such hospitals the latest scientific methods of treatment and care are in vogue.'</p>
+<p>The maternity hospital was destroyed in 1956 shortly before the Devon Public Hospital merged with the Meercroft Hospital in Devonport. The maternity beds were concentrated at the old Meercroft Hospital. However, births continued to take place in Latrobe until 1963 when a new maternity hospital opened in Devonport.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1888-01-01">1888</fromDate>
+<toDate standardDate="1958-12-31">1958</toDate>
+</dateRange>
+<placeEntry>Latrobe</placeEntry>
+<event>Devon Public Hospital was at Latrobe</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00640b.htm">
+<relationEntry localType="Organisation">
+Department of Health Services, State of Tasmania (1956 - 1989)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00580b.htm">
+<relationEntry localType="Organisation">
+Public Health Department, State of Tasmania (1904 - 1956)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00150b.htm">
+<relationEntry localType="Glossary Term">
+Adoption
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00962b.htm">
+<relationEntry localType="Organisation">
+Meercroft Hospital (1925 - 1958)
+</relationEntry>
+<descriptiveNote>
+<p>The Devon Public Hospital merged with the Meercroft Hospital in 1958.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00969b.htm">
+<relationEntry localType="Glossary Term">
+Maternity Home (c. 1874 - c. 1960)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00964b.htm">
+<relationEntry localType="Archival Series">
+Patient Files-Maternity, Meercroft Hospital and Devon Public Hospital (1950 - 1958)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00963b.htm">
+<relationEntry localType="Organisation">
+Mersey General Hospital (1958 - 1995)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Devon Public Hospital', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Devon Public Hospital</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00961b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000137.htm">
+<relationEntry localType="published">Book: A Guide to Tasmanian Government Administration</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wettenhall, RL</name>
+<title render="italic">A Guide to Tasmanian Government Administration</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Platypus Publications</publisher>
+<date>1968</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000711.htm">
+<relationEntry localType="published">Newspaper Article: Years ago, one hospital served N. W. Coast</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Years ago, one hospital served N. W. Coast</title>
+<imprint>
+<place>Burnie</place>
+<date>1950</date>
+</imprint>
+<bibseries>
+<title render="italic">Advocate</title>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article69310041"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000706.htm">
+<relationEntry localType="published">Newspaper Article: Devon Hospital Maternity Department: a valuable institution</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Devon Hospital Maternity Department: a valuable institution</title>
+<imprint>
+<place>Burnie</place>
+<date>1927</date>
+</imprint>
+<bibseries>
+<title render="italic">Advocate</title>
+<num type="pages">3</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article67770127"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000702.htm">
+<relationEntry localType="published">Book: A century of caring: Latrobe's Hospital 1887-1987: an illustrated history of the Devon Cottage Hospital, the Devon Public Hospital and the Mersey General Hospital in northern Tasmania</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wilson, John R</name>
+<title render="italic">A century of caring: Latrobe's Hospital 1887-1987: an illustrated history of the Devon Cottage Hospital, the Devon Public Hospital and the Mersey General Hospital in northern Tasmania</title>
+<imprint>
+<place>Latrobe</place>
+<publisher>Graduate Nurses' Association Centennial Celebrations Committee, Mersey General Hospital</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/objects/TD0000262.htm">
+<relationEntry localType="digitalObject">Devon Public Hospital</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Tasmanian Images: Tasmanian Archive and Heritage Office</repository>
+<unittitle>Devon Public Hospital</unittitle>
+<unitid>TAHO Reference: PH30-1-3386</unitid>
+<unitdate>c. 1900 - c. 1958</unitdate>
+<note label="rights">Reproduction rights owned by Tasmanian Archive and Heritage Office</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

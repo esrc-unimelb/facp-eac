@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00796</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-08-31">2012-08-31</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-01-30">2015-01-30</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00796b.htm</entityId>
+<entityId localType="Christian Brothers Oceania Province Archive Series Number">Series 01</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Admission Registers</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1888-01-01">1888</fromDate>
+<toDate standardDate="1983-12-31">1983</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Admission Registers is an archival series comprising scanned copies of the admission registers from these institutions: Bindoon, Castledare, Clontarf and Tardun, run by the Christian Brothers in WA. This Archival Series is made up of 15 PDFs of scanned registers.</abstract>
+<h4>Access Conditions</h4>
+<p>To protect the privacy of individuals proof of identity and relationship to the person named in the records is required to access items in this Archival Series. Extracts of some of these registers may be provided to individuals who provide identification of themselves in the registers or their relations.</p>
+<p>This Series includes the following items:</p>
+<list><item>Bindoon Admission Registers (1936 - 1967)<br />
+The Bindoon Admission Registers cover the years 1936 to 1967. Many entries are incomplete, but may contain a person's name, date of birth, date of admission, names of parent(s), date of discharge, and destination after discharge.</item><br />
+<item>Castledare Admission Registers, HSP228/01 and HSP228/02 (1929 - 1983)<br />
+The Castledare Admission Registers cover the years 1929 to 1983. Some entries are incomplete, but may contain a person's name, date of birth, date of admission, names of parent(s), date of discharge, and destination after discharge.</item><br />
+<item>Clontarf Admission Registers (1888 - 1983)<br />
+The Clontarf Admission Registers cover the years 1888 to 1983. The registers include entries from the Subiaco Boys' Orphanage because the staff and children from Clontarf transferred from Subiaco and continued the original register. Many entries are incomplete, but may contain a person's name, date of birth, date of admission, names of parent(s), date of discharge, and destination after discharge.</item><br />
+<item>Tardun Farm School Admission Registers (1928 - 1967)<br />
+The Tardun Farm School Admission Registers cover the years 1928 to 1967. Most of the early entries are incomplete, except for the person's name and date of birth. Entries from the late 1940s onward may include more information including details about parents, discharge dates and destination after discharge.</item></list>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00791b.htm">
+<relationEntry localType="Archival Collection">
+Christian Brothers Oceania Province Regional Collection (1888 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01164b.htm">
+<relationEntry localType="Contact Details">
+Westcourt Archives - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Admission Registers', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Admission Registers</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00796b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

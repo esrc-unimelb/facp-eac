@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AE00095</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCAC</agencyCode>
+<agencyName>Find &amp; Connect - Australian Capital Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-06-26">2012-06-26</eventDateTime>
+<agentType>human</agentType>
+<agent>Lydia Connell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-12-21">2015-12-21</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/act/biogs/AE00095b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Canberra Mothercraft Society</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="acronym"><part>CMS</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1926-01-01">1926</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Advocacy Body</term>
+</function>
+<function>
+<term>Community Service Organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Canberra Mothercraft Society (CMS) was established in 1926. The CMS is committed to enhancing the capacity of the ACT community to meet the evolving needs of young families. It has introduced to the ACT and surrounding region a range of community services, including home help and playgroups, to help meet the needs of families with young children. CMS manages the Queen Elizabeth II Family Centre (QEII).</abstract>
+<p>The CMS started in 1926 when much of the population of the Australian Capital Territory had little or no support from extended families as they worked to establish the new capital. At the beginning, its main focus was the welfare of babies and mothers, but it has since evolved to include all primary carers of children. CMS manages the Queen Elizabeth II Family Centre, a postnatal and early childhood primary health service which also offers a residential service for families with children up to three years of age.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1926-01-01">1926</fromDate>
+<toDate standardDate="1926-12-31">1926</toDate>
+</dateRange>
+<placeEntry>Curtin</placeEntry>
+<event>Location - Canberra Mothercraft Society was situated at Curtin</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00098b.htm">
+<relationEntry localType="Organisation">
+ACT Health Directorate (2001 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2001-07-01">1 July 2001</fromDate>
+</dateRange>
+<descriptiveNote>
+<p>The Canberra Mothercraft Society receives funding from the ACT Health Directorate.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00096b.htm">
+<relationEntry localType="Organisation">
+Queen Elizabeth II Family Centre (1963 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Canberra Mothercraft Society', in <span style="font-style:italic">Find &amp; Connect - Australian Capital Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Canberra Mothercraft Society</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australian Capital Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/act/biogs/AE00095b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000125.htm">
+<relationEntry localType="published">Resource Section: Newsletter QE II 50th Anniversary May 2013</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Newsletter QE II 50th Anniversary May 2013</title>
+<imprint>
+<publisher>Canberra Mothercraft Society Inc./Queen Elizabeth II Family Centre</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Canberra Mothercraft Society Inc. website</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.cmsinc.org.au/corporate-documents/historical-resources/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

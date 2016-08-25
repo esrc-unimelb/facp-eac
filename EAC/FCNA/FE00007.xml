@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>FE00007</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNA</agencyCode>
+<agencyName>Find &amp; Connect - Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-03-06">2009-03-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Rebe Taylor</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-08-16">2016-08-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/australia/biogs/FE00007b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Stolen Generations</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<functions>
+</functions>
+<biogHist>
+<abstract>The Stolen Generations are Aboriginal and Torres Strait Islander people who, when they were children, were taken away from their families and communities as the result of past government policies. Children were removed by governments, churches and welfare bodies to be brought up in institutions, fostered out or adopted by white families. The removal of Aboriginal children took place from the early days of British colonisation in Australia. It broke important cultural, spiritual and family ties and has left a lasting and intergenerational impact on the lives and wellbeing of Aboriginal and Torres Strait Islander people.</abstract>
+<p>Government policies concerning Aboriginal people were implemented under different laws in the different states and territories of Australia. These laws meant that the lives of Indigenous people were controlled by government: marriages, work, wages, housing, children and access to health care.</p>
+<p>Records about the Stolen Generations and their families were kept by governments, as well as by churches and missions. But many records have been lost: fires, floods, poor recordkeeping and changes to government departments can make it very difficult to trace family connections.</p>
+<p><span style="font-weight:bold">Link-Up</span></p>
+<p>Link-Up organisations around Australia provide family tracing and reunion services to members of the Stolen Generations, their families, and foster and adoptive families. These services include:</p>
+<list>- researching family and personal records</list>
+<list>- emotional support when accessing family and personal records</list>
+<list>- finding family members</list>
+<list>- assistance and support at family reunions</list>
+<list>- support and counselling before, during and after family reunion.</list>
+<p>Link-Ups give priority to first generation members of the Stolen Generations who have directly experienced removal or separation from family and community, especially those who are elderly or have urgent health concerns.</p>
+<p>Link-Ups also provide services to subsequent generations of family members who have been affected by intergenerational trauma related to removal, and to members of families and communities from whom children were removed.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00083b.htm">
+<relationEntry localType="Event">
+Australian Parliament Apology to the Stolen Generations (13 February 2008)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Stolen Generations', in <span style="font-style:italic">Find &amp; Connect - Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Stolen Generations</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00007b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/bib/FP0000125.htm">
+<relationEntry localType="published">Resource Section: Stolen Generations</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Stolen Generations</title>
+<bibseries>
+<title render="italic">Australian Institute of Aboriginal and Torres Strait Islander Studies [website]</title>
+<name type="author">AIATSIS</name>
+</bibseries>
+<extptr linktype="simple" href="http://aiatsis.gov.au/research/finding-your-family/before-you-start/stolen-generations"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

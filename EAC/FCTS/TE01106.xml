@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE01106</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2015-02-06">2015-02-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Elizabeth Daniels</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-22">2016-04-22</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE01106b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Destitute Children Act 1875</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1875-01-01">1875</fromDate>
+<toDate standardDate="1896-12-31">1896</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Amending Act</term>
+</function>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Destitute Children At 1875 also known by its full title 'An Act to amend the Law relating to Destitute Children'(Act no.39 Vict. No.5) amended the Training Schools Act 1867 (Act no. 31 Vict. No.36) and the Industrial Schools Act 1867 (31 Vict. No.37). This amendment and the two acts it amends were all repealed and replaced by the Youthful Offenders, Destitute and Neglected Children Act (Act no. 60 Vict. No.24) on 23 October 1896.</abstract>
+<p>The Destitute Children Act 1875 makes a number of amendments to the Training Schools Act 1867 (Act no. 31 Vict. No.36) and the Industrial Schools Act 1867 (31 Vict. No.37), in particular it authorises Governors of training schools to punish children with isolation from their peers and a diet of bread and water for up to three days. Male children could be made to endure 'moderate' corporal punishments. Any such punishments were to be recorded in a book which would be reviewed by the Inspector of Schools.</p>
+<p>In the original legislation children could face hard labour and imprisonment for misbehaving in training schools or running away, marking a dramatic shift in the treatment of young people in institutions. The original punishments would also be handed down by a justice. This new approach meant the child did not have to go to court and could not to be punished for the same case under any law.</p>
+<p>This amendment also dealt with details for apprenticing children from industrial schools.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00072b.htm">
+<relationEntry localType="Legislation">
+Industrial Schools Act 1867 (1867 - 1896)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00099b.htm">
+<relationEntry localType="Legislation">
+The Training Schools Act 1867 (1867 - 1896)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01037b.htm">
+<relationEntry localType="Concept">
+Colony of Tasmania (1856 - 1901)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01039b.htm">
+<relationEntry localType="Concept">
+Law in Tasmania (1825 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00074b.htm">
+<relationEntry localType="Legislation">
+Youthful Offenders, Destitute and Neglected Children's Act 1896 (1896 - 1918)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Destitute Children Act 1875', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Destitute Children Act 1875</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01106b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

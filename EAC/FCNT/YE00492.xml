@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>YE00492</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNT</agencyCode>
+<agencyName>Find &amp; Connect - Northern Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Item</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-09-19">2014-09-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-12-03">2014-12-03</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nt/biogs/YE00492b.htm</entityId>
+<entityId localType="National Archives of Australia Reference Number">F1, 1954/646</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Registration of births after lapse of nine months [Croker Island, Garden Point, Retta Dixon Home and other areas]</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1954-01-01">1954</fromDate>
+<toDate standardDate="1955-12-31">1955</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The file Registration of births after lapse of nine months [Croker Island, Garden Point, Retta Dixon Home and other areas] 1954-1955, contains letters regarding the birthdates of Aboriginal children, considered at the time to be 'half-caste', whose birth was not registered within the 9 month registration period. Although the registration forms are no longer attached the letters refer to children at Croker Island Mission, Garden Point Mission, Retta Dixon Home and other Missions and institutions in the Northern Territory. Most letters provide the child's name and birth date. Some also provide the location of the children's births and other information. Please note that the last two pages of this file are a list of children committed to St Mary's Hostel.</abstract>
+<h4>Access Conditions</h4>
+<p>Open with exception</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00187b.htm">
+<relationEntry localType="Archival Series">
+Correspondence files, annual single number series, Northern Territory Administration (1915 - 1978)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00498b.htm">
+<relationEntry localType="Contact Details">
+National Archives of Australia - Darwin office - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00008b.htm">
+<relationEntry localType="Organisation">
+St Mary's Hostel (1947 - 1972)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00003b.htm">
+<relationEntry localType="Organisation">
+Garden Point Mission (1941 - 1969)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00021b.htm">
+<relationEntry localType="Organisation">
+Croker Island Mission (1940 - 1968)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00023b.htm">
+<relationEntry localType="Organisation">
+Retta Dixon Home (1946 - 1982)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Registration of births after lapse of nine months [Croker Island, Garden Point, Retta Dixon Home and other areas]', in <span style="font-style:italic">Find &amp; Connect - Northern Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Registration of births after lapse of nine months [Croker Island, Garden Point, Retta Dixon Home and other areas]</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Northern Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00492b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

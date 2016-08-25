@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01102</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-01-25">2012-01-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-06-01">2015-06-01</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01102b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Aborigines Office</part>
+<part localType="parent">South Australian Government</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1866-01-01">1866</fromDate>
+<toDate standardDate="1912-12-31">1912</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Government Department</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Aborigines Office was the name given to the Office of the Protector of Aborigines in 1866 while the position of Protector was vacant due to illness. During this period the responsibilities of the Protector were taken on by clerks in the Aborigines Office and a greater number of sub-protectors. The Aborigines Office consisted only of the Chief Protector of Aborigines, the Sub-Protector, Far North and one junior clerk when it was replaced by the Aborigines Department in 1912.</abstract>
+<p>The Aborigines Office was under the auspices of the Minister for Crown Lands and Immigration until 1891. Between 1892 and 1901 the Minister of Agriculture and Education was the Minister responsible. Subsequently the office came under the Treasurer and Commissioner for Crown Lands and Immigration (1902 - 1903), the Attorney-General and Minister of Education (1904 - 1905), Commissioner of Public Works and Minister of Education (1906 - 1908), and Commissioner of Public Works thereafter.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00748b.htm">
+<relationEntry localType="Archival Collection">
+Records of the Aborigines' Office and Successor Agencies (1866? - 1971?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00282b.htm">
+<relationEntry localType="Event">
+Select Committee of the Legislative Council upon the Aborigines, Colony of South Australia (1860)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01103b.htm">
+<relationEntry localType="Organisation">
+Aborigines Department, South Australian Government (1912 - 1962)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Aborigines Office', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Aborigines Office</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01102b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000104.htm">
+<relationEntry localType="published">Resource Section: Agency Details: GRG52 Aborigines' Office and successor agencies</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">State Records of South Australia</name>
+<title render="quoted">Agency Details: GRG52 Aborigines' Office and successor agencies</title>
+<bibseries>
+<title render="italic">State Records of South Australia, ArchivesSearch</title>
+</bibseries>
+<extptr linktype="simple" href="http://archives.sa.gov.au"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000103.htm">
+<relationEntry localType="published">Book: A Little Flour and a Few Blankets: An Administrative History of Aboriginal Affairs in South Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Raynes, Cameron</name>
+<title render="italic">A Little Flour and a Few Blankets: An Administrative History of Aboriginal Affairs in South Australia</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>State Records of South Australia</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

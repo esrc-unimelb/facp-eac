@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000674</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-06-16">2011-06-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000674b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Child and Family Care Network</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1986-01-01">c. 1986</fromDate>
+<toDate standardDate="2006-12-31">c. 2006</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Foster Care</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Family Group Home</term>
+</function>
+<function>
+<term>Community Service Organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Child and Family Care Network came into being around 1986. It was known previously as the Burwood Children's Home. The Network offered child and family welfare and educational programs. In 1996, it shifted its focus to children's services and early intervention. In 2006, it changed its name to bestchance Child Family Care.</abstract>
+<p>The Child and Family Care Network came into being around 1986. Previously, it was known as the Burwood Children's Home.</p>
+<p>This institution closed in 1986, and the Child and Family Care Network sold the Burwood site and relocated to Glen Waverley. The name change reflected the new directions of the organisation, transitioning from institutional 'care' to child and family welfare and educational programs.</p>
+<p>In 1996, following a review, the organisation shifted its focus to children's services and early intervention. In 2006, it changed its name to bestchance Child Family Care.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1986-01-01">c. 1986</fromDate>
+<toDate standardDate="2006-12-31">c. 2006</toDate>
+</dateRange>
+<placeEntry>Glen Waverley</placeEntry>
+<event>Location - Child and Family Care Network was located in Glen Waverley</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000673b.htm">
+<relationEntry localType="Organisation">
+Burwood Children's Home (c. 1972 - c. 1986)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000762b.htm">
+<relationEntry localType="Archival Collection">
+bestchance Child Family Care Records (1895? - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000781b.htm">
+<relationEntry localType="Organisation">
+Goulburn Valley Family Care (1984 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000675b.htm">
+<relationEntry localType="Organisation">
+bestchance Child Family Care (2006 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Child and Family Care Network', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Child and Family Care Network</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000674b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000737.htm">
+<relationEntry localType="published">Report: CFCN Annual report [Child and Family Care Network]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">CFCN Annual report [Child and Family Care Network]</title>
+<imprint>
+<place>Glen Waverley, Vic</place>
+<publisher>Child and Family Care Network Inc.</publisher>
+<date>1999-2006</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000736.htm">
+<relationEntry localType="published">Report: Annual report [Child and Family Care Network]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Annual report [Child and Family Care Network]</title>
+<imprint>
+<place>Glen Waverley, Vic</place>
+<publisher>Child and Family Care Network Inc.</publisher>
+<date>1987-1998</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000124.htm">
+<relationEntry localType="published">Resource: Bestchance: our heritage</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Bestchance: our heritage</title>
+<imprint>
+<publisher>Child and Family Care Network Inc.</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.bestchance.org.au/ourhistory/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

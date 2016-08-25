@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01220</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-08-29">2013-08-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Gary George and Karen George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-06-15">2016-06-15</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01220b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Port Pirie Family Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1972-01-01">1972</fromDate>
+<toDate standardDate="1980-12-31">1980</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government-run</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Temporary Care</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Port Pirie Family Home was the new name given to Port Pirie Cottage in 1972. Run by the government this Family Home in Port Pirie provided emergency and short-term care for children while a family crisis was being assessed or while other placement options were being determined. Family Homes accommodated up to eight children. Port Pirie Family Home closed in 1980.</abstract>
+<p>Port Pirie Family Home was the new name given to Port Pirie Cottage in 1972. Located at 23 Butterick Street, Port Pirie, Port Pirie Family Home was run by the Department for Community Welfare.</p>
+<p>'Family homes' generally accommodated eight children or less in a family style setting. They provided emergency and short-term care for children while a family crisis was being assessed or while other placement options were being determined. The family home parents were not paid a salary by the Department but were provided with rent-free accommodation at the home and received a subsidy for each child in residence.</p>
+<p>Port Pirie Family Home closed in 1980.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1972-01-01">1972</fromDate>
+<toDate standardDate="1980-12-31">1980</toDate>
+</dateRange>
+<placeEntry>Port Pirie</placeEntry>
+<event>Address - Port Pirie Famil Home was situated at 23 Butterick Street, Port Pirie</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00107b.htm">
+<relationEntry localType="Organisation">
+Port Pirie Cottage (1962 - 1972)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00073b.htm">
+<relationEntry localType="Organisation">
+Department for Community Welfare, South Australian Government (1972 - 1990)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00838b.htm">
+<relationEntry localType="Glossary Term">
+Family Home (c. 1972 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Port Pirie Family Home', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Port Pirie Family Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01220b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000114.htm">
+<relationEntry localType="published">Report: Children in State Care Commission of Inquiry: Allegations of sexual abuse and death from criminal conduct, presented to the South Australian Parliament by the Hon. E.P. Mullighan QC, Commisioner</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mullighan, the Hon E.P.</name>
+<title render="italic">Children in State Care Commission of Inquiry: Allegations of sexual abuse and death from criminal conduct, presented to the South Australian Parliament by the Hon. E.P. Mullighan QC, Commisioner</title>
+<imprint>
+<place>Adelaide, South Australia</place>
+<publisher>Children in State Care Commission of Enquiry</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="https://www.decd.sa.gov.au/department/reviews-and-responses/children-state-care"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000042.htm">
+<relationEntry localType="published">Resource: Finding your own way</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">George, Karen</name>
+<title render="italic">Finding your own way</title>
+<imprint>
+<publisher>Nunkuwarrin Yunti of South Australia Inc.</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://nunku.org.au/resources/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

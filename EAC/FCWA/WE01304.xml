@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01304</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-12-16">2013-12-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-13">2015-03-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01304b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Artefacts</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1890-01-01">1890s</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Artefacts is a record series held by the Salvation Army Heritage Museum WA. Photographs, books, foundation stones, paintings and other memorabilia relating to children's Homes run by the Salvation Army in WA are held in this series. New items are added as they are received. These artefacts are on display in the Salvation Army's Heritage Museum in Northbridge, Perth.</abstract>
+<h4>Access Conditions</h4>
+<p>Access to the items in the series is open, but it is essential to make an appointment to view.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01302b.htm">
+<relationEntry localType="Archival Collection">
+Children's Homes Collection held by Salvation Army Heritage Museum WA (1898 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01300b.htm">
+<relationEntry localType="Contact Details">
+Salvation Army Heritage Museum WA - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Artefacts', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Artefacts</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01304b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000906.htm">
+<relationEntry localType="digitalObject">The Army's Homes for Wayward Girls</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Salvation Army Heritage Museum WA</repository>
+<unittitle>The Army's Homes for Wayward Girls</unittitle>
+<unitid>Newspaper item on display</unitid>
+<unitdate>18 July 1908</unitdate>
+<abstract>'The Army's Homes for Wayward Girls' Australians' is a digital copy of an item that is part of the Salvation Army Heritage Museum WA, Artefacts series of records. It is an article from the Salvation Army's newspaper, <span style="font-style:italic">The War Cry</span>, and is on display in the museum. It gives insight into practices at Salvation Army Homes in 1908. There is an image of girls and staff at the Salvation Army Industrial School for Girls, Collie.</abstract>
+<note label="rights">Salvation Army Heritage Museum WA</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000740.htm">
+<relationEntry localType="digitalObject">Rescue Home Perth</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Salvation Army Heritage Museum WA</repository>
+<unittitle>Rescue Home Perth</unittitle>
+<unitid>Image on display</unitid>
+<unitdate>1992 - 2001?</unitdate>
+<abstract>'Rescue Home Perth' is a digital copy of an item that is part of the Salvation Army Heritage Museum WA, Artefacts series of records. The item is a photocopied excerpt from <span style="font-style:italic">The War Cry</span> dated 21 March 1992 that is on display in the museum and that is also held in the <span style="font-style:italic">Summer St. Rescue Home closed social work</span> file, in the Children's Homes series of records. The version held in the file has a typed caption identifies the location of the Home as 192 Claisebrook Road, East Perth and reports that the sketch was made in 2001 by Peter Harper. It shows house used by the Salvation Army Home for Neglected Girls as it looked in 2001.</abstract>
+<note label="rights">Salvation Army Heritage Museum WA</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000739.htm">
+<relationEntry localType="digitalObject">The young residents of the Collie Girls Home, 1901-1920</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Salvation Army Heritage Museum WA</repository>
+<unittitle>The young residents of the Collie Girls Home, 1901-1920</unittitle>
+<unitid>Image on display</unitid>
+<unitdate>1992</unitdate>
+<abstract>'The young residents of the Collie Girls Home, 1901-1920' is a digital copy of an item that is part of the Salvation Army Heritage Museum WA, Artefacts series of records. The item is a photocopied excerpt from <span style="font-style:italic">The War Cry</span> dated 21 March 1992 that is on display in the museum. The image of the Collie Girls' Home is undated but would be 1901-1920.</abstract>
+<note label="rights">Salvation Army Heritage Museum WA</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

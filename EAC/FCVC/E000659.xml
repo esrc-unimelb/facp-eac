@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000659</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-11-11">2010-11-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000659b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Christian Brethren Family Care Inc.</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Temcare</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1968-01-01">1968</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Family Group Home</term>
+</function>
+<function>
+<term>Community Service Organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Christian Brethren Family Care came into being in 1968. From 1969, it ran Bethany family group home in Box Hill North. In the late 1970s, Christian Brethren Family Care closed the family group home and concentrated on its Temporary Emergency Care program. In 2010, the organisation Christian Brethren Family Care Inc. operates as Temcare, providing respite care for children.</abstract>
+<p>Christian Brethren Family Care came into being in 1968. From 1969, it ran a family group home (Bethany) at 123 Shannon Street, Box Hill North.</p>
+<p>In the late 1970s, Christian Brethren Family Care closed the family group home and concentrated on its Temporary Emergency Care program.</p>
+<p>In 2010, the organisation Christian Brethren Family Care Inc. Operates as Temcare, providing respite care for children.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1969-01-01">1969</fromDate>
+<toDate standardDate="1970-12-31">1970s</toDate>
+</dateRange>
+<placeEntry>Box Hill North.</placeEntry>
+<event>Address - Christian Brethren Family Care Inc. ran a family group home at 123 Shannon St, Box Hill North</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Christian Brethren Family Care Inc.', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Christian Brethren Family Care Inc.</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000659b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
+<relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James Jenkinson Consulting</name>
+<title render="italic">Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</title>
+<imprint>
+<publisher>Unpublished</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000015.htm">
+<relationEntry localType="published">Resource: Finding Your Story: a resource manual to the records of the Stolen Generations</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Finding Your Story: a resource manual to the records of the Stolen Generations</title>
+<imprint>
+<publisher>Public Record Office Victoria</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://prov.vic.gov.au/wp-content/uploads/2011/05/Finding_your_story.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

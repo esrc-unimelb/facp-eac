@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00807</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-09-03">2012-09-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-14">2016-03-14</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00807b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Fremantle Native School</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="also known as"><part>Anglican School, Fremantle</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1842-01-01">1842</fromDate>
+<toDate standardDate="1851-12-31">1851</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Anglican</term>
+</function>
+<function>
+<term>School</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Protestant</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Fremantle Native School was established by The Reverend George King in 1842. It was an Anglican residential school for Aboriginal children, mostly girls. Starting with 15 students, the school closed in 1851. The remaining students were transferred to Annesfield in Albany.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1842-01-01">1842</fromDate>
+<toDate standardDate="1851-12-31">1851</toDate>
+</dateRange>
+<placeEntry>Fremantle</placeEntry>
+<event>Location - Fremantle Native School was located in Fremantle</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00982b.htm">
+<relationEntry localType="Organisation">
+Wanneroo Native School (1844 - 1851)
+</relationEntry>
+<descriptiveNote>
+<p>There was a close relationship between the Fremantle and Wanneroo Native Schools, even though they were established under different religious banners.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00808b.htm">
+<relationEntry localType="Organisation">
+Perth Native School (1840 - 1845)
+</relationEntry>
+<descriptiveNote>
+<p>The Fremantle Native School was set up to run in a similar way to the Perth Native School.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00803b.htm">
+<relationEntry localType="Organisation">
+Annesfield (1852 - 1871?)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1852-01-01">1852</fromDate>
+<toDate standardDate="1852-12-31">1852</toDate>
+</dateRange>
+<descriptiveNote>
+<p>The first children at Annesfield had been transferred from the Fremantle Native School.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Fremantle Native School', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Fremantle Native School</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00807b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000244.htm">
+<relationEntry localType="published">Newspaper Article: Letter from Charles Symmons, Protector of Natives, to the Colonial Secretary, Perth, June 11, 1843</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Letter from Charles Symmons, Protector of Natives, to the Colonial Secretary, Perth, June 11, 1843</title>
+<imprint>
+<date>1843</date>
+</imprint>
+<bibseries>
+<title render="italic">The Perth Gazette and Western Australian Journal</title>
+<num type="pages">4</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article644375"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000839.htm">
+<relationEntry localType="published">Newspaper Article: Annual Reports of the Protectors of Aborinines [Aborigines]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Annual Reports of the Protectors of Aborinines [Aborigines]</title>
+<imprint>
+<date>1849</date>
+</imprint>
+<bibseries>
+<title render="italic">The Perth Gazette and Independent Journal of Politics and News</title>
+<num type="pages">3</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article3170469"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000838.htm">
+<relationEntry localType="published">Newspaper Article: From the Government Gazette [Protector of Natives]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">From the Government Gazette [Protector of Natives]</title>
+<imprint>
+<date>1847</date>
+</imprint>
+<bibseries>
+<title render="italic">The Perth Gazette and Western Australian Journal</title>
+<num type="pages">3-4</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article647324"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000837.htm">
+<relationEntry localType="published">Newspaper Article: Annual Reports of the Guardians of Aborigines</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Annual Reports of the Guardians of Aborigines</title>
+<imprint>
+<date>1851</date>
+</imprint>
+<bibseries>
+<title render="italic">The Perth Gazette and Independent Journal of Politics and News</title>
+<num type="pages">1</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article3172222"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000300.htm">
+<relationEntry localType="published">Book: The Noisy Mansions : the story of Swanleigh 1868-1971</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Peterkin, A. Roy</name>
+<title render="italic">The Noisy Mansions : the story of Swanleigh 1868-1971</title>
+<imprint>
+<place>Midland, Western Australia</place>
+<publisher>Perth Diocesan Trustees, Anglican Church of Australia</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000204.htm">
+<relationEntry localType="published">Resource: Guide to Institutions Attended by Aboriginal People in Western Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">State Solicitor's Office of Western Australia</name>
+<title render="italic">Guide to Institutions Attended by Aboriginal People in Western Australia</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://web.archive.org/web/20140126131607/http://www.dpc.wa.gov.au/lantu/MediaPublications/Documents/Guide-to-Institutions-attended-by-Aboriginal-people-in-WA-2005.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

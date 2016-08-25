@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00615</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-03-21">2012-03-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-01-28">2015-01-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00615b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Children's Court Register</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1908-01-01">1908</fromDate>
+<toDate standardDate="1973-12-31">1973</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Children's Court Register gives a record of the cases held in the Perth Children's Court, which was set up as part of the State Children Act 1907. This legistation made the government child welfare departments responsible for keeping records about children who had appeared before the Courts. The register lists the names and other information about children who had cases held in the Children's Court between 1908 and 1973, except for the years 1909-13 which are missing.</abstract>
+<h4>Access Conditions</h4>
+<p>Access to these records is restricted and confidentiality is protected by the Department. If you believe the Department may hold records about you, or about a family member, you are encouraged to apply. Access is governed by the Freedom of Information Act 1992 and the Department has a form on their website which you must use to apply for records.</p>
+<h4>Records</h4>
+<p>These Children's Court registers were originally recorded in 21 volumes. They are now held on microfilm by the Department for Child Protection and Family Support. There are no records for the period 8 April 1909 to 21 February 1913 because the original registers were not able to be found at the time of microfilming.</p>
+<p>The Children's Court registers contain the following details for the children and young people who went before the court, though some entries will have more background information than others:</p>
+<list><item>Family name</item>
+<item>Given names</item>
+<item>Age</item>
+<item>Date of birth</item>
+<item>Date of committal</item>
+<item>Court</item>
+<item>Magistrate</item>
+<item>Charge</item>
+<item>Judgement</item>
+<item>Term</item>
+<item>Particulars of parents - names, address, occupations, earnings; remarks on circumstances</item>
+<item>Subsequent location (generally, this will just note if the young person is under supervision, on probation, and/or sent to an institution) </item></list>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
+<relationEntry localType="Archival Collection">
+Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01176b.htm">
+<relationEntry localType="Contact Details">
+Department for Child Protection and Family Support - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00486b.htm">
+<relationEntry localType="Organisation">
+Children's Court of Western Australia (1907 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Children's Court Register', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Children's Court Register</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00615b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

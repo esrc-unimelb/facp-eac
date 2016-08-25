@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00109</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-06-14">2011-06-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-23">2015-03-23</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00109b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Leslie Tooth Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Also known as"><part>M.U.I.O.O.F. Children's Home</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1921-01-01">1921</fromDate>
+<toDate standardDate="1931-12-31">1931</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Children's Home</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Leslie Tooth Home, in Manly, was operated by the Independent Order of Odd Fellows. It was named after the Grand Master of the I.O.O.F at the time the Home was established in 1921. The Home was licensed under the <span style="font-style:italic">State Children Act</span> 1911, and gazetted 25 January 1923. According to <span style="font-style:italic">Missing Pieces</span> (2001), it was not the intention of the Department or the governing body of the institution that State children be placed in the home. It closed in 1931.</abstract>
+<p>According to the publication <span style="font-style:italic">Missing Pieces</span>, no information has been identified about who may have records from the Leslie Tooth Home. However information from the Annual Reports of the State Children Department reveal that no State wards were ever placed in the home.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1923-01-01">1923</fromDate>
+<toDate standardDate="1931-12-31">1931</toDate>
+</dateRange>
+<placeEntry>Manly</placeEntry>
+<event>Address - Leslie Tooth Home was situated at 60 Gordon Parade, Manly</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00110b.htm">
+<relationEntry localType="Organisation">
+Independent Order of Odd Fellows (1819 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Leslie Tooth Home', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Leslie Tooth Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00109b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000108.htm">
+<relationEntry localType="published">Newspaper Article: I.O.O.F</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">I.O.O.F</title>
+<imprint>
+<place>Brisbane</place>
+<date>1920</date>
+</imprint>
+<bibseries>
+<title render="italic">Brisbane Courier</title>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article20420235"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000107.htm">
+<relationEntry localType="published">Newspaper Article: Obituary - Mr. L. H. Tooth</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Obituary - Mr. L. H. Tooth</title>
+<imprint>
+<place>Brisbane</place>
+<date>1931</date>
+</imprint>
+<bibseries>
+<title render="italic">Brisbane Courier</title>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article21699335"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000001.htm">
+<relationEntry localType="published">Book: Missing pieces: information to assist former residents of children's institutions to access records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Families</name>
+<title render="italic">Missing pieces: information to assist former residents of children's institutions to access records</title>
+<imprint>
+<publisher>State of Queensland</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/objects/QD0000037.htm">
+<relationEntry localType="digitalObject">Girls from M.U.I.O.O.F. Children's Home</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Picture Queensland, John Oxley Library, State Library of Queensland</repository>
+<unittitle>Girls from M.U.I.O.O.F. Children's Home</unittitle>
+<unitid>JOL, SLQ Negative number: 170289</unitid>
+<unitdate>c. 1921</unitdate>
+<abstract>The following description was included on the back of the photograph: The old home, Kingcliffe, now Moorlands at 60 Gordon Parade, Manly, was opened in 1921 by the M.U.I.O.O.F. Lodge as a home for orphaned children. Photograph is of three girls and the surname mentioned on the back of the photograph is Briggs. They are wearing the uniform dress and hat provided by the home.</abstract>
+<note label="rights">Copyright on this image has expired</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00521</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-01-18">2012-01-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-02-25">2016-02-25</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00521b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Transportation of Convicts</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1849-05-01">1 May 1849</fromDate>
+<toDate standardDate="1868-12-31">1868</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Crown Colony of Western Australia was not established as a penal colony. However, juveniles from Parkhurst Prison who were meant to provide a cheap source of agricultural labour came as early as 1842. Farmers and successful merchants lobbied for the wider introduction of convicts, with a similar desire to boost the supply of available, cheap labour. A British Order in Council granted penal colony status on 1 May 1849. By this time, the eastern colonies had either stopped or were refusing to cooperate with transportation. Objections to transportation from the larger colonies meant that the practice stopped entirely in 1868.
+
+Western Australia 's convict system differed from the eastern seaboard's schemes. WA refused to take female convicts and there was a lot more institutionalisation and less private assignment of convicts in the west. There was also a requirement to send younger convicts, with some being as young as 15 years and most no older than 24 years on arrival.</abstract>
+<p>Historians dispute the exact numbers of convicts transported to Western Australia but the following list (from Chate) gives a fair indication of the extent of the practice in the years 1850 to 1868 when transportation ended:</p>
+<list><item>1850 - 175 convicts arrive</item>
+<item>1851 - 806 convicts arrive</item>
+<item>1852 - 491 convicts arrive</item>
+<item>1853 - 1,129 convicts arrive</item>
+<item>1854 - 596 convicts arrive</item>
+<item>1855 - 491 convicts arrive</item>
+<item>1856 - 498 convicts arrive</item>
+<item>1857 - 266 convicts arrive</item>
+<item>1858 - 832 convicts arrive</item>
+<item>1859 - 225 convicts arrive</item>
+<item>1861 - 296 convicts arrive</item>
+<item>1862 - 896 convicts arrive</item>
+<item>1863 - 782 convicts arrive</item>
+<item>1864 - 561 convicts arrive</item>
+<item>1865 - 560 convicts arrive</item>
+<item>1866 - 583 convicts arrive</item>
+<item>1867 - 254 convicts arrive</item>
+<item>1868 - the final 229 convicts arrive</item></list>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00518b.htm">
+<relationEntry localType="Event">
+First juvenile migration scheme to Western Australia (1842 - 1851)
+</relationEntry>
+<descriptiveNote>
+<p>The juvenile offender migration from Parkhurst Prison to Western Australia pre-dated Western Australia's decision to seek to become a penal colony.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Transportation of Convicts', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Transportation of Convicts</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00521b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000238.htm">
+<relationEntry localType="published">Book Section: Convicts</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Millett, P.R.</name>
+<title render="quoted">Convicts</title>
+<imprint>
+<place>Crawley, W.A.</place>
+<publisher>University of Western Australia Press</publisher>
+<date>2009</date>
+</imprint>
+<bibseries>
+<title render="italic">Historical Encyclopedia of Western Australia</title>
+<name type="author">Gregory, Jenny and Jan Gothard [editors]</name>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000138.htm">
+<relationEntry localType="published">Book: Date it!: a Western Australian chronology to 1929</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Chate, A.H.; Graham, Bruce; Oakley, Glenda</name>
+<title render="italic">Date it!: a Western Australian chronology to 1929</title>
+<imprint>
+<place>Northbridge, Western Australia</place>
+<publisher>Friends of the Battye Library (Inc.)</publisher>
+<date>1991</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01216</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-08-08">2013-08-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-09">2016-03-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01216b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>St Joseph's Junior Boys' Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1960-01-01">1960s</fromDate>
+<toDate standardDate="1969-12-31">1969</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Catholic</term>
+</function>
+<function>
+<term>Children's Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>St Joseph's Junior Boys Home run by the Sisters of St Joseph was the new name for St Joseph's Orphanage at Largs Bay in the 1960s. The name change acknowledged that the Home accommodated only boys, from 3 to 12 years. In 1969, girls were again accommodated and the name became to St Joseph's Children's Home.</abstract>
+<p>St Josephs' Boys Home was the new name for St Joseph's Orphanage at 208 The Esplanade, Largs Bay. This name was used in the 1960s, acknowledging that the Home took in only younger boys, aged between 3 and 12 years. During this time, girls were placed at St Vincent De Paul Orphanage at Goodwood and older boys went to St John's Boystown, Brooklyn Park.</p>
+<p>Run by the Sisters of St Joseph, the Home accommodated up to 60 boys under the care of seven Sisters. The boys were placed in three dormitories, divided by their age. They were educated at a kindergarten and school run by three resident Sisters who were registered school teachers. Boys also received religious instruction from the Sisters.</p>
+<p>From 1969 a small number of girls were admitted and one of the dormitories was set aside for their use. From that year, the home then became known as St Joseph's Children's Home.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1960-01-01">1960s</fromDate>
+<toDate standardDate="1969-12-31">1969</toDate>
+</dateRange>
+<placeEntry>Largs Bay</placeEntry>
+<event>Address - St Joseph's Junior Boys' Home was situated at 208 The Esplanade, Largs Bay</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00040b.htm">
+<relationEntry localType="Organisation">
+St Joseph's Orphanage Largs Bay (1907? - 1960s)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00022b.htm">
+<relationEntry localType="Organisation">
+Sisters of St Joseph (1866 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00049b.htm">
+<relationEntry localType="Organisation">
+St Vincent de Paul Orphanage (1866 - 1975)
+</relationEntry>
+<descriptiveNote>
+<p>While St Joseph's Junior Boys Home at Largs Bay took in boys between the ages of 3 and 12 all girls were sent to St Vincent de Paul Orphanage, Goodwood.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00348b.htm">
+<relationEntry localType="Organisation">
+St Joseph's Children's Home (1969 - 1980)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'St Joseph's Junior Boys' Home', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">St Joseph's Junior Boys' Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01216b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

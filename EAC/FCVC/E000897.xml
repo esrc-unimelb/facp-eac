@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000897</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-07-31">2013-07-31</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000897b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Rutherglen Viticultural College</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1904-01-01">1904</fromDate>
+<toDate standardDate="1927-12-31">1927?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Farm School</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Rutherglen Viticultural College, Chiltern Valley Road, Rutherglen, from 1904 accepted wards of the state deemed to be suitable for viticultural and general farm work as trainees. The Department for Neglected Children and Reformatory Schools and the Agricultural Department struck an agreement to facilitate this placement. The arrangement appears to have ceased by 1927.</abstract>
+<p>In 1904 13 wards of the state were sent to the college as trainees. They were to receive education in all branches of viticultural and farm work in addition to general educational and moral training.</p>
+<p>The 1904 annual report of the Department for Neglected Children and Reformatory Schools stated that there was accommodation available for 30 boys but that was dependent upon the appointment of suitable staff. In 1919 18 boys were accommodated there. By 1927 there were 9 boys. Subsequent annual reports make no mention of the college.</p>
+<p>The Viticultural College was modelled on the School of Viticulture at Montpellier in France, being designed to accommodate 50 students and staff. The Viticultural College main building was opened by the Governor of Victoria, Lord Brassey KCB on 31 March 1897 during a two day visit to the district.</p>
+<p>On the south side and down the slope were the brick wine cellars 90' x 60', partly dug into the hill side for coolness. They were concrete floored, one of the few in the district, with cement fermenting vats in a separate cellar from the storage cellar, being separated by double sliding doors. The roof was arched galvanized iron inside, supported by large H iron beams. Above this was a concrete roof.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1904-01-01">1904</fromDate>
+<toDate standardDate="1927-12-31">1927?</toDate>
+</dateRange>
+<placeEntry>Rutherglen</placeEntry>
+<event>Location - Rutherglen Viticultural College was located at Rutherglen</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000135b.htm">
+<relationEntry localType="Organisation">
+Department for Neglected Children, State Government of Victoria (1901 - 1924)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Rutherglen Viticultural College', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Rutherglen Viticultural College</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000897b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001038.htm">
+<relationEntry localType="published">Resource Section: Rutherglen Research Institute</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Rutherglen Research Institute</title>
+<bibseries>
+<title render="italic">Victorian Heritage Database</title>
+</bibseries>
+<extptr linktype="simple" href="http://vhd.heritage.vic.gov.au/places/result_detail/1006?print=true"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000495.htm">
+<relationEntry localType="published">Report: Department for Neglected Children and Reformatory Schools. Report of the Secretary.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Department for Neglected Children and Reformatory Schools. Report of the Secretary.</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Government Printer</publisher>
+<date>1887 - 1924</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000479.htm">
+<relationEntry localType="digitalObject">Viticultural College, Rutherglen</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Viticultural College, Rutherglen</unittitle>
+<unitid>SLV Accession Number: H90.140/964</unitid>
+<unitdate>1908</unitdate>
+<abstract>This is an image of the Viticultural College Rutherglen.</abstract>
+<note label="rights">State Library of Victoria</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

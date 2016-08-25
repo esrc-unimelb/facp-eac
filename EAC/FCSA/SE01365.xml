@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01365</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-06-11">2014-06-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-06-24">2014-06-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01365b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Adelaide Hospital</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1841-01-01">1841</fromDate>
+<toDate standardDate="1939-12-31">1939</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Hospital</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Adelaide Hospital opened in 1841 in Adelaide's East Parklands and replaced the Colonial Infirmary. It was run by a board of management. In 1855 construction of a new larger hospital began on North Terrace. After the transfer of patients the old hospital building became part of the adjacent Adelaide Lunatic Asylum. In 1939 the Hospital was officially named the Royal Adelaide Hospital.</abstract>
+<p>The Adelaide Hospital was the first built-for-purpose Hospital in Adelaide. It opened in 1841 in Adelaide's East Parklands and replaced the Colonial Infirmary which had been operating in a small hut and later a house in the vicinity of the Holy Trinity Church, North Terrace, since 1837. The hospital was run by a board of management.</p>
+<p>The need for a much larger hospital became apparent as early as 1850 and a large site on North Terrace was chosen. Construction of the new building began in 1855. Over the next 100 years nearly 50 buildings were added to the hospital on this site. The roles of the various buildings changed frequently over the years.</p>
+<p>The old hospital building became part of the adjacent Adelaide Lunatic Asylum until 1870 when the Parkside Asylum opened. At that time some of the Asylum buildings reverted to the use of the hospital. In 1902 when the Adelaide Lunatic Asylum closed the original Asylum building became part of the Hospital. It was later used as an Infectious Diseases Block.</p>
+<p>The Adelaide Hospital was officially renamed the Royal Adelaide Hospital in 1939.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1841-01-01">1841</fromDate>
+<toDate standardDate="1850-12-31">1850s</toDate>
+</dateRange>
+<placeEntry>Adelaide</placeEntry>
+<event>Location - The Adelaide Hospital was situated in the East Parklands of Adelaide</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1850-01-01">1850s</fromDate>
+<toDate standardDate="1939-12-31">1939</toDate>
+</dateRange>
+<placeEntry>Adelaide</placeEntry>
+<event>Location - The Adelaide Hospital was situated on North Terrace, Adelaide</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01174b.htm">
+<relationEntry localType="Organisation">
+Royal Adelaide Hospital (1939 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Adelaide Hospital', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Adelaide Hospital</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01365b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000148.htm">
+<relationEntry localType="published">Resource Section: Agency Details: GA354 Adelaide Hospital, later Royal Adelaide Hospital</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">State Records of South Australia</name>
+<title render="quoted">Agency Details: GA354 Adelaide Hospital, later Royal Adelaide Hospital</title>
+<bibseries>
+<title render="italic">State Records of South Australia, ArchivesSearch</title>
+</bibseries>
+<extptr linktype="simple" href="http://archives.sa.gov.au"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

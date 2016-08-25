@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00695</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-09-04">2013-09-04</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-03-19">2014-03-19</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00695b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Omaru Community Youth Centre</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1977-01-01">1977</fromDate>
+<toDate standardDate="1995-12-31">c. 1995</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government-run</term>
+</function>
+<function>
+<term>Youth Welfare Service</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Omaru Community Youth Centre, run by the government, opened in 1977. It was in Launceston. The Centre provided non-residential support and supervision for children aged eight to seventeen. It closed around 1995.</abstract>
+<p>Omaru Community Youth Centre was in Union Street, Launceston. It started as a pilot project for teenage girls in May 1977. A program for boys and girls began in September 1977.</p>
+<p>It employed three Child Welfare Officers. The Senior Child Welfare Officer took up a Churchill Fellowship in the United Kingdom in early 1978. During that time, the Centre closed temporarily.</p>
+<p>The Centre was a part of the Social Welfare Department's new emphasis on preventing children from becoming wards of state. According to the Annual Report of 1979, it assisted children who needed help with 'personal, social and emotional development' because they had come before the courts or had difficulties at home, school or with housing. The Centre's approach was group discussions in which:</p>
+<p>'youngsters are encouraged to air their points of view and to assist each other with individual and group problems and interests in a constructive way.'</p>
+<p>The groups met after school or in the early evening. The Centre also ran holiday programs. Volunteers worked with the children and the local community provided financial and practical support.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1977-01-01">1977</fromDate>
+<toDate standardDate="1995-12-31">c. 1995</toDate>
+</dateRange>
+<placeEntry>Launceston</placeEntry>
+<event>Location - Omaru Community Youth Centre was in Union Street, Launceston</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00064b.htm">
+<relationEntry localType="Organisation">
+Department for Community Welfare (1983 - 1989)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00020b.htm">
+<relationEntry localType="Organisation">
+Social Welfare Department, State of Tasmania (1961 - 1983)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00275b.htm">
+<relationEntry localType="Organisation">
+Omaru Hostel (1968 - c. 1974)
+</relationEntry>
+<descriptiveNote>
+<p>Omaru Community Youth Centre was in the same building as Omaru Hostel.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Omaru Community Youth Centre', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Omaru Community Youth Centre</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00695b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

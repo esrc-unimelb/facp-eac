@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01422</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-09-03">2014-09-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Nicola Laurent and Rebe Taylor</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-09-25">2014-09-25</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01422b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Edmund Rice Education Australia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="acronym"><part>EREA</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2007-01-01">2007</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Catholic</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Edmund Rice Education Australia was established by the Christian Brothers in 2007. It is run by lay people and was created to separately govern and administrate the Christian Brother's schools in Australia. Edmund Rice Education Australia were responsible for the Tardun Farm School in Western Australia from 2007 to 2009, and they made the offical decision to close the school.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01428b.htm">
+<relationEntry localType="Organisation">
+Christian Brothers Oceania Province (2007 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00216b.htm">
+<relationEntry localType="Organisation">
+Tardun Farm School (1928 - 2008)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Edmund Rice Education Australia', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Edmund Rice Education Australia</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01422b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000310.htm">
+<relationEntry localType="digitalObject">Joint Statement from the Christian Brothers (Oceania Province) and Edmund Rice Education Australia (EREA) in relation to the Royal Commission into Institutional Responses to Child Sexual Abuse</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Christian Brothers Oceania Province and Edmund Rice Education Australia</repository>
+<unittitle>Joint Statement from the Christian Brothers (Oceania Province) and Edmund Rice Education Australia (EREA) in relation to the Royal Commission into Institutional Responses to Child Sexual Abuse</unittitle>
+<unitid>20130319RoyalCommissionJointStatementEREA&amp;CBOP</unitid>
+<unitdate>19 March 2013</unitdate>
+<abstract>'Joint Statement from the Christian Brothers (Oceania Province) and Edmund Rice Education Australia (EREA) in relation to the Royal Commission into Institutional Responses to Child Sexual Abuse' offers an apology and provides information about mandatory reporting, support and redress services for people who were abused in schools and institutions run by the Christian Brothers in Australia. The statement was issued prior to the first sitting of the Royal Commission into Institutional Responses to Child Sexual Abuse.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

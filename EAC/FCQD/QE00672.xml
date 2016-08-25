@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00672</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-08-29">2013-08-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-05">2015-03-05</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00672b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Xavier Home for Crippled Children</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1949-05-15">15 May 1949</fromDate>
+<toDate standardDate="1994-12-31">1994</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Catholic</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Disability Institution</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Xavier Home for Crippled Children, in Coorparoo, operated from 1949 to 1994. It was run by the Franciscan Missionaries of Mary. In reponse to changing Government policies, Xavier changed from an institutional model of care to a community based model of care in 1994. It was then re-named Xavier Children's Support Network.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1949-01-01">1949</fromDate>
+<toDate standardDate="1994-12-31">1994</toDate>
+</dateRange>
+<placeEntry>Coorparoo</placeEntry>
+<event>Location - The Xavier Home for Crippled Children was situated in Cavendish Road, Coorparoo</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00182b.htm">
+<relationEntry localType="Organisation">
+Franciscan Missionaries of Mary (1941 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00887b.htm">
+<relationEntry localType="Archival Collection">
+Xavier Children's Support Network Records (1949 - 1994)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00181b.htm">
+<relationEntry localType="Organisation">
+Xavier Children's Support Network (1994 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Xavier Home for Crippled Children', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Xavier Home for Crippled Children</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00672b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000002.htm">
+<relationEntry localType="published">Book: 'A Piece of the Story': National Directory of Records of Catholic Organisations Caring for Children Separated from Families</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">'A Piece of the Story': National Directory of Records of Catholic Organisations Caring for Children Separated from Families</title>
+<imprint>
+<publisher>Australian Catholic Social Welfare Commission &amp; Australian Conference of Leaders of Religious Institutes</publisher>
+<date>1999</date>
+</imprint>
+<extptr linktype="simple" href="http://www.cssa.org.au/storage/A%20Piece%20of%20the%20Story.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000586.htm">
+<relationEntry localType="published">Newspaper Article: Council wrap: What's happening in your suburb</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Moore, Tony</name>
+<title render="quoted">Council wrap: What's happening in your suburb</title>
+<imprint>
+<publisher>Brisbane Times</publisher>
+<date>2008</date>
+</imprint>
+<bibseries>
+<title render="italic">Brisbane Times</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.brisbanetimes.com.au/news/queensland/council-wrap-whats-happening-in-your-suburb/2008/08/06/1217702083802.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000585.htm">
+<relationEntry localType="published">Resource Section: Restoration of 'Erica' at Coorparoo</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Harrison Constructions</name>
+<title render="quoted">Restoration of 'Erica' at Coorparoo</title>
+<imprint>
+<publisher>Harrison Constructions</publisher>
+<date>2014</date>
+</imprint>
+<bibseries>
+<title render="italic">Harrison Constructions Website</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.harrisonconstructions.com.au/default.asp?contentID=376"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000372.htm">
+<relationEntry localType="published">Newspaper Article: Home Opened for Cripples</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Home Opened for Cripples</title>
+<imprint>
+<date>1949</date>
+</imprint>
+<bibseries>
+<title render="italic">Courier Mail</title>
+<num type="pages">3</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article49673968"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000371.htm">
+<relationEntry localType="published">Newspaper Article: Concert Packed</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Concert Packed</title>
+<imprint>
+<date>1949</date>
+</imprint>
+<bibseries>
+<title render="italic">Sunday Mail</title>
+<num type="pages">5</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article98288801"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000370.htm">
+<relationEntry localType="published">Newspaper Article: The Xavier Home for Crippled Children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Xavier Home for Crippled Children</title>
+<imprint>
+<date>1953</date>
+</imprint>
+<bibseries>
+<title render="italic">Cairns Post</title>
+<num type="pages">6</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article42789297"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01656</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-11-12">2014-11-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Nicola Laurent</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-12-18">2015-12-18</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01656b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Edmund Rice Community Services</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2001-01-01">2001?</fromDate>
+<toDate standardDate="2009-12-31">2009</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Catholic</term>
+</function>
+<function>
+<term>Community Service Organisation</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Edmund Rice Community Services was established around 2001 and ran Eddy's Place and Eddy's Out West in New South Wales. They provided medium to long term accommodation and outreach services for young people and to people who are homeless or at risk of being homeless. On 1 July 2009 the Edmund Rice Community Services became part of MacKillop Family Services.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00492b.htm">
+<relationEntry localType="Organisation">
+Christian Brothers (1802 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01652b.htm">
+<relationEntry localType="Organisation">
+Eddy's Out West (1981? - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2001-01-01">2001</fromDate>
+<toDate standardDate="2009-12-31">2009</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00131b.htm">
+<relationEntry localType="Organisation">
+Eddy's Place (1989 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2001-01-01">2001</fromDate>
+<toDate standardDate="2009-12-31">2009</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01654b.htm">
+<relationEntry localType="Organisation">
+MacKillop Family Services (1997 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2009-01-01">2009</fromDate>
+</dateRange>
+<descriptiveNote>
+<p>Edmund Rice Community Services became a part of MacKillop Family Services</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Edmund Rice Community Services', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Edmund Rice Community Services</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01656b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000970.htm">
+<relationEntry localType="published">Resource Section: Transition of NSW Services - MacKillop Family Services</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gerard Jones</name>
+<title render="quoted">Transition of NSW Services - MacKillop Family Services</title>
+<imprint>
+<publisher>Catholic Social Services Victoria</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.css.org.au/Portals/51/PathwaystoPartnership23July2014GerardJones.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000969.htm">
+<relationEntry localType="published">Newspaper Article: Christian Brothers work to help 'vulnerable young'</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Christian Brothers work to help 'vulnerable young'</title>
+<imprint>
+<publisher>The Catholic Weekly - Sydney</publisher>
+<date>2003</date>
+</imprint>
+<bibseries>
+<title render="italic">The Catholic Weekly</title>
+</bibseries>
+<extptr linktype="simple" href="http://web.archive.org/web/20130516125517/http://www.catholicweekly.com.au/03/oct/5/17.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

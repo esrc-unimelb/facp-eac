@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00960</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-06-26">2014-06-26</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-12-10">2014-12-10</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00960b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Director Of Native Affairs Office</part>
+<part localType="parent">State Government of Queensland</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1939-10-12">12 October 1939</fromDate>
+<toDate standardDate="1966-04-28">28 April 1966</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Department</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Director Of Native Affairs Office was responsible for the welfare of Queensland's Aboriginal population who were deemed to be State Wards. Replacing the Chief Protector of Aboriginals Office, it was established in 1939 under the <span style="font-style:italic">Aboriginals Preservation and Protection Act 1939</span>. This Act represented a change in government policy from one of 'protection and segregation' of indigenous people, to that of 'protection and preservation' through assimilation into the predominantly white community. The functions of the Director of Native Affairs Office were transferred to the Aboriginal and Island Affairs Department in 1966.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00961b.htm">
+<relationEntry localType="Organisation">
+Chief Protector of Aboriginals Office, State Government of Queensland (1904 - 1939)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00022b.htm">
+<relationEntry localType="Legislation">
+Aboriginals Preservation and Protection Act 1939 (1939 - 1966)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00907b.htm">
+<relationEntry localType="Archival Collection">
+Aboriginal and Torres Strait Islander Affairs Records (1880s - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00896b.htm">
+<relationEntry localType="Organisation">
+Palm Island Aboriginal Settlement (1918 - 1975)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00959b.htm">
+<relationEntry localType="Organisation">
+Aboriginal and Island Affairs Department, State Government of Queensland (1966 - 1975)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Director Of Native Affairs Office', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Director Of Native Affairs Office</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00960b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000578.htm">
+<relationEntry localType="published">Resource Section: Queensland State Archives Agency ID136, Director Of Native Affairs Office</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Queensland State Archives Agency ID136, Director Of Native Affairs Office</title>
+<imprint>
+<publisher>The State of Queensland - Queensland State Archives</publisher>
+<date>2004 - 2013</date>
+</imprint>
+<bibseries>
+<title render="italic">Queensland State Archives website</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.archivessearch.qld.gov.au/Search/AgencyDetails.aspx?AgencyId=136"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

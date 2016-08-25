@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00552</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-01-22">2012-01-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-02-12">2015-02-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00552b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Aboriginal Legal Service of Western Australia (Inc.)</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="acronym"><part>ALSWA</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1973-01-01">1973</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Advocacy Body</term>
+</function>
+<function>
+<term>Support Service</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Aboriginal Legal Service of Western Australia (Inc.), better known as ALSWA, has been operating in WA for over thirty years. The ALS 'provides legal representation and support services for Aboriginal and Torres Strait Islander peoples in Western Australia, including advocating in policy and law reform in submissions, at conferences and in the media.'</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00505b.htm">
+<relationEntry localType="Event">
+Redress WA, State of Western Australia (2008 - 2011)
+</relationEntry>
+<descriptiveNote>
+<p>The ALSWA was a funded provider of support services to Redress WA applicants and was also a strong advocate for improved payments and services from Redress WA.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Aboriginal Legal Service of Western Australia (Inc.)', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Aboriginal Legal Service of Western Australia (Inc.)</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00552b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000193.htm">
+<relationEntry localType="published">Resource: Aboriginal Legal Service of Western Australia (Inc.) (ALSWA) website</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Aboriginal Legal Service of Western Australia (Inc.) (ALSWA) website</title>
+<extptr linktype="simple" href="http://www.als.org.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000078.htm">
+<relationEntry localType="digitalObject">Outcry at cut in abuse compo</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Outcry at cut in abuse compo</unittitle>
+<unitdate>29 July 2009</unitdate>
+<abstract>This article from <span style="font-style:italic">The West Australian</span> reports on the State Government's decision to reduce Redress WA payments which are 'almost halved'. According to the article, this was a 'shock move' and a 'huge blow to thousands of victims of State abuse'.</abstract>
+<physdesc>Digital version of a photocopy of article on page 6.<geogname></geogname>
+</physdesc>
+<note label="rights"><span style="font-style:italic">The West Australian</span></note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

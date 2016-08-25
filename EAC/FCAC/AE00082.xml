@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AE00082</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCAC</agencyCode>
+<agencyName>Find &amp; Connect - Australian Capital Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-01-30">2012-01-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Lydia Connell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-11-28">2014-11-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/act/biogs/AE00082b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>ACT Heritage Library</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1995-01-01">1995</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Records Holder</term>
+</function>
+<function>
+<term>Records Access Service</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The ACT Heritage Library is the state library of the Australian Capital Territory (ACT). It was officially opened in 1995, and is located in the suburb of Woden. The ACT Heritage Library collects, manages and provides access to material relevant to the ACT's documentary heritage. It offers assistance in researching matters relating to the ACT. The Library's collection includes local and regional newspapers, maps and plans, photograph collections, books, journals, archives and manuscripts relating to notable individuals, places or events in Canberra's history.</abstract>
+<p>The ACT Heritage Library is part of Libraries ACT within the Territory Services Division, Department of Territory and Municipal Services, ACT Government.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00204b.htm">
+<relationEntry localType="Contact Details">
+ACT Heritage Library - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'ACT Heritage Library', in <span style="font-style:italic">Find &amp; Connect - Australian Capital Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">ACT Heritage Library</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australian Capital Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/act/biogs/AE00082b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000056.htm">
+<relationEntry localType="published">Resource: Libraries ACT</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Libraries ACT</title>
+<imprint>
+<publisher>Department of Territory and Municipal Services, ACT Government</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.library.act.gov.au/home"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

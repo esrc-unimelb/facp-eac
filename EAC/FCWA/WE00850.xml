@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00850</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-01-17">2013-01-17</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-21">2016-04-21</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00850b.htm</entityId>
+<entityId localType="State Records Office of Western Australia Reference code">AU WA S4392</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Forms</part>
+<part localType="parent">Child Welfare Department</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1955-01-01">1 January 1955</fromDate>
+<toDate standardDate="1972-06-30">30 June 1972</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>This series contains two files which hold samples of obsolete forms used by the Child Welfare Department and the Department of Native Welfare. It is not known whether all the forms in this series were actually used by the Departments.</abstract>
+<h4>Access Conditions</h4>
+<p>Open</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00637b.htm">
+<relationEntry localType="Archival Collection">
+State Archives Collection of Western Australia (1829 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00851b.htm">
+<relationEntry localType="Archival Item">
+Form Manual (1955? - 1972?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01156b.htm">
+<relationEntry localType="Contact Details">
+State Records Office of Western Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00322b.htm">
+<relationEntry localType="Organisation">
+Department of Native Welfare, State of Western Australia (1955 - 1972)
+</relationEntry>
+<descriptiveNote>
+<p>Forms, State Records Office of Western Australia is a series of records created by the Department of Native Welfare and held in the State Records Office of Western Australia.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00364b.htm">
+<relationEntry localType="Organisation">
+Child Welfare Department, State of Western Australia (1927 - 1972)
+</relationEntry>
+<descriptiveNote>
+<p>Files created by the Child Welfare Department are held in this series at the State Records Office of WA.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01118b.htm">
+<relationEntry localType="Organisation">
+Department for Child Protection and Family Support, State of Western Australia (2013 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2013-01-01">2013</fromDate>
+</dateRange>
+<descriptiveNote>
+<p>The Department for Child Protection and Family Support (DCPFS) controls access to the 'closed' files in this series, which is in the custody of the State Records Office of WA.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Forms', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Forms</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00850b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

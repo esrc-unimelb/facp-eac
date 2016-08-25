@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000765</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Collection</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-11-01">2011-11-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-12-16">2014-12-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000765b.htm</entityId>
+<entityId localType="National Library of Australia Bib ID">4781941</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Papers of Shirley Steans Beaumont</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<biogHist>
+<abstract>Papers of Shirley Steans Beaumont (MS Acc09/195) are held at the National Library of Australia. The collection includes letters received by Shirley Steans Beaumont from former female residents of the Salvation Army Catherine Booth Girls' Home in East Kew, Melbourne describing their childhood experiences at the Home. There are also photographs of the 2006 reunion of these women.</abstract>
+<h4>Access Conditions</h4>
+<p>Open access.</p>
+<h4>Records</h4>
+<p>[From the National Library of Australia catalogue]: MS Acc09/195 comprises letters received by Shirley Steans Beaumont from former female residents of the Salvation Army Catherine Booth Girls' Home in East Kew, Melbourne describing their childhood experiences at the Home. In addition, there are photographs of the 2006 reunion of these women and two books self-published by Steans Beaumont: A window of time (2009), comprising the letters, and Time behind the green door (2006), which documents the 2006 reunion (1 box).</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000939b.htm">
+<relationEntry localType="Organisation">
+National Library of Australia (1960 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000262b.htm">
+<relationEntry localType="Organisation">
+Catherine Booth Girls' Home (1915 - 1976)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000847b.htm">
+<relationEntry localType="Contact Details">
+National Library of Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Papers of Shirley Steans Beaumont', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Papers of Shirley Steans Beaumont</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000765b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000743.htm">
+<relationEntry localType="published">Book: Time behind the green door</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Beaumont, Shirley Steans</name>
+<title render="italic">Time behind the green door</title>
+<imprint>
+<place>Kallangur, Qld</place>
+<publisher>The Author</publisher>
+<date>2008</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000084.htm">
+<relationEntry localType="published">Book: A Window of Time</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Beaumont, Shirley Steans</name>
+<title render="italic">A Window of Time</title>
+<imprint>
+<place>Burpengary, Qld</place>
+<publisher>The Author</publisher>
+<date>2006</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

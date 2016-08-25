@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AE00080</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCAC</agencyCode>
+<agencyName>Find &amp; Connect - Australian Capital Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-01-30">2012-01-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Lydia Connell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-12-01">2014-12-01</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/act/biogs/AE00080b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>ArchivesACT</part>
+<part localType="parent">Australian Capital Territory</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2008-01-01">2008</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Agency</term>
+</function>
+<function>
+<term>Records Holder</term>
+</function>
+<function>
+<term>Records Access Service</term>
+</function>
+</functions>
+<biogHist>
+<abstract>ArchivesACT provides access to publicly available records of the Australian Capital Territory (ACT) Government. ArchivesACT was established in 2008, and is located in the suburb of Woden, next to the ACT Heritage Library. The ArchivesACT's collection includes health medical records, records of births, deaths and marriages, citizenship and naturalisation papers, and coroner's records.</abstract>
+<p>In order to assist with access to records, ArchivesACT provide a number of services. They contact government agencies on behalf of requestors, and they check that the archives do not contain material that is exempt from public access (records older than 20 years are available for public access). As the records are not stored on-site, ArchivesACT make arrangements for the requestor to view the archives in a secure reading room. Archives of the ACT Government are ordered and arrangements made for their use before visiting the reading room. ArchivesACT make arrangements for any reproduction of records, and assist in contacting the agency copyright holder to facilitate the permissions process. They also write finding aids and research guides to assist members of the public in locating records in their sphere of interest.</p>
+<p>ArchivesACT is part of the Territory Records Office in the ACT Government.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00202b.htm">
+<relationEntry localType="Contact Details">
+ArchivesACT - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00079b.htm">
+<relationEntry localType="Organisation">
+Territory Records Office, Australian Capital Territory (2002 - )
+</relationEntry>
+<descriptiveNote>
+<p>Archives ACT is part of the Territory Records Office, Australian Capital Territory.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'ArchivesACT', in <span style="font-style:italic">Find &amp; Connect - Australian Capital Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">ArchivesACT</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australian Capital Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/act/biogs/AE00080b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000102.htm">
+<relationEntry localType="published">Resource: Child Welfare Policy Records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"> Archives ACT</name>
+<title render="italic">Child Welfare Policy Records</title>
+<imprint>
+<publisher>ACT Government</publisher>
+<date>2012</date>
+</imprint>
+<extptr linktype="simple" href="http://www.archives.act.gov.au/__data/assets/pdf_file/0006/562551/Child_welfare_policy_records.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000051.htm">
+<relationEntry localType="published">Resource: Territory Records Office</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Territory Records Office</title>
+<imprint>
+<publisher>Shared Services Human Resources, Treasury Directorate, ACT Government</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.territoryrecords.act.gov.au/index"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000052.htm">
+<relationEntry localType="published">Resource: Archives ACT, Territory Records Office</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Archives ACT, Territory Records Office</title>
+<imprint>
+<publisher>Shared Services Human Resources, Treasury Directorate, ACT Government</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.archives.act.gov.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01550</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-04-02">2014-04-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-07-27">2015-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01550b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Privacy and Personal Information Protection Act 1998</part>
+<part localType="parent">State of New South Wales</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="acronym"><part>PIPP</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1998-01-01">1998</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The <span style="font-style:italic">Privacy and Personal Information Protection Act 1998</span> (PIPP) deals with how NSW government agencies manage personal information. It applies to state government agencies, statutory or declared authorities, the police service and local councils. The Act also sets out the role of the NSW Privacy Commissioner. It does not apply to health records and does not apply to private information gathered by non-government (private) agencies. Information from private agencies could potentially be sought through the Commonwealth (Australian) <span style="font-style:italic">Privacy Act 1988</span>. In 2014 the <span style="font-style:italic">Privacy and Personal Information Protection Act 1998</span> was current.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
+<relationEntry localType="Concept">
+State of New South Wales (1901 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01699b.htm">
+<relationEntry localType="Concept">
+Law in New South Wales
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01548b.htm">
+<relationEntry localType="Legislation">
+Government Information (Public Access) Act 2009, State of New South Wales (2009 - )
+</relationEntry>
+<descriptiveNote>
+<p>The <span style="font-style:italic">Government Information (Public Access) Act 2009</span> (GIPAA) and the <span style="font-style:italic">Privacy and Personal Information Protection Act 1998</span> are the two pieces of legislation that regulate access to information from the New South Wales Government.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Privacy and Personal Information Protection Act 1998', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Privacy and Personal Information Protection Act 1998</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01550b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000763.htm">
+<relationEntry localType="published">Resource: Information and Privacy Commission New South Wales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Information and Privacy Commission New South Wales</title>
+<extptr linktype="simple" href="http://www.ipc.nsw.gov.au/privacy/ipc_index.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000762.htm">
+<relationEntry localType="published">Resource Section: Privacy Act 1988 (1988 - )</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">O'Neill, Cate</name>
+<title render="quoted">Privacy Act 1988 (1988 - )</title>
+<imprint>
+<publisher>Find &amp; Connect web resource project for the Commonwealth of Australia</publisher>
+<date>2014</date>
+</imprint>
+<bibseries>
+<title render="italic">Find &amp; Connect web resource</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00127b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

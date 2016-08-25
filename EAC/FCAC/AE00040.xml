@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AE00040</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCAC</agencyCode>
+<agencyName>Find &amp; Connect - Australian Capital Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-06-30">2011-06-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Anna Trengove</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-01-28">2014-01-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/act/biogs/AE00040b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Community Services Division</part>
+<part localType="parent">Australian Capital Territory</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1982-01-01">c. 1982</fromDate>
+<toDate standardDate="1987-12-31">c. 1987</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Agency</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Community Services Division was one of six divisions of the Department of Territories and Local Government from 1983. The Community Services Division had three branches, including the Welfare Branch, which dealt with the care of families in crisis, adoption and children in out-of-home care. By 1987 the Community Services Division, including the Welfare Branch, had been integrated into the ACT Community Health Service.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00039b.htm">
+<relationEntry localType="Organisation">
+Department of Territories and Local Government, Australian Government (1983 - 1984)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00041b.htm">
+<relationEntry localType="Organisation">
+Welfare Branch, Australian Capital Territory (c. 1970 - c. 1989)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1983-01-01">c. 1983</fromDate>
+<toDate standardDate="1987-12-31">c. 1987</toDate>
+</dateRange>
+<descriptiveNote>
+<p>The Welfare Branch was part of the Community Services Division in the early to mid-1980s.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Community Services Division', in <span style="font-style:italic">Find &amp; Connect - Australian Capital Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Community Services Division</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australian Capital Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/act/biogs/AE00040b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000013.htm">
+<relationEntry localType="published">Book: Report, Beyond the image, December 1984 / Review of Welfare Services and Policies in the A.C.T.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Walmsley, R., Coull, V., Vinson, T.</name>
+<title render="italic">Report, Beyond the image, December 1984 / Review of Welfare Services and Policies in the A.C.T.</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Government Publishing Service</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

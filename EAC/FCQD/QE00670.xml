@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00670</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-08-29">2013-08-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-09-12">2014-09-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00670b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Duncan Infants' Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1921-01-01">January 1921</fromDate>
+<toDate standardDate="1922-03-31">March 1922</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Babies' Home</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Non-denominational</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Duncan Infants' Home was run by the Queensland Association for the Saving of Infant Life. It was established in January 1921 and in March 1922 it moved to Oxley. The Home was renamed St Agnes Babies' Home.</abstract>
+<p>From the first week of January 1921 the home operated out of rented premises at Coorparoo for 15 months. In March 1922 it moved to a more suitable permanent home, 'Cliveden' at Oxley.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1920-01-01">1920</fromDate>
+<toDate standardDate="1922-12-31">1922</toDate>
+</dateRange>
+<placeEntry>Coorparoo</placeEntry>
+<event>Location - Duncan Infants' Home was situated at Coorparoo</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00331b.htm">
+<relationEntry localType="Organisation">
+Corinda Infants' Home (1915 - 1919)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00671b.htm">
+<relationEntry localType="Organisation">
+The Queensland Association for the Saving of Infant Life (1916 - 1923)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00316b.htm">
+<relationEntry localType="Organisation">
+St Agnes Babies Home (1922 - 1923)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Duncan Infants' Home', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Duncan Infants' Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00670b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000063.htm">
+<relationEntry localType="published">Newspaper Article: The Administrative Committee of The Queensland Association for the Saving of Children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Administrative Committee of The Queensland Association for the Saving of Children</title>
+<imprint>
+<date>1922</date>
+</imprint>
+<bibseries>
+<title render="italic">Brisbane Courier</title>
+<num type="pages">16</num>
+</bibseries>
+<extptr linktype="simple" href="http://trove.nla.gov.au/ndp/del/article/20551435"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

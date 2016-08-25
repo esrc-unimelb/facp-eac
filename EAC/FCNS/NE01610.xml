@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01610</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-05-15">2014-05-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-26">2015-03-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01610b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Aborigines Inland Mission Bible Training College</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>AIM Bible Training College</part>
+</nameEntry>
+<nameEntry localType=""><part>Singleton Bible Training College</part>
+</nameEntry>
+<nameEntry localType=""><part>Bible Training College, Singleton</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1953-01-01">1953</fromDate>
+<toDate standardDate="1973-12-31">1973</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Children's Home</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Protestant</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Aborigines Inland Mission [AIM] Bible Training College was located in Mirimbah House, Whittingham, near Singleton. It was the new name for the Native Workers' Training College, which was a Baptist ministry training school for teenage and young Aboriginal people from all over Australia. The name change marked a shift from being Baptist to being non-denominational. It closed in 1973.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1953-01-01">1953</fromDate>
+<toDate standardDate="1973-12-31">1973</toDate>
+</dateRange>
+<placeEntry>Whittingham</placeEntry>
+<event>Address - Aborgines' Inland Mission Bible Training College located at 'Minimbah', 119B Minimbah Road, Whittingham</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01607b.htm">
+<relationEntry localType="Organisation">
+Native Workers' Training College (1938 - 1953)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01603b.htm">
+<relationEntry localType="Organisation">
+Aborigines Inland Mission (1905 - 1998)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01672b.htm">
+<relationEntry localType="Archival Collection">
+Australian Indigenous Ministries Aggregated Collection of Records and Pictorial Material, 1903-2003 (1903 - 2003)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01609b.htm">
+<relationEntry localType="Archival Collection">
+Bartrop family slides relating to the Aborigines Inland Mission, 1909-1930s, 1945-1950, 1971 (1909 - 1971)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Aborigines Inland Mission Bible Training College', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Aborigines Inland Mission Bible Training College</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01610b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000888.htm">
+<relationEntry localType="published">Resource: A history of Aboriginal Sydney</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">A history of Aboriginal Sydney</title>
+<imprint>
+<publisher>University of Sydney</publisher>
+<date>2010-2013</date>
+</imprint>
+<extptr linktype="simple" href="http://www.historyofaboriginalsydney.edu.au/about"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000889.htm">
+<relationEntry localType="published">Resource Section: Minimbah House and Outbuildings</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Minimbah House and Outbuildings</title>
+<imprint>
+<publisher>NSW Office of Environment and Heritage</publisher>
+<date>2000-2010</date>
+</imprint>
+<bibseries>
+<title render="italic">State Heritage Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.environment.nsw.gov.au/heritageapp/ViewHeritageItemDetails.aspx?ID=14293"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000890.htm">
+<relationEntry localType="published">Resource: 119B Minimbah Road Whittingham NSW 2330</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">119B Minimbah Road Whittingham NSW 2330</title>
+<imprint>
+<publisher>realestate.com.au</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.realestate.com.au/property-house-nsw-whittingham-111418687"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000891.htm">
+<relationEntry localType="published">Resource Section: Long, Margaret Jane (Retta) (1878-1956)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Radi, Heather</name>
+<title render="quoted">Long, Margaret Jane (Retta) (1878-1956)</title>
+<imprint>
+<publisher>National Centre of Biography, Australian National University</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography</title>
+</bibseries>
+<extptr linktype="simple" href="http://adb.anu.edu.au/biography/long-margaret-jane-retta-10857"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000701.htm">
+<relationEntry localType="digitalObject">Bible Training Institute, Singleton, late 1960s</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of New South Wales</repository>
+<unittitle>Bible Training Institute, Singleton, late 1960s</unittitle>
+<unitid>Digital order number a728002</unitid>
+<unitdate>1960s</unitdate>
+<note label="rights">This image is provided for research purposes only and must not be reproduced without the prior permission of the State Library of NSW.</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000703.htm">
+<relationEntry localType="digitalObject">[Bible Training Institute] Singleton, interior [showing two students cleaning the banister]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>[Bible Training Institute] Singleton, interior [showing two students cleaning the banister]</unittitle>
+<unitid>Digital order number a728003</unitid>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000702.htm">
+<relationEntry localType="digitalObject">Australian Indigenous Ministries - pictorial collection - Native Workers Training College, 1945-1971</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of New South Wales</repository>
+<unittitle>Australian Indigenous Ministries - pictorial collection - Native Workers Training College, 1945-1971</unittitle>
+<unitid>PXA 773 / Box 2</unitid>
+<unitdate>1945 - 1971</unitdate>
+<abstract>This collection of 31 silver gelatin photo prints has been digitised by the Mitchell Library. According to the Collection description, it contains images of the Native Workers Training College, renamed Bible Training Institute, Minimbah, Pindimar, Dallwood, Singleton. The collection description includes the names of students of the college.</abstract>
+<note label="rights">State Library of New South Wales</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

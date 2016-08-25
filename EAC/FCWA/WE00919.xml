@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00919</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-02-18">2013-02-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-26">2015-08-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00919b.htm</entityId>
+<entityId localType="State Records Office of Western Australia Reference code">AU WA S675</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Correspondence Files</part>
+<part localType="parent">Colonial Secretary's Office, Chief Secretary's Department</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1883-01-01">1883</fromDate>
+<toDate standardDate="1983-12-31">1983</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Correspondence Files comprises the main file series for the Colonial Secretary's Office/Chief Secretary's Department for the post-1883 period. The correspondence files deal with all functions the office had oversight or control of. Records from the Colonial Secretary's Office contain information about out of home care in Western Australia, as well as a range of other matters. The files up to 16 April 1924 when the Colonial Secretary's Office was abolished will be most relevant as by that time there were government departments for Aboriginal and non-Aboriginal child welfare.</abstract>
+<h4>Access Conditions</h4>
+<p>Access to most of the records in this series is open. However, there are restrictions on some items. You are very welcome to enquire.</p>
+<h4>Records</h4>
+<p>The extent of the Colonial/Chief Secretary's responsibilities early in the twentieth century is shown by the range of subjects the files document. Such responsibilities included the administration of Mental Health, Prisons, Harbours and Lights, Aboriginal Affairs, the Perth Observatory, the State Shipping Service, Swan River Ferries, Horse Racing, Theatre Licensing, Sunday entertainments and Censorship. Most of the files which cover the post-World War II period concern the administration of either the Fire Brigades Act or the Charitable Collections Act.</p>
+<p>(Special note: Only those files for the periods 1883-1890, 1901, 1918-1973 have so far been listed on the State Records Office of Western Australia database. Colonial Secretary's Office files for the period 1891-1917 - excluding 1901 - are not currently searchable via this database. Use of the Colonial Secretary's Office Indexes and Registers held at the State Records Office Search Room is needed to identify individual files for this period. It is estimated that the remaining files for the 1891-1917 period total app. 30,000 files).</p>
+<p>In 1883, the central registry of the Colonial Secretary's Office changed the way it indexed and filed the office's correspondence. Related correspondence was attached to one file. After 1895, copies of outward correspondence were also attached to the relevant file (a set of outward letterbooks had been maintained up to that time). This filing system remained essentially unchanged throughout the twentieth century until the Chief Secretary's Department was abolished.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00637b.htm">
+<relationEntry localType="Archival Collection">
+State Archives Collection of Western Australia (1829 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01156b.htm">
+<relationEntry localType="Contact Details">
+State Records Office of Western Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00603b.htm">
+<relationEntry localType="Organisation">
+Colonial Secretary's Office, Crown Colony of Western Australia (1828 - 1890)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00604b.htm">
+<relationEntry localType="Organisation">
+Colonial Secretary's Office, Colony of Western Australia (1890 - 1924)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Correspondence Files', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Correspondence Files</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00919b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

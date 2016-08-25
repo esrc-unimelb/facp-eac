@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000714</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-10-20">2011-10-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-11-20">2015-11-20</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000714b.htm</entityId>
+<entityId localType="Public Record Office of Victoria Series Number">VPRS 10071</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>State Ward Case Files</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1920-01-01">1920</fromDate>
+<toDate standardDate="2001-12-31">c. 2001</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>State Ward Case Files consists of case files created about wards of state by the relevant government department. It would appear that the recordkeeping practice of creating a central file about each ward did not start until around 1920. The first case file in this series is for ward number 51,255. (This number was assigned from the Ward Registers, which were maintained by the Department from 1864.)</abstract>
+<h4> Access Conditions</h4>
+<p>Conditional Access - Former state wards (and their families) seeking information about their time in care, or access personal files can contact Family Information Networks and Discovery, Department of Human Services.</p>
+<h4>Records</h4>
+<p>For the period 1920 to 1935, there are frequent and large gaps in the files. For the period 1935 to 1961, there are relatively few gaps in the files. Around 1961, a new recordkeeping system was introduced, which created different files for children and young people, depending on whether they were the responsibility of the Family Welfare Division or the Youth Welfare division of the Social Welfare Branch. New numbering system were introduced again in 1978 and 1986.</p>
+<p>The State Ward Case Files are in the custody of both the Public Record Office of Victoria and the Department of Human Services. Whatever the record's location, access is administered through the Family Information Networks and Discovery.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000704b.htm">
+<relationEntry localType="Archival Collection">
+Victorian Government Records relating to Wardship and Adoption (1864 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000863b.htm">
+<relationEntry localType="Contact Details">
+Family Information Networks and Discovery - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000718b.htm">
+<relationEntry localType="Archival Series">
+Ward Registers (1864 - 1965)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'State Ward Case Files', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">State Ward Case Files</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000714b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

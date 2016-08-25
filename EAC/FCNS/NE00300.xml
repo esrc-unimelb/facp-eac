@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE00300</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-03-17">2011-03-17</eventDateTime>
+<agentType>human</agentType>
+<agent>Melissa Downing and Nicola Laurent</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-06-15">2016-06-15</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00300b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Tarana</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1959-01-01">1959</fromDate>
+<toDate standardDate="1977-12-31">1977</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Family Group Home</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Non-denominational</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Tarana, run by Dr Barnardo's in Australia, opened in 1959 at Belmont South. It was the first family group Home run by Barnardos in Australia and provided mixed family group accommodation. Tarana closed in 1977.</abstract>
+<p>Tarana had views onto Lake Macquarie from the garden and was subject to flooding.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1960-01-01">1960</fromDate>
+<toDate standardDate="1977-12-31">1977</toDate>
+</dateRange>
+<placeEntry>Belmont South</placeEntry>
+<event>Address - Tarana was situated at 19-21 New Street, Belmont South</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00293b.htm">
+<relationEntry localType="Organisation">
+Dr Barnardo's Homes (Australia Branch) (1883 - 1966)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1959-01-01">1959</fromDate>
+<toDate standardDate="1966-12-31">1966</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00294b.htm">
+<relationEntry localType="Organisation">
+Dr Barnardos in Australia (1966 - c. 1995)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1966-01-01">1966</fromDate>
+<toDate standardDate="1977-12-31">1977</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00949b.htm">
+<relationEntry localType="Archival Collection">
+Records relating to Child and Youth Migration, New South Wales (c. 1919 - c. 1974)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00706b.htm">
+<relationEntry localType="Archival Collection">
+Barnardos Australia, Records (c. 1883 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Tarana', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Tarana</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00300b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001053.htm">
+<relationEntry localType="published">Newspaper Article: Welfare official arrives</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Welfare official arrives</title>
+<imprint>
+<place>NSW</place>
+<date>1966</date>
+</imprint>
+<bibseries>
+<title render="italic">The Sydney Morning Herald</title>
+<num type="pages">6</num>
+</bibseries>
+<extptr linktype="simple" href="https://news.google.com/newspapers?id=7_xjAAAAIBAJ&amp;sjid=CucDAAAAIBAJ&amp;pg=3606%2C2813865"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000026.htm">
+<relationEntry localType="published">Resource: Good British stock: child and youth migration to Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Coldrey, Barry</name>
+<title render="italic">Good British stock: child and youth migration to Australia</title>
+<imprint>
+<publisher>National Archives of Australia</publisher>
+<date>1999</date>
+</imprint>
+<extptr linktype="simple" href="http://guides.naa.gov.au/good-british-stock/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000640.htm">
+<relationEntry localType="published">Resource: Nardy Old Boys &amp; Girls Reunion Club</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Remmer, Clifford</name>
+<title render="italic">Nardy Old Boys &amp; Girls Reunion Club</title>
+<imprint>
+<publisher>The Remmers</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://www.nardyaustralia.com/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000001.htm">
+<relationEntry localType="published">Resource: Connecting Kin: Guide to Records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Thinee, Kristy and Bradford, Tracy</name>
+<title render="italic">Connecting Kin: Guide to Records</title>
+<imprint>
+<place>Sydney, New South Wales</place>
+<publisher>New South Wales Department of Community Services</publisher>
+<date>1998</date>
+</imprint>
+<extptr linktype="simple" href="http://www.community.nsw.gov.au/__data/assets/pdf_file/0008/319256/connectkin_guide.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000773.htm">
+<relationEntry localType="digitalObject">View of Lake Macquarie from the veranda of the Family Group Home at 19 New Street Belmont</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>View of Lake Macquarie from the veranda of the Family Group Home at 19 New Street Belmont</unittitle>
+<abstract>This is an image from the Nardy - Old Boys &amp; Girls Reunion Club website Cottage Homes Album. The image is taken from the veranda of Tarana showing part of the backgarden and the view of Lake Macquarie.</abstract>
+<note label="rights">Cliff Remmer</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000772.htm">
+<relationEntry localType="digitalObject">[Tarana]</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>[Tarana]</unittitle>
+<unitdate>n.d.</unitdate>
+<abstract>This is an image from the Nardy - Old Boys &amp; Girls Reunion Club website Cottage Homes Album. It shows the garden, veranda and the back of the house.</abstract>
+<note label="rights">Cliff Remmer</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

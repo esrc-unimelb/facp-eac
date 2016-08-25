@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01464</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-11-07">2014-11-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Nicola Laurent</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-07-31">2015-07-31</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01464b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Girls' Friendly Society Lodge</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="acronym"><part>GFS Lodge</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1915-01-01">1915</fromDate>
+<toDate standardDate="1990-12-31">1990?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Protestant</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Anglican</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Girls' Friendly Society Lodge was opened on the 5th June 1915 on Adelaide Terrace, Perth. It was opened to provide accommodation for girls from England or country areas of Western Australia. Typically the girls who went to the Lodge in the earlier years were members of Girls' Friendly Society with commendations from their branch or diocese. From the 1950s and possibly earlier, the lodge provided emergency accommodation for female Wards of the State if an alternative suitable placement could not be found. It ceased operating around 1990.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00086b.htm">
+<relationEntry localType="Organisation">
+Girls' Friendly Society (1914 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Girls' Friendly Society Lodge', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Girls' Friendly Society Lodge</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01464b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001431.htm">
+<relationEntry localType="published">Book: A century of challenge : a history of the Girls' Friendly Society in Western Australia from 1888-1988</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Seymour, Jean</name>
+<title render="italic">A century of challenge : a history of the Girls' Friendly Society in Western Australia from 1888-1988</title>
+<imprint>
+<place>Perth, W.A.</place>
+<publisher>The Society</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0001027.htm">
+<relationEntry localType="digitalObject">Girls' Friendly Society Lodge, 240 Adelaide Terrace, Perth</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Western Australia</repository>
+<unittitle>Girls' Friendly Society Lodge, 240 Adelaide Terrace, Perth</unittitle>
+<unitdate>c. 1915</unitdate>
+<abstract>This is a photograph of the front of the Girls' Friendly Society Lodge around the time it had been extensively renovated and extended.</abstract>
+<note label="rights">State Library of Western Australia</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01665</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2015-12-08">2015-12-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Nicola Laurent</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-10">2016-03-10</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01665b.htm</entityId>
+<entityId localType="State Records of South Australia Series ID">GRS/16089</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Vaccinations and infectious diseases log - Seaforth Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1941-01-01">1941</fromDate>
+<toDate standardDate="1973-12-31">1973</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Vaccinations and infectious diseases log - Seaforth Home is a register used to record medical information about residents of the Seaforth Convalescent Home and Seaforth Home at Somerton Park between 1941 and 1973. It includes information about vaccinations received and infectious diseases contracted by the residents.</abstract>
+<h4>Access Conditions</h4>
+<p>Access to this series is restricted.</p>
+<h4>Records</h4>
+<p>One side of each page is a register of vaccinations given, including vaccinations for polio, triple antigen, influenza, CDT (combined diphtheria and tetanus), and gamma globulin injections. The other side of the page is a register of infectious diseases contracted by residents. Information captured in the register includes date, name, age group and medical notes. Influenza vaccinations given to staff are also recorded.</p>
+<p>At the time of the register the Homes accommodated infants and children up to the age of six years and girls up to the age of eighteen years.</p>
+<p>The series is arranged chronologically.</p>
+<p>Quantity: 1 box</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00024b.htm">
+<relationEntry localType="Organisation">
+State Records of South Australia (1919 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01247b.htm">
+<relationEntry localType="Contact Details">
+State Records of South Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00080b.htm">
+<relationEntry localType="Organisation">
+Seaforth Convalescent Home (1921 - 1946)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00354b.htm">
+<relationEntry localType="Organisation">
+Seaforth Home (1946 - 1975)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Vaccinations and infectious diseases log - Seaforth Home', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Vaccinations and infectious diseases log - Seaforth Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01665b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

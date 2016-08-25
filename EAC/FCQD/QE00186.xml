@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00186</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-07-19">2011-07-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-12-01">2014-12-01</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00186b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Child Migrants Trust</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1987-01-01">1987</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Community Service Organisation</term>
+</function>
+<function>
+<term>Support Service</term>
+</function>
+<function>
+<term>Advocacy Body</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Child Migrants Trust was established by Margaret Humphreys, a social worker from Nottinghamshire, United Kingdom. It addresses the issues surrounding the deportation of children from the United Kingdom. In the post World War Two period, children as young as three were sent by ship to Canada, New Zealand, the former Rhodesia and Australia. This practice continued until 1970. The Child Migrants Trust provides a specialised service, reuniting Britain's former Child Migrants with their mothers and fathers, brothers and sisters and other relatives. Its United Kingdom base is in Nottingham, with offices in Australia in Perth and Melbourne.</abstract>
+<p>Margaret Humphreys founded the Child Migrants Trust in 1987 in Nottinghamshire, UK, where she was a social worker. Through her social work and advocacy, and with her book Empty Cradles, published in 1994, Humphreys was instrumental in raising awareness about child migration from the United Kingdom and the plight of families affected by these policies. The Child Migrants Trust grew to provide a range of social work services to former child migrants and their family members, including counselling, support with family reunions and offering information, advice and family research. Margaret Humphreys received the Medal of the Order of Australia in March 1993, for her services on behalf of the child migrants.</p>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Child Migrants Trust', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Child Migrants Trust</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00186b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000087.htm">
+<relationEntry localType="published">Book: Empty Cradles</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Humphreys, Margaret</name>
+<title render="italic">Empty Cradles</title>
+<imprint>
+<place>London</place>
+<publisher>Doublebay</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000032.htm">
+<relationEntry localType="published">Book: Oranges and sunshine</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Humphreys, Margaret</name>
+<title render="italic">Oranges and sunshine</title>
+<imprint>
+<place>London</place>
+<publisher>Corgi</publisher>
+<date>2010</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

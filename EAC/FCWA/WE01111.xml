@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01111</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-07-15">2013-07-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-10-23">2014-10-23</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01111b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Ministering Children's League Convalescent Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1897-01-01">1897</fromDate>
+<toDate standardDate="1949-12-31">1949</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Convalescent Home</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Ministering Children's League Convalescent Home was established at Cottesloe Beach in 1897 for adults. A few children were admitted as paying inpatients during the early years of the Home, but thereafter were only admitted to the Convalescent Home during 1943, when 50 children from rural WA came to stay as part of a Country Women's Association holiday program.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1897-01-01">1897</fromDate>
+<toDate standardDate="1897-12-31">1897</toDate>
+</dateRange>
+<placeEntry>Cottesloe</placeEntry>
+<event>Location - Ministering Children's League Convalescent Home was situated at Cottesloe Beach, Cottesloe</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01112b.htm">
+<relationEntry localType="Organisation">
+Ministering Children's League (1891 - 1957)
+</relationEntry>
+<descriptiveNote>
+<p>The Ministering Children's League established and ran the Ministering Children's League Convalescent Home for adult patients.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00815b.htm">
+<relationEntry localType="Organisation">
+Country Women's Association of Western Australia (1924 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1943-01-01">1943</fromDate>
+<toDate standardDate="1943-12-31">1943</toDate>
+</dateRange>
+<descriptiveNote>
+<p>The Country Women's Association hosted a holiday program for children from rural areas at the Ministering Children's League Convalescent Home in Cottesloe.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Ministering Children's League Convalescent Home', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Ministering Children's League Convalescent Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01111b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000003.htm">
+<relationEntry localType="published">Book: Paupers, Poor Relief and Poor Housing in Western Australia 1829 to 1910</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hetherington, Penelope</name>
+<title render="italic">Paupers, Poor Relief and Poor Housing in Western Australia 1829 to 1910</title>
+<imprint>
+<place>Crawley, Western Australia</place>
+<publisher>UWA Publishiing</publisher>
+<date>2009</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001089.htm">
+<relationEntry localType="published">Book: </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James, Ruth Marchant</name>
+<imprint>
+<place>Perth Western Australia</place>
+<publisher>Meath Ministering League Anglican Homes Perth WA</publisher>
+<date>1982</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

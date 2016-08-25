@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000243</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-05-01">2009-05-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-09">2016-05-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000243b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Antonian Institute for Children</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1959-01-01">1959</fromDate>
+<toDate standardDate="1966-12-31">1966</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Catholic</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Children's Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Antonian Institute for Children, Richmond, was established in 1959 to cater for children from families of Italian origin, including state wards. The Home's name was changed to the Antonian Children's Home in 1966.</abstract>
+<p>The Antonian Institute for Children was established at 311 Church Street, Richmond in 1959.</p>
+<p>In January 1960, the Antonian Institute for Children was declared an approved children's home under the Children's Welfare Act 1958. The Home's name was changed in 1966, to the Antonian Children's Home. It closed in 1979.</p>
+<p>It is now known as the Madre Nazarena Students' House.</p>
+<p>In 2013 Find &amp; Connect staff were advised by the Daughters of Divine Zeal that they do not hold any records from the Antonian Children's Home.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1959-01-01">1959</fromDate>
+<toDate standardDate="1959-12-31">1959</toDate>
+</dateRange>
+<placeEntry>Richmond</placeEntry>
+<event>Address - The Antonian Children's Home was established at 311 Church Street, Richmond</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000244b.htm">
+<relationEntry localType="Organisation">
+Daughters of Divine Zeal (1959 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000841b.htm">
+<relationEntry localType="Organisation">
+Antonian Children's Home (1966 - 1979)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Antonian Institute for Children', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Antonian Institute for Children</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000243b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001160.htm">
+<relationEntry localType="published">Resource Section: Responding to the film 'Once my mother'</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">O'Neill, Cate</name>
+<title render="quoted">Responding to the film 'Once my mother'</title>
+<imprint>
+<publisher>eScholarship Research Centre, the University of Melbourne</publisher>
+<date>2015</date>
+</imprint>
+<bibseries>
+<title render="italic">Find &amp; Connect web resource blog</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnectwrblog.info/2015/07/responding-to-the-film-once-my-mother/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000374.htm">
+<relationEntry localType="published">Edited Book: Growing up in Richmond</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Loh, Morag</name>
+<title render="italic">Growing up in Richmond</title>
+<imprint>
+<publisher>Richmond Community Education Centre</publisher>
+<date>1979</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
+<relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James Jenkinson Consulting</name>
+<title render="italic">Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</title>
+<imprint>
+<publisher>Unpublished</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000503.htm">
+<relationEntry localType="digitalObject">Children and Sisters, Antonian Institute for Children</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Children and Sisters, Antonian Institute for Children</unittitle>
+<unitdate>1960?</unitdate>
+<note label="rights">Daughters of Divine Zeal</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000502.htm">
+<relationEntry localType="digitalObject">Antonian Children's Home</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Antonian Children's Home</unittitle>
+<unitdate>1960?</unitdate>
+<abstract>This is a copy of an image of the exterior of the Antonian Institution for Children (later known as the Antonian Children's Home) in Richmond.</abstract>
+<note label="rights">Daughters of Divine Zeal</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000463.htm">
+<relationEntry localType="digitalObject">Antonian Children's Home</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Antonian Children's Home</unittitle>
+<abstract>This resource comprises 20 images of the Antonian Children's Home as part of the Jubilee celebrations of the Daughters of Divine Zeal.
+This webpage is no longer in operation. The page was taken from the Wayback Machine and is dated 30th April 2013.</abstract>
+<note label="rights">Daughters of Divine Zeal.</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00236</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-10-27">2011-10-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-04-16">2015-04-16</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00236b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Point Puer</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1834-01-01">1834</fromDate>
+<toDate standardDate="1849-12-31">1849</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Reformatory</term>
+</function>
+<function>
+<term>Government-run</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Point Puer, run by the government, opened in 1834. It was at Oppossum Bay on the Tasman Peninsula. Point Puer was a reformatory for boys who had been transported from Britain. It closed in 1849.</abstract>
+<p>Point Puer was established by Governor Arthur to accommodate boys aged between 10 and 14. During the convict era, they made up between 10 and 20 percent of the arrivals on each ship. 68 boys arrived at Point Puer on 10 January 1834 bringing their own supplies and neccessities. They were to build the barracks for the insititution themselves, using the handmade bricks made by boys at Port Arthur.</p>
+<p>Point Puer was the first ever British institution designed to reform boys who had committed a criminal offence. The idea had already been practiced at Carters' Barracks, Boys Dormitory in NSW , with the reform program including separation from the adult convicts, basic schooling, and religious instruction. Boys who were considered to be well behaved learned shoemaking, tailoring, carpentry, stonemasonry, bookbinding or boat building. The rest cleared and worked the land. The Commandant imposed a hierarchical system of punishment.</p>
+<p>By the end of the 1830s, 500 boys lived at Point Puer. Between 1842 and 1844, the numbers grew to 700. By 1844 many of the buildings were damaged beyond repair and required demolitoin. After Parkhurst Reformatory was built on the Isle of Wight off the south coast of England, fewer boys were transported to Australia. Numbers at Point Puer declined. It closed in 1849.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1834-01-01">1834</fromDate>
+<toDate standardDate="1849-12-31">1849</toDate>
+</dateRange>
+<placeEntry>Oppossum Bay, Tasman Peninsula</placeEntry>
+<event>Location - Point Puer was located Opposum Bay on the Tasman Peninsula</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00092b.htm">
+<relationEntry localType="Organisation">
+Convict Department (1818 - 1877)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00246b.htm">
+<relationEntry localType="Organisation">
+Cascades Probation Station (1848 - 1855)
+</relationEntry>
+<descriptiveNote>
+<p>After Point Puer closed, boys were sent to the Cascades Probation Station.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Point Puer', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Point Puer</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00236b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000566.htm">
+<relationEntry localType="published">Report: Tasmanian Heritage Register entry: Port Arthur Penal Settlement</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Tasmanian Heritage Register entry: Port Arthur Penal Settlement</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Heritage Tasmania</publisher>
+<date>2008</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000762.htm">
+<relationEntry localType="published">Thesis: Carters' Barracks and Point Puer: The Confinement Experience of Convict Boys in Colonial Australia, 1820 - 1850</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gorton, Kerin</name>
+<title render="quoted">Carters' Barracks and Point Puer: The Confinement Experience of Convict Boys in Colonial Australia, 1820 - 1850</title>
+<imprint>
+<publisher>The University of Newcastle</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/objects/TD0000241.htm">
+<relationEntry localType="digitalObject">Underground Cells at Point Puer</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Underground Cells at Point Puer</unittitle>
+<unitid>nla.pic-an23794111</unitid>
+<unitdate>1911 - 1915</unitdate>
+<abstract>The photograph is part of EW (Edward William) Searle's collection of photographs taken between about 1900 and 1955.</abstract>
+<note label="rights">Reproduction rights owned by the National Library of Australia</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

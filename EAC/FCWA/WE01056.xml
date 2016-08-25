@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01056</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-04-30">2013-04-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-07-23">2015-07-23</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01056b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Irrabeena</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1961-01-01">1961</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Agency</term>
+</function>
+<function>
+<term>Records Holder</term>
+</function>
+<function>
+<term>Community Service Organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Irrabeena began in 1961 as the Slow Learning Children's Group's diagnostic and assessment centre in Perth. In 1964, Irrabeena became part of the Mental Health Services. Children were assessed at Irrabeena before placement.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01005b.htm">
+<relationEntry localType="Organisation">
+Mental Health Services (1954 - 1984)
+</relationEntry>
+<descriptiveNote>
+<p>Irrabeena began in 1961 as the Slow Learning Children's Group's diagnostic and assessment centre in Perth and became part of the State Government's Mental Health Services in 1964.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01052b.htm">
+<relationEntry localType="Organisation">
+Slow Learning Children's Group (1951 - 1989)
+</relationEntry>
+<descriptiveNote>
+<p>Irrabeena began in 1961 as the Slow Learning Children's Group's diagnostic and assessment centre in Perth and became part of the State Government's Mental Health Services in 1964.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01310b.htm">
+<relationEntry localType="Organisation">
+Graceville Centre (1903 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1970-01-01">1970s</fromDate>
+<toDate standardDate="1980-12-31">1980s</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Graceville Centre residents with intellectual disabilities attended Irrabeena programs in the 1970s and 1980s.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Irrabeena', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Irrabeena</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01056b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000850.htm">
+<relationEntry localType="published">Book Section: Once a Defective, always a Defective: Public Sector Residential Care 1900-1965</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gillgren, Christina</name>
+<title render="quoted">Once a Defective, always a Defective: Public Sector Residential Care 1900-1965</title>
+<imprint>
+<place>Perth</place>
+<publisher>Centre for Disability Research and Development, Faculty of Health and Human Sciences, Edith Cowan University</publisher>
+<date>1996</date>
+</imprint>
+<bibseries>
+<title render="italic">Under blue skies : the social construction of intellectual disability in Western Australia</title>
+<name type="author">Errol Cocks</name>
+<num type="pages">53-91</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

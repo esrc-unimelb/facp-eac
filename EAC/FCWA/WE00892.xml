@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00892</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Collection</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-02-04">2013-02-04</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-11-28">2014-11-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00892b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>MercyCare Ltd, Records [St Joseph's Girls' Orphanage, St Vincent's Foundling Home, Catherine McAuley Centre]</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1868-01-01">1868</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>MercyCare Ltd holdsa collection of records about the Homes run by the Sisters of Mercy in Western Australia. MercyCare encourages you to either contact them directly for access to personal records, or use one of the available Support Services.</abstract>
+<h4>Access Conditions</h4>
+<p>While access to these records is restricted to protect the privacy of individuals, you are very welcome to enquire.</p>
+<h4>Records</h4>
+<p>Records that are known to exist include:</p>
+<list><item> Admission registers for the years 1868-1928</item>
+<item> Case records (1979 forward)</item>
+<item> Maintenance registers 1901-1948 and 1958-1972</item>
+<item> Committal warrants to 1951</item>
+<item> Baptism Certificates to 1972 (those for the 1950s are missing)</item>
+<item> Social security payments records 1960s (those for the 1970s are missing)</item>
+<item> Ailments register 1915</item></list>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00325b.htm">
+<relationEntry localType="Organisation">
+MercyCare (2002 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00196b.htm">
+<relationEntry localType="Organisation">
+St Vincent's Foundling Home (1914 - 1971)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00191b.htm">
+<relationEntry localType="Organisation">
+St Joseph's Girls' Orphanage (1901 - 1971)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00878b.htm">
+<relationEntry localType="Organisation">
+St Joseph's Catholic Orphanage for Girls (1868 - 1901)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01174b.htm">
+<relationEntry localType="Contact Details">
+Mercy Community Services Inc. (MercyCare) - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00345b.htm">
+<relationEntry localType="Organisation">
+Catherine McAuley Centre (1971 - 1991)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'MercyCare Ltd, Records [St Joseph's Girls' Orphanage, St Vincent's Foundling Home, Catherine McAuley Centre]', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">MercyCare Ltd, Records [St Joseph's Girls' Orphanage, St Vincent's Foundling Home, Catherine McAuley Centre]</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00892b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

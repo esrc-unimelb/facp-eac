@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01346</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-06-03">2014-06-03</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-06-15">2016-06-15</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01346b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Contact and Exchange Centre</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1975-01-01">1975</fromDate>
+<toDate standardDate="1978-12-31">1978</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Hostel</term>
+</function>
+<function>
+<term>Non-denominational</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Contact and Exchange Centre opened in November 1975 at Byron Place in Adelaide. It was established and run by an independent group of social workers and social work students from the South Australian Institute of Technology. It initially provided short term accommodation for homeless young people.. The Centre moved to Norwood in 1978 and was renamed the Norwood Youth Shelter.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1975-01-01">1975</fromDate>
+<toDate standardDate="1978-12-31">1978</toDate>
+</dateRange>
+<placeEntry>Adelaide</placeEntry>
+<event>Location - Contact and Exchange Centre was situated at Byron Place, Adelaide</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01347b.htm">
+<relationEntry localType="Organisation">
+Norwood Youth Shelter (1978 - 1980s)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Contact and Exchange Centre', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Contact and Exchange Centre</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01346b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000114.htm">
+<relationEntry localType="published">Report: Children in State Care Commission of Inquiry: Allegations of sexual abuse and death from criminal conduct, presented to the South Australian Parliament by the Hon. E.P. Mullighan QC, Commisioner</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mullighan, the Hon E.P.</name>
+<title render="italic">Children in State Care Commission of Inquiry: Allegations of sexual abuse and death from criminal conduct, presented to the South Australian Parliament by the Hon. E.P. Mullighan QC, Commisioner</title>
+<imprint>
+<place>Adelaide, South Australia</place>
+<publisher>Children in State Care Commission of Enquiry</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="https://www.decd.sa.gov.au/department/reviews-and-responses/children-state-care"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

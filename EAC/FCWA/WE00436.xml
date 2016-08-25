@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00436</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-08-23">2011-08-23</eventDateTime>
+<agentType>human</agentType>
+<agent>Leanne Howard and Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-05-14">2015-05-14</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00436b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>British Association for Adoption and Fostering</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="also known as"><part>British Agencies for Adoption and Fostering</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1978-01-01">1978</fromDate>
+<toDate standardDate="2001-12-31">2001</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+<nameEntry localType="acronym"><part>BAAF</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1978-01-01">1978</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Peak Body</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The British Association for Adoption and Fostering hosts a web-based resource called 'Adoption Search Reunion', which has a range of resources that help people search for their British relatives and access records about adoption. The website might be useful for: people who were sent to Australia as unaccompanied child migrants; adoptees in Western Australia whose birth parents were British; or people who went into out of home care or were adopted in Australia after their parent(s) emigrated from Britain and who have subsequently lost contact with their British extended family of origin.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00473b.htm">
+<relationEntry localType="Event">
+Child and Youth Migration to Western Australia (1913 - 1968)
+</relationEntry>
+<descriptiveNote>
+<p>The British Association for Adoption and Fostering may be a useful records access service for people who were involved in child and youth migration from Britain and who wish to reconnect with families of origin.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00438b.htm">
+<relationEntry localType="Glossary Term">
+Adoption (1896 - )
+</relationEntry>
+<descriptiveNote>
+<p>The British Association for Adoption and Fostering may be a useful records access service for people who were adopted in Australia and whose birth parents were British.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'British Association for Adoption and Fostering', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">British Association for Adoption and Fostering</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00436b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001339.htm">
+<relationEntry localType="published">Resource: Adoption Search Reunion</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Adoption Search Reunion</title>
+<imprint>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.adoptionsearchreunion.org.uk/default.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000590.htm">
+<relationEntry localType="published">Resource Section: Database of Archives of Non-Governmental Organisations</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Database of Archives of Non-Governmental Organisations</title>
+<imprint>
+<publisher>University of Birmingham</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.dango.bham.ac.uk"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

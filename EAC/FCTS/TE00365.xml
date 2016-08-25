@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00365</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-02-07">2012-02-07</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-12-09">2014-12-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00365b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>Orana Retarded Children's Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1968-01-01">1968</fromDate>
+<toDate standardDate="1990-12-31">1990?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Approved Children's Home</term>
+</function>
+<function>
+<term>Children's Home</term>
+</function>
+<function>
+<term>Disability Institution</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Orana Retarded Children's Home, run by the Northern Branch of the Retarded Children's Welfare Association, opened in Newnham in 1968. It accommodated country children with intellectual disabilities, aged between 6 and 16, so that they could attend special schools in Launceston. State wards with intellectual disabilities also lived at the Home. Orana closed around 1990.</abstract>
+<p>Orana opened on 21 September 1968 in Newnham. The name was supposed to be an Aboriginal word meaning welcome.</p>
+<p>The Home could accommodate six children. It was in a house with a large lounge room, a dining area, four bedrooms, and a fifth room which could be a study. The first inspection report read: 'The home is situated on one (1) acre of beautifully kept land with a tennis court, hot house, fowl run, camellia house, lawns and cement paving, kennels and lily ponds, trees and shrubs.' In 1971, a new 50,000 wing opened.</p>
+<p>From 1972, the home began having funding problems. In 1973, they lost $250 to $300 a year for every state ward that they accommodated.</p>
+<p>The house was destroyed in about 2010 and replaced with a new building. It is now the site of the Launceston City Mission's Orana House which provides accommodation and assistance with recovery from drug and alcohol problems to men and women over the age of 21.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1968-09-21">21 September 1968</fromDate>
+<toDate standardDate="1968-09-21">21 September 1968</toDate>
+</dateRange>
+<placeEntry>Newnham</placeEntry>
+<event>Location - Orana Retarded Children's Home was in George Town Road, Newnham</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00330b.htm">
+<relationEntry localType="Organisation">
+Retarded Children's Welfare Association (1952 - 1982)
+</relationEntry>
+<descriptiveNote>
+<p>The Northern Branch of the Retarded Children's Welfare Association ran Orana Retarded Children's Home.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00366b.htm">
+<relationEntry localType="Archival Item">
+59/4/3 Rehabilitation-Services for Handicapped-Individual Hostels-Orana Hostel-156 George Town Road (1968 - 1973)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Orana Retarded Children's Home', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Orana Retarded Children's Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00365b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

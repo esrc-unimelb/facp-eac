@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00110</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-06-14">2011-06-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-23">2015-03-23</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00110b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Independent Order of Odd Fellows</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Acronym"><part>I.O.O.F.</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1819-01-01">1819</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Independent Order of Odd Fellows maintains a structure of Lodges throughout the world. It was founded in 1819 in Baltimore, USA with the establishment of Washington Lodge No. 1. A fundamental aim of the organisation is to provide care for orphaned and neglected children as well as the elderly.</abstract>
+<p>This lodge received its charter from Manchester Unity of Odd Fellows in England. Since its foundation its mandate has been 'to visit the sick, relieve the distressed, educate the orphan and bury the dead.'</p>
+<p>In Australia in 2013, lodges operate in South Australia, New South Wales, Western Australia, Queensland and Tasmania.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00109b.htm">
+<relationEntry localType="Organisation">
+Leslie Tooth Home (1921 - 1931)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Independent Order of Odd Fellows', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Independent Order of Odd Fellows</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00110b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000023.htm">
+<relationEntry localType="published">Book: Manchester Unity I.O.O.F. Queensland branch centenary 1848-1948</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dunstan, R. L.</name>
+<title render="italic">Manchester Unity I.O.O.F. Queensland branch centenary 1848-1948</title>
+<imprint>
+<place>Brisbane</place>
+<publisher>Queensland Oddfellows' Magazine</publisher>
+<date>1948</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/objects/QD0000037.htm">
+<relationEntry localType="digitalObject">Girls from M.U.I.O.O.F. Children's Home</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Picture Queensland, John Oxley Library, State Library of Queensland</repository>
+<unittitle>Girls from M.U.I.O.O.F. Children's Home</unittitle>
+<unitid>JOL, SLQ Negative number: 170289</unitid>
+<unitdate>c. 1921</unitdate>
+<abstract>The following description was included on the back of the photograph: The old home, Kingcliffe, now Moorlands at 60 Gordon Parade, Manly, was opened in 1921 by the M.U.I.O.O.F. Lodge as a home for orphaned children. Photograph is of three girls and the surname mentioned on the back of the photograph is Briggs. They are wearing the uniform dress and hat provided by the home.</abstract>
+<note label="rights">Copyright on this image has expired</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

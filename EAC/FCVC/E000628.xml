@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000628</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-08-04">2010-08-04</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-21">2016-03-21</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000628b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Training Centre</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1959-01-01">1959</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Type of 'care'</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The term 'training centre' described an institution for people with an intellectual disability. Its use in Victoria dates back to the Mental Health Act 1959. Training centres are not to be confused with 'day training centres', another type of institution for the disabled. Day training centres did not provide residential accommodation. With the passage of the legislation, institutions for children with intellectual disabilities (formerly known as 'colonies') took on the new title of 'training centres'.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000624b.htm">
+<relationEntry localType="Organisation">
+Mental Health Authority, State of Victoria (1962 - 1978)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Training Centre', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Training Centre</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000628b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001154.htm">
+<relationEntry localType="published">Report: Guide to Out-of-Home Care Services 1940-2000 - Volume Two: Data Base</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James Jenkinson Consulting</name>
+<title render="italic">Guide to Out-of-Home Care Services 1940-2000 - Volume Two: Data Base</title>
+<imprint>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000319.htm">
+<relationEntry localType="published">Article: From mental hygiene to community mental health: psychiatrists and Victorian public administration from the 1940s to 1990s</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Robson, Belinda</name>
+<title render="quoted">From mental hygiene to community mental health: psychiatrists and Victorian public administration from the 1940s to 1990s</title>
+<imprint>
+<date>2008</date>
+</imprint>
+<bibseries>
+<title render="italic">Provenance</title>
+<num type="issue">7</num>
+</bibseries>
+<extptr linktype="simple" href="http://prov.vic.gov.au/wp-content/uploads/2011/05/provenanceissue7.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000530.htm">
+<relationEntry localType="published">Resource Section: Mental Health Act 1959</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Mental Health Act 1959</title>
+<imprint>
+<publisher>Australasian Legal Information Institute</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Victorian Historical Acts</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.austlii.edu.au/au/legis/vic/hist_act/mha1959128/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

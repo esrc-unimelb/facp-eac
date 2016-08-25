@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>YE00338</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNT</agencyCode>
+<agencyName>Find &amp; Connect - Northern Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-03-19">2014-03-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-05-12">2014-05-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nt/biogs/YE00338b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Evangelical Lutheran Synod of Australia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1863-01-01">1863</fromDate>
+<toDate standardDate="1944-12-31">1944</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Church</term>
+</function>
+<function>
+<term>Lutheran</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Evangelical Lutheran Synod of Australia was established in 1874 as one of the arms of the Lutheran Church in Australia. Missionaries from this Synod, together with German missionaries from the Hermannsburg Missionary Society, travelled to the Northern Territory from South Australia and established the Hermannsburg Mission in 1877. In 1944 the part of this Synod that had not broken away to join the United Evangelical Lutheran Church of Australia in 1926, became known as Evangelical Lutheran Church of Australia.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00017b.htm">
+<relationEntry localType="Organisation">
+Hermannsburg Mission (1877 - 1982)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1877-01-01">1877</fromDate>
+<toDate standardDate="1926-12-31">1926</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00339b.htm">
+<relationEntry localType="Organisation">
+United Evangelical Lutheran Church of Australia (1921 - 1966)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Evangelical Lutheran Synod of Australia', in <span style="font-style:italic">Find &amp; Connect - Northern Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Evangelical Lutheran Synod of Australia</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Northern Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00338b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/bib/YP0000280.htm">
+<relationEntry localType="published">Resource Section: Lutheran Archives</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Lutheran Archives</title>
+<imprint>
+<publisher>Lutheran Church of Australia</publisher>
+<date>2012</date>
+</imprint>
+<bibseries>
+<title render="italic">Lutheran Church of Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.lca.org.au/archives.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/bib/YP0000279.htm">
+<relationEntry localType="published">Resource Section: Lutheran Church of Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Lutheran Church of Australia</title>
+<imprint>
+<date>2012</date>
+</imprint>
+<bibseries>
+<title render="italic">Lutheran Church of Australia - Our history</title>
+<name type="author">Lutheran Church of Australia</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.lca.org.au/lutheran-church-of-australia.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

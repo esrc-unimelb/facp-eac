@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01247</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-02-27">2013-02-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-07">2015-08-07</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01247b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Female School of Industry</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1827-01-01">1827</fromDate>
+<toDate standardDate="1926-12-31">1926</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Children's Home</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Non-denominational</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Female School of Industry was first established in Macquarie Street in Sydney, then moved to Darlinghurst Road around 1877. It finally moved to Petersham in 1911. It was a girls' home and domestic training home for girls aged 4 to 14. It closed in 1926.</abstract>
+<p>The Female School of Industry was established by a committee led by Eliza Darling, the wife of New South Wales' Governor in 1827. It admitted girls aged between four and nine years of age. Girls were 'trained' in domestic service until they were old enough to be sent out to work, usually at the age of 12 to 14.</p>
+<p>It is not clear from the annual reports how girls came to enter the home: presumably they were placed by family members or guardians who were in difficulty, or who wanted training for their daughters. Parents were expected to provide maintenance for their children, if they could, and visitors were only allowed on designated days. Although girls were expected to stay until they reached working age, the annual reports do mention that some were removed from the school 'by their friends'.</p>
+<p>The Female School of Industry was dissolved by a special Act of Parliament in 1926 and its remaining assets were vested with the Church of England Archbishop of Sydney. The location of surviving records of the Female School of Industry is not known.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1827-01-01">1827</fromDate>
+<toDate standardDate="1877-12-31">1877?</toDate>
+</dateRange>
+<placeEntry>Sydney</placeEntry>
+<event>Location - Female School of Industry was situated in Macquarie Street (The Domain)</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1877-01-01">1877</fromDate>
+<toDate standardDate="1911-12-31">1911</toDate>
+</dateRange>
+<placeEntry>Darlinghurst</placeEntry>
+<event>Location - Female School of Industry was situated on Darlinghurst Road, Darlinghurst</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1911-01-01">1911</fromDate>
+<toDate standardDate="1911-01-01">1911</toDate>
+</dateRange>
+<placeEntry>Petersham</placeEntry>
+<event>Location - Female School of Industry was situated at Petersham</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00052b.htm">
+<relationEntry localType="Organisation">
+Anglican Diocese of Sydney (1788 - )
+</relationEntry>
+<descriptiveNote>
+<p>The Church of England Sydney Diocese assumed control of the assets of the Female School of Industry in 1926</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00047b.htm">
+<relationEntry localType="Organisation">
+Church of England (1788 - 1981)
+</relationEntry>
+<descriptiveNote>
+<p>The Church of England assumed control of the remaining assets of the Female School of Industry in 1926.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Female School of Industry', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Female School of Industry</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01247b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000462.htm">
+<relationEntry localType="published">Report: Annual report of the Female School of Industry</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Female School of Industry</name>
+<title render="italic">Annual report of the Female School of Industry</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Government Printer</publisher>
+<date>1828-1926</date>
+</imprint>
+<extptr linktype="simple" href=""></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000120.htm">
+<relationEntry localType="published">Book: Children of the back lanes: destitute and neglected children in colonial New South Wales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ramsland, John</name>
+<title render="italic">Children of the back lanes: destitute and neglected children in colonial New South Wales</title>
+<imprint>
+<place>Kensington</place>
+<publisher>University of New South Wales Press</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000353.htm">
+<relationEntry localType="digitalObject">Female School of Industry, Macquarie St, Sydney</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Female School of Industry, Macquarie St, Sydney</unittitle>
+<unitid>Government Printing Office 1 05679, Digital order number d1_05679</unitid>
+<unitdate>1877</unitdate>
+<abstract>This is a digital copy of a glass plate negative in the State Library of NSW's collection</abstract>
+<note label="rights">State Library of NSW</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000352.htm">
+<relationEntry localType="digitalObject">Female School of Industry, 1834 / F. Walker</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Female School of Industry, 1834 / F. Walker</unittitle>
+<unitid>Digital order number a928006 [SSV1 / Pub / Fe Sc / 1]</unitid>
+<unitdate>1834</unitdate>
+<abstract>This is a digital copy of a drawing in the State Library Collection of the Female School of Industry at Macquarie Street, Sydney.</abstract>
+<note label="rights">State Library of NSW</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

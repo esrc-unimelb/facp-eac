@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00043</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-01-12">2011-01-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-05-14">2015-05-14</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00043b.htm</entityId>
+<entityType>corporatebody</entityType>
+<nameEntry><part>The Anglican Church of Australia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Also known as"><part>Church of England</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1981-01-01">1981</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Church</term>
+</function>
+<function>
+<term>Anglican</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Anglican Church of Australia replaced the Church of England in Australia and Tasmania in 1981. It continued to run Roland Children's Home until the early 1990s and Clarendon Children's Home until 2006. In 1998, in response to a public outcry, the Church released <span style="font-style:italic">Not the way of Christ</span>, an inquiry into sexual misconduct and paedophilia by its clergy in Tasmania. No children's homes are mentioned in this report. Since 1983, under the auspices of the Church, Anglicare Tasmania has offered services to people in crisis. It also runs the Social Action and Research Centre.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00543b.htm">
+<relationEntry localType="Organisation">
+The Church of England in Australia and Tasmania (1788 - 1981)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00836b.htm">
+<relationEntry localType="Organisation">
+Anglicare Tasmania (1977 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00227b.htm">
+<relationEntry localType="Glossary Term">
+Therapeutic Residential Care (1990? - )
+</relationEntry>
+<descriptiveNote>
+<p>The Anglican Church of Australia runs Anglicare which provides therapeutic residential care.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00218b.htm">
+<relationEntry localType="Glossary Term">
+Residential Care
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00056b.htm">
+<relationEntry localType="Organisation">
+Roland Boys' Home (1951 - c. 1993)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00028b.htm">
+<relationEntry localType="Organisation">
+Clarendon Children's Home (1923 - 2004)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1981-01-01">1981</fromDate>
+<toDate standardDate="2006-12-31">2006</toDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'The Anglican Church of Australia', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">The Anglican Church of Australia</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00043b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000367.htm">
+<relationEntry localType="published">Resource Section: Anglicanism</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Boyce, Peter</name>
+<title render="quoted">Anglicanism</title>
+<imprint>
+<publisher>Centre for Tasmanian Historical Studies</publisher>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">The companion to Tasmanian history</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.utas.edu.au/library/companion_to_tasmanian_history/A/Anglicanism.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000356.htm">
+<relationEntry localType="published">Book: Working for a just Tasmania: 25 years of Anglicare</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Boyce, James</name>
+<title render="italic">Working for a just Tasmania: 25 years of Anglicare</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Anglicare Tasmania</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.anglicare-tas.org.au/AboutUs/Ourhistory.aspx"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000355.htm">
+<relationEntry localType="published">Report: Not the way of Christ: independent pastoral inquiry into sexual misconduct by clergy or officers of the Anglican Diocese of Tasmania with particular reference to paedophilia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kohl, Tanya and Crowley, Michael</name>
+<title render="italic">Not the way of Christ: independent pastoral inquiry into sexual misconduct by clergy or officers of the Anglican Diocese of Tasmania with particular reference to paedophilia</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Anglican Diocese of Tasmania</publisher>
+<date>1998</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000337.htm">
+<relationEntry localType="published">Book: The Anglican Church in Tasmania: a diocesan history to mark the sesquicentenary, 1992</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stephens, Geoffrey</name>
+<title render="italic">The Anglican Church in Tasmania: a diocesan history to mark the sesquicentenary, 1992</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Trustees of the Diocese</publisher>
+<date>1991</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/objects/TD0000143.htm">
+<relationEntry localType="digitalObject">The interior of the Anglican St David's Cathedral, Hobart</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Tasmanian Images: Tasmanian Archive and Heritage Office</repository>
+<unittitle>The interior of the Anglican St David's Cathedral, Hobart</unittitle>
+<unitid>TAHO Reference: PH30-1-5555</unitid>
+<note label="rights">Reproduction rights owned by the Tasmanian Archive and Heritage Office.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

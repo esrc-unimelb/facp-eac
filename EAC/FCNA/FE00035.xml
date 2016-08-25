@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>FE00035</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNA</agencyCode>
+<agencyName>Find &amp; Connect - Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-10-02">2009-10-02</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-05-06">2015-05-06</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/australia/biogs/FE00035b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Siblings in Care</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<functions>
+</functions>
+<biogHist>
+<abstract>Siblings in care refers to policies regarding the separation of brothers and sisters once they were placed in 'care'. For many children, being in 'care' meant being separated not only from parents, but also from their siblings. In the 1960s, it was reported that over 60 per cent of children in care had been separated from their siblings, and up to one third were unable to see each other after separation. Being separated from siblings caused emotional distress for children. The reasons for siblings being separated in placements were largely organisational. Many institutions only accommodated children of one sex, and even those with girls and boys kept the sexes separate as much as possible. Some institutions only took children of a particular age, such as toddlers' homes, children's homes or babies' homes. Also, siblings can be separated due to a lack of vacancies with a particular 'care' provider.</abstract>
+<p>The Forgotten Australians report remarked that separating siblings was a common practice. Often little effort was made to keep children informed about the whereabouts of siblings, with the result that siblings 'drifted apart'. Sometimes, siblings were not even told that they were related. One submission to the inquiry expresses the pain of being separated from family members:</p>
+<p>'Our entire family was ripped apart and we can never get back together. They split me away from my 1-week old brother and we never knew each other until we were old. I had cousins in St Aidans and the nuns never told me. I never knew my family. How can you get back together when you don't know each other?'</p>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Siblings in Care', in <span style="font-style:italic">Find &amp; Connect - Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Siblings in Care</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00035b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

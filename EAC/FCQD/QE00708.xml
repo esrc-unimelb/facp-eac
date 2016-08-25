@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00708</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-11-08">2013-11-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Ann McCarthy</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-07">2015-08-07</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00708b.htm</entityId>
+<entityId localType="Anglican Diocese of Brisbane Records and Archives Centre reference number">Series 1</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Resident Files</part>
+<part localType="parent">Tufnell Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1960-01-01">c. 1960</fromDate>
+<toDate standardDate="1980-12-31">c. 1980</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Resident files were created by the Tufnell Home. They contain individual and family files. The files may include admission forms, departmental reports and health notes. Each file is housed in a manila folder labelled with the name/s of the child/family concerned. The files are arranged alphabetically in boxes. Quantity: 32 boxes.</abstract>
+<h4>Access Conditions</h4>
+<p>If you would like to find out about your time in 'care' at the Tufnell Children's Home, or access personal files, contact the Anglican Diocese of Brisbane Records and Archives Centre. The Anglican Diocese of Brisbane Records and Archives Centre allows for amendments to be inserted into the files, if requested, after verification or appropriate declaration. There are no charges to Forgotten Australians for the use of research facilities, replacement copies of certificates, and photocopies.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00495b.htm">
+<relationEntry localType="Organisation">
+Anglican Records and Archives Centre (1979 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00674b.htm">
+<relationEntry localType="Archival Collection">
+Tufnell Home, Records (1893 - 1990s)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00683b.htm">
+<relationEntry localType="Contact Details">
+Anglican Records and Archives Centre - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Resident Files', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Resident Files</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00708b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000670.htm">
+<relationEntry localType="published">Resource: The Anglican Records and Archives Centre Guide to Records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Records and Archives Centre, Diocese of Brisbane</name>
+<title render="italic">The Anglican Records and Archives Centre Guide to Records</title>
+<imprint>
+<date>2001-2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.anglicanarchives.org.au/collections/HDMS.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

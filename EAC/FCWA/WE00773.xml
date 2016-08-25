@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00773</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Item</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-08-24">2012-08-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-02-24">2015-02-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00773b.htm</entityId>
+<entityId localType="National Library of Australia Bib ID">5717501</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Barbara Henderson interviewed by Virginia Macleod in the Forgotten Australians and Former Child Migrants oral history project</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2011-01-01">2011</fromDate>
+<toDate standardDate="2011-12-31">2011</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>[From the National Library of Australia's Forgotten Australians and Former Child Migrants oral history project]
+
+Barbara Henderson, born in 1940, discusses her family background; being evacuated from London because of bombing during WW2; living at The Vale from 1942; her two brothers being evacuated to Weymouth; early memories playing with friends; schooling; leaving school and becoming a hairdresser at age 15; marriage (1962) and having a child; remarrying (1976) and living in Trinidad; returning to The Vale to live with her extended family; memories of the family's house and its layout; fond memories of her mother and aunt at this time; memories of her cousin, Peter Bidwell; memories of her cousin being placed in care; learning later that her cousin had been sent to Australia; the family corresponding with her cousin; the family meeting her cousin; feelings of guilt in the family; her good relationship with her cousin; her cousin's childhood in Australia; her cousin's feelings about his childhood experiences; her cousin's marriage, return to Australia, and then return to England; the Australian and British Apologies; her opinions in regard to child migration; religion; her feelings about being reunited with her cousin.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00471b.htm">
+<relationEntry localType="Archival Collection">
+Forgotten Australians and Former Child Migrants oral history project [sound recording], National Library of Australia (2009 - 2012)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01159b.htm">
+<relationEntry localType="Contact Details">
+National Library of Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00774b.htm">
+<relationEntry localType="Archival Item">
+Jasmine Bidwell interviewed by Virginia Macleod in the Forgotten Australians and Former Child Migrants oral history project (2011)
+</relationEntry>
+<descriptiveNote>
+<p>Jasmine Bidwell and Barbara Henderson mention each other in their interviews.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00772b.htm">
+<relationEntry localType="Archival Item">
+Peter Bidwell interviewed by Virginia Macleod in the Forgotten Australians and Former Child Migrants oral history project (2011)
+</relationEntry>
+<descriptiveNote>
+<p>Peter Bidwell and Barbara Henderson are cousins, they speak about each other in their interviews.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Barbara Henderson interviewed by Virginia Macleod in the Forgotten Australians and Former Child Migrants oral history project', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Barbara Henderson interviewed by Virginia Macleod in the Forgotten Australians and Former Child Migrants oral history project</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00773b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

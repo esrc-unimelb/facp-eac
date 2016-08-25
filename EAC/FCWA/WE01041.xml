@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01041</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-04-26">2013-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-22">2016-04-22</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01041b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Disability Services Act 1992</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1992-01-01">1992</fromDate>
+<toDate standardDate="1993-12-31">1993</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Disability Services Act 1992 (Act No. 77 of 1992) was passed on 18 December 1992. Its long title was 'An Act providing for the furtherance of principles applicable to people with disablities, for the funding of services to people with disabilities that further certain objectives, for the resolution of complaints by such people, for the establishcment of the Advisory Council for Disability Services, and for related purposes.' Disability was defined as 'a substantially reduced capacity…for communication, social interaction, learning or mobility.' Organisations that provided out of home care for children with a disability were covered by this Act, which was repealed by the Disability Services Act 1993.</abstract>
+<p>Service providers who were grant-holders under this Act were required to report the death or 'injury that is not of a trivial nature' of a person in their care to the Disability Services Commission.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01506b.htm">
+<relationEntry localType="Concept">
+Law in Western Australia (1829 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01503b.htm">
+<relationEntry localType="Concept">
+State of Western Australia (1901 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01012b.htm">
+<relationEntry localType="Organisation">
+Bureau for Disability Services (1991 - c. 1993)
+</relationEntry>
+<descriptiveNote>
+<p>The Bureau for Disability Services administered the <span style="font-style:italic">Disability Services Act 1992</span>.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01011b.htm">
+<relationEntry localType="Legislation">
+Disability Services Act 1986, Commonwealth of Australia (1987 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01042b.htm">
+<relationEntry localType="Legislation">
+Disability Services Act 1993 (1993 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Disability Services Act 1992', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Disability Services Act 1992</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01041b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000962.htm">
+<relationEntry localType="published">Resource Section: Disability Services Act 1992</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Disability Services Act 1992</title>
+<imprint>
+<publisher>State Law Publisher of Western Australia</publisher>
+<date>1992</date>
+</imprint>
+<extptr linktype="simple" href="http://www.slp.wa.gov.au/legislation/statutes.nsf/main_mrtitle_3386_homepage.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000328.htm">
+<relationEntry localType="digitalObject">Disability Services Act 1992</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Law Publisher of Western Australia</repository>
+<unittitle>Disability Services Act 1992</unittitle>
+<unitid>077 of 1992</unitid>
+<unitdate>18 December 1992</unitdate>
+<abstract>This is a version of the Disability Services Act 1992, which is published on the State Law Publisher of Western Australia's website.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

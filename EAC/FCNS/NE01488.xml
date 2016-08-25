@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01488</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-10-31">2013-10-31</eventDateTime>
+<agentType>human</agentType>
+<agent>Elizabeth Daniels</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-02-26">2015-02-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01488b.htm</entityId>
+<entityId localType="ISMAPNG Archives Bathurst Repository Series Number">Series 012</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Personal Record Cards</part>
+<part localType="parent">Croagh Patrick Orphanage</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1966-01-27">27/1/1966</fromDate>
+<toDate standardDate="1981-04-23">23/4/1981</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>This Series of records was created by Croagh Patrick Orphanage, Orange (Boys' Home). The Series is made up of one box of double-sided printed Record cards filled out by hand and covers the years 1966 to 1981. The information includes Name, Date and Place of Birth, Religion, Parents' details, Date and circumstances of Admission, Maintenance details, Discharge details, Medical information and Immunisation Record.</abstract>
+<h4>Access Conditions</h4>
+<p>Application for access must be made, in writing, to the Archivist, providing personal identification documents to establish the right to access information. Physical access to the records is not permitted due to their fragility and the need to protect the confidentiality of information concerning other persons. Information will be forwarded by mail.</p>
+<p>The Personal Record Cards are managed by the Institute of the Sisters of Mercy of Australia and Papua New Guinea (ISMAPNG). ISMAPNG formed out of the consolidation of 14 of the 17 congregations of the Institute of the Sisters of Mercy in Australia, and from the region of Papua New Guinea. This included the Bathurst Congregation, which ran the Croagh Patrick Orphanage from 1969 until it closed down in 1982. Prior to 1969, the Croagh Patrick Orphanage was run by the Daughters of Charity of St Vincent de Paul, and was known as the Croagh Patrick Home.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00607b.htm">
+<relationEntry localType="Archival Collection">
+Croagh Patrick Orphanage Records (1929 - 1981)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01476b.htm">
+<relationEntry localType="Contact Details">
+Institute of Sisters of Mercy of Australia and Papua New Guinea Archives, Bathurst Repository - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Personal Record Cards', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Personal Record Cards</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01488b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?> <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>QE00079</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCQD</agencyCode>
+<agencyName>Find &amp; Connect - Queensland</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-06-14">2011-06-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Lee Butterworth</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-09">2015-03-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/qld/biogs/QE00079b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Hebron House</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1986-05-01">1 May 1986</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Youth Welfare Service</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Hebron House,was operated by Teen Challenge. It opened on 19 February 1979 at Frasers Road, Ashgrove and was licensed on 11 September 1979. In around 1980, Hebron House moved to Milton Road, Torwood and moved again in around 1985 to Kelvin Grove. (The Frasers Road property became known as Ashgrove Lodge). Hebron House was funded as supported accommodation from 1 January 1985 and in 2013 operated under the name of New Hope House.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1979-02-19">19 February 1979</fromDate>
+<toDate standardDate="1980-12-31">1980?</toDate>
+</dateRange>
+<placeEntry>Ashgrove</placeEntry>
+<event>Address - Hebron House was situated at Frasers Road, Ashgrove</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1980-01-01">1980?</fromDate>
+<toDate standardDate="1985-01-01">1 January 1985?</toDate>
+</dateRange>
+<placeEntry>Torwood</placeEntry>
+<event>Address - Hebron House was situated at Milton Road, Torwood</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1985-01-01">1 January 1985?</fromDate>
+<toDate standardDate="2013-12-31">2013</toDate>
+</dateRange>
+<placeEntry>Kelvin Grove</placeEntry>
+<event>Address - Hebron House was situated at 300 Kelvin Grove Road, Kelvin Road</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00145b.htm">
+<relationEntry localType="Organisation">
+Teen Challenge Queensland (1971 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00924b.htm">
+<relationEntry localType="Archival Collection">
+Teen Challenge Queensland Records
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hebron House', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hebron House</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Queensland</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00079b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000001.htm">
+<relationEntry localType="published">Book: Missing pieces: information to assist former residents of children's institutions to access records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Families</name>
+<title render="italic">Missing pieces: information to assist former residents of children's institutions to access records</title>
+<imprint>
+<publisher>State of Queensland</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

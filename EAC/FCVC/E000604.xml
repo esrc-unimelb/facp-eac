@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000604</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2010-07-14">2010-07-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-12-21">2015-12-21</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000604b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Fallen Sisters Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Rescued Sisters Home</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1884-01-01">1884</fromDate>
+<toDate standardDate="1886-12-31">1886?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Female Rescue Home</term>
+</function>
+<function>
+<term>Salvation Army</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Salvation Army established the Fallen Sisters Home, in Carlton, in early 1884. It accommodated women recently released from prison. It closed in around 1886.</abstract>
+<p>The Salvation Army Fallen Sisters Home was for women recently released from prison.</p>
+<p>In 1885, the Salvation Army's 'Prison Gate Brigade' had started a home working with male ex-prisoners.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1884-01-01">1884</fromDate>
+<toDate standardDate="1884-12-31">1884</toDate>
+</dateRange>
+<placeEntry>Carlton</placeEntry>
+<event>Address - The Fallen Sisters Home was located at 11 Barkly Street Carlton</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Fallen Sisters Home', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Fallen Sisters Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000604b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000463.htm">
+<relationEntry localType="published">Book: Among the terraces: Carlton's parks and pastimes</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gleeson, Catherine</name>
+<title render="italic">Among the terraces: Carlton's parks and pastimes</title>
+<imprint>
+<place>North Carlton, Vic</place>
+<publisher>Carlton Forest Project</publisher>
+<date>198?</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000077.htm">
+<relationEntry localType="published">Resource Section: History and Heritage</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">History and Heritage</title>
+<imprint>
+<date>2008</date>
+</imprint>
+<bibseries>
+<title render="italic">The Salvation Army - Australian Southern Territory Website</title>
+<name type="author">The Salvation Army</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.salvationarmy.org.au/about-us_65047/history-and-heritage.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000211.htm">
+<relationEntry localType="digitalObject">Salvation Army Prison-Gate Brigade officers in action</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Salvation Army Prison-Gate Brigade officers in action</unittitle>
+<unitdate>c. 1885</unitdate>
+<note label="rights">The Salvation Army - Australian Southern Territory</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000764</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-11-01">2011-11-01</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-04">2016-05-04</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000764b.htm</entityId>
+<entityId localType="National Library of Australia Bib ID">294581</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Ron Thorpe interviewed by Helen Belle Curzon-Siggers in the Bringing them home oral history project [sound recording]</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1999-01-01">1999</fromDate>
+<toDate standardDate="1999-12-31">1999</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>'Ron Thorpe interviewed by Helen Belle Curzon-Siggers in the Bringing them home oral history project' is a sound recording held at the National Library of Australia. It is a recording of an interview with Ron Thorpe in 1999. In the interview Ron Thorpe discusses his childhood and time in care at Allambie Children's Home, Melbourne, St. Joseph's Catholic Home in Bacchus Marsh [editor's note: also known as Providence Children's Home] and Turana Home.</abstract>
+<h4>Access Conditions</h4>
+<p>Access open for research, personal copies and public use.</p>
+<h4>Records</h4>
+<p>[From NLA catalogue entry]: Thorpe and his four siblings were separated from their parents when he was aged 5. He spent a short time at Allambie Children's Home, Melbourne, and then moved to St. Joseph's Catholic Home in Bacchus Marsh [editor's note: this is Providence Children's Home] where he remained until the age of 15. He describes living conditions at St. Joseph's. He then lived briefly with his mother before spending a short time in Turana Home. He discusses his education, early working life and music career.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000769b.htm">
+<relationEntry localType="Archival Collection">
+Bringing them home oral history project [sound recording] (1998 - 2002)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000847b.htm">
+<relationEntry localType="Contact Details">
+National Library of Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000626b.htm">
+<relationEntry localType="Organisation">
+Turana (1955 - 1993)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000152b.htm">
+<relationEntry localType="Organisation">
+Allambie Reception Centre (1961 - 1990)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000333b.htm">
+<relationEntry localType="Organisation">
+Providence Children's Home (c. 1957 - 1978)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Ron Thorpe interviewed by Helen Belle Curzon-Siggers in the Bringing them home oral history project [sound recording]', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Ron Thorpe interviewed by Helen Belle Curzon-Siggers in the Bringing them home oral history project [sound recording]</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000764b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

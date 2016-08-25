@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>FE00094</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNA</agencyCode>
+<agencyName>Find &amp; Connect - Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-05-29">2012-05-29</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-05">2016-05-05</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/australia/biogs/FE00094b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>British government apology to child migrants</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2010-02-24">24 February 2010</fromDate>
+<toDate standardDate="2010-02-24">24 February 2010</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>On 24 February 2010, the British Prime Minister Gordon Brown issued an apology to child migrants, for the United Kingdom's role in deporting thousands of children to Australia, Canada, New Zealand, South Africa and Zimbabwe.
+
+Mr Brown said:
+
+'To all those former child migrants and their families... We are truly sorry. They were let down.
+
+We are sorry they were allowed to be sent away at the time when they were most vulnerable. We are sorry that instead of caring for them, this country turned its back.
+
+And we are sorry that the voices of these children were not always heard, their cries for help not always heeded. And we are sorry that it has taken so long for this important day to come and for the full and unconditional apology that is justly deserved.'
+
+In his apology speech, the Prime Minister announced the Family Restoration Fund, to help reunite former child migrants with their families. The Fund is administered by the Child Migrants Trust and is open to any former child migrant sent before 1970 from England, Northern Ireland, Scotland or Wales as part of child migration schemes.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00098b.htm">
+<relationEntry localType="Glossary Term">
+Sending Agency (c. 1945 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00085b.htm">
+<relationEntry localType="Glossary Term">
+Youth Migrant
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00084b.htm">
+<relationEntry localType="Glossary Term">
+Child Migrant
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'British government apology to child migrants', in <span style="font-style:italic">Find &amp; Connect - Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">British government apology to child migrants</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00094b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/bib/FP0000022.htm">
+<relationEntry localType="published">Site Exhibition: On their own: Britain's child migrants</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">On their own: Britain's child migrants</title>
+<imprint>
+<publisher>Australian National Maritime Museum and National Museums Liverpool</publisher>
+<date>2010</date>
+</imprint>
+<extptr linktype="simple" href="http://www.britainschildmigrants.com/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/bib/FP0000021.htm">
+<relationEntry localType="published">Resource Section: House of Commons Hansard Debates for 24 February 2010</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">House of Commons Hansard Debates for 24 February 2010</title>
+<imprint>
+<publisher>United Kingdom Parliament</publisher>
+<date>2010</date>
+</imprint>
+<bibseries>
+<title render="italic">Hansard</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.publications.parliament.uk/pa/cm200910/cmhansrd/cm100224/debtext/100224-0004.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/objects/FD0000026.htm">
+<relationEntry localType="digitalObject">Child Migrant Apology</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>YouTube</repository>
+<unittitle>Child Migrant Apology</unittitle>
+<unitdate>February 2010</unitdate>
+<abstract>This is a link to a video on the Downing Street YouTube channel, of the British Prime Minister Gordon Brown's apology to child migrants.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

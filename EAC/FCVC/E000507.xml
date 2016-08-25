@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000507</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-11-19">2009-11-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-09-09">2014-09-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000507b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Windermere Child and Family Services</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1987-01-01">c. 1987</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Community Service Organisation</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Windermere Child and Family Services takes its name from the location of the Melbourne Orphan Asylum from 1878, in Windemere Crescent, Brighton. Windermere came into being in the wake of changes at the Melbourne Orphanage. With the transition from institutional, congregate care to family group homes during the 1960s, the Orphanage became known as the Melbourne Family Care Organisation. In 1987, it became known as Family Action. Family Action established Windermere Child and Family Services (along with Mallee Family Care and Upper Mallee Family Care) and it ultimately became an independent organisation. In 2009, Windermere Child and Family Services is based in Narre Warren and operates in Melbourne's south-east corridor.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="2009-01-01">2009</fromDate>
+<toDate standardDate="2009-12-31">2009</toDate>
+</dateRange>
+<placeEntry>Narre Warren</placeEntry>
+<event>Location - Windermere Child and Family Services was located in Narre Warren</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000183b.htm">
+<relationEntry localType="Organisation">
+Family Action (1987 - 1993)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Windermere Child and Family Services', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Windermere Child and Family Services</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000507b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000072.htm">
+<relationEntry localType="digitalObject">Timeline of History for OzChild, Mallee Family Care, Upper Murray Family Care and Windermere</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>OzChild</repository>
+<unittitle>Timeline of History for OzChild, Mallee Family Care, Upper Murray Family Care and Windermere</unittitle>
+<unitdate>c. 2001</unitdate>
+<abstract>This diagram is published on OzChild's website to represent the history of OzChild and its predecessor organisations.</abstract>
+<note label="rights">Permission to use or reproduce part or all of this image must be sought from OzChild</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

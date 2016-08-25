@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AE00035</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCAC</agencyCode>
+<agencyName>Find &amp; Connect - Australian Capital Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-06-30">2011-06-30</eventDateTime>
+<agentType>human</agentType>
+<agent>Anna Trengove and Rebe Taylor</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-04-10">2015-04-10</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/act/biogs/AE00035b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Welfare Section</part>
+<part localType="parent">Australian Capital Territory</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1957-01-01">1957</fromDate>
+<toDate standardDate="1970-12-31">1970</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Agency</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Welfare Section of the Australian Capital Territory (ACT) Government was the agency responsible for the welfare of children in the ACT from 1968, though the Section was established in 1957. Before 1968, child welfare in the ACT was the responsibility of the Child Welfare Department of the New South Wales Government. In 1970 the Welfare Section, ACT was renamed the Welfare Branch, ACT.</abstract>
+<p>The Welfare Section of the Australian Capital Territory was, for most of its history, part of the Australian Capital Territory Services Division of the Department of Interior. However, from 1964-1966 it was part of the Central Office Facilities Branch, and from 1968-1966 it was part of the Territories Division.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00100b.htm">
+<relationEntry localType="Organisation">
+Birralee (1957? - 1968)
+</relationEntry>
+<descriptiveNote>
+<p>The closure of Birralee shelter may have been a decision made by the Welfare Section in 1968 as the Shelter is not referred to in annual reports after 1967.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00012b.htm">
+<relationEntry localType="Legislation">
+Child Welfare Ordinance 1957 (1958 - 1988)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1968-01-01">1968</fromDate>
+<toDate standardDate="1970-12-31">1970</toDate>
+</dateRange>
+<descriptiveNote>
+<p>In 1968 the Welfare Section, ACT acquired responsibility for the welfare of children in the ACT, including the responsibilities outlined in the <span style="font-style:italic">Child Welfare Ordinance 1957</span>.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00041b.htm">
+<relationEntry localType="Organisation">
+Welfare Branch, Australian Capital Territory (c. 1970 - c. 1989)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Welfare Section', in <span style="font-style:italic">Find &amp; Connect - Australian Capital Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Welfare Section</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australian Capital Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/act/biogs/AE00035b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000094.htm">
+<relationEntry localType="published">Resource Section: Child Welfare Department (1923-1970)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Parry, Naomi</name>
+<title render="quoted">Child Welfare Department (1923-1970)</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2011</date>
+</imprint>
+<bibseries>
+<title render="italic">Find &amp; Connect New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/nsw/biogs/NE00039b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000113.htm">
+<relationEntry localType="published">Report: Department of Disability, Housing and Community Services: development of the Department's records disposal schedule. Stage 1 Preliminary Investigation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Archives ACT</name>
+<title render="italic">Department of Disability, Housing and Community Services: development of the Department's records disposal schedule. Stage 1 Preliminary Investigation</title>
+<imprint>
+<publisher>Archives ACT</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000111.htm">
+<relationEntry localType="published">Resource Section: Agency Details for CA 2963, Welfare Section of the Australian Capital Territory</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">National Archives of Australia</name>
+<title render="quoted">Agency Details for CA 2963, Welfare Section of the Australian Capital Territory</title>
+<bibseries>
+<title render="italic">RecordSearch</title>
+<name type="author">National Archives of Australia</name>
+</bibseries>
+<extptr linktype="simple" href=""></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000013.htm">
+<relationEntry localType="published">Book: Report, Beyond the image, December 1984 / Review of Welfare Services and Policies in the A.C.T.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Walmsley, R., Coull, V., Vinson, T.</name>
+<title render="italic">Report, Beyond the image, December 1984 / Review of Welfare Services and Policies in the A.C.T.</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Government Publishing Service</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000506</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-11-19">2009-11-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-06-12">2014-06-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000506b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>National Children's Bureau of Australia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Former name"><part>Child and Family Welfare Council of Australia</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1971-01-01">1971</fromDate>
+<toDate standardDate="1986-12-31">1986</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+<nameEntry localType="Former name"><part>Children's Bureau of Australia</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1986-01-01">1986</fromDate>
+<toDate standardDate="1990-12-31">1990</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1971-01-01">1971</fromDate>
+<toDate standardDate="1993-12-31">1993</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Peak Body</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The National Children's Bureau dates back to 1971, when it was known as the Child and Family Welfare Council of Australia, a national peak body. In 1986, it was incorporated as the Children's Bureau of Australia. From 1990, supported by Family Action, the National Children's Bureau of Australia was a leading children's advocacy and research body. In 1993, it amalgamated with Family Action and Family Focus to form OzChild.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000183b.htm">
+<relationEntry localType="Organisation">
+Family Action (1987 - 1993)
+</relationEntry>
+<descriptiveNote>
+<p>Family Action provided financial support to the National Children's Bureau of Australia from 1990 to 1993.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000370b.htm">
+<relationEntry localType="Organisation">
+OzChild (1993 - )
+</relationEntry>
+<descriptiveNote>
+<p>In 1993, Family Focus, Family Action and the National Children's Bureau of Australia amalgamated to form Oz Child: Children Australia Inc. (later known as OzChild).</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'National Children's Bureau of Australia', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">National Children's Bureau of Australia</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000506b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

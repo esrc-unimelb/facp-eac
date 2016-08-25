@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00964</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-03-08">2013-03-08</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-22">2016-04-22</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00964b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Guardian [Child Migrant]</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1946-01-01">1946</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Term commonly found on child welfare records</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Guardian [Child Migrant] was a term used in law for the personal responsible for the well-being of a child who came to Australia as an unaccompanied child migrant after World War II. The child's guardian was the Commonwealth Minister for Immigration, who delegated the role to the State welfare authorities.</abstract>
+<p>In terms of post-World War II child and youth migration, the guardian of a child was 'a person with the right to make decision about the long-term needs of the child'. A guardian would not always have 'the day to day care of the child'. Under the Commonwealth <span style="font-style:italic">Immigration (Guardianship of Children) Act 1946</span> the guardian of a child migrant (a non-citizen child) was the Minister for Immigration, who delegated the powers and functions of of guardianship to State welfare authorities. It was generally understood in Australian law that the guardian had a duty to see that the child was provided with food, housing, health and education. However, the guardian had no 'absolute duty' to 'provide the funds for those purposes'.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00823b.htm">
+<relationEntry localType="Legislation">
+Immigration (Guardianship of Children) Act 1946, Commonwealth of Australia (1946 - 1973)
+</relationEntry>
+<descriptiveNote>
+<p>The <span style="font-style:italic">Immigration (Guardianship of Children) Act 1946</span> defined the role of the 'Guardian' of children who were sent to Australia as unaccompanied child migrants after World War Two.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00965b.htm">
+<relationEntry localType="Glossary Term">
+Custodial Parent [Child Migrant] (1946 - ?)
+</relationEntry>
+<descriptiveNote>
+<p>The 'guardian' of a post-World War Two Child Migrant was the State welfare authority and the 'custodial parent' was usually the Manager or Foster Parent of the Home where the child lived.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00473b.htm">
+<relationEntry localType="Event">
+Child and Youth Migration to Western Australia (1913 - 1968)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Guardian [Child Migrant]', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Guardian [Child Migrant]</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00964b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000806.htm">
+<relationEntry localType="published">Resource Section: Submission No. 42 Inquiry into Child Migration</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Immigration and Multicultural Affairs</name>
+<title render="quoted">Submission No. 42 Inquiry into Child Migration</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2001</date>
+</imprint>
+<bibseries>
+<title render="italic">Inquiry into child migration</title>
+<name type="author">Senate Community Affairs Committee</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/completed_inquiries/1999-02/child_migrat/submissions/sublist.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AE00209</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCAC</agencyCode>
+<agencyName>Find &amp; Connect - Australian Capital Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-06-27">2014-06-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Liam Hogan</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-10-21">2014-10-21</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/act/biogs/AE00209b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Human Rights Act 2004</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2004-01-01">2004</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Human Rights Act 2004 is a law which recognises and describes the fundamental civil and political rights that individuals have. It gives the Attorney General and Human Rights Commissioner some powers to intervene in courts and tribunals where human rights are concerned, and gives the Supreme Court the power to declare Territory laws 'incompatible' with the Human Rights Act.</abstract>
+<p>The ACT Human Rights Act is a law which recognises and describes the fundamental civil and political rights that individuals have. It gives the Attorney General and Human Rights Commissioner some powers to intervene in courts and tribunals where human rights are concerned, and gives the Supreme Court the power to declare Territory laws 'incompatible' with the Human Rights Act.</p>
+<p>Some of the human rights listed include freedom of speech and assembly, the right to a fair trial, and equality before the law.</p>
+<p>It contains some privacy provisions, and states that:</p>
+<p>'Everyone has the right:<br />
+ (a) not to have his or her privacy, family, home or correspondence interfered with unlawfully or arbitrarily; and<br />
+ (b) not to have his or her reputation unlawfully attacked.'</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00206b.htm">
+<relationEntry localType="Concept">
+Law in the Australian Capital Territory
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00207b.htm">
+<relationEntry localType="Concept">
+Australian Capital Territory (1901 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Human Rights Act 2004', in <span style="font-style:italic">Find &amp; Connect - Australian Capital Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Human Rights Act 2004</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australian Capital Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/act/biogs/AE00209b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000129.htm">
+<relationEntry localType="published">Resource Section: Explanatory Statement, Human Rights Bill 2003</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Explanatory Statement, Human Rights Bill 2003</title>
+<imprint>
+<publisher>ACT Government</publisher>
+<date>2003</date>
+</imprint>
+<bibseries>
+<title render="italic">ACT Legislation Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.legislation.act.gov.au/es/db_8294/20031120-9669/pdf/db_8294.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

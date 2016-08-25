@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>FE00083</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNA</agencyCode>
+<agencyName>Find &amp; Connect - Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-10-28">2011-10-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-05-05">2016-05-05</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/australia/biogs/FE00083b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Australian Parliament Apology to the Stolen Generations</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2008-02-13">13 February 2008</fromDate>
+<toDate standardDate="2008-02-13">13 February 2008</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>On 13 February 2008, the Australian Government made an Apology to Australia's Indigenous People.</abstract>
+<p>Prime Minister Kevin Rudd's speech included the words:</p>
+<p>'To the Stolen Generations, I say the following: as Prime Minister of Australia, I am sorry. On behalf of the Government of Australia, I am sorry. On behalf of the Parliament of Australia, I am sorry. And I offer you this apology without qualification. We apologise for the hurt, the pain and suffering we, the parliament, have caused you by the laws that previous parliaments have enacted. We apologise for the indignity, the degradation and the humiliation these laws embodied. We offer this apology to the mothers, the fathers, the brothers, the sisters, the families and the communities whose lives were ripped apart by the actions of successive governments under successive parliaments. In making this apology, I would also like to speak personally to the members of the Stolen Generation and their families: to those here today, so many of you; to those listening across the nation - from Yuendumu, in the central west of the Northern Territory, to Yabara, in North Queensland, and to Pitjantjatjara in South Australia.'</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00080b.htm">
+<relationEntry localType="Event">
+National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families (1995 - 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00007b.htm">
+<relationEntry localType="Glossary Term">
+Stolen Generations (c. 1981 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Australian Parliament Apology to the Stolen Generations', in <span style="font-style:italic">Find &amp; Connect - Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Australian Parliament Apology to the Stolen Generations</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/australia/biogs/FE00083b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/objects/FD0000027.htm">
+<relationEntry localType="digitalObject">Sorry, Kevin Rudd's Apology to "The stolen Generation"</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>YouTube</repository>
+<unittitle>Sorry, Kevin Rudd's Apology to "The stolen Generation"</unittitle>
+<unitdate>February 2008</unitdate>
+<abstract>This is a link to a video on the Kevin Rudd YouTube channel, of Australian Prime Minister Kevin Rudd apologising to the Stolen Generations.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/australia/objects/FD0000023.htm">
+<relationEntry localType="digitalObject">Sorry Day, 2007</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Sorry Day, 2007</unittitle>
+<unitdate>2007</unitdate>
+<abstract>This is a copy of an image from the Stolen Generations timeline on the Creative Spirits website, with the caption: 'Sorry Day 2007. Someone had planted an Aboriginal flag on the ground expressing his sorrow for what had happened to Indigenous people'.</abstract>
+<note label="rights">Creative Spirits</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

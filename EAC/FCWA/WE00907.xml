@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00907</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Item</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-02-14">2013-02-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-11-18">2015-11-18</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00907b.htm</entityId>
+<entityId localType="State Libray of Western Australia Call Number">OH231</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Interview with Beryl Grant, nurse</part>
+<part localType="parent">State Library of Western Australia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1977-01-01">1977</fromDate>
+<toDate standardDate="1977-12-31">1977</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>'Interview with Beryl Grant, nurse' is an oral history interview from 1977 that is held at the State Library of Western Australia. In the interview Beryl discusses being matron of Ngala and the development of Ngala into a mothercraft home.</abstract>
+<h4>Access Conditions</h4>
+<p>Open. This oral history interview is available to hear and the transcript can be viewed at the State Library of Western Australia.</p>
+<h4>Records</h4>
+<p>[From the State Library of Western Australia]</p>
+<p>[This interview recalls Beryl Grant's] family background; father, Norman William Grant, mother Annie Lawrie, and their marriage in Melbourne; move to Western Australia in 1915; father's work as chief engineer for the electrical division of the Post Master General's Department; school life at Thomas Street; school friends; father's death; mother's millinery business; the Depression; her mother's death; of schooldays at Perth Girls' School; transport; teachers; church involvement; work in the Public Service; nursing training at Perth Hospital; examination procedures; Nurses Registration Board; and living conditions; overseas experience in Britain; private nursing; midwifery training at King Edward Hospital; infant welfare training in Melbourne; the Florence Nightingale scholarship in administration; first matron of N'Gala Mothercraft Home in 1959; child health education in Western Australia; nursing education with W.A.I.T.; involvement with the Royal Australian Nursing Federation and other nursing bodies; the Australian Inland Mission; the Flying Doctor Service; Churchill Fellowship; and the development of N'Gala Mothercraft Home.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00645b.htm">
+<relationEntry localType="Organisation">
+State Library of Western Australia
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01158b.htm">
+<relationEntry localType="Contact Details">
+State Library of Western Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00261b.htm">
+<relationEntry localType="Organisation">
+Australian Inland Mission (1912 - 1977)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00438b.htm">
+<relationEntry localType="Glossary Term">
+Adoption (1896 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00159b.htm">
+<relationEntry localType="Organisation">
+Ngal-a Mothercraft Home and Training Centre Inc (1956 - 1989)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Interview with Beryl Grant, nurse', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Interview with Beryl Grant, nurse</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00907b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

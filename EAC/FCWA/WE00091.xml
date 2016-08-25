@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00091</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-03-15">2011-03-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-06-24">2016-06-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00091b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Gnowangerup Agricultural College</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="also known as"><part>Gnowangerup Agricultural School</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1979-01-01">1979?</fromDate>
+<toDate standardDate="2005-12-31">2005</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>School</term>
+</function>
+<function>
+<term>Government-run</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Gnowangerup Agricultural College was a boarding school that began in 1966. From 1979, child welfare authorities placed Aboriginal and non-Aboriginal teenagers, including those who wards of the State and others, there with the aim of giving child welfare support to the young people while they were at school. It is not known if any children were placed there after 2005, when the school closed. The Gnowangerup Training Centre (2006-2010) opened on the same site.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1979-01-01">1979</fromDate>
+<toDate standardDate="2005-12-31">2005</toDate>
+</dateRange>
+<placeEntry>Gnowangerup</placeEntry>
+<event>Location - Gnowangerup Agricultural College was located at Gnowangerup</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
+<relationEntry localType="Archival Collection">
+Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00369b.htm">
+<relationEntry localType="Organisation">
+Department for Community Services, State of Western Australia (1985 - 1992)
+</relationEntry>
+<descriptiveNote>
+<p>The Department for Community Services placed teenagers at the Gnowangerup Agricultural College (or School).</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00365b.htm">
+<relationEntry localType="Organisation">
+Department for Community Welfare, State of Western Australia (1972 - 1985)
+</relationEntry>
+<descriptiveNote>
+<p>The Department for Community Welfare placed teenagers at the Gnowangerup Agricultural College (or School).</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01120b.htm">
+<relationEntry localType="Archival Collection">
+Department of Aboriginal Affairs [predecessors], Records, Department of Aboriginal Affairs (1886 - 2004)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Gnowangerup Agricultural College', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Gnowangerup Agricultural College</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00091b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000009.htm">
+<relationEntry localType="published">Report: Annual Report: Department for Community Services, Western Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Western Australia. Department for Community Services</name>
+<title render="italic">Annual Report: Department for Community Services, Western Australia</title>
+<imprint>
+<place>[Perth]</place>
+<publisher>Government of Western Australia</publisher>
+<date>1985-1992</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000019.htm">
+<relationEntry localType="published">Report: Annual Report: Department for Community Welfare</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Western Australia. Department for Community Welfare</name>
+<title render="italic">Annual Report: Department for Community Welfare</title>
+<imprint>
+<place>[Perth]</place>
+<publisher>Dept. For Community Welfare</publisher>
+<date>1973-1984</date>
+</imprint>
+<extptr linktype="simple" href="http://catalogue.slwa.wa.gov.au/record=b1410539~S7"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
+<relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Information Services, Department for Community Development</name>
+<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+</imprint>
+<extptr linktype="simple" href="http://signposts.cpfs.wa.gov.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

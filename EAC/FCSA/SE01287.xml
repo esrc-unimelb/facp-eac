@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01287</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-04-15">2014-04-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-06-15">2016-06-15</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01287b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Hillcrest Hospital</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1964-01-01">1964</fromDate>
+<toDate standardDate="1994-12-31">1994</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Disability Institution</term>
+</function>
+<function>
+<term>Government-run</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Hillcrest Hospital was the new name given to the Northfield Mental Hospital in 1964. Run by the government it provided mental health services for inpatients, outpatients and day patients including children, some of whom were State children. In 1979-82 patients from Enfield Hospital were transferred to Hillcrest. The Hillcrest Hospital closed in 1994.</abstract>
+<p>The Hillcrest Hospital was the new name given to the Northfield Mental Hospital in 1964. It provided mental health services for inpatients, outpatients and day patients, as well as community services for the acute and chronically mentally ill, elderly patients suffering from dementia and related illnesses and people with alcohol dependence problems. Children, including some State children, continued to be sent to Hillcrest Hospital.</p>
+<p>On 1st July, 1979, Enfield Hospital was incorporated with Hillcrest Hospital. Both Hospitals came under the control of a single board of management. By 1982 all Enfield Hospital patients had been transferred to Hillcrest.</p>
+<p>In 1991 the Hospital was operating 370 beds and was also responsible for the administration of the Northfield Security Hospital and a rehabilitation hostel at College Park.</p>
+<p>Hillcrest Hospital closed in 1994.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1964-01-01">1964</fromDate>
+<toDate standardDate="1964-12-31">1964</toDate>
+</dateRange>
+<placeEntry>Hillcrest</placeEntry>
+<event>Location - Hillcrest Hospital was situated at Hillcrest</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01286b.htm">
+<relationEntry localType="Organisation">
+Northfield Mental Hospital (1929 - 1964)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Hillcrest Hospital', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Hillcrest Hospital</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01287b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000114.htm">
+<relationEntry localType="published">Report: Children in State Care Commission of Inquiry: Allegations of sexual abuse and death from criminal conduct, presented to the South Australian Parliament by the Hon. E.P. Mullighan QC, Commisioner</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mullighan, the Hon E.P.</name>
+<title render="italic">Children in State Care Commission of Inquiry: Allegations of sexual abuse and death from criminal conduct, presented to the South Australian Parliament by the Hon. E.P. Mullighan QC, Commisioner</title>
+<imprint>
+<place>Adelaide, South Australia</place>
+<publisher>Children in State Care Commission of Enquiry</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="https://www.decd.sa.gov.au/department/reviews-and-responses/children-state-care"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000306.htm">
+<relationEntry localType="published">Resource Section: Agency Details: GA1270 Northfield Mental Hospital, later Hillcrest Hospital 1929 - 1994</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Agency Details: GA1270 Northfield Mental Hospital, later Hillcrest Hospital 1929 - 1994</title>
+<bibseries>
+<title render="italic">State Records of South Australia, ArchivesSearch</title>
+<name type="author">State Records of South Australia</name>
+</bibseries>
+<extptr linktype="simple" href="http://archives.sa.gov.au"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/objects/SD0000275.htm">
+<relationEntry localType="digitalObject">Northfield Mental Hospital 01</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Northfield Mental Hospital 01</unittitle>
+<unitid>vn5115470</unitid>
+<unitdate>c. 1965</unitdate>
+<abstract>Two nurses with a young girl at Northfield Mental Hospital, South Australia</abstract>
+<note label="rights">Reproduction rights owned by the National Library of Australia</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/objects/SD0000276.htm">
+<relationEntry localType="digitalObject">Northfield Mental Hospital 02</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Northfield Mental Hospital 02</unittitle>
+<unitid>vn5126289</unitid>
+<unitdate>c. 1965</unitdate>
+<abstract>A woman standing barefoot outside Northfield Mental Hospital, South Australia</abstract>
+<note label="rights">Reproduction rights owned by the National Library of Australia</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/objects/SD0000277.htm">
+<relationEntry localType="digitalObject">Northfield Mental Hospital 03 Administration Block</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Adelaide University Library</repository>
+<unittitle>Northfield Mental Hospital 03 Administration Block</unittitle>
+<unitdate>1935</unitdate>
+<abstract>Hillcrest Hospital Administration Block</abstract>
+<note label="rights">Reproduction rights owned by the University of Adelaide Library</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

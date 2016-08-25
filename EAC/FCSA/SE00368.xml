@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE00368</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-08-11">2011-08-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George, Gary George and Rachel Tropea</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-09">2016-03-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE00368b.htm</entityId>
+<entityId localType="State Library of South Australia Archival Number">SRG 94/136/5</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Orphan Home Admissions</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1898-01-01">1898</fromDate>
+<toDate standardDate="1925-12-31">1925</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Orphan Home Admissions is a quarto sized hardback book which provides admission, discharge and other background information about children in the Orphan Home.</abstract>
+<h4>Access Conditions</h4>
+<p>For access to many Anglican records held at the State Library of South Australia, you will need permission from the Diocesan Archivist at the Anglican Archives. This is called 'mediated access'. Records which require mediated access are clearly identified in the State Library catalogue and/or findings aids and State Library staff will also be able to advise you if this is necessary.</p>
+<p>Mediated access is required when records contain personal information about individuals whose privacy needs to be protected.</p>
+<p>For access to Anglican records a written application to the Diocesean Archivist is required. You will also need to provide proof of your identity. If you are requesting access to records about someone else, permission from that person or other evidence of eligibility to access that information must be provided. If you need a copy of the records ensure that you include this in your request.</p>
+<h4>Records</h4>
+<p>The Orphan Home Admissions book begins with an alphabetical index listing the following details: (1) Name, (2) Admitted, (3) Age, (4) Page reference.</p>
+<p>The entries for each children then span across two pages. The left hand page includes date of admission, parents' details, siblings. The right hand page gives discharge date, where discharged to and follow-up notes on other placements, marriage etc. Later entries are more detailed. The last entry appears on page 292.</p>
+<p>After a blank section pages 367-377 comprise a further index to admissions with columns for: (1) Order of admission, (2) Date of admission, (3) Name of child, (4) Age when admitted, (5) Circumstances leading to admission, (6) Page reference.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00004b.htm">
+<relationEntry localType="Organisation">
+State Library of South Australia
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01248b.htm">
+<relationEntry localType="Contact Details">
+State Library of South Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01214b.htm">
+<relationEntry localType="Organisation">
+The Orphan Home (1860 - 1935)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Orphan Home Admissions', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Orphan Home Admissions</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00368b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000042.htm">
+<relationEntry localType="published">Resource: Finding your own way</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">George, Karen</name>
+<title render="italic">Finding your own way</title>
+<imprint>
+<publisher>Nunkuwarrin Yunti of South Australia Inc.</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://nunku.org.au/resources/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

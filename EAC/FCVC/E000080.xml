@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000080</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-02-17">2009-02-17</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000080b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Beryl Booth Court</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1978-01-01">1978</fromDate>
+<toDate standardDate="1991-12-31">1991</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Anglican</term>
+</function>
+<function>
+<term>Protestant</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Beryl Booth Court was established in 1978 by the Mission of St James and St John. It accommodated single parent 'at risk' families for three to six months. Residents learned parenting skills and received follow-up support. Beryl Booth Court was closed in 1991 and the site became the CHOICES Centre for Young Women and their Children.</abstract>
+<p>Beryl Booth Court was established in 1978 by the Mission of St James and St John. It was situated on the former site of the Mission's School of Homecrafts Hostel.</p>
+<p>Beryl Booth Court accommodated single parent 'at risk' families in eight small flats. Its residents learned about parenting skills in a supportive environment (there was a residential aide, as well as social and welfare workers).</p>
+<p>Beryl Booth Court came into being as an innovative response to the problem of child abuse. Residents stayed for a period of three to six months, and received follow-up support after leaving Beryl Booth Court.</p>
+<p>Beryl Booth Court was closed in 1991. The Mission's PRAPS program also wound up at this time, and was replaced by the CHOICES Centre for Young Women and their Children, located on the site of Beryl Booth Court in East Melbourne.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1978-01-01">1978</fromDate>
+<toDate standardDate="1991-12-31">1991</toDate>
+</dateRange>
+<placeEntry>East Melbourne</placeEntry>
+<event>Location - Beryl Booth Court operated on the site of Homecrafts Hostel, Berry Street, East Melbourne</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000077b.htm">
+<relationEntry localType="Organisation">
+Mission of St James and St John (1919 - 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000730b.htm">
+<relationEntry localType="Archival Collection">
+Anglicare Victoria Records (1886 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000087b.htm">
+<relationEntry localType="Organisation">
+School of Homecrafts Hostel (1935 - 1976)
+</relationEntry>
+<descriptiveNote>
+<p>Beryl Booth Court was situated on the former site of the School of Homecrafts Hostel.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Beryl Booth Court', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Beryl Booth Court</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000080b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000783.htm">
+<relationEntry localType="published">Book: Child Abuse: Policy and Practice</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Paxton, Ian and Sherrie Coote</name>
+<title render="italic">Child Abuse: Policy and Practice</title>
+<imprint>
+<place>[West Melbourne]</place>
+<publisher>[Mission of St. James and St. John]</publisher>
+<date>[1981?]</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000782.htm">
+<relationEntry localType="published">Book: Caring for One Parent Families with Children at Risk : Description of the first year of operation of Beryl Booth Court. A unit of the Mission of St. James and St. John.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Caring for One Parent Families with Children at Risk : Description of the first year of operation of Beryl Booth Court. A unit of the Mission of St. James and St. John.</title>
+<imprint>
+<place>East Melbourne</place>
+<publisher>Beryl Booth Court Lone Parents' Unit</publisher>
+<date>1979</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

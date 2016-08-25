@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01146</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-08-11">2013-08-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-12">2015-03-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01146b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Women's Australian National Service (WANS)</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="also known as"><part>WANS</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1941-01-01">1941</fromDate>
+<toDate standardDate="1946-12-31">1946</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Non-denominational</term>
+</function>
+<function>
+<term>Community Service Organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Women's Australian National Service (WANS) was established in Western Australia in 1941. From 1943 to 1946 it ran 'Wanslea Hostel', a Home for children who could not live with family due to parental illness or wartime absence.</abstract>
+<p>The Women's Australian National Service (WANS) was established in Australia in 1939 and in Western Australia in 1941. Its purpose was to encourage women to be active in community service and employment shortages created by World War II. In 1943 in WA, the Deputy Director of Manpower, Department of the Army, asked the local WANS to run a children's hostel to accommodate children who could not live at home due to parental sickness or war-related absence. This hostel was named Wanslea. The WANS wound up on 28 February 1946.</p>
+<p>The legacy they had started in out of home 'care' for children was taken up by the Wanslea Hostel Committee and continues in 2013 as Wanslea Family Services.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01147b.htm">
+<relationEntry localType="Organisation">
+Wanslea Family Services (1946 - )
+</relationEntry>
+<descriptiveNote>
+<p>Wanslea Family Services grew from activities of the Women's Australian National Service (WANS) during World War Two.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01148b.htm">
+<relationEntry localType="Organisation">
+Wanslea Hostel (1943 - 1946)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1943-01-01">1943</fromDate>
+<toDate standardDate="1946-12-31">1946</toDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Women's Australian National Service (WANS)', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Women's Australian National Service (WANS)</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01146b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000498.htm">
+<relationEntry localType="digitalObject">The WANS: Pledged to Unity and Service</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Wanslea Family Services, Perth</repository>
+<unittitle>The WANS: Pledged to Unity and Service</unittitle>
+<abstract>'The WANS: Pledged to Unity and Service' is a history of the Women's Australian National Services in Western Australia, the organisation that established and ran Wanslea. It is published on Wanslea's website and is available to download and read. There are some images of the children and grounds at Wanslea.</abstract>
+<note label="rights">Reproduced with the permission of Wanslea Family Services, which retains reproduction rights.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000499.htm">
+<relationEntry localType="digitalObject">Wanslea Hostel</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Google Street View</repository>
+<unittitle>Wanslea Hostel</unittitle>
+<unitdate>2013</unitdate>
+<abstract>'Wanslea Hostel (1943-1946) 30 Bulwer Street, in 2013' is a copy of a digital image from Google Street View, showing 30 Bulwer Street, the site of the former Wanslea Hostel (1943-1946).</abstract>
+<note label="rights">Images can be reproduced with the permission of Google Street View</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

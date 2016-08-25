@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AE00077</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCAC</agencyCode>
+<agencyName>Find &amp; Connect - Australian Capital Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-12-05">2011-12-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Lydia Connell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-02-04">2014-02-04</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/act/biogs/AE00077b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Aboriginal and Torres Strait Islander Kinship and Foster Care Service</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<functions>
+<function>
+<term>Foster Care</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Advocacy Body</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Aboriginal and Torres Strait Islander Kinship and Foster Care Service is part of the Aboriginal and Torres Strait Islander Services (ATSIS), Australian Capital Territory Government. The Aboriginal and Torres Strait Islander Kinship and Foster Care Service aims to provide culturally appropriate placement options for Aboriginal and Torres Strait Islander children and young people who are unable to live at home. The Service also coordinates foster carers within the Aboriginal and Torres Strait Islander Services.</abstract>
+<p>The Kinship and Foster Care team coordinates recruitment, training and education, assessment, and advocacy and support to foster carers within the Aboriginal and Torres Strait Islander Services.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00074b.htm">
+<relationEntry localType="Organisation">
+Aboriginal and Torres Strait Islander Services, Australian Capital Territory (2005 - )
+</relationEntry>
+<descriptiveNote>
+<p>The Aboriginal and Torres Strait Islander Kinship and Foster Care Service is administered by Aboriginal and Torres Strait Islander Services.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Aboriginal and Torres Strait Islander Kinship and Foster Care Service', in <span style="font-style:italic">Find &amp; Connect - Australian Capital Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Aboriginal and Torres Strait Islander Kinship and Foster Care Service</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australian Capital Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/act/biogs/AE00077b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

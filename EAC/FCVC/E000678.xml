@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000678</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-09-14">2011-09-14</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000678b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Crimes Act 1890</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1890-01-01">1890</fromDate>
+<toDate standardDate="1915-12-31">1915</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Victorian Crimes Act of 1890, No. 1079, included two sections, 333 and 334, which related to the treatment of young prisoners. There was provision for them to be transferred from gaol to the Department of Reformatory Schools, from where they were placed either in private reformatories or 'service'. Section 334 gave the authorities the right to transfer an offender back to gaol for bad behaviour. Section 33 was used to perform a second punishment in certain instances, when boys who had served their full fixed term less a day or two, were then transferred to a reformatory to begin a further, indeterminate sentence. It was also used to transfer boys back to a reformatory from a foster home for bad behaviour.</abstract>
+<p>This Act was amended by Act No. 1198, Act No. 1231, Act No. 1236 and Act No. 1478. It was repealed by Crimes Act 1915, No. 2737.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000536b.htm">
+<relationEntry localType="Legislation">
+Infant Life Protection Act 1890 (1891 - 1915)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000179b.htm">
+<relationEntry localType="Legislation">
+The Juvenile Offenders' Act 1887 (1888 - 1890)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000951b.htm">
+<relationEntry localType="Concept">
+Colony of Victoria (1851 - 1901)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000949b.htm">
+<relationEntry localType="Concept">
+Law in Victoria (1836 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000952b.htm">
+<relationEntry localType="Concept">
+State Government of Victoria (1901 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000984b.htm">
+<relationEntry localType="Legislation">
+Crimes Act 1915 (1915 - 1958)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Crimes Act 1890', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Crimes Act 1890</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000678b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000950.htm">
+<relationEntry localType="published">Resource Section: Crimes Act 1890: An Act to consolidate the Law relating to Crimes and Criminal Offenders</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Colony of Victoria</name>
+<title render="quoted">Crimes Act 1890: An Act to consolidate the Law relating to Crimes and Criminal Offenders</title>
+<imprint>
+<publisher>Australasian Legal Information Institute</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Victorian Historical Acts</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.austlii.edu.au/au/legis/vic/hist_act/ca189082/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000754.htm">
+<relationEntry localType="published">Article: Law and norm: justice administration and the human sciences in early juvenile justice in Victoria</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">McCallum, David</name>
+<title render="quoted">Law and norm: justice administration and the human sciences in early juvenile justice in Victoria</title>
+<imprint>
+<date>2004</date>
+</imprint>
+<bibseries>
+<title render="italic">Newcastle Law Review</title>
+<num type="volume">7</num>
+<num type="issue">2</num>
+<num type="pages">62-71</num>
+</bibseries>
+<extptr linktype="simple" href="http://eprints.vu.edu.au/1521/2/Newcastle_Law_Review.doc_%28R%29.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

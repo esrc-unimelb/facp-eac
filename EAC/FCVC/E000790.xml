@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000790</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2012-04-18">2012-04-18</eventDateTime>
+<agentType>human</agentType>
+<agent>Rosemary Francis</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-06-02">2016-06-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000790b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Protecting Victoria's Vulnerable Children Inquiry</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Cummins Inquiry</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2011-01-31">31 January 2011</fromDate>
+<toDate standardDate="2012-01-27">27 January 2012</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Premier of Victoria Mr Ted Baillieu launched the 'Protecting Victoria's Vulnerable Children Inquiry' on 31 January 2011. Its terms of reference were: 'to inquire into and develop recommendations to reduce the incidence and negative impact of child neglect and abuse in Victoria.' The Inquiry Panel comprised The Honourable Philip Cummins as Chair, with Emeritus Professor Dorothy Scott and Mr Bill Scales. The Panel delivered the Report to the Minister for Community Services on 27 January 2012.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000791b.htm">
+<relationEntry localType="Event">
+Inquiry into the handling of child abuse by religious and other organisations (2012 - 2013)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Protecting Victoria's Vulnerable Children Inquiry', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Protecting Victoria's Vulnerable Children Inquiry</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000790b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001200.htm">
+<relationEntry localType="published">Report: Submission to the Inquiry on protecting Victoria's vulnerable Children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Humphreys, Cathy; Kertesz, Margaret; Musgrove, Nell; McCarthy, Gavan; Murray, Suellen; O'Neill, Cate; Swain, Shurlee, and Tropea, Rachel</name>
+<title render="italic">Submission to the Inquiry on protecting Victoria's vulnerable Children</title>
+<imprint>
+<date>2011</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000864.htm">
+<relationEntry localType="published">Report: Report of the Protecting Victoria's Vulnerable Children Inquiry</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cummins, Philip, Scott, Dorothy and Scales, Bill</name>
+<title render="italic">Report of the Protecting Victoria's Vulnerable Children Inquiry</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>State of Victoria</publisher>
+<date>2012</date>
+</imprint>
+<extptr linktype="simple" href="http://www.childprotectioninquiry.vic.gov.au/report-pvvc-inquiry.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

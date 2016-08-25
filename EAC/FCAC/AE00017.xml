@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>AE00017</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCAC</agencyCode>
+<agencyName>Find &amp; Connect - Australian Capital Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-05-12">2011-05-12</eventDateTime>
+<agentType>human</agentType>
+<agent>Lydia Connell</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-04">2015-03-04</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/act/biogs/AE00017b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Quamby Youth Detention Centre</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Quamby</part>
+</nameEntry>
+<nameEntry localType=""><part>Quamby Remand Centre</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1962-01-01">1962</fromDate>
+<toDate standardDate="2008-12-31">2008</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government-run</term>
+</function>
+<function>
+<term>Juvenile Justice Centre</term>
+</function>
+<function>
+<term>Sending Agency</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Youth Training Centre</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Quamby Youth Detention Centre in Symonston opened in 1962. It was a government-run facility, housing youth on short term remand, and (in the absence of any other facility) some children unable to live at home. Most ACT children who were sent to institutions in New South Wales initially spent some time in Quamby. In 2008, Quamby was replaced by the Bimberi Youth Justice Centre.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1962-01-01">1962</fromDate>
+<toDate standardDate="2008-12-31">2008</toDate>
+</dateRange>
+<placeEntry>Symonston</placeEntry>
+<event>Location - Quamby Youth Detention Centre was situated in Symonston</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00072b.htm">
+<relationEntry localType="Organisation">
+Office for Children, Youth and Family Support, Australian Capital Territory (2004 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2004-01-01">2004</fromDate>
+<toDate standardDate="2008-12-31">2008</toDate>
+</dateRange>
+<descriptiveNote>
+<p>The Quamby Youth Detention Centre was run by the Office of Children, Youth and Family Support.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00131b.htm">
+<relationEntry localType="Event">
+Transfer of children from Australian Capital Territory (ACT) and Norfolk Island to New South Wales (NSW) (1941 - 1986)
+</relationEntry>
+<descriptiveNote>
+<p>With the establishment of Quamby Youth Detention Centre in 1962, children and young people were generally placed at Quamby before they were transferred to NSW.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00100b.htm">
+<relationEntry localType="Organisation">
+Birralee (1957? - 1968)
+</relationEntry>
+<descriptiveNote>
+<p>Quamby Youth Detention Centre and Birralee were the only government-run institutions for children in Canberra, until the establishment of Bimberi Youth Detention Centre in 2008.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00078b.htm">
+<relationEntry localType="Legislation">
+Children and Young People Act 2008 (2008 - )
+</relationEntry>
+<descriptiveNote>
+<p>The Children and Young People Act responded to concerns raised about the Quamby Youth Detention Centre requiring that future juvenile justice centres comply with Human Rights legislation.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00025b.htm">
+<relationEntry localType="Legislation">
+Children and Young People Act 1999 (1999 - 2009)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00067b.htm">
+<relationEntry localType="Glossary Term">
+Juvenile Justice Centre (1990s)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1962-01-01">1962</fromDate>
+<toDate standardDate="2008-12-31">2008</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00076b.htm">
+<relationEntry localType="Organisation">
+Lowana Youth Services (1989 - 2012)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1989-01-01">1989</fromDate>
+<toDate standardDate="2008-12-31">2008</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Lowana Youth Services provided programs and assistance aimed at helping young people exiting Quamby Youth Detention Centre before its closure in 2008.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/biogs/AE00029b.htm">
+<relationEntry localType="Organisation">
+Bimberi Youth Justice Centre (2008 - )
+</relationEntry>
+<descriptiveNote>
+<p>The Bimberi Youth Justice Centre replaced Quamby Youth Detention Centre in 2008.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Quamby Youth Detention Centre', in <span style="font-style:italic">Find &amp; Connect - Australian Capital Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Quamby Youth Detention Centre</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Australian Capital Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/act/biogs/AE00017b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000090.htm">
+<relationEntry localType="published">Resource Section: Ormond, Thornleigh (1946-1998)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Parry, Naomi</name>
+<title render="quoted">Ormond, Thornleigh (1946-1998)</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2012</date>
+</imprint>
+<bibseries>
+<title render="italic">Find &amp; Connect New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/nsw/biogs/NE01062b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000089.htm">
+<relationEntry localType="published">Resource Section: Parramatta Girls Training School (1946 - 1975)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Parry, Naomi</name>
+<title render="quoted">Parramatta Girls Training School (1946 - 1975)</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2012</date>
+</imprint>
+<bibseries>
+<title render="italic">Find &amp; Connect New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/nsw/biogs/NE01318b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000085.htm">
+<relationEntry localType="published">Resource Section: Mount Penang Training School for Boys (1946 - 1987)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Parry, Naomi</name>
+<title render="quoted">Mount Penang Training School for Boys (1946 - 1987)</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2012</date>
+</imprint>
+<bibseries>
+<title render="italic">Find &amp; Connect New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/nsw/biogs/NE00427b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000049.htm">
+<relationEntry localType="published">Report: Human Rights Audit of Quamby Youth Detention Centre</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Human Rights Audit of Quamby Youth Detention Centre</title>
+<imprint>
+<publisher>ACT Human Rights Commission</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://www.hrc.act.gov.au/content.php/content.view/id/148"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/bib/AP0000013.htm">
+<relationEntry localType="published">Book: Report, Beyond the image, December 1984 / Review of Welfare Services and Policies in the A.C.T.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Walmsley, R., Coull, V., Vinson, T.</name>
+<title render="italic">Report, Beyond the image, December 1984 / Review of Welfare Services and Policies in the A.C.T.</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Australian Government Publishing Service</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/objects/AD0000030.htm">
+<relationEntry localType="digitalObject">Quamby Youth Detention Centre, Symonston, Canberra - residents and instructor in industrial arts room</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Contributed by Libraries Australia</repository>
+<unittitle>Quamby Youth Detention Centre, Symonston, Canberra - residents and instructor in industrial arts room</unittitle>
+<unitdate>1996 - 1997</unitdate>
+<abstract>Seselja, Loui, 1948-
+In collection: Canberra life, daily life</abstract>
+<physdesc>Physical Description
+1 of 167 photographs : silver gelatin, some col. ; 20.5 x 25.5 cm. or smaller.<geogname>Symonston, Canberra</geogname>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/objects/AD0000029.htm">
+<relationEntry localType="digitalObject">Quamby Youth Detention Centre, Symonston, Canberra - typical residents room</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Contributed by Libraries Australia</repository>
+<unittitle>Quamby Youth Detention Centre, Symonston, Canberra - typical residents room</unittitle>
+<unitdate>1996 - 1997</unitdate>
+<abstract>Seselja, Loui, 1948-
+In collection: Canberra life, daily life</abstract>
+<physdesc>1 of 167 photographs : silver gelatin, some col. ; 20.5 x 25.5 cm. or smaller. Photogrpher Seselja, Loui<geogname></geogname>
+</physdesc>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/act/objects/AD0000014.htm">
+<relationEntry localType="digitalObject">Quamby Youth Detention Centre, Symonston, Canberra - view of the centre [picture].</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Quamby Youth Detention Centre, Symonston, Canberra - view of the centre [picture].</unittitle>
+<unitid>Identifier nla.pic-an12942889-120</unitid>
+<unitdate>c. 1996</unitdate>
+<abstract>This image shows a view of the Quamby Youth Detention Centre.</abstract>
+<note label="rights">Reproduction rights owned by the National Library of Australia</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

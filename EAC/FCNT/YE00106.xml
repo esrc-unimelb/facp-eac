@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>YE00106</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNT</agencyCode>
+<agencyName>Find &amp; Connect - Northern Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-06-28">2011-06-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-01-23">2015-01-23</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nt/biogs/YE00106b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Department of Health</part>
+<part localType="parent">Australian Government</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1921-01-01">1921</fromDate>
+<toDate standardDate="1987-12-31">1987</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Agency</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Department of Health, Commonwealth Government was created in 1921.It took over responsibility for some matters of health in the Northern Territory from the Northern Territory Administration. In 1977 the Northern Territory Government took over some of the functions of the Commonwealth branch and in 1987 the Department of health was abolished and replaced by the new Department for Community Services and Health.</abstract>
+<p>The Department of Health, Commonwealth Government was created in March 1921. The office was staffed by 154 officers all transferred from the Quarantine Branch of the Department of Trade and Customs. The Department was responsible for quarantine, disease investigation and prevention and many other matters related to health and public health, including education. In April 1939 responsibility for some matters of health in the Northern Territory was transferred from the Northern Territory Administration to the Commonwealth Department of Health.</p>
+<p>In January 1977 some functions of the Department of Health were transferred to the Northern Territory Government. In 1987 the Department of Health was abolished and its functions and legislation were transferred to the new Department for Community Services and Health.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00048b.htm">
+<relationEntry localType="Organisation">
+East Arm Leprosarium (1955 - 1982)
+</relationEntry>
+<descriptiveNote>
+<p>The Commonwealth Department of Health oversaw the management of leprosy in Australia.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00283b.htm">
+<relationEntry localType="Organisation">
+Mud Island Lazaret (1889 - 1931)
+</relationEntry>
+<descriptiveNote>
+<p>The Commonwealth Department of Health oversaw the management of leprosy in Australia.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Department of Health', in <span style="font-style:italic">Find &amp; Connect - Northern Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Department of Health</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Northern Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00106b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

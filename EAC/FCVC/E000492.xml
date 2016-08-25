@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000492</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-11-05">2009-11-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-02-20">2015-02-20</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000492b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Life Story Work</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<functions>
+<function>
+<term>Policy</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Life story work is a term used to describe practices designed to help children and young people in out of home 'care' to construct, understand and re-construct a narrative of their life and their identity.</abstract>
+<p>Life story work has its origins in the 1970s in the adoption field. It then became more common in the out of home 'care' sector, as a way of addressing issues such as instability, multiple placements, genealogical bewilderment and trauma.</p>
+<p>'Life story work allows children to explore safely and securely how they have reached where they are and to attach identity and meaning to their lives, to consider, to think, to understand and to reflect (Rose &amp; Philpot, 2005).'</p>
+<p>Often, the outcome of life story work, is a life story book, in which the child or young person presents their version of their life history. A life book could contain photographs, mementoes and stories.</p>
+<p>Some 'care' providers give their children a 'treasure box' or 'memory box', in which to store precious items. This is generally kept in the organisation's archive along with the more administrative records of 'care'.</p>
+<p>Life story work is a collaborative process between the child or young person and their carer or worker. It is a form of recordkeeping that strives to capture 'the voice' of the child, and to assist the child or young person in constructing their identity and boosting their self esteem.</p>
+<p>Life story work is increasingly being seen as having therapeutic benefits for children in 'care' with attachment disorders and identity issues, and children suffering from the effects of trauma.</p>
+
+</biogHist>
+</description>
+<relations><resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Life Story Work', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Life Story Work</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000492b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000249.htm">
+<relationEntry localType="published">Book: The child's own story: Life story work with traumatised children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Rose, R and T. Philpot</name>
+<title render="italic">The child's own story: Life story work with traumatised children</title>
+<imprint>
+<place>London</place>
+<publisher>Jessica Kingsley Publishers</publisher>
+<date>2005</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

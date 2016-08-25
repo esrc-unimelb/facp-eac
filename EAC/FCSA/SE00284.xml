@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE00284</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-02-21">2011-02-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-08-14">2015-08-14</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE00284b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Royal Commission on the Aborigines</part>
+<part localType="parent">State of South Australia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1913-01-01">1913</fromDate>
+<toDate standardDate="1916-12-31">1916</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Royal Commission on the Aborigines was appointed on 19 December 1912 to inquire into and provide a report on 'the control, organisation and management of the institutions in this [South Australia] set aside for the benefit of the aborigines'. It was also asked to report 'generally upon the whole question of the South Australian aborigines'.The Commission's Progress report, handed down in October 1913, included 26 recommendations, one of which suggested that the Point Pearce and Point McLeay Missions be taken over by the Government and controlled by the Aborigines department. A Final report was produced in October 1916.</abstract>
+<p>The Commission comprised three members of Parliament and two members of the Legislative Council. During 1913, the Commission visited Aboriginal missions at Point McLeay, Point Pearce and Moonta, taking evidence from mission staff, board members, Aboriginal residents and pastoralists.</p>
+<p>The Final Report covered evidence taken during 1914 at Killapaninna and Koonibba Missions which the Commission also recommended be taken over by the government. Also the Commission recommended that the State take control of all Aboriginal children at age 10 and place them 'where they deem best'.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01358b.htm">
+<relationEntry localType="Organisation">
+Koonibba Mission (1901 - 1975)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01354b.htm">
+<relationEntry localType="Organisation">
+Killalpaninna Mission (1867 - 1915)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01332b.htm">
+<relationEntry localType="Organisation">
+Point Pearce Aboriginal Station (1915 - 1972)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01331b.htm">
+<relationEntry localType="Organisation">
+Point Pearce Mission Station (1868 - 1915)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01329b.htm">
+<relationEntry localType="Organisation">
+Point McLeay Mission Station (1859 - 1974)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01166b.htm">
+<relationEntry localType="Glossary Term">
+Royal Commission
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Royal Commission on the Aborigines', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Royal Commission on the Aborigines</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00284b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000454.htm">
+<relationEntry localType="published">Report: History of Australian inquiries reviewing institutions providing care for children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Swain, Shurlee</name>
+<title render="italic">History of Australian inquiries reviewing institutions providing care for children</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Royal Commission into Institutional Responses to Child Sexual Abuse</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.childabuseroyalcommission.gov.au/documents/published-research/historical-perspectives-report-3-history-of-inquir.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000103.htm">
+<relationEntry localType="published">Book: A Little Flour and a Few Blankets: An Administrative History of Aboriginal Affairs in South Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Raynes, Cameron</name>
+<title render="italic">A Little Flour and a Few Blankets: An Administrative History of Aboriginal Affairs in South Australia</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>State Records of South Australia</publisher>
+<date>2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/objects/SD0000061.htm">
+<relationEntry localType="digitalObject">Progress Report of the Royal Commission on the Aborigines; together with minutes of proceedings, evidence and appendices</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>AIATSIS</repository>
+<unittitle>Progress Report of the Royal Commission on the Aborigines; together with minutes of proceedings, evidence and appendices</unittitle>
+<unitdate>1913</unitdate>
+<abstract>This is a copy of the progress report of the Royal Commission on the Aborigines, together with minutes of proceedings, evidence and appendices, 1913.</abstract>
+<note label="rights">Reproduction rights owned by the Government of South Australia. Digitised by the AIATSIS Library. Reproduced with the permission of the State Government.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

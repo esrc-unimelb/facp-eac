@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00953</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-03-05">2013-03-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-04-23">2015-04-23</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00953b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Sisters of the Society of the Sacred Advent</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1933-01-01">1933</fromDate>
+<toDate standardDate="1941-12-31">1941</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Anglican</term>
+</function>
+<function>
+<term>Religious Order</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Sisters of the Society of the Sacred Advent was an Anglican religious order that arrived in Perth, from England, in 1933 to manage the Parkerville Children's Home after the Community of the Sisters of the Church left. The Sisters of the Society of the Sacred Advent managed Parkerville Children's Home until the Community of the Sisters of the Church again took over its management in 1941.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00174b.htm">
+<relationEntry localType="Organisation">
+Parkerville Children's Home (1909 - 2005)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1933-01-01">1933</fromDate>
+<toDate standardDate="1941-12-31">1941</toDate>
+</dateRange>
+<descriptiveNote>
+<p>The Sisters of the Society of the Sacred Advent had a governance role at Parkerville, which was run by a management committee.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01472b.htm">
+<relationEntry localType="Organisation">
+Community of the Sisters of the Church (1908 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1933-01-01">1933</fromDate>
+<toDate standardDate="1941-12-31">1941</toDate>
+</dateRange>
+<descriptiveNote>
+<p>The Sisters of the Society of the Sacred Advent replaced the Community of the Sisters of the Church in managing Parkerville Children's Home in 1933. In 1941, the Community of the Sisters of the Church then replaced the Sisters of the Society of the Sacred Advent in managing Parkerville Children's Home.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01480b.htm">
+<relationEntry localType="Organisation">
+Parkerville Children's Home Incorporated (1925 - 2005)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1933-01-01">1933</fromDate>
+<toDate standardDate="1941-12-31">1941</toDate>
+</dateRange>
+<descriptiveNote>
+<p>The Sisters of the Society of the Sacred Advent had a management role at Parkerville Children's Home, and reported to the Parkerville Children's Home Incorporated</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Sisters of the Society of the Sacred Advent', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Sisters of the Society of the Sacred Advent</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00953b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000795.htm">
+<relationEntry localType="published">Book Section: Religious orders, Anglican women</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Riordan, Noreen</name>
+<title render="quoted">Religious orders, Anglican women</title>
+<imprint>
+<place>Crawley, W.A.</place>
+<publisher>University of Western Australia Press</publisher>
+<date>2009</date>
+</imprint>
+<bibseries>
+<title render="italic">Historical Encyclopedia of Western Australia</title>
+<name type="author">Gregory, Jenny and Jan Gothard [editors]</name>
+<num type="pages">754</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

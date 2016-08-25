@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01478</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-11-19">2014-11-19</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-11-28">2014-11-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01478b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Malcolm Street Receiving Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1907-01-01">1907</fromDate>
+<toDate standardDate="1907-12-31">1907</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Babies' Home</term>
+</function>
+<function>
+<term>Receiving Home</term>
+</function>
+<function>
+<term>Anglican</term>
+</function>
+<function>
+<term>Protestant</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Malcolm Street Receiving Home was established by the Sisters of the Church in 1907, possibly to accommodate infants who could not be placed at the Waif's Home, Parkerville. It is likely that the Malcolm Street Receiving Home was open for a short period of time.</abstract>
+<p>Whittington (in <span style="font-style:italic">Sister Kate</span> 1999, p.131) reports that around May 1907, the Sisters opened a 'receiving home' for infants in rented premises at 37 Malcolm Street, Perth (the Malcolm Street Receiving Home). Within its first few weeks, it had 10 'inmates'. Some infants were kept at the Home, and others were boarded out (placed with a foster parent in a private home). According to Whittington (p.135), the Home was 'probably' opened because the infants could not be accommodated at Parkerville. Whittington makes no further mention of the Malcolm Street Receiving Home, so it may have operated for only a short time.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1907-01-01">1907</fromDate>
+<toDate standardDate="1907-12-31">1907</toDate>
+</dateRange>
+<placeEntry>Perth</placeEntry>
+<event>Address - Malcolm Street Receiving Home was situated at 37 Malcolm Street, Perth.</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00952b.htm">
+<relationEntry localType="Organisation">
+Sisters of the Church (1901 - 1908)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01481b.htm">
+<relationEntry localType="Organisation">
+Waif's Home, Parkerville (1903 - 1909)
+</relationEntry>
+<descriptiveNote>
+<p>Malcolm Street Receiving Home is recorded as being established because of insufficient places at the Waif's Home, Parkerville.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Malcolm Street Receiving Home', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Malcolm Street Receiving Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01478b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000370.htm">
+<relationEntry localType="published">Book: Sister Kate: a life dedicated to children in need of care</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Whittington, Vera</name>
+<title render="italic">Sister Kate: a life dedicated to children in need of care</title>
+<imprint>
+<place>Nedlands, Western Australia</place>
+<publisher>University of Western Australia Press</publisher>
+<date>1999</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

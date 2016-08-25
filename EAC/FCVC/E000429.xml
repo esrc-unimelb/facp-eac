@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000429</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2009-09-15">2009-09-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000429b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Australian Parliament Apology to the Stolen Generations</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2008-02-13">13 February 2008</fromDate>
+<toDate standardDate="2008-02-13">13 February 2008</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+</functions>
+<biogHist>
+<abstract>On 13 February 2008, the Australian Government made an Apology to Australia's Indigenous People.</abstract>
+<p>Prime Minister Kevin Rudd's speech included the words:</p>
+<p>'To the Stolen Generations, I say the following: as Prime Minister of Australia, I am sorry. On behalf of the Government of Australia, I am sorry. On behalf of the Parliament of Australia, I am sorry. And I offer you this apology without qualification. We apologise for the hurt, the pain and suffering we, the parliament, have caused you by the laws that previous parliaments have enacted. We apologise for the indignity, the degradation and the humiliation these laws embodied. We offer this apology to the mothers, the fathers, the brothers, the sisters, the families and the communities whose lives were ripped apart by the actions of successive governments under successive parliaments. In making this apology, I would also like to speak personally to the members of the Stolen Generation and their families: to those here today, so many of you; to those listening across the nation - from Yuendumu, in the central west of the Northern Territory, to Yabara, in North Queensland, and to Pitjantjatjara in South Australia.'</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000160b.htm">
+<relationEntry localType="Event">
+National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families (1995 - 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000158b.htm">
+<relationEntry localType="Glossary Term">
+Stolen Generations (c. 1981 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000810b.htm">
+<relationEntry localType="Glossary Term">
+Child Abuse
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Australian Parliament Apology to the Stolen Generations', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Australian Parliament Apology to the Stolen Generations</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000429b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000702.htm">
+<relationEntry localType="published">Report: Unfinished business: the Forgotten Australians</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Small, Marilyn</name>
+<title render="italic">Unfinished business: the Forgotten Australians</title>
+<imprint>
+<date>2009</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000338.htm">
+<relationEntry localType="published">Article: Federal Government Apologises For Child Abuse</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Parry, Naomi</name>
+<title render="quoted">Federal Government Apologises For Child Abuse</title>
+<imprint>
+<date>2009</date>
+</imprint>
+<bibseries>
+<title render="italic">newmatilda.com</title>
+</bibseries>
+<extptr linktype="simple" href="http://newmatilda.com/2009/11/16/federal-government-apologises-child-abuse"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000335.htm">
+<relationEntry localType="published">Resource Section: We say sorry: the national apology to Indigenous peoples of Australia, 13 February 2008</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">We say sorry: the national apology to Indigenous peoples of Australia, 13 February 2008</title>
+<imprint>
+<publisher>Australian Institute of Aboriginal and Torres Strait Islander Studies</publisher>
+</imprint>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/we-say-sorry"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00916</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-04-10">2014-04-10</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-10-09">2015-10-09</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00916b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Royal Commission into Queen's Asylum</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1867-01-01">1867</fromDate>
+<toDate standardDate="1867-12-31">1867</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Royal Commission into Queen's Asylum, conducted by Dr John Coverdale, opened in January 1867. Although its purpose was to cut costs at the Asylum, it failed to make any recommendations for this. It reported in December 1867.</abstract>
+<p>According to Joan Brown, the government appointed the Royal Commission to consider reducing expenditure at the Asylum. However, out of concern for the children, they failed to make any recommendations to cut costs. Instead their</p>
+<p>'most anxious care became not how cheaply the children could be maintained until an age when they might be got rid of, but rather to place the Establishment on such a footing with proper regard to economy as would embrace ample provision for their physical wants and for their moral, religious and industrial training and secular instruction, considering that if these objects were attained, the expenditure, whether little or much, would be so much money squandered.'</p>
+<p>The report mentioned the 'prison-like atmosphere' and the lack of 'joyous hilarity' among the children.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00924b.htm">
+<relationEntry localType="Glossary Term">
+Royal Commission
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00053b.htm">
+<relationEntry localType="Organisation">
+Queen's Orphan Asylum (1833 - 1879)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Royal Commission into Queen's Asylum', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Royal Commission into Queen's Asylum</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00916b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000095.htm">
+<relationEntry localType="published">Book: 'Poverty is not a crime': the development of social services in Tasmania, 1803-1900</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Brown, Joan C.</name>
+<title render="italic">'Poverty is not a crime': the development of social services in Tasmania, 1803-1900</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Tasmanian Historical Research Association</publisher>
+<date>1972</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000669.htm">
+<relationEntry localType="published">Report: Royal Commission on the Queen's Asylum</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Royal Commission on the Queen's Asylum</title>
+<imprint>
+<place>Hobart</place>
+<publisher>Government Printer</publisher>
+<date>1867</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000764.htm">
+<relationEntry localType="published">Report: History of Australian inquiries reviewing institutions providing care for children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Swain, Shurlee</name>
+<title render="italic">History of Australian inquiries reviewing institutions providing care for children</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Royal Commission into Institutional Responses to Child Sexual Abuse</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.childabuseroyalcommission.gov.au/documents/published-research/historical-perspectives-report-3-history-of-inquir.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

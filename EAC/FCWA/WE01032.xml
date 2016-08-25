@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01032</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-04-25">2013-04-25</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-02">2015-03-02</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01032b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Imbecile</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="also known as"><part>Imbecility</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1920-01-01">1920s</fromDate>
+<toDate standardDate="1940-12-31">1940s</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Term commonly found on child welfare records</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Imbecile was a term used in the twentieth century to describe people who had intellectual disabilities. The Minister for Public Health in Western Australia defined five classes of 'defectives' in 1929. The second class was imbeciles, who were 'persons in whose case there exists permanent mental defectiveness not amounting to idiocy, yet so pronounced that they are incapable of managing themselves or their affairs, or in the case of children of being taught to do so' (<span style="font-style:italic">Hansard</span>, 17 September 1929, p.742).</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01038b.htm">
+<relationEntry localType="Event">
+Royal Commission in Lunacy, State of Western Australia (1921 - 1922)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01033b.htm">
+<relationEntry localType="Glossary Term">
+Feeble-Minded (1920s - 1950s)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01031b.htm">
+<relationEntry localType="Glossary Term">
+Idiot (1920s - 1940s)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00453b.htm">
+<relationEntry localType="Glossary Term">
+Mentally Deficient
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00990b.htm">
+<relationEntry localType="Glossary Term">
+Intellectual Disability
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01134b.htm">
+<relationEntry localType="Glossary Term">
+Insanity (1871 - 1920s)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1871-01-01">1871</fromDate>
+<toDate standardDate="1920-12-31">1920s</toDate>
+</dateRange>
+<descriptiveNote>
+<p>'Insanity' as a diagnosis for children had been replaced by descriptions such as 'imbecile' by the 1920s.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Imbecile', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Imbecile</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01032b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000940.htm">
+<relationEntry localType="published">Resource Section: Bill - Mental Deficiency. Second Reading [Hansard p739-747]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Bill - Mental Deficiency. Second Reading [Hansard p739-747]</title>
+<imprint>
+<publisher>Parliament of Western Australia</publisher>
+<date>1929</date>
+</imprint>
+<bibseries>
+<title render="italic">Hansard Archive 1870 to 1995</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.parliament.wa.gov.au/Hansard%5Chansard1870to1995.nsf/vwMainBackground/19290917_Assembly.pdf/$File/19290917_Assembly.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE00954</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-05-06">2014-05-06</eventDateTime>
+<agentType>human</agentType>
+<agent>Caroline Evans</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-12-15">2015-12-15</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00954b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Archives Act 1983</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1983-01-01">1983</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Archives Act, passed in 1983, regulates government record keeping and public access to records held by the Tasmanian Archive and Heritage Office (TAHO).</abstract>
+<p>The <span style="font-style:italic">Archives Act</span> provides for a state archives and the appointment of a State Archivist.</p>
+<p>The Act requires state and local governments to keep 'proper' records and to maintain control over them. If this is not happening, the State Archivist can intervene.</p>
+<p>Government records over 25 years old must be transferred to the Tasmanian Archive and Heritage Office (TAHO) unless the State Archivist has issued an exemption. Records more than 25 years old cannot be altered without the State Archivist's written permission.</p>
+<p>The Act sets out a number of instances in which Government agencies can place restrictions of up to 75 years on public access to records they have deposited at TAHO. This includes records where access would allow 'unreasonable disclosure' of personal information about someone, even after they have died. If a private organisation or person deposits their records at TAHO, they can also place restrictions on public access. Otherwise all records are to be available to the public at no cost.</p>
+<p>Unless the State Archivist gives written permission, records cannot be damaged, destroyed or transferred to a third party.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01038b.htm">
+<relationEntry localType="Concept">
+Tasmanian State Government (1901 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01039b.htm">
+<relationEntry localType="Concept">
+Law in Tasmania (1825 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00422b.htm">
+<relationEntry localType="Archival Collection">
+Tasmanian Archive and Heritage Office Records (1965 - )
+</relationEntry>
+<descriptiveNote>
+<p>The management and public access to theTasmanian Archive and Heritage Office Records is controlled by the <span style="font-style:italic">Archives Act</span>.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00325b.htm">
+<relationEntry localType="Organisation">
+Tasmanian Archive and Heritage Office (2011 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00166b.htm">
+<relationEntry localType="Glossary Term">
+Closed Access Records
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Archives Act 1983', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Archives Act 1983</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00954b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000690.htm">
+<relationEntry localType="published">Resource: Recordkeeping advice no. 1: government employees responsibilities in relation to state records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Pearce, Ian</name>
+<title render="italic">Recordkeeping advice no. 1: government employees responsibilities in relation to state records</title>
+<imprint>
+<publisher>Archives Office of Tasmania</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://www.informationstrategy.tas.gov.au/Records-Management-Principles/Pages/Govern.aspx"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000684.htm">
+<relationEntry localType="published">Statute: Archives Act</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Archives Act</title>
+<imprint>
+<date>1983</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>YE00139</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNT</agencyCode>
+<agencyName>Find &amp; Connect - Northern Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-10-27">2011-10-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Karen George and Gary George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-24">2016-03-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nt/biogs/YE00139b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Child Endowment</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>CE</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1941-01-01">1941</fromDate>
+<toDate standardDate="1976-12-31">1976</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Child Endowment was a non-means tested flat payment made by the Commonwealth Government directly to mothers for each child under 16 after the first child. This was first introduced with the passing of the Child Endowment Act (Commonwealth) 1941. In the original legislation, children living in Commonwealth or State government institutions were excluded from endowment. (Religious or charitable institutions could receive child endowment payments.)
+The Act was amended in 1942 to include Aboriginal children in the care of a Mission, and children in government-funded institutions.</abstract>
+<p>When Child Endowment was first introduced in July 1941 the initial rate of payment was 5 shillings per week per child.</p>
+<p>When the legislation was passed, children in State or Commonwealth-fuded institutions were excluded from this payment. Orphanages and homes run by religious or charitable groups were eligible to receive child endowment payments. In July 1942 the Child Endowment Act was amended to allow payment to be extended to include children 'cared for' in government-run institutions and Aboriginal children living for at least 6 months of the year on a mission station. In these cases Child Endowment was paid to the institutions. Many of these institutions came to rely on Child Endowment payments.</p>
+<p>In June 1976 this payment was replaced by the Family Allowance.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00254b.htm">
+<relationEntry localType="Archival Item">
+Department of Aboriginal Affairs - Regional Office - Alice Springs - Monthly and Annual Reports - FWOs (1960 - 1961)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00253b.htm">
+<relationEntry localType="Archival Item">
+Department of Aboriginal Affairs - Regional Office - Alice Springs - Child Endowment claims - Receiving Home (1959 - 1962)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Child Endowment', in <span style="font-style:italic">Find &amp; Connect - Northern Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Child Endowment</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Northern Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00139b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/bib/YP0000364.htm">
+<relationEntry localType="published">Resource: Social Security Payments for People Caring for Children, 1912-2008: a chronology - tables 2-4</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Daniels, Dale</name>
+<title render="italic">Social Security Payments for People Caring for Children, 1912-2008: a chronology - tables 2-4</title>
+<imprint>
+<publisher>Parliament of Australia</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/BN/0809/childrenpartb"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

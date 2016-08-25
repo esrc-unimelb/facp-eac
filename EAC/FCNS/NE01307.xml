@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01307</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-05-17">2013-05-17</eventDateTime>
+<agentType>human</agentType>
+<agent>Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-10-08">2014-10-08</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01307b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Country Women's Association Hostel, Inverell</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>CWA Hostel, Inverell</part>
+</nameEntry>
+<nameEntry localType=""><part>Inverell CWA Hostel</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1925-01-01">1925</fromDate>
+<toDate standardDate="1981-12-31">1981</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Hostel</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Country Women's Association Hostel at Inverell opened from 1925-1928 with CWA support, and an official Country Women's Association hostel was opened in a better house in 1945. It was a hostel for school girls, most of whom boarded during the week and went home on weekends. The Country Women's Association Hostel, Inverell closed in 1981.</abstract>
+<p>The first hostel supported by the CWA was Inverell, which was opened between 1925 and 1928. The Inverell Branch of the Country Women's Association did not run the hostel, but advertised, supported and promoted it. In 1943, after the Inverell High School headmaster expressed concerns about the living conditions of some of the children boarding in town to attend high school, the Branch rented a weatherboard house. It was cleaned and refurbished by members and opened as a hostel in 1945. Parents paid 25/- a week for their children. The Education Department paid the rent for the building, but as the hostel was popular, by 1950 the Branch felt they could afford to buy the building and renovate it properly. This building burned down in 1966, but was rebuilt and reopened within 12 months. Inverell closed in 1981.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1943-01-01">1943</fromDate>
+<toDate standardDate="1981-12-31">1981</toDate>
+</dateRange>
+<placeEntry>Inverell</placeEntry>
+<event>Location - CWA Hostel was situated at Inverell</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01306b.htm">
+<relationEntry localType="Organisation">
+Country Women's Association of New South Wales (1922 - )
+</relationEntry>
+<descriptiveNote>
+<p>Country Women's Association Inverell branch members ran the CWA Hostel at Inverell.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Country Women's Association Hostel, Inverell', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Country Women's Association Hostel, Inverell</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01307b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000566.htm">
+<relationEntry localType="published">Book: Serving the country : the history of the Country Women's Association of New South Wales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Townsend, Helen</name>
+<title render="italic">Serving the country : the history of the Country Women's Association of New South Wales</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Doubleday</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

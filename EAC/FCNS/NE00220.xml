@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE00220</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-03-09">2011-03-09</eventDateTime>
+<agentType>human</agentType>
+<agent>Melissa Downing</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-11-06">2015-11-06</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00220b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>The Fold Girls' Home</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="also referred to as"><part>Salvation Army Marrickville Girls' Home</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1920-01-01">1920</fromDate>
+<toDate standardDate="1942-12-31">1942</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Salvation Army</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Children's Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Fold was opened in Stanmore in 1920 by the Salvation Army. In 1925 it was relocated to George Street Marrickville. The home closed on 24 March 1942, and the girls were transferred to Canowindra Girls' Home (Lyndon House) at Canowindra.</abstract>
+<p>The Fold was officially opened on 27 July 1920 by Commissioner James Hay of the Salvation Army. When it moved to George Street Marrickville the new premises were opened by Miss Millicent Preston Stanley MLA, on 11 December 1925.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1920-01-01">1920</fromDate>
+<toDate standardDate="1925-12-31">1925</toDate>
+</dateRange>
+<placeEntry>Stanmore</placeEntry>
+<event>Location - The Fold Girls' Home was situated at Stanmore</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1925-01-01">1925</fromDate>
+<toDate standardDate="1942-12-31">1942</toDate>
+</dateRange>
+<placeEntry>Marrickville</placeEntry>
+<event>Address - The Fold Girls' Home was situated at 27 George Street, Marrickville</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00208b.htm">
+<relationEntry localType="Organisation">
+The Salvation Army Australia Eastern Territory (1882 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00663b.htm">
+<relationEntry localType="Archival Series">
+Admission Register, The Fold Girls' Home (1924 - 1976)
+</relationEntry>
+<descriptiveNote>
+<p>This Admission register contains records for The Fold Girls' Home from 1924 to 1942.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00221b.htm">
+<relationEntry localType="Organisation">
+Canowindra Girls' Home (1942 - 1977)
+</relationEntry>
+<descriptiveNote>
+<p>When The Fold closed in 1942 girls were transferred to Canowindra Girls' Home.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'The Fold Girls' Home', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">The Fold Girls' Home</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00220b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000625.htm">
+<relationEntry localType="published">Resource Section: Submission 46: EASTERN TERRITORY SOCIAL CENTRES: A list of openings, closings, and function</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">The Salvation Army Australia Eastern Territory</name>
+<title render="quoted">Submission 46: EASTERN TERRITORY SOCIAL CENTRES: A list of openings, closings, and function</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
+<name type="author">Senate Community Affairs Committee</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000001.htm">
+<relationEntry localType="published">Resource: Connecting Kin: Guide to Records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Thinee, Kristy and Bradford, Tracy</name>
+<title render="italic">Connecting Kin: Guide to Records</title>
+<imprint>
+<place>Sydney, New South Wales</place>
+<publisher>New South Wales Department of Community Services</publisher>
+<date>1998</date>
+</imprint>
+<extptr linktype="simple" href="http://www.community.nsw.gov.au/__data/assets/pdf_file/0008/319256/connectkin_guide.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000056.htm">
+<relationEntry localType="digitalObject">The Fold (Salvation Army Marrickville Girls Home)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Care Leavers Australia Network [CLAN]</repository>
+<unittitle>The Fold (Salvation Army Marrickville Girls Home)</unittitle>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000057.htm">
+<relationEntry localType="digitalObject">Opening of the New Wing at The Fold - Brochure</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>CLAN National Orphanage Museum</repository>
+<unittitle>Opening of the New Wing at The Fold - Brochure</unittitle>
+<unitdate>15 October 1926</unitdate>
+<abstract>A programme about the Opening of the New Wing at The Fold - Marrickville.</abstract>
+<note label="rights">Permission to use or reproduce part or all of this image must be sought from the Care Leavers Australia Network (CLAN)</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

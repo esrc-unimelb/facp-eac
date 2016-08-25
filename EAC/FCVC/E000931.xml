@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000931</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-05-16">2014-05-16</eventDateTime>
+<agentType>human</agentType>
+<agent>Sarah Green</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000931b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Strathmore Lodge</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1953-01-01">1953</fromDate>
+<toDate standardDate="1955-12-31">1955</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Protestant</term>
+</function>
+<function>
+<term>Children's Home</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Strathmore Lodge was established in 1953 as a girls' home in Surrey Hills run by the United Protestant Association of Victoria. The home was shortlived and the property was sold in 1955.</abstract>
+<p>The State Council of the United Protestant Association of Victoria purchased a property at 18 Scottsdale St, Surrey Hills, in 1952 to establish a Home for Protestant girls. In January 1953, the United Protestant Association of New South Wales' newspaper <span style="font-style:italic">The Protestant World</span>, announced the organisation's intention to provide an alternative to Catholic children's homes:</p>
+<p>'"Strathmore Lodge" is the name selected by the State Council of the U.P.A. of Victoria for their first home at Surrey Hills to be opened for girls in 1953. The purchase of this property has given a new lease of life to workers in Victoria who have been waiting for years for something to be done in this direction. To beat any enemy we must build up our own case. Talking is all right for propaganda work, but it must be followed up by the practical work. It in [sic] sheer hyprocrisy to talk of the many Protestant children in R.C. homes and convent laundries, if we do not provide accommodation for them to prevent them from going into those concerns.'</p>
+<p>Although the home was designed to house ten girls, it seems vey few girls stayed there. The United Protestant Association of New South Wales has records of two girls who were sent there from New South Wales. It is not unknown how many, if any, girls from Victoria went to Strathmore Lodge.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1953-01-01">1953</fromDate>
+<toDate standardDate="1955-12-31">1955</toDate>
+</dateRange>
+<event>Address - Strathmore Lodge was located at 18 Scottsdale St, Surrey Hills</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000932b.htm">
+<relationEntry localType="Organisation">
+United Protestant Association of Victoria (1953? - 1955?)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1953-01-01">1953</fromDate>
+<toDate standardDate="1955-12-31">1955</toDate>
+</dateRange>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Strathmore Lodge', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Strathmore Lodge</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000931b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001088.htm">
+<relationEntry localType="published">Journal: The Protestant World: offical organ of the United Protestant Association of New South Wales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">United Protestant Association of N.S.W.</name>
+<title render="italic">The Protestant World: offical organ of the United Protestant Association of New South Wales</title>
+<imprint>
+<date>1921-1980</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001087.htm">
+<relationEntry localType="published">Resource Section: United Protestant Association of New South Wales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Naomi Parry</name>
+<title render="quoted">United Protestant Association of New South Wales</title>
+<imprint>
+<publisher>Find &amp; Connect Web Resource Project for the Commonwealth of Australia</publisher>
+<date>2011</date>
+</imprint>
+<bibseries>
+<title render="italic">Find &amp; Connect New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00380b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000497.htm">
+<relationEntry localType="digitalObject">Strathmore Lodge</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Strathmore Lodge</unittitle>
+<unitdate>1953</unitdate>
+<abstract>This is an image of Strathmore Lodge in Surrey Hills.</abstract>
+<note label="rights">Kindly donated by Deb Wager, United Protestant Association.</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

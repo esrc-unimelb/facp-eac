@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>SE01183</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCSA</agencyCode>
+<agencyName>Find &amp; Connect - South Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-01-22">2013-01-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Gary George and Karen George</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-03-10">2016-03-10</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/sa/biogs/SE01183b.htm</entityId>
+<entityId localType="State Records of South Australia Series ID">GRS/13485</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Visitors' Book - Boys' Reformatory, Magill</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1933-01-01">1933</fromDate>
+<toDate standardDate="1968-12-31">1968</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Visitors' Book - Boys' Reformatory, Magill, is a single leather bound volume with the title embossed on the front cover. It was used by the Magill Boys Reformatory to record visits from 1933 to 1968 by government committees, members of the Children's Welfare and Public Relief Board, community leaders, and local, interstate and overseas dignitaries and officials.</abstract>
+<h4>Access Conditions</h4>
+<p>A Research Centre Members card, obtainable at the Archives, is required to research records held at State Records.</p>
+<p>Although some very early records relating to children in care in South Australia are open for access, most records relating to children are subject to a 100 year restriction, particularly those which contain personal information about individuals. Written permission must be obtained from the government agency which created the record in order to access restricted material. To obtain permission a Freedom of Information (FOI) request form must be submitted to the relevant government department. State Records staff will be able to assist you with this.</p>
+<h4>Records</h4>
+<p>The volume provided for the Date, Visitor's Name, and Remarks. Visitors signed their names against the date and named the organisation that they were representing, or their profession, in the Remarks column. Many comments were also recorded in the Remarks column about visitors' impressions of the reformatory and its work.</p>
+<p>One of the final entries in the volume was a page dedicated to the opening on the site of the reformatory of the McNally Training Centre, Magill, on 22/11/1967 by the Premier of South Australia, the Honourable Don Dunstan, QC LLB MP. The signatures include Frank Walsh, Minister for Social Welfare, and Frederick John McNally, after whom the centre was named.</p>
+<p>Arranged chronologically.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00024b.htm">
+<relationEntry localType="Organisation">
+State Records of South Australia (1919 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01247b.htm">
+<relationEntry localType="Contact Details">
+State Records of South Australia - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00057b.htm">
+<relationEntry localType="Organisation">
+Boys Reformatory, Magill (1891 - 1967)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Visitors' Book - Boys' Reformatory, Magill', in <span style="font-style:italic">Find &amp; Connect - South Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Visitors' Book - Boys' Reformatory, Magill</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - South Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01183b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/objects/SD0000158.htm">
+<relationEntry localType="digitalObject">Visitors' Book - Boys' Reformatory, Magill 01</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Gary George</repository>
+<unittitle>Visitors' Book - Boys' Reformatory, Magill 01</unittitle>
+<unitdate>2012</unitdate>
+<abstract>Photograph of the front cover of the Visitors' Book - Boys' Reformatory, Magill, held by State Records of South Australia</abstract>
+<note label="rights">No copyright restrictions</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

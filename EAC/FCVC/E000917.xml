@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E000917</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2014-01-31">2014-01-31</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000917b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Ivanhoe Girls' Hostel</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1965-01-01">1965?</fromDate>
+<toDate standardDate="1993-12-31">1993?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Hostel</term>
+</function>
+<function>
+<term>Government-run</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Ivanhoe Girls' Hostel, run by the Victorian government, was established around 1965. It provided accommodation for female wards of state from Winlaton</abstract>
+<p>According to the Social Welfare Department's annual report for 1973, at Ivanhoe Girls' Hostel:</p>
+<p>'Girls are encouraged to become increasingly self-reliant in all aspects of living, and are assisted to find private board or other suitable accommodation when they are ready to leave the hostel. The average length of stay varies from 6 to 12 months according to individual needs and progress.'</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1971-01-01">c. 1971</fromDate>
+<toDate standardDate="1971-12-31">c. 1971</toDate>
+</dateRange>
+<placeEntry>Ivanhoe</placeEntry>
+<event>Location - The Ivanhoe Girls' Hostel was situated in Ivanhoe</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000133b.htm">
+<relationEntry localType="Organisation">
+Community Services Victoria, State Government of Victoria (1985 - 1992)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000131b.htm">
+<relationEntry localType="Organisation">
+Social Welfare Department, State Government of Victoria (1970 - 1978)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000132b.htm">
+<relationEntry localType="Organisation">
+Department of Community Welfare Services, State Government of Victoria (1978 - 1985)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000704b.htm">
+<relationEntry localType="Archival Collection">
+Victorian Government Records relating to Wardship and Adoption (1864 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000192b.htm">
+<relationEntry localType="Organisation">
+Winlaton (1956 - c. 1991)
+</relationEntry>
+<descriptiveNote>
+<p>Some young women from Winlaton went on to live at Ivanhoe Girls' Hostel</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Ivanhoe Girls' Hostel', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Ivanhoe Girls' Hostel</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000917b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000549.htm">
+<relationEntry localType="published">Report: Annual report: Social Welfare Department</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Annual report: Social Welfare Department</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Government Printer</publisher>
+<date>1961-1978</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

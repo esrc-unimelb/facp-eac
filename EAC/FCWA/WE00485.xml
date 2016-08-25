@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE00485</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Glossary Term</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2011-12-15">2011-12-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-11-18">2015-11-18</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00485b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Delinquent</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<functions>
+<function>
+<term>Term commonly found on child welfare records</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Delinquent was a term used to describe a child or young person whose behaviour was likely to lead them to be convicted of an offence. The term delinquent starts to appear in Western Australia in Annual Reports of the State Children Department from the mid-1920s, in reference to children who had been detained under the State Children Act 1907.</abstract>
+<p>The following is representative of the views in the mid 1920's:<br />
+'The release of boys on probation by the Children's Court and also the release on parole from the Industrial School, besides giving delinquents an opportunity of making good, tends toward lessening the number of adult criminals, for if the child can be satisfactorily dealt with the adult must necessarily be a respectable law-abiding citizen.<span style="font-style:italic"> Annual Report of the State Children Department for the Year Ended 30th June, 1926</span>'.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00488b.htm">
+<relationEntry localType="Glossary Term">
+Probation
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00486b.htm">
+<relationEntry localType="Organisation">
+Children's Court of Western Australia (1907 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00450b.htm">
+<relationEntry localType="Glossary Term">
+Industrial School
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00407b.htm">
+<relationEntry localType="Legislation">
+State Children Act 1907 (1907 - 1948)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00451b.htm">
+<relationEntry localType="Glossary Term">
+Juvenile Offending (1840s - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00482b.htm">
+<relationEntry localType="Concept">
+Policies and practices in out of home 'care' in the 1930s - an overview (1930 - 1939)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Delinquent', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Delinquent</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00485b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000021.htm">
+<relationEntry localType="published">Report: Annual report of the State Children Department</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Annual report of the State Children Department</title>
+<imprint>
+<place>[Perth, W.A.]</place>
+<publisher>State Children's Department</publisher>
+<date>1908-1927</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000314.htm">
+<relationEntry localType="published">Newspaper Article: Mt. Lawley Reception Home's Detention Methods Are Primitive - But They Have A Tough Job</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Mt. Lawley Reception Home's Detention Methods Are Primitive - But They Have A Tough Job</title>
+<imprint>
+<date>1954</date>
+</imprint>
+<bibseries>
+<title render="italic">Sunday Times</title>
+<num type="pages">5</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article59693713"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000177.htm">
+<relationEntry localType="digitalObject">Boys Behind Iron Bars</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
+<unittitle>Boys Behind Iron Bars</unittitle>
+<unitdate>15 August 1954</unitdate>
+<abstract>This is a picture from an article in the <span style="font-style:italic">Sunday Times</span> newspaper, which is published on the National Library of Australia's website, 'Trove'. The picture shows the 'solitary confinement' wing' of the Child Welfare Reception Home at Mt Lawley, where 'delinquent' children were housed. The article condemned this practice and called for better facilities.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

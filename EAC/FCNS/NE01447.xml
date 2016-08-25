@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01447</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Contact Details</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-09-21">2013-09-21</eventDateTime>
+<agentType>human</agentType>
+<agent>Michael Jones and Naomi Parry</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2014-11-28">2014-11-28</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01447b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>CatholicCare Diocese of Broken Bay - Contact Details</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<biogHist>
+<p>Please contact the Senior Manager Out-of-Home Care:</p>
+<p>Street Address: Caroline Chisholm Centre, Level 7, Building 2, 423 Pennant Hills Road, Pennant Hills NSW 2120</p>
+<p>Postal Address: PO Box 966, Pennant Hills NSW 1715</p>
+<p>Phone: (02) 9481 2636</p>
+<p>Fax: (02) 9481 2601</p>
+<p>Email: <citation xlink:type="simple" xlink:href="mailto:jean.murray@dbb.org.au" class="extlink" title="[external site] jean.murray@dbb.org.au">jean.murray@dbb.org.au</citation></p>
+<p>Website: <citation xlink:type="simple" xlink:href="http://www.centacarebrokenbay.org.au/out-of-home-care3/forgotten-australians/" class="extlink" title="[external site] http://www.centacarebrokenbay.org.au/out-of-home-care3/forgotten-australians/[opens new browser window]" target="_blank">http://www.centacarebrokenbay.org.au/out-of-home-care3/forgotten-australians/</citation></p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01592b.htm">
+<relationEntry localType="Organisation">
+CatholicCare, Diocese of Broken Bay (2013 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00577b.htm">
+<relationEntry localType="Archival Series">
+Sherbrook Residential Care Unit: Client Files (1991 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'CatholicCare Diocese of Broken Bay - Contact Details', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">CatholicCare Diocese of Broken Bay - Contact Details</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01447b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000875.htm">
+<relationEntry localType="published">Resource Section: Forgotten Australians</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Forgotten Australians</title>
+<imprint>
+<publisher>CatholicCare Diocese of Broken Bay</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Catholic Care Diocese of Broken Bay</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.catholiccaredbb.org.au"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000874.htm">
+<relationEntry localType="published">Resource: Catholic Care Diocese of Broken Bay</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Catholic Care Diocese of Broken Bay</title>
+<imprint>
+<publisher>CatholicCare Diocese of Broken Bay</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.catholiccaredbb.org.au"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

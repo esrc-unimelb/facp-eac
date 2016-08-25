@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01151</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2013-08-20">2013-08-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Debra Rosser</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2015-03-13">2015-03-13</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01151b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Women's Home, Fremantle</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="also known as"><part>The Home for Women, Fremantle</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1909-01-01">1909</fromDate>
+<toDate standardDate=""></toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1909-01-01">1909</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Maternity Home</term>
+</function>
+<function>
+<term>Disability Institution</term>
+</function>
+<function>
+<term>Temporary Care</term>
+</function>
+<function>
+<term>Female Rescue Home</term>
+</function>
+<function>
+<term>Government-run</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Women's Home in Fremantle was established by the government as a continuation of the Female Home (Women's Home, Poor House) in Perth. Children and women who were intellectually disabled, destitute or pregnant and destitute, were moved from Perth into the buildings that had previously been the Fremantle Lunatic Asylum. It seems that very few children were admitted after the relocation, but it continued to function as a lying-in home for single and destitute women.</abstract>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1909-11-17">17 November 1909</fromDate>
+<toDate standardDate="1909-11-17">17 November 1909</toDate>
+</dateRange>
+<placeEntry>Fremantle</placeEntry>
+<event>Location - The Women's Home at Fremantle was established in Fremantle by the government to accommodate women and children from the Women's Home (Poor House, Female Home) in Perth. They moved to what had been the Lunatic Asylum</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01150b.htm">
+<relationEntry localType="Organisation">
+Female Home [Poor House, Perth] (1851 - 1909)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Women's Home, Fremantle', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Women's Home, Fremantle</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01151b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000003.htm">
+<relationEntry localType="published">Book: Paupers, Poor Relief and Poor Housing in Western Australia 1829 to 1910</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hetherington, Penelope</name>
+<title render="italic">Paupers, Poor Relief and Poor Housing in Western Australia 1829 to 1910</title>
+<imprint>
+<place>Crawley, Western Australia</place>
+<publisher>UWA Publishiing</publisher>
+<date>2009</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000607.htm">
+<relationEntry localType="digitalObject">Report by the Superintendent of Public Charities, 1910</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Department for Child Protection and Family Support</repository>
+<unittitle>Report by the Superintendent of Public Charities, 1910</unittitle>
+<unitid>DCPFS ID No. 2013/19196 (originals: file recall no. C550695970-72)</unitid>
+<unitdate>1910</unitdate>
+<abstract>'Report by the Superintendent of Public Charities, 1910' is a digital copy of the 'Report by the Superintendent of Public Charities for the Year ended June 30, 1910'. It has information about the poor houses and welfare system in Western Australia.</abstract>
+<note label="rights">Department for Child Protection and Family Support</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>
