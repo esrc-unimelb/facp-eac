@@ -6,7 +6,7 @@ This dataset contains information relating to the history of child welfare and i
 The dataset does not contain copies of archival records, nor does it include information about individuals who provided or spent time in ‘care’.
  
 ### Data Schema
-Find and Connect's data is structured in the [Encoded Archival Context for Corporate Bodies, Persons, and Families (EAC-CPF)](http://eac.staatsbibliothek-berlin.de/) XML format, with a few extensions specific to the Online Heritage Resource Manager(OHRM). 
+Find and Connect's data is structured in the [Encoded Archival Context for Corporate Bodies, Persons, and Families (EAC-CPF)](http://eac.staatsbibliothek-berlin.de/) XML format, with a few extensions specific to the [Online Heritage Resource Manager(OHRM)](http://www.esrc.unimelb.edu.au/about-us/informatics-lab/ohrm/). 
 
 ### Code Examples
 There are two examples of code that processes EAC-CPF files for Find & Connect.
