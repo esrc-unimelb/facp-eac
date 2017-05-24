@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01713</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2017-05-04">2017-05-04</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2017-05-17">2017-05-17</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01713b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Children Legislation Amendment (Wood Inquiry Recommendations) Act 2009</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2009-01-01">2009</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Children Legislation Amendment (Wood Inquiry Recommendations) Act 2009 had the full title: An Act to amend the Children and Young Persons (Care and Protection) Act 1998 and other legislation to give effect to recommendations of the Special Commission of Inquiry into Child Protection Services in NSW; and for other purposes. This Act was part of the Government's response to the 2008 Report from a Special Commission of Inquiry led by Justice Wood (not to be confused with the 1995-1997 Wood Royal Commission into the NSW Police). This legislation raised the threshold for statutory intervention in child reporting to 'risk of significant harm', to clarify the working of the Out of Home Care (OOHC) system to focus on the children most at need of care, and to make changes to increase the sharing of information between Government agencies.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01546b.htm">
+<relationEntry localType="Legislation">
+Children and Young Persons (Care and Protection) Act 1998 (1998 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00020b.htm">
+<relationEntry localType="Legislation">
+Children (Care and Protection) Act 1987 (1987 - 2010)
+</relationEntry>
+<descriptiveNote>
+<p>The Children (Care and Protection) Act was not repealed until the <span style="font-style:italic">Children Legislation Amendment (Wood Inquiry Recommendations) Act 2009</span> in 2010.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01715b.htm">
+<relationEntry localType="Event">
+Special Commission of Inquiry into Child Protection Services in NSW (2007 - 2008)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
+<relationEntry localType="Concept">
+State of New South Wales (1901 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01699b.htm">
+<relationEntry localType="Concept">
+Law in New South Wales
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Children Legislation Amendment (Wood Inquiry Recommendations) Act 2009', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Children Legislation Amendment (Wood Inquiry Recommendations) Act 2009</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01713b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001066.htm">
+<relationEntry localType="published">Report: Report of the Special Commission of Inquiry into Child Protection Services in NSW, Volume 1</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wood, James, AO QC</name>
+<title render="italic">Report of the Special Commission of Inquiry into Child Protection Services in NSW, Volume 1</title>
+<imprint>
+<publisher>State of NSW through the Special Commission of Inquiry into Child
+Protection Services in NSW</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.dpc.nsw.gov.au/__data/assets/pdf_file/0010/33796/Volume_1_-_Special_Commission_of_Inquiry_into_Child_Protection_Services_in_New_South_Wales.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

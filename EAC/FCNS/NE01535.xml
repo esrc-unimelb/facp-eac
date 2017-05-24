@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-21">2016-04-21</eventDateTime>
+<eventDateTime standardDateTime="2017-05-16">2017-05-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,7 +43,6 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01535b.htm</entityId>
 <entityType>concept</entityType>
 <nameEntry><part>Child Welfare (Further Amendment) Act 1961</part>
-<part localType="parent">State of New South Wales</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
@@ -55,12 +54,25 @@
 </existDates>
 <places>
 </places>
+<functions>
+<function>
+<term>Amending Act</term>
+</function>
+</functions>
 <biogHist>
 <abstract>The <span style="font-style:italic">Child Welfare (Further Amendment) Act 1961</span> (27/1961) was 'An Act to make further provisions with respect to payments in connection with, and to prohibit the publication of certain statements relating to, the adoption of children and other persons'. It forbade payments and advertisements for adoptions, and made it illegal for people to arrange adoptions for money. It was repealed by the <span style="font-style:italic">Adoption of Children Act 1965.</span></abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00014b.htm">
+<relationEntry localType="Legislation">
+Child Welfare Act 1939 (1939 - 1987)
+</relationEntry>
+<descriptiveNote>
+<p>The Child Welfare (Further Amendment) Act 1961 amended the Child Welfare Act 1939.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
 <relationEntry localType="Concept">
 State of New South Wales (1901 - )
 </relationEntry>
@@ -75,14 +87,6 @@ Law in New South Wales
 Child Welfare Department, State Government of New South Wales (1923 - 1970)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00014b.htm">
-<relationEntry localType="Legislation">
-Child Welfare Act 1939, State of New South Wales (1939 - 1987)
-</relationEntry>
-<descriptiveNote>
-<p>The Child Welfare (Further Amendment) Act 1961 amended the Child Welfare Act 1939.</p>
-</descriptiveNote>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00959b.htm">
 <relationEntry localType="Glossary Term">
 Adoption
@@ -95,16 +99,11 @@ Aborigines Welfare Board (1940 - 1969)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01540b.htm">
 <relationEntry localType="Legislation">
-Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987, State of New South Wales (1987 - 2007)
+Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987 (1987 - 2007)
 </relationEntry>
 <descriptiveNote>
 <p>The <span style="font-style:italic">Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987</span> repealed the <span style="font-style:italic">Child Welfare (Further Amendment) Act 1961.</span></p>
 </descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00018b.htm">
-<relationEntry localType="Legislation">
-Adoption of Children Act 1965, State of New South Wales (1965 - 2003)
-</relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Child Welfare (Further Amendment) Act 1961', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>

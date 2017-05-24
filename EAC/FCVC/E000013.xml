@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<eventDateTime standardDateTime="2017-04-28">2017-04-28</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -45,9 +45,9 @@
 <nameEntry><part>St Luke's Anglicare</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
-<nameEntry localType=""><part>St Luke's</part>
+<nameEntry localType="Also known as"><part>St Luke's</part>
 </nameEntry>
-<nameEntry localType=""><part>St Luke's Family Care</part>
+<nameEntry localType="Also known as"><part>St Luke's Family Care</part>
 <useDates>
 <dateRange>
 <fromDate standardDate="1979-01-01">1979</fromDate>
@@ -59,14 +59,12 @@
 <description><existDates>
 <dateRange>
 <fromDate standardDate="1979-01-01">1979</fromDate>
+<toDate standardDate="2014-12-31">2014</toDate>
 </dateRange>
 </existDates>
 <places>
 </places>
 <functions>
-<function>
-<term>Records Access Service</term>
-</function>
 <function>
 <term>Anglican</term>
 </function>
@@ -85,9 +83,12 @@
 <function>
 <term>Community Service Organisation</term>
 </function>
+<function>
+<term></term>
+</function>
 </functions>
 <biogHist>
-<abstract>St Luke's Anglicare was established in 1979 by the Anglican Diocese of Bendigo with the support and cooperation of the Uniting Church. St Luke's came into being as a result of the decision to close St Luke's Toddlers' Home, which had been operating in Bendigo since 1932.</abstract>
+<abstract>St Luke's Anglicare was established in 1979 by the Anglican Diocese of Bendigo with the support and cooperation of the Uniting Church. St Luke's came into being as a result of the decision to close St Luke's Toddlers' Home, which had been operating in Bendigo since 1932. In August 2014, St Luke's became part of Anglicare Victoria.</abstract>
 <p>St Luke's Anglicare works in regional Victoria and into the Riverina area of New South Wales. St Luke's has offices in Bendigo as well as Albury, Castlemaine, Deniliquin, Echuca, Kyneton, Maryborough and Swan Hill.</p>
 <p>St Luke's Anglicare, through its Child Youth and Family Services divisions, delivers out-of home care services including foster care, Adolescent Community Placement (ACP), Intensive Case Management Service (ICMS), residential care, permanent care and adoption and caregiver recruitment and support services.</p>
 <p>In 1979, St Luke's began under the name St Luke's Family Care. In July 1999, the agency was incorporated as St Luke's Anglicare.</p>
@@ -175,12 +176,7 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000697b.htm">
-<relationEntry localType="Archival Collection">
-St Luke's Anglicare Records (1979 - )
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000096b.htm">
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000096b.htm">
 <relationEntry localType="Organisation">
 St Luke's Toddlers' Home (1932 - 1979)
 </relationEntry>
@@ -195,6 +191,11 @@ St Luke's Toddlers' Home (1932 - 1979)
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000871b.htm">
 <relationEntry localType="Contact Details">
 St Luke's Anglicare - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000697b.htm">
+<relationEntry localType="Archival Collection">
+St Luke's Anglicare Records (1979 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000123b.htm">
@@ -215,6 +216,11 @@ Anglican Church of Australia (1788 - )
 <descriptiveNote>
 <p>St Luke's Anglicare is an agency of the Anglican Diocese of Bendigo.</p>
 </descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000009b.htm">
+<relationEntry localType="Organisation">
+Anglicare Victoria (1997 - )
+</relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'St Luke's Anglicare', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>

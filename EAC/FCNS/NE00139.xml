@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<eventDateTime standardDateTime="2017-04-24">2017-04-24</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -42,13 +42,29 @@
 <cpfDescription>
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00139b.htm</entityId>
 <entityType>corporateBody</entityType>
-<nameEntry><part>Marist Youth Care</part>
+<nameEntry><part>Marist180</part>
 <authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Previously known as"><part>Marist Youth Care</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="2002-01-01">2002</fromDate>
+<toDate standardDate="2016-12-31">2016</toDate>
+</dateRange>
+</useDates>
+</nameEntry>
+<nameEntry localType="Previously known as"><part>Marist Community Services</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1994-01-01">1994</fromDate>
+<toDate standardDate="2002-12-31">2002</toDate>
+</dateRange>
+</useDates>
 </nameEntry>
 </identity>
 <description><existDates>
 <dateRange>
-<fromDate standardDate="2002-01-01">2002</fromDate>
+<fromDate standardDate="1994-01-01">1994</fromDate>
 </dateRange>
 </existDates>
 <places>
@@ -63,13 +79,15 @@
 <function>
 <term>Records Holder</term>
 </function>
+<function>
+<term>Foster Care</term>
+</function>
 </functions>
 <biogHist>
-<abstract>Marist Youth Care was established in 2002
-as a not-for-profit agency focused on helping young people at risk and their families. It provides support to unaccompanied migrant youth and young people, including juvenile offenders.</abstract>
-<p>Marist Youth Care evolved from the programmes run by the Marist Brothers in and after St Vincent's Boys Home closed.</p>
-<p>Before 2002, the organisation was known as Marist Community Services.</p>
-<p>Marist Youth Care manages records of St Vincent's Boys Home.</p>
+<abstract>Marist180, also formerly known as Marist Youth Care, was established in 1994 as Marist Community Services. It is a not-for-profit agency focused on helping young people at risk and their families. It provides support to unaccompanied migrant youth and young people, including juvenile offenders.</abstract>
+<p>Marist Community Services evolved from the programmes run by the Marist Brothers in and after St Vincent's Boys Home closed.</p>
+<p>The organisation was originally known as Marist Community Services, in 2002 its name was changed to Marist Youth Care and in 2016 it was changed to Marist180.</p>
+<p>Marist180 manages records of St Vincent's Boys Home.</p>
 
 </biogHist>
 </description>
@@ -85,15 +103,15 @@ Marist Brothers (1872 - )
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01450b.htm">
 <relationEntry localType="Contact Details">
-Marist Youth Care - Contact Details
+Marist180 - Contact Details
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
-<relationEntry localType="published">'Marist Youth Care', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+<relationEntry localType="published">'Marist180', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<title render="italic">Marist Youth Care</title>
+<title render="italic">Marist180</title>
 <bibseries>
 <title render="italic">Find &amp; Connect - New South Wales</title>
 </bibseries>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-11-27">2015-11-27</eventDateTime>
+<eventDateTime standardDateTime="2017-05-16">2017-05-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -42,8 +42,7 @@
 <cpfDescription>
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01177b.htm</entityId>
 <entityType>concept</entityType>
-<nameEntry><part>State Children Relief (Amendment) Act of 1896</part>
-<part localType="parent">Colony of New South Wales</part>
+<nameEntry><part>State Children Relief Act 1896</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
@@ -56,17 +55,20 @@
 <places>
 </places>
 <functions>
+<function>
+<term>Amending Act</term>
+</function>
 </functions>
 <biogHist>
-<abstract>The <span style="font-style:italic">State Children Relief Act 1881</span> was amended in 1896 to provide clearer regulations around the boarding out and apprenticeship of state children. It provided for state children to be cared for in cottage homes, and created a system for dealing with the money earned by apprentices. It also allowed children to be 'boarded out' with their own mothers. <span style="font-style:italic">The State Children Relief Acts</span> were repealed and replaced in 1901 by Acts of the same name.</abstract>
+<abstract>The <span style="font-style:italic">State Children Relief Act 1896</span> amended the <span style="font-style:italic">State Children Relief Act 1881</span> to provide clearer regulations around the boarding out and apprenticeship of state children. It provided for state children to be cared for in cottage homes, and created a system for dealing with the money earned by apprentices. It also allowed children to be 'boarded out' with their own mothers. <span style="font-style:italic">The State Children Relief Acts</span> were repealed and replaced in 1901 by Acts of the same name.</abstract>
 <p>The State Children Relief (Amendment) Act of 1896 was important because it allowed the State Children's Relief Board to board children out with their own mothers, if they were deemed respectable. On the other hand, the Board also gained the power to sue parents of illegitimate state children for their maintenance.</p>
 <p>This Amending Act also provided guidelines on adoption, declaring that any parent who surrendered their child for adoption should have no further control over the child, unless the State Children's Relief Board decided otherwise.</p>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00003b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00003b.htm">
 <relationEntry localType="Legislation">
-State Children Relief Act 1881, Colony of New South Wales (1881 - 1901)
+State Children Relief Act 1881 (1881 - 1901)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01697b.htm">
@@ -109,16 +111,6 @@ Surrender
 Adoption
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00981b.htm">
-<relationEntry localType="Glossary Term">
-Illegitimacy ( - 1976)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00037b.htm">
-<relationEntry localType="Organisation">
-State Children's Relief Board (1881 - 1923)
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00971b.htm">
 <relationEntry localType="Glossary Term">
 Cottage Homes
@@ -129,17 +121,12 @@ Cottage Homes
 Unmarried Mothers
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00006b.htm">
-<relationEntry localType="Legislation">
-State Children Relief Act 1901, State of New South Wales (1901 - 1923)
-</relationEntry>
-</cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
-<relationEntry localType="published">'State Children Relief (Amendment) Act of 1896', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+<relationEntry localType="published">'State Children Relief Act 1896', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<title render="italic">State Children Relief (Amendment) Act of 1896</title>
+<title render="italic">State Children Relief Act 1896</title>
 <bibseries>
 <title render="italic">Find &amp; Connect - New South Wales</title>
 </bibseries>
@@ -148,19 +135,19 @@ State Children Relief Act 1901, State of New South Wales (1901 - 1923)
 </objectXMLWrap>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000866.htm">
-<relationEntry localType="published">Resource Section: State Children Relief Dept (1881-1923) Child Welfare Dept (1923-70) Dept of Child Welfare and Social Welfare (1970-73) Youth and Community Services (1973-75,76-88) Youth, Ethnic and Community Affairs (1975-76) Dept of Community Services (1992-2009) [State Records NSW Agency number 114]</relationEntry>
+<relationEntry localType="published">Resource Section: Dept of Community Services</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">State Children Relief Dept (1881-1923) Child Welfare Dept (1923-70) Dept of Child Welfare and Social Welfare (1970-73) Youth and Community Services (1973-75,76-88) Youth, Ethnic and Community Affairs (1975-76) Dept of Community Services (1992-2009) [State Records NSW Agency number 114]</title>
+<title render="quoted">Dept of Community Services</title>
 <imprint>
-<publisher>State Records Authority of New South Wales</publisher>
+<publisher>State of New South Wales through the State Records Authority of NSW 2016</publisher>
 </imprint>
 <bibseries>
-<title render="italic">SRNSW collection catalogue</title>
+<title render="italic">State Records Authority of New South Wales website</title>
 </bibseries>
-<extptr linktype="simple" href="http://search.records.nsw.gov.au/agencies/114"></extptr>
+<extptr linktype="simple" href="https://www.records.nsw.gov.au/agency/114"></extptr>
 </bibref>
 </objectXMLWrap>
 

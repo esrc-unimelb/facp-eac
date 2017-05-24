@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-07-21">2015-07-21</eventDateTime>
+<eventDateTime standardDateTime="2017-05-04">2017-05-04</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -55,6 +55,7 @@
 <description><existDates>
 <dateRange>
 <fromDate standardDate="1964-01-01">1964</fromDate>
+<toDate standardDate="2017-12-31">2017</toDate>
 </dateRange>
 </existDates>
 <places>
@@ -71,13 +72,13 @@
 </function>
 </functions>
 <biogHist>
-<abstract>Gateway Children's Home, at Lewisham, was set up by the Central Methodist Mission in 1964 as a short-term childcare centre for families in crisis. It had accommodation for 14 children. As at 2014, Wesley Dalmar Children's Services (part of Wesley Mission) runs the premises as Gateway Children's Cottage (also called Gateway House), which is a crisis care accommodation programme.</abstract>
+<abstract>Gateway Children's Home, at Lewisham, was set up by the Central Methodist Mission in 1964 as a short-term childcare centre for families in crisis. It had accommodation for 14 children. In 2014, Wesley Dalmar Children's Services (part of Wesley Mission) ran the premises as Gateway Children's Cottage (also called Gateway House), a crisis care accommodation program. In 2017, this program ended and the service closed down.</abstract>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1964-01-01">1964</fromDate>
 <toDate standardDate="1964-12-31">1964</toDate>
 </dateRange>
 <placeEntry>Lewisham</placeEntry>
-<event>Address - Gateway Children's Home was located at 64 The Boulevarde, Lewisham</event>
+<event>Address - Gateway Children's Home was located in Lewisham</event>
 </chronItem>
 </chronList>
 
@@ -161,6 +162,25 @@ Records held by Wesley Mission (1893 - )
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000333.htm">
+<relationEntry localType="published">Resource: Wesley Dalmar: over a century of caring</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Wesley Dalmar: over a century of caring</title>
+<imprint>
+<publisher>Wesley Mission</publisher>
+<date>2012</date>
+</imprint>
+<extptr linktype="simple" href="http://www.wesleymission.org.au/centres/out_of_home_care/About_us/our_history.asp"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000533.htm">
 <relationEntry localType="published">Report: Why are they in children's homes: report of the ACOSS children's home intake survey</relationEntry>
 
@@ -180,23 +200,20 @@ Records held by Wesley Mission (1893 - )
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000333.htm">
-<relationEntry localType="published">Resource: Wesley Dalmar: over a century of caring</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000786.htm">
+<relationEntry localType="digitalObject">Gateway Children's Home</relationEntry>
 
 <objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Wesley Dalmar: over a century of caring</title>
-<imprint>
-<publisher>Wesley Mission</publisher>
-<date>2012</date>
-</imprint>
-<extptr linktype="simple" href="http://www.wesleymission.org.au/centres/out_of_home_care/About_us/our_history.asp"></extptr>
-</bibref>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Gateway Children's Home</unittitle>
+<unitdate>n.d.</unitdate>
+<abstract>This is a copy of a photograph of the exterior of Gateway Children's Home in Lewisham.</abstract>
+<note label="rights">Wesley Mission</note>
+</archref>
 </objectXMLWrap>
 
 <descriptiveNote>
-<p>Source used to compile entry</p>
+<p>Include in Gallery</p>
 </descriptiveNote>
 </resourceRelation>
 </relations>

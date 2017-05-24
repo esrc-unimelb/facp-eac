@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<eventDateTime standardDateTime="2017-04-28">2017-04-28</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -41,7 +41,7 @@
 </control>
 <cpfDescription>
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01480b.htm</entityId>
-<entityId localType="ISMAPNG Archives Bathurst Repository Series Number">Series 005</entityId>
+<entityId localType="ISMAPNG Archives Series Number">Series 005</entityId>
 <entityType>concept</entityType>
 <nameEntry><part>Record Cards</part>
 <part localType="parent">St Joseph's Orphanage, Bathurst</part>
@@ -50,23 +50,27 @@
 </identity>
 <description><existDates>
 <dateRange>
-<fromDate standardDate="1962-01-05">5/1/1962</fromDate>
-<toDate standardDate="1968-01-07">7/1/1968</toDate>
+<fromDate standardDate="1962-01-05">5 January 1962</fromDate>
+<toDate standardDate="1968-01-07">7 January 1968</toDate>
 </dateRange>
 </existDates>
 <places>
 </places>
 <biogHist>
-<abstract>Record Cards is a series of records created by St Joseph's Orphanage, Bathurst (Girls' Home). The series is made up of photocopies of forty record cards which were passed on to the Sisters of Mercy Archives, Bathurst, in mid-August 2001. The records only relate to girls admitted between May 1962 and July 1968. The orphanage closed in 1975. The information includes: Name; Date of Birth; Date of Admission; Details of Parents; Details of other children in the family; Name(s) of Referee(s); Date of leaving the orphanage and with whom; Where educated.</abstract>
+<abstract>Record Cards is a series of records created by St Joseph's Orphanage, Bathurst (Girls' Home). The series is made up of photocopies of forty record cards. The records only relate to girls admitted between May 1962 and July 1968. The information includes: Name; Date of Birth; Date of Admission; Details of Parents; Details of other children in the family; Name(s) of Referee(s); Date of leaving the orphanage and with whom; Where educated. The Record Cards are managed by the Institute of the Sisters of Mercy of Australia and Papua New Guinea (ISMAPNG).</abstract>
 <h4>Access Conditions</h4>
 <p>Application for access must be made, in writing, to the Archivist, providing personal identification documents to establish the right to access information. Physical access to the records is not permitted due to their fragility and the need to protect the confidentiality of information concerning other persons. Information will be forwarded by mail.</p>
-<p>The Record Cards are managed by the Institute of the Sisters of Mercy of Australia and Papua New Guinea (ISMAPNG). ISMAPNG formed out of the consolidation of 14 of the 17 congregations of the Institute of the Sisters of Mercy in Australia, and from the region of Papua New Guinea. This included the Bathurst Congregation, which ran the St Josephs' Orphanage from 1867 until it closed down in 1975.</p>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01475b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01489b.htm">
 <relationEntry localType="Organisation">
-Institute of Sisters of Mercy of Australia and Papua New Guinea Archives, Bathurst Repository (2011 - )
+ISMAPNG Archives - Institute Centre in Stanmore, New South Wales (2012 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01180b.htm">
+<relationEntry localType="Organisation">
+Institute of Sisters of Mercy of Australia and Papua New Guinea (2011 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00163b.htm">
@@ -74,10 +78,22 @@ Institute of Sisters of Mercy of Australia and Papua New Guinea Archives, Bathur
 St Joseph's Orphanage, Bathurst (1867 - 1975)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01476b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01490b.htm">
 <relationEntry localType="Contact Details">
-Institute of Sisters of Mercy of Australia and Papua New Guinea Archives, Bathurst Repository - Contact Details
+ISMAPNG Archives - Institute Centre in Stanmore, New South Wales - Contact Details (2012 - )
 </relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00164b.htm">
+<relationEntry localType="Organisation">
+Sisters of Mercy, Bathurst Congregational Archives ( - 2011)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2001-08-01">August 2001</fromDate>
+<toDate standardDate="2011-12-31">2011</toDate>
+</dateRange>
+<descriptiveNote>
+<p>These Record Cards were transferred to the Sisters of Mercy Archives, Bathurst, in mid-August 2001.</p>
+</descriptiveNote>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Record Cards', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>

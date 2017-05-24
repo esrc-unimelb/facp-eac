@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-08-16">2016-08-16</eventDateTime>
+<eventDateTime standardDateTime="2017-05-15">2017-05-15</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,7 +43,6 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00017b.htm</entityId>
 <entityType>concept</entityType>
 <nameEntry><part>Aborigines Protection (Amendment) Act 1963</part>
-<part localType="parent">State of New South Wales</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
@@ -55,14 +54,19 @@
 </existDates>
 <places>
 </places>
+<functions>
+<function>
+<term>Amending Act</term>
+</function>
+</functions>
 <biogHist>
 <abstract>The <span style="font-style:italic">Aborigines Protection (Amendment) Act 1963</span> was an 'An Act to remove certain restrictions imposed by the Aborigines Protection Act, 1909-1943, upon aborigines; for this and other purposes to amend the said Act'. It repealed some of the more restrictive elements of the <span style="font-style:italic">Aborigines Protection Act</span>. Magistrates could no longer send 'mixed blood' Aboriginal people to a place controlled by the Aborigines Protection Board; it was no longer an offence to take an adult Aboriginal person away from New South Wales and it was no longer an offence for non-Aboriginal and Aboriginal people to live together. This Act was repealed by the <span style="font-style:italic">Aborigines Act 1969</span>.</abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00016b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00010b.htm">
 <relationEntry localType="Legislation">
-Aborigines Protection (Amendment) Act 1943, State of New South Wales (1943 - 1969)
+Aborigines Protection Act 1909 (1909 - 1969)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
@@ -73,11 +77,6 @@ State of New South Wales (1901 - )
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01699b.htm">
 <relationEntry localType="Concept">
 Law in New South Wales
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00010b.htm">
-<relationEntry localType="Legislation">
-Aborigines Protection Act 1909, State of New South Wales (1909 - 1969)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00951b.htm">
@@ -113,11 +112,6 @@ Aboriginal Reserves and Stations
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01008b.htm">
 <relationEntry localType="Glossary Term">
 Stolen Generations
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00019b.htm">
-<relationEntry localType="Legislation">
-Aborigines Act 1969, State of New South Wales (1969 - 1983)
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-03-24">2016-03-24</eventDateTime>
+<eventDateTime standardDateTime="2017-05-15">2017-05-15</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -145,11 +145,6 @@ Presbyterian Church of Australia (1803 - )
 Byrnes Family Group Home (1983 - )
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00277b.htm">
-<relationEntry localType="Organisation">
-Ritchie Family Group Home (1984 - 1986)
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00275b.htm">
 <relationEntry localType="Organisation">
 Minnamurra Family Group Home (1975 - )
@@ -260,21 +255,6 @@ Burnside (1986 - 2000)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000634.htm">
-<relationEntry localType="published">Newspaper Article: Great Depression shaped life devoted to social justice: Gordon Trickett 1925-2011</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Trickett, Graeme</name>
-<title render="quoted">Great Depression shaped life devoted to social justice: Gordon Trickett 1925-2011</title>
-<bibseries>
-<title render="italic">The Sydney Morning Herald</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.smh.com.au/comment/obituaries/great-depression-shaped-life-devoted-to-social-justice-20110130-1a9kf.html"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000498.htm">
 <relationEntry localType="published">Resource Section: Hills Voices Online: Heritage Sites</relationEntry>
 
@@ -289,7 +269,22 @@ Burnside (1986 - 2000)
 <bibseries>
 <title render="italic">The Hills: Sydney's Garden Shire</title>
 </bibseries>
-<extptr linktype="simple" href="http://www.bhsc.nsw.gov.au/external/hillsvoices/properties.htm"></extptr>
+<extptr linktype="simple" href="http://www.thehills.nsw.gov.au/Library/Library-e-Resources/Hills-Voices-Online/Heritage-Sites"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000634.htm">
+<relationEntry localType="published">Newspaper Article: Great Depression shaped life devoted to social justice: Gordon Trickett 1925-2011</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Trickett, Graeme</name>
+<title render="quoted">Great Depression shaped life devoted to social justice: Gordon Trickett 1925-2011</title>
+<bibseries>
+<title render="italic">The Sydney Morning Herald</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.smh.com.au/comment/obituaries/great-depression-shaped-life-devoted-to-social-justice-20110130-1a9kf.html"></extptr>
 </bibref>
 </objectXMLWrap>
 

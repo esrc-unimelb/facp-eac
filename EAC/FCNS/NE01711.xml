@@ -2,7 +2,7 @@
 <?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
 <eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
 <control>
-<recordId>NE01460</recordId>
+<recordId>NE01711</recordId>
 <maintenanceStatus>revised</maintenanceStatus>
 <maintenanceAgency>
 <agencyCode>AU-VU:FCNS</agencyCode>
@@ -25,14 +25,14 @@
 <maintenanceHistory>
 <maintenanceEvent>
 <eventType>created</eventType>
-<eventDateTime standardDateTime="2013-09-21">2013-09-21</eventDateTime>
+<eventDateTime standardDateTime="2017-04-10">2017-04-10</eventDateTime>
 <agentType>human</agentType>
-<agent>Michael Jones</agent>
+<agent>Nicola Laurent</agent>
 <eventDescription></eventDescription>
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<eventDateTime standardDateTime="2017-04-10">2017-04-10</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -40,41 +40,42 @@
 </maintenanceHistory>
 </control>
 <cpfDescription>
-<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01460b.htm</entityId>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01711b.htm</entityId>
 <entityType>concept</entityType>
-<nameEntry><part>Fairbridge Foundation - Contact Details</part>
+<nameEntry><part>Sisters of Mercy Archives (North Sydney) - Contact Details</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
 <description><places>
 </places>
 <biogHist>
-<p>Please contact the Council Secretary, Fairbridge Foundation:</p>
-<p>Address: 809 Trust Building, 155 King Street, Sydney NSW 2000</p>
-<p>Phone: (02) 9232 3258</p>
+<p>Please contact the Archivist, Sisters of Mercy Archives (North Sydney):</p>
+<p>Street Address: 29 McLaren Street, North Sydney, NSW 2060</p>
+<p>Phone: (02) 9957 5040</p>
+<p>Email: <citation xlink:type="simple" xlink:href="mailto:pa@nsmercy.org.au" class="extlink" title="[external site]pa@nsmercy.org.au">pa@nsmercy.org.au</citation></p>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00726b.htm">
-<relationEntry localType="Archival Series">
-Children's files, Fairbridge Farm School (1938 - 1973)
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01712b.htm">
+<relationEntry localType="Archival Collection">
+Sisters of Mercy (North Sydney) Historical Records (1898? - 2001?)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00329b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00182b.htm">
 <relationEntry localType="Organisation">
-Fairbridge Foundation (c. 1973 - )
+Sisters of Mercy Archives (North Sydney) (1865 - )
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
-<relationEntry localType="published">'Fairbridge Foundation - Contact Details', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+<relationEntry localType="published">'Sisters of Mercy Archives (North Sydney) - Contact Details', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<title render="italic">Fairbridge Foundation - Contact Details</title>
+<title render="italic">Sisters of Mercy Archives (North Sydney) - Contact Details</title>
 <bibseries>
 <title render="italic">Find &amp; Connect - New South Wales</title>
 </bibseries>
-<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01460b.htm"></extptr>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01711b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
 </resourceRelation>

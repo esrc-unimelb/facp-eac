@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>YE00503</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNT</agencyCode>
+<agencyName>Find &amp; Connect - Northern Territory</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2017-03-22">2017-03-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Nicola Laurent</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2017-03-22">2017-03-22</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nt/biogs/YE00503b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Territory Families</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2016-01-01">2016</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Territory Families was established on 12 September 2016 and is responsible for the welfare of children and families.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00101b.htm">
+<relationEntry localType="Organisation">
+Department of Children and Families, Northern Territory Government (2011 - 2016)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Territory Families', in <span style="font-style:italic">Find &amp; Connect - Northern Territory</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Territory Families</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Northern Territory</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00503b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-11-06">2015-11-06</eventDateTime>
+<eventDateTime standardDateTime="2017-04-19">2017-04-19</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -95,12 +95,7 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00099b.htm">
-<relationEntry localType="Organisation">
-Anglican Diocese of Canberra and Goulburn (1863 - )
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00841b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00841b.htm">
 <relationEntry localType="Archival Collection">
 Records of the Bungarimbil Adolescent and Family Care Program (1957 - 2000?)
 </relationEntry>
@@ -122,6 +117,24 @@ Bungarimbil Children's Home (1961? - 1983)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00089b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000017.htm">
+<relationEntry localType="published">Resource: Homes and Orphanages Listings</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Homes and Orphanages Listings</title>
+<imprint>
+<publisher>Care Leavers Australia Network (CLAN)</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.clan.org.au/homes/all/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000705.htm">
 <relationEntry localType="published">Resource Section: Transfer of children from Australian Capital Territory (ACT) and Norfolk Island to New South Wales (1941 - 1986)</relationEntry>
@@ -269,45 +282,6 @@ Bungarimbil Children's Home (1961? - 1983)
 <publisher>Australian Government Publishing Service</publisher>
 <date>1979</date>
 </imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000473.htm">
-<relationEntry localType="published">Resource Section: 710 Taradale Road, Tumbarumba, NSW 2653</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">PRD Nationwide Orange</name>
-<title render="quoted">710 Taradale Road, Tumbarumba, NSW 2653</title>
-<imprint>
-<publisher>Realestateview.com.au</publisher>
-</imprint>
-<bibseries>
-<title render="italic">realestateview</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.realestateview.com.au/Real-Estate/710-taradale-rd-tumbarumba/Property-Details-buy-residential-2366725.html"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000017.htm">
-<relationEntry localType="published">Resource: Homes and Orphanages Listings</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Homes and Orphanages Listings</title>
-<imprint>
-<publisher>Care Leavers Australia Network (CLAN)</publisher>
-</imprint>
-<extptr linktype="simple" href="http://www.clan.org.au/homes/all/"></extptr>
 </bibref>
 </objectXMLWrap>
 

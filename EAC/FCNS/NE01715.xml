@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01715</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2017-05-04">2017-05-04</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2017-05-17">2017-05-17</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01715b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Special Commission of Inquiry into Child Protection Services in NSW</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2007-01-01">2007</fromDate>
+<toDate standardDate="2008-12-31">2008</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Special Commission of Inquiry into Child Protection Services in NSW was established in November 2007, when the Governor commissioned The Hon. James Wood, AO, QC to conduct an inquiry to determine what changes within the child protection system were required to cope with future levels of demand. The Report was handed down in November 2008, and recommended various reforms to the child protection system in New South Wales, and that amendments be made to the Children and Young Persons (Care and Protection) Act 1998.</abstract>
+<p>The New South Wales government's response to the Report of the Special Commission of Inquiry is known as 'Keep Them Safe'.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01546b.htm">
+<relationEntry localType="Legislation">
+Children and Young Persons (Care and Protection) Act 1998 (1998 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01713b.htm">
+<relationEntry localType="Legislation">
+Children Legislation Amendment (Wood Inquiry Recommendations) Act 2009 (2009 - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Special Commission of Inquiry into Child Protection Services in NSW', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Special Commission of Inquiry into Child Protection Services in NSW</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01715b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001067.htm">
+<relationEntry localType="published">Resource: Keep Them Safe: a shared approach to child wellbeing</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Keep Them Safe: a shared approach to child wellbeing</title>
+<imprint>
+<publisher>NSW Government</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.keepthemsafe.nsw.gov.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001066.htm">
+<relationEntry localType="published">Report: Report of the Special Commission of Inquiry into Child Protection Services in NSW, Volume 1</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wood, James, AO QC</name>
+<title render="italic">Report of the Special Commission of Inquiry into Child Protection Services in NSW, Volume 1</title>
+<imprint>
+<publisher>State of NSW through the Special Commission of Inquiry into Child
+Protection Services in NSW</publisher>
+<date>2008</date>
+</imprint>
+<extptr linktype="simple" href="http://www.dpc.nsw.gov.au/__data/assets/pdf_file/0010/33796/Volume_1_-_Special_Commission_of_Inquiry_into_Child_Protection_Services_in_New_South_Wales.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-11-06">2015-11-06</eventDateTime>
+<eventDateTime standardDateTime="2017-05-15">2017-05-15</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -256,27 +256,6 @@ Ronald Arthur interviewed by Jeannine Baker for the Forgotten Australians and Fo
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000122.htm">
-<relationEntry localType="published">Resource Section: Heritage Buildings: Bidura, 357 Glebe Point Road</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Heritage Buildings: Bidura, 357 Glebe Point Road</title>
-<imprint>
-<publisher>The Glebe Society</publisher>
-</imprint>
-<bibseries>
-<title render="italic">The Glebe Society</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.glebesociety.org.au/wordpress/?buildings=bidura"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000183.htm">
 <relationEntry localType="published">Resource Section: Billy Billy</relationEntry>
 
@@ -303,7 +282,13 @@ Ronald Arthur interviewed by Jeannine Baker for the Forgotten Australians and Fo
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
 <title render="quoted">Royleston</title>
-<extptr linktype="simple" href="http://investigator.records.nsw.gov.au/entity.aspx?path=%5Cagency%5C506"></extptr>
+<imprint>
+<publisher>State of New South Wales through the State Records Authority of NSW 2016</publisher>
+</imprint>
+<bibseries>
+<title render="italic">State Records Authority of New South Wales website</title>
+</bibseries>
+<extptr linktype="simple" href="https://www.records.nsw.gov.au/agency/4178"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -347,6 +332,26 @@ Ronald Arthur interviewed by Jeannine Baker for the Forgotten Australians and Fo
 </bibref>
 </objectXMLWrap>
 
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000187.htm">
+<relationEntry localType="published">Newspaper Article: They'll All Enjoy Christmas Parties</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">They'll All Enjoy Christmas Parties</title>
+<imprint>
+<date>1933</date>
+</imprint>
+<bibseries>
+<title render="italic">The Australian Women's Weekly</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000001.htm">
 <relationEntry localType="published">Resource: Connecting Kin: Guide to Records</relationEntry>
@@ -531,19 +536,20 @@ Ronald Arthur interviewed by Jeannine Baker for the Forgotten Australians and Fo
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000187.htm">
-<relationEntry localType="published">Newspaper Article: They'll All Enjoy Christmas Parties</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000122.htm">
+<relationEntry localType="published">Resource Section: Heritage Buildings: Bidura, 357 Glebe Point Road</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">They'll All Enjoy Christmas Parties</title>
+<title render="quoted">Heritage Buildings: Bidura, 357 Glebe Point Road</title>
 <imprint>
-<date>1933</date>
+<publisher>The Glebe Society</publisher>
 </imprint>
 <bibseries>
-<title render="italic">The Australian Women's Weekly</title>
+<title render="italic">The Glebe Society</title>
 </bibseries>
+<extptr linktype="simple" href="http://www.glebesociety.org.au/wordpress/?buildings=bidura"></extptr>
 </bibref>
 </objectXMLWrap>
 

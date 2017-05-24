@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<eventDateTime standardDateTime="2017-03-22">2017-03-22</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -49,6 +49,7 @@
 <description><existDates>
 <dateRange>
 <fromDate standardDate="2000-01-01">2000</fromDate>
+<toDate standardDate="2016-12-31">2016</toDate>
 </dateRange>
 </existDates>
 <places>
@@ -68,7 +69,7 @@
 </function>
 </functions>
 <biogHist>
-<abstract>Wimmera UnitingCare was created through a name change of its predecessor organisation, Wimmera Community Care. It provides Adolescent Community Placement, Residential Care for young people aged 11 to 17, and foster care for children and young people up to 15 years of age.</abstract>
+<abstract>Wimmera UnitingCare was created through a name change of its predecessor organisation, Wimmera Community Care. It provides Adolescent Community Placement, Residential Care for young people aged 11 to 17, and foster care for children and young people up to 15 years of age. In 2016, Wimmera UnitingCare merged with other agencies to form the new organisation, Uniting (Victoria and Tasmania) Limited.</abstract>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="2000-01-01">2000</fromDate>
 <toDate standardDate="2000-12-31">2000</toDate>
@@ -87,19 +88,19 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000788b.htm">
-<relationEntry localType="Archival Collection">
-Wimmera UnitingCare Records (1979 - )
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000786b.htm">
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000786b.htm">
 <relationEntry localType="Organisation">
 Wimmera Community Care (1981 - 2000)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000851b.htm">
-<relationEntry localType="Contact Details">
-Wimmera Uniting Care - Contact Details
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000788b.htm">
+<relationEntry localType="Archival Collection">
+Wimmera UnitingCare Records (1979 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001036b.htm">
+<relationEntry localType="Organisation">
+Uniting (Victoria and Tasmania) Limited (2016 - )
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
@@ -114,6 +115,28 @@ Wimmera Uniting Care - Contact Details
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000787b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001218.htm">
+<relationEntry localType="published">Resource Section: We will be Uniting - an exciting step</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">We will be Uniting - an exciting step</title>
+<imprint>
+<publisher>Wesley Mission Victoria</publisher>
+<date>2016</date>
+</imprint>
+<bibseries>
+<title render="italic">Wesley Mission Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="https://wesley.org.au/we-will-be-uniting/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000073.htm">
 <relationEntry localType="published">Resource Section: Submission to the Australian Senate Community Affairs References Committee Inquiry into Children in Institutional Care 29 July 2003 (submission 52)</relationEntry>

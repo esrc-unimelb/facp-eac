@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-06-22">2016-06-22</eventDateTime>
+<eventDateTime standardDateTime="2017-04-28">2017-04-28</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -49,6 +49,7 @@
 <description><existDates>
 <dateRange>
 <fromDate standardDate="2007-01-01">2007</fromDate>
+<toDate standardDate="2016-12-31">2016</toDate>
 </dateRange>
 </existDates>
 <places>
@@ -68,7 +69,7 @@
 </function>
 </functions>
 <biogHist>
-<abstract>Kildonan UnitingCare came into being in 2007, the name reflecting its partnership with UnitingCare Victoria and Tasmania Network. At its establishment, its emphasis was on intensive family support, early intervention and prevention. Kildonan UnitingCare's predecessor agencies have been providing services to children since 1881, when the Scots' Church Neglected Children's Aid Society was established by two stalwarts of the Presbyterian Church, Miss Selina Sutherland and Mrs Maria Lord Armour.</abstract>
+<abstract>Kildonan UnitingCare came into being in 2007, the name reflecting its partnership with UnitingCare Victoria and Tasmania Network. At its establishment, its emphasis was on intensive family support, early intervention and prevention. Kildonan UnitingCare's predecessor agencies have been providing services to children since 1881, when the Scots' Church Neglected Children's Aid Society was established by two stalwarts of the Presbyterian Church, Miss Selina Sutherland and Mrs Maria Lord Armour. In 2016, Kildonan UnitingCare became part of a new organisation called Uniting (Victoria and Tasmania) Limited.</abstract>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="2007-01-01">2007</fromDate>
 <toDate standardDate="2007-12-31">2007</toDate>
@@ -80,12 +81,7 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000699b.htm">
-<relationEntry localType="Archival Collection">
-Kildonan UnitingCare Records (1881 - 2001)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000021b.htm">
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000021b.htm">
 <relationEntry localType="Organisation">
 Kildonan Child and Family Services (c. 1993 - 2007)
 </relationEntry>
@@ -94,22 +90,25 @@ Kildonan Child and Family Services (c. 1993 - 2007)
 <toDate standardDate="2007-12-31">2007</toDate>
 </dateRange>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000873b.htm">
-<relationEntry localType="Contact Details">
-Kildonan UnitingCare - Contact Details
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000017b.htm">
 <relationEntry localType="Organisation">
-UnitingCare Victoria and Tasmania (2000 - )
+UnitingCare Victoria and Tasmania (2000 - 2016)
 </relationEntry>
+<dateRange>
+<toDate standardDate="2016-12-31">2016</toDate>
+</dateRange>
 <descriptiveNote>
-<p>Kildonan UnitingCare is part of the UnitingCare Victoria and Tasmania network.</p>
+<p>Kildonan UnitingCare was part of the UnitingCare Victoria and Tasmania network.</p>
 </descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000151b.htm">
 <relationEntry localType="Organisation">
 Richmond Community Care Incorporated (1989 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000699b.htm">
+<relationEntry localType="Archival Collection">
+Kildonan UnitingCare Records (1881 - 2001)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000123b.htm">
@@ -119,6 +118,11 @@ The Who Am I? Project (2008 - 2012)
 <descriptiveNote>
 <p>Kildonan UnitingCare was a Linkage Partner to the Who Am I? project.</p>
 </descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001036b.htm">
+<relationEntry localType="Organisation">
+Uniting (Victoria and Tasmania) Limited (2016 - )
+</relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Kildonan UnitingCare', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
@@ -132,6 +136,28 @@ The Who Am I? Project (2008 - 2012)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000011b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001218.htm">
+<relationEntry localType="published">Resource Section: We will be Uniting - an exciting step</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">We will be Uniting - an exciting step</title>
+<imprint>
+<publisher>Wesley Mission Victoria</publisher>
+<date>2016</date>
+</imprint>
+<bibseries>
+<title render="italic">Wesley Mission Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="https://wesley.org.au/we-will-be-uniting/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000031.htm">
 <relationEntry localType="published">Book: Kildonan: one hundred years of caring 1881-1981</relationEntry>

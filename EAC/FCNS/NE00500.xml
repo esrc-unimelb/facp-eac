@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-07-31">2015-07-31</eventDateTime>
+<eventDateTime standardDateTime="2017-05-17">2017-05-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -42,8 +42,7 @@
 <cpfDescription>
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00500b.htm</entityId>
 <entityType>concept</entityType>
-<nameEntry><part>Custody of Children and Children's Settlements Act</part>
-<part localType="parent">Colony of New South Wales</part>
+<nameEntry><part>Custody of Children and Children's Settlements Act 1894</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
@@ -55,8 +54,13 @@
 </existDates>
 <places>
 </places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
 <biogHist>
-<abstract>The <span style="font-style:italic">Custody of Children and Children's Settlements Act 1894</span> enabled courts to refuse a parents' application for the return of a child if the court was of the opinion that the parent has abandoned or deserted or neglected the child or otherwise so conducted himself or herself that the court should refuse to enforce the parent's right to custody; or where the tender age or state of health of the child render it expedient that the child should remain with the child's mother or some other person. Repealed by <span style="font-style:italic">Infants Custody and Settlements Act 1899.</span></abstract>
+<abstract>The <span style="font-style:italic">Custody of Children and Children's Settlements Act 1894</span> enabled courts to refuse a parents' application for the return of a child if the court was of the opinion that the parent has abandoned or deserted or neglected the child or otherwise so conducted himself or herself that the court should refuse to enforce the parent's right to custody; or where the tender age or state of health of the child render it expedient that the child should remain with the child's mother or some other person. Repealed by <span style="font-style:italic">Infants' Custody and Settlements Act 1899.</span></abstract>
 
 </biogHist>
 </description>
@@ -70,12 +74,17 @@ Colony of New South Wales (1788 - 1901)
 Law in New South Wales
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00501b.htm">
+<relationEntry localType="Legislation">
+Infants' Custody and Settlements Act (1899 - )
+</relationEntry>
+</cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
-<relationEntry localType="published">'Custody of Children and Children's Settlements Act', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+<relationEntry localType="published">'Custody of Children and Children's Settlements Act 1894', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<title render="italic">Custody of Children and Children's Settlements Act</title>
+<title render="italic">Custody of Children and Children's Settlements Act 1894</title>
 <bibseries>
 <title render="italic">Find &amp; Connect - New South Wales</title>
 </bibseries>

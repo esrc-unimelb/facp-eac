@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-21">2016-04-21</eventDateTime>
+<eventDateTime standardDateTime="2017-05-04">2017-05-04</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,7 +43,6 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01528b.htm</entityId>
 <entityType>concept</entityType>
 <nameEntry><part>Child Welfare (Amendment) Act 1924</part>
-<part localType="parent">State of New South Wales</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
@@ -55,12 +54,22 @@
 </existDates>
 <places>
 </places>
+<functions>
+<function>
+<term>Amending Act</term>
+</function>
+</functions>
 <biogHist>
 <abstract>The <span style="font-style:italic">Child Welfare (Amendment) Act 1924</span> (69/1924) was 'An Act to amend the provisions of the Child Welfare Act, 1923, relating to the adoption of children'. This administrative amendment clarified the rules about who could apply for adoption orders to a Court, and how the documentation had to be filled out. It was repealed by the <span style="font-style:italic">Child Welfare Act 1939</span>.</abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00012b.htm">
+<relationEntry localType="Legislation">
+Child Welfare Act 1923 (1923 - 1939)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
 <relationEntry localType="Concept">
 State of New South Wales (1901 - )
 </relationEntry>
@@ -74,22 +83,6 @@ Law in New South Wales
 <relationEntry localType="Organisation">
 Child Welfare Department, State Government of New South Wales (1923 - 1970)
 </relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00014b.htm">
-<relationEntry localType="Legislation">
-Child Welfare Act 1939, State of New South Wales (1939 - 1987)
-</relationEntry>
-<descriptiveNote>
-<p>The <span style="font-style:italic">Child Welfare (Amendment) Act 1924</span> was repealed by the <span style="font-style:italic">Child Welfare Act, 1939</span>.</p>
-</descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00012b.htm">
-<relationEntry localType="Legislation">
-Child Welfare Act 1923, State of New South Wales (1923 - 1939)
-</relationEntry>
-<descriptiveNote>
-<p>The Child Welfare (Amendment) Act 1924 amended the Child Welfare Act 1923.</p>
-</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00959b.htm">
 <relationEntry localType="Glossary Term">

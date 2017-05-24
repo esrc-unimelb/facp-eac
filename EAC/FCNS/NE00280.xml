@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-11-06">2015-11-06</eventDateTime>
+<eventDateTime standardDateTime="2017-05-04">2017-05-04</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -191,7 +191,7 @@ Wesley James Home (1976 - 1990?)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01285b.htm">
 <relationEntry localType="Organisation">
-Gateway Children's Home (1964 - )
+Gateway Children's Home (1964 - 2017)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00507b.htm">
@@ -333,24 +333,41 @@ Michael Snell interviewed by Rob Willis in the Forgotten Australians and Former 
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000533.htm">
-<relationEntry localType="published">Report: Why are they in children's homes: report of the ACOSS children's home intake survey</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000001.htm">
+<relationEntry localType="published">Resource: Connecting Kin: Guide to Records</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Hanson, Dallas</name>
-<title render="italic">Why are they in children's homes: report of the ACOSS children's home intake survey</title>
+<name type="author">Thinee, Kristy and Bradford, Tracy</name>
+<title render="italic">Connecting Kin: Guide to Records</title>
 <imprint>
-<place>Canberra</place>
-<publisher>Australian Government Publishing Service</publisher>
-<date>1979</date>
+<place>Sydney, New South Wales</place>
+<publisher>New South Wales Department of Community Services</publisher>
+<date>1998</date>
 </imprint>
+<extptr linktype="simple" href="http://www.community.nsw.gov.au/__data/assets/pdf_file/0008/319256/connectkin_guide.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000106.htm">
+<relationEntry localType="published">Report: Wilma's Story</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Matthews, Bernie</name>
+<title render="italic">Wilma's Story</title>
+<imprint>
+<publisher>Online Opinion</publisher>
+<date>2007</date>
+</imprint>
+<extptr linktype="simple" href="http://www.onlineopinion.com.au/view.asp?article=6236&amp;page=0"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000494.htm">
 <relationEntry localType="published">Newspaper Article: Rees offers apology to casualties of care system</relationEntry>
@@ -370,24 +387,24 @@ Michael Snell interviewed by Rob Willis in the Forgotten Australians and Former 
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000333.htm">
-<relationEntry localType="published">Resource: Wesley Dalmar: over a century of caring</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000324.htm">
+<relationEntry localType="published">Resource Section: 'No eye contact'</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="italic">Wesley Dalmar: over a century of caring</title>
+<title render="quoted">'No eye contact'</title>
 <imprint>
-<publisher>Wesley Mission</publisher>
-<date>2012</date>
+<publisher>Alliance for Forgotten Australians</publisher>
+<date>2011</date>
 </imprint>
-<extptr linktype="simple" href="http://www.wesleymission.org.au/centres/out_of_home_care/About_us/our_history.asp"></extptr>
+<bibseries>
+<title render="italic">Forgotten Australians: Life Stories</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.forgottenaustralians.org.au/dvd.htm"></extptr>
 </bibref>
 </objectXMLWrap>
 
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000330.htm">
 <relationEntry localType="published">Resource Section: On life's terms</relationEntry>
@@ -448,40 +465,24 @@ Michael Snell interviewed by Rob Willis in the Forgotten Australians and Former 
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000324.htm">
-<relationEntry localType="published">Resource Section: 'No eye contact'</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000533.htm">
+<relationEntry localType="published">Report: Why are they in children's homes: report of the ACOSS children's home intake survey</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">'No eye contact'</title>
+<name type="author">Hanson, Dallas</name>
+<title render="italic">Why are they in children's homes: report of the ACOSS children's home intake survey</title>
 <imprint>
-<publisher>Alliance for Forgotten Australians</publisher>
-<date>2011</date>
+<place>Canberra</place>
+<publisher>Australian Government Publishing Service</publisher>
+<date>1979</date>
 </imprint>
-<bibseries>
-<title render="italic">Forgotten Australians: Life Stories</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.forgottenaustralians.org.au/dvd.htm"></extptr>
 </bibref>
 </objectXMLWrap>
 
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000106.htm">
-<relationEntry localType="published">Report: Wilma's Story</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Matthews, Bernie</name>
-<title render="italic">Wilma's Story</title>
-<imprint>
-<publisher>Online Opinion</publisher>
-<date>2007</date>
-</imprint>
-<extptr linktype="simple" href="http://www.onlineopinion.com.au/view.asp?article=6236&amp;page=0"></extptr>
-</bibref>
-</objectXMLWrap>
-
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000004.htm">
 <relationEntry localType="published">Book: Dalmar: A Century of Caring for Children and Families</relationEntry>
@@ -501,19 +502,18 @@ Michael Snell interviewed by Rob Willis in the Forgotten Australians and Former 
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000001.htm">
-<relationEntry localType="published">Resource: Connecting Kin: Guide to Records</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000333.htm">
+<relationEntry localType="published">Resource: Wesley Dalmar: over a century of caring</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Thinee, Kristy and Bradford, Tracy</name>
-<title render="italic">Connecting Kin: Guide to Records</title>
+<name type="author"></name>
+<title render="italic">Wesley Dalmar: over a century of caring</title>
 <imprint>
-<place>Sydney, New South Wales</place>
-<publisher>New South Wales Department of Community Services</publisher>
-<date>1998</date>
+<publisher>Wesley Mission</publisher>
+<date>2012</date>
 </imprint>
-<extptr linktype="simple" href="http://www.community.nsw.gov.au/__data/assets/pdf_file/0008/319256/connectkin_guide.pdf"></extptr>
+<extptr linktype="simple" href="http://www.wesleymission.org.au/centres/out_of_home_care/About_us/our_history.asp"></extptr>
 </bibref>
 </objectXMLWrap>
 

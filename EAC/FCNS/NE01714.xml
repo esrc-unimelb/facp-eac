@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01714</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2017-05-04">2017-05-04</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2017-05-12">2017-05-12</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01714b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Children and Young Persons Legislation (Repeal and Amendment) Act 1998</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1998-01-01">1998</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Amending Act</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Children and Young Persons Legislation (Repeal and Amendment) Act 1998 was passed on 14 December 1998. This Act had the full title: An Act to repeal the Children (Care and Protection) Act 1987; to amend the Children's Court Act 1987: and to amend certain other Acts as a consequence of the enactment of the Children and Young Persons (Care and Protection) Act 1998.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00020b.htm">
+<relationEntry localType="Legislation">
+Children (Care and Protection) Act 1987 (1987 - 2010)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01546b.htm">
+<relationEntry localType="Legislation">
+Children and Young Persons (Care and Protection) Act 1998 (1998 - )
+</relationEntry>
+<descriptiveNote>
+<p>The Children and Young Persons Legislation (Repeal and Amendment Act) 1998 was passed as a consequence of the enactment of the Children and Young Persons (Care and Protection) Act 1998.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Children and Young Persons Legislation (Repeal and Amendment) Act 1998', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Children and Young Persons Legislation (Repeal and Amendment) Act 1998</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01714b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-22">2016-04-22</eventDateTime>
+<eventDateTime standardDateTime="2016-12-16">2016-12-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -102,10 +102,21 @@ Ombudsman Western Australia (1972 - )
 Adoption Act 1994 (1994 - )
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01533b.htm">
+<relationEntry localType="Organisation">
+Case Review Panel (2006 - )
+</relationEntry>
+<descriptiveNote>
+<p>The Case Review Panel provided advice to the Director General of the Department for Child Protection.</p>
+</descriptiveNote>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00399b.htm">
 <relationEntry localType="Legislation">
 Working with Children (Criminal Record Checking) Act 2004 (2004 - )
 </relationEntry>
+<descriptiveNote>
+<p>The Department for Child Protection administered the <span style="font-style:italic">Working with Children (Criminal Record Checking) Act 2004</span>.</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00400b.htm">
 <relationEntry localType="Legislation">
@@ -181,14 +192,14 @@ Cooinda (1966 - ?)
 Albany Group Home (1978? - )
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00109b.htm">
+<relationEntry localType="Organisation">
+Kalgoorlie Group Home (1987 - )
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01348b.htm">
 <relationEntry localType="Organisation">
 Collie Family Group Home (2002 - )
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00116b.htm">
-<relationEntry localType="Organisation">
-Kewdale House (1976? - 2011?)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01380b.htm">
@@ -196,9 +207,9 @@ Kewdale House (1976? - 2011?)
 Bentley House (2007? - )
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00109b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00116b.htm">
 <relationEntry localType="Organisation">
-Kalgoorlie Group Home (1987 - )
+Kewdale House (1976? - 2011?)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00233b.htm">
@@ -228,15 +239,6 @@ Yurag-Man-Taam-Purru Hostel (2007 - 2013?)
 <toDate standardDate="2013-12-31">2013?</toDate>
 </dateRange>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01350b.htm">
-<relationEntry localType="Organisation">
-Darlington House (1983 - )
-</relationEntry>
-<dateRange>
-<fromDate standardDate="2007-01-01">2007</fromDate>
-<toDate standardDate="2013-12-31">2013</toDate>
-</dateRange>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00020b.htm">
 <relationEntry localType="Organisation">
 Bamburra Hostel (1970 - )
@@ -253,6 +255,15 @@ Bedford Hostel (1971 - 2009)
 <dateRange>
 <fromDate standardDate="2007-01-01">2007</fromDate>
 <toDate standardDate="2009-12-31">2009</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01350b.htm">
+<relationEntry localType="Organisation">
+Darlington House (1983 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2007-01-01">2007</fromDate>
+<toDate standardDate="2013-12-31">2013</toDate>
 </dateRange>
 </cpfRelation>
 <cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01118b.htm">

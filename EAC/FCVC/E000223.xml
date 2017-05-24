@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<eventDateTime standardDateTime="2017-05-12">2017-05-12</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -45,12 +45,13 @@
 <nameEntry><part>Connections UnitingCare</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
-<nameEntry localType=""><part>Connections</part>
+<nameEntry localType="Also known as"><part>Connections</part>
 </nameEntry>
 </identity>
 <description><existDates>
 <dateRange>
 <fromDate standardDate="2000-01-01">2000</fromDate>
+<toDate standardDate="2016-12-31">2016</toDate>
 </dateRange>
 </existDates>
 <places>
@@ -76,7 +77,7 @@
 </function>
 </functions>
 <biogHist>
-<abstract>Connections UnitingCare is an amalgamation of several agencies brought together in May 2000. Connections provides services including adolescent community placement, adoption and permanent care and an adoption information service. Connections holds adoption records for all the Uniting Church's babies' facilities and children's facilities. These facilities include institutions formerly operated by the Presbyterian and Methodist Churches. Connections also holds admission registers for the Presbyterian Sisterhood Home.</abstract>
+<abstract>Connections UnitingCare is an amalgamation of several agencies brought together in May 2000. Connections provides services including adolescent community placement, adoption and permanent care and an adoption information service. Connections holds adoption records for all the Uniting Church's babies' facilities and children's facilities. These facilities include institutions formerly operated by the Presbyterian and Methodist Churches. Connections also holds admission registers for the Presbyterian Sisterhood Home. In 2016, Connections UnitingCare merged with other agencies to form the new organisation: Uniting (Victoria and Tasmania) Limited.</abstract>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="2011-01-01">2011</fromDate>
 <toDate standardDate="2011-12-31">2011</toDate>
@@ -88,12 +89,7 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000886b.htm">
-<relationEntry localType="Archival Collection">
-Records held by Connections UnitingCare (c. 1910 - )
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000225b.htm">
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000225b.htm">
 <relationEntry localType="Organisation">
 Canterbury Family Centre (1977 - 2000)
 </relationEntry>
@@ -108,6 +104,11 @@ Wheelers Hill Family Centre (1970s - 2000)
 Copelen (1998 - 2000)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000886b.htm">
+<relationEntry localType="Archival Collection">
+Records held by Connections UnitingCare (c. 1910 - )
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000578b.htm">
 <relationEntry localType="Organisation">
 Adoption Information Service, Connections UnitingCare (1984 - )
@@ -116,21 +117,22 @@ Adoption Information Service, Connections UnitingCare (1984 - )
 <p>The Adoption Information Service is part of Connections UnitingCare. People can request information about adoptions facilitated by Connections UnitingCare and it's predecessors through this service.</p>
 </descriptiveNote>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000887b.htm">
-<relationEntry localType="Contact Details">
-Adoption Information Service, Connections UnitingCare - Contact Details
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000017b.htm">
 <relationEntry localType="Organisation">
-UnitingCare Victoria and Tasmania (2000 - )
+UnitingCare Victoria and Tasmania (2000 - 2016)
 </relationEntry>
 <dateRange>
 <fromDate standardDate="2000-01-01">2000</fromDate>
+<toDate standardDate="2016-12-31">2016</toDate>
 </dateRange>
 <descriptiveNote>
-<p>Connections is part of the UnitingCare Victoria and Tasmania network.</p>
+<p>Connections was part of the UnitingCare Victoria and Tasmania network.</p>
 </descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001036b.htm">
+<relationEntry localType="Organisation">
+Uniting (Victoria and Tasmania) Limited (2016 - )
+</relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Connections UnitingCare', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
@@ -144,6 +146,28 @@ UnitingCare Victoria and Tasmania (2000 - )
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000223b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001218.htm">
+<relationEntry localType="published">Resource Section: We will be Uniting - an exciting step</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">We will be Uniting - an exciting step</title>
+<imprint>
+<publisher>Wesley Mission Victoria</publisher>
+<date>2016</date>
+</imprint>
+<bibseries>
+<title render="italic">Wesley Mission Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="https://wesley.org.au/we-will-be-uniting/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000732.htm">
 <relationEntry localType="published">Resource Section: Methodist Babies' Home, South Yarra [photo set]</relationEntry>

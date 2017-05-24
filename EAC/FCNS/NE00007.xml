@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-12-15">2015-12-15</eventDateTime>
+<eventDateTime standardDateTime="2017-05-15">2017-05-15</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,7 +43,6 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00007b.htm</entityId>
 <entityType>concept</entityType>
 <nameEntry><part>Reformatory and Industrial Schools Act 1901</part>
-<part localType="parent">State of New South Wales</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
@@ -55,6 +54,11 @@
 </existDates>
 <places>
 </places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
 <biogHist>
 <abstract>The <span style="font-style:italic">Reformatory and Industrial Schools Act 1901</span> (38/1901) repealed the Colonial <span style="font-style:italic">Reformatory Act</span> and <span style="font-style:italic">Destitute Children's Act</span> which had existed since 1866. This Act governed industrial schools and reformatories. The new Act retained the 1866 provisions for offenders under sixteen, and for vagrant and destitute children. It provided a court with the power to commit a child to the care of a relative, a named person, the State Children's Relief Board or to a public industrial school. It was repealed by the <span style="font-style:italic">Neglected Children and Juvenile Offenders Act 1905</span>.</abstract>
 
@@ -62,12 +66,12 @@
 </description>
 <relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00002b.htm">
 <relationEntry localType="Legislation">
-Destitute Children Act 1866, Colony of New South Wales (1866 - 1901)
+Destitute Children Act 1866 (1866 - 1901)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00001b.htm">
 <relationEntry localType="Legislation">
-Reformatory Schools Act 1866, Colony of New South Wales (1869 - 1901)
+Reformatory Schools Act 1866 (1869 - 1901)
 </relationEntry>
 <descriptiveNote>
 <p>The <span style="font-style:italic">Reformatory and Industrial Schools Act 1901</span> replaced the <span style="font-style:italic">Reformatory Schools Act.</span></p>
@@ -110,7 +114,7 @@ Parramatta Girls Industrial School (1887 - 1912)
 </cpfRelation>
 <cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00009b.htm">
 <relationEntry localType="Legislation">
-Neglected Children and Juvenile Offenders Act 1905, State of New South Wales (1905 - 1923)
+Neglected Children and Juvenile Offenders Act 1905 (1905 - 1923)
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
@@ -181,6 +185,27 @@ Neglected Children and Juvenile Offenders Act 1905, State of New South Wales (19
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000571.htm">
+<relationEntry localType="published">Resource Section: Mount Penang Juvenile Justice Centre</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Mount Penang Juvenile Justice Centre</title>
+<imprint>
+<publisher>State of New South Wales through the State Records Authority of NSW 2016</publisher>
+</imprint>
+<bibseries>
+<title render="italic">State Records Authority of New South Wales website</title>
+</bibseries>
+<extptr linktype="simple" href="https://www.records.nsw.gov.au/agency/486"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000663.htm">
 <relationEntry localType="published">Resource Section: Children of the Perishing Class</relationEntry>
 
@@ -200,27 +225,6 @@ Neglected Children and Juvenile Offenders Act 1905, State of New South Wales (19
 </bibref>
 </objectXMLWrap>
 
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000571.htm">
-<relationEntry localType="published">Resource Section: Carpentarian Reformatory for Boys (1894-1908) / Brush Farm Home for Boys (1909-1913) / Farm Home for Boys, Gosford (1914-1946) / Mount Penang Training School for Boys, Gosford (1946-1990) / Mount Penang Juvenile Justice Centre (1990- ) [State Records NSW Agency number 486]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Carpentarian Reformatory for Boys (1894-1908) / Brush Farm Home for Boys (1909-1913) / Farm Home for Boys, Gosford (1914-1946) / Mount Penang Training School for Boys, Gosford (1946-1990) / Mount Penang Juvenile Justice Centre (1990- ) [State Records NSW Agency number 486]</title>
-<imprint>
-<publisher>State Records Authority of New South Wales</publisher>
-</imprint>
-<bibseries>
-<title render="italic">SRNSW collection catalogue</title>
-</bibseries>
-<extptr linktype="simple" href="http://search.records.nsw.gov.au/agencies/486"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000148.htm">
 <relationEntry localType="published">Resource: History of the Children's Court [extracted from Blackmore, R., <span style="font-style:italic">The Children's Court and Community Welfare in NSW</span></relationEntry>

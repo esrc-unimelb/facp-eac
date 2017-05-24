@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-07-29">2015-07-29</eventDateTime>
+<eventDateTime standardDateTime="2017-05-16">2017-05-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,7 +43,6 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00953b.htm</entityId>
 <entityType>concept</entityType>
 <nameEntry><part>Adoption Act 2000</part>
-<part localType="parent">State of New South Wales</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
@@ -54,14 +53,24 @@
 </existDates>
 <places>
 </places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
 <biogHist>
 <abstract>The <span style="font-style:italic">Adoption Act 2000</span> (75/2000) was 'an Act with respect to the adoption of children and access of information relating to an adoption; to repeal the <span style="font-style:italic">Adoption of Children Act 1965</span> and the <span style="font-style:italic">Adoption Information Act 1990</span>; to amend the <span style="font-style:italic">Births, Deaths and Marriages Registration Act 1995</span> with respect to registration of adoptions and adopted persons' birth records'. It was an overhaul of legislation that incorporated many of the changes in social and community attitudes towards marriage and parenthood in the period since the passage of <span style="font-style:italic">Adoption Act 1965</span>. It governed both adoptions and adoption information. In 2014 it was current.</abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01097b.htm">
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00018b.htm">
 <relationEntry localType="Legislation">
-Adoption Information Act 1990, State of New South Wales (1990 - 2003)
+Adoption of Children Act 1965 (1965 - 2003)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01097b.htm">
+<relationEntry localType="Legislation">
+Adoption Information Act 1990 (1990 - 2003)
 </relationEntry>
 <dateRange>
 <fromDate standardDate="2003-01-01">2003</fromDate>
@@ -83,11 +92,6 @@ Law in New South Wales
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00959b.htm">
 <relationEntry localType="Glossary Term">
 Adoption
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00018b.htm">
-<relationEntry localType="Legislation">
-Adoption of Children Act 1965, State of New South Wales (1965 - 2003)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00952b.htm">
@@ -157,7 +161,7 @@ Records relating to Adoption (1900? - )
 <place>Sydney</place>
 <publisher>Parliament of New South Wales, Legislative Council</publisher>
 </imprint>
-<extptr linktype="simple" href="http://www.parliament.nsw.gov.au/prod/parlment/committee.nsf/0/56e4e53dfa16a023ca256cfd002a63bc/$FILE/Report.PDF"></extptr>
+<extptr linktype="simple" href="https://www.parliament.nsw.gov.au/committees/DBAssets/InquiryReport/ReportAcrobat/5540/Report.PDF"></extptr>
 </bibref>
 </objectXMLWrap>
 
