@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-11-26">2015-11-26</eventDateTime>
+<eventDateTime standardDateTime="2017-05-16">2017-05-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -97,7 +97,7 @@ School Records, Education Department (1881 - )
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00399b.htm">
 <relationEntry localType="Organisation">
-State Records Authority of New South Wales (1961 - )
+State Archives and Records Authority of New South Wales (1961 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00814b.htm">
@@ -234,16 +234,19 @@ Special Bundles (1920 - 1958)
 </objectXMLWrap>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000459.htm">
-<relationEntry localType="published">Resource: Index to Child Care and Protection</relationEntry>
+<relationEntry localType="published">Resource Section: Index to Child Care and Protection</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="italic">Index to Child Care and Protection</title>
+<title render="quoted">Index to Child Care and Protection</title>
 <imprint>
-<publisher>State Records NSW</publisher>
+<publisher>State of New South Wales through the State Records Authority of NSW 2016</publisher>
 </imprint>
-<extptr linktype="simple" href="http://www.records.nsw.gov.au/state-archives/indexes-online/indexes-to-education-and-child-welfare-records/index-to-child-care-and-protection"></extptr>
+<bibseries>
+<title render="italic">State Records Authority of New South Wales website</title>
+</bibseries>
+<extptr linktype="simple" href="https://www.records.nsw.gov.au/archives/collections-and-research/guides-and-indexes/child-care-and-protection-index"></extptr>
 </bibref>
 </objectXMLWrap>
 

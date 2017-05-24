@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-02-27">2015-02-27</eventDateTime>
+<eventDateTime standardDateTime="2016-12-16">2016-12-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -60,7 +60,12 @@
 
 </biogHist>
 </description>
-<relations><resourceRelation resourceRelationType="subjectOf">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00418b.htm">
+<relationEntry localType="Legislation">
+Child Welfare Act Amendment Act 1952 (1952 - 2006)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Near Relative', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
 
 <objectXMLWrap>

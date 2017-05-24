@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-07-25">2016-07-25</eventDateTime>
+<eventDateTime standardDateTime="2017-05-19">2017-05-19</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,7 +43,6 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00014b.htm</entityId>
 <entityType>concept</entityType>
 <nameEntry><part>Child Welfare Act 1939</part>
-<part localType="parent">State of New South Wales</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
@@ -55,6 +54,11 @@
 </existDates>
 <places>
 </places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
 <biogHist>
 <abstract>The <span style="font-style:italic">Child Welfare Act 1939</span> (17/1939) repealed the <span style="font-style:italic">Child Welfare Act 1923</span>. Its full title was 'An Act to consolidate and amend the law relating to children and young persons; to repeal the <span style="font-style:italic">Child Welfare Act, 1923</span>, and the <span style="font-style:italic">Child Welfare (Amendment) Act, 1924</span>; to amend the <span style="font-style:italic">Interstate Destitute Persons Relief Act, 1919</span>, and certain other Acts; to validate certain matters.' It contained many of the provisions of the previous child welfare legislation, but was much stronger and increased the powers of the Child Welfare Department. After the <span style="font-style:italic">Aborigines Protection (Amendment) Act 1940</span>, Aboriginal children were removed from their families under the <span style="font-style:italic">Child Welfare Act 1939</span>. This Act was amended many times, and Adoption was separated from it by the <span style="font-style:italic">Adoption Act 1965</span>. The <span style="font-style:italic">Child Welfare Act 1939</span> was repealed in 1987 and replaced by the <span style="font-style:italic">Children (Care and Protection) Act 1987</span>.</abstract>
 <p>It expanded the definition of a neglected child to include children who were destitute, whose parents were unfit to retain the child, or who without lawful excuse was not attending school regularly (truancy). The definition of a ward was expanded to include children in state control, committed to an institution, or resident in a hostel for expectant or nursing mothers, meaning unmarried mothers could lose their rights to make decisions. It enabled the Minister of the Child Welfare Department to order a child's adoption.</p>
@@ -67,9 +71,43 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00005b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01533b.htm">
 <relationEntry localType="Legislation">
-Infant Convicts Adoption Act 1901, State of New South Wales (1901 - 1939)
+Child Welfare (Amendment) Act 1966 (1966 - 1987)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01539b.htm">
+<relationEntry localType="Legislation">
+Child Welfare (Amendment) Act 1969 (1969 - 1987)
+</relationEntry>
+<descriptiveNote>
+<p>The Child Welfare (Amendment) Act 1969 amended the Child Welfare Act 1939.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01538b.htm">
+<relationEntry localType="Legislation">
+Child Welfare (Amendment) Act 1967 (1967 - 1987)
+</relationEntry>
+<descriptiveNote>
+<p>The Child Welfare (Amendment) Act 1967 amended the Children's Welfare Act 1939.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01534b.htm">
+<relationEntry localType="Legislation">
+Child Welfare (Amendment) Act 1961 (1961 - 1987)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01535b.htm">
+<relationEntry localType="Legislation">
+Child Welfare (Further Amendment) Act 1961 (1961 - 1965)
+</relationEntry>
+<descriptiveNote>
+<p>The Child Welfare (Further Amendment) Act 1961 amended the Child Welfare Act 1939.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00005b.htm">
+<relationEntry localType="Legislation">
+Infant Convicts Adoption Act 1901 (1901 - 1939)
 </relationEntry>
 <descriptiveNote>
 <p>The <span style="font-style:italic">Infant Convicts Adoption Act 1901</span> was repealed by the <span style="font-style:italic">Child Welfare Act 1939</span>.</p>
@@ -77,26 +115,11 @@ Infant Convicts Adoption Act 1901, State of New South Wales (1901 - 1939)
 </cpfRelation>
 <cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00012b.htm">
 <relationEntry localType="Legislation">
-Child Welfare Act 1923, State of New South Wales (1923 - 1939)
+Child Welfare Act 1923 (1923 - 1939)
 </relationEntry>
 <descriptiveNote>
 <p>The <span style="font-style:italic">Child Welfare Act 1923</span> was repealed by the <span style="font-style:italic">Child Welfare Act 1939</span>.</p>
 </descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00405b.htm">
-<relationEntry localType="Organisation">
-Bidura (1920 - 1977)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01181b.htm">
-<relationEntry localType="Archival Item">
-Joanna Penglase interviewed by Susan Marsden in the Forgotten Australians and Former Child Migrants oral history project [sound recording] (2 June 2010)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01012b.htm">
-<relationEntry localType="Glossary Term">
-Unmarried Mothers
-</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00959b.htm">
 <relationEntry localType="Glossary Term">
@@ -123,19 +146,27 @@ Parramatta Girls Training Home (1912 - 1946)
 Juvenile Justice
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00036b.htm">
-<relationEntry localType="Organisation">
-Department of Youth and Community Services, State Government of New South Wales (1973 - 1975)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00016b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00015b.htm">
 <relationEntry localType="Legislation">
-Aborigines Protection (Amendment) Act 1943, State of New South Wales (1943 - 1969)
+Aborigines Protection (Amendment) Act 1940 (1940 - 1969)
+</relationEntry>
+<descriptiveNote>
+<p>The <span style="font-style:italic">Aborigines Protection (Amendment) Act of 1940</span> enabled Aboriginal children to be removed under the <span style="font-style:italic">Child Welfare Act 1939</span>.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01012b.htm">
+<relationEntry localType="Glossary Term">
+Unmarried Mothers
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00041b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00405b.htm">
 <relationEntry localType="Organisation">
-Department of Youth, Ethnic and Community Affairs, State Government of New South Wales (1975 - 1976)
+Bidura (1920 - 1977)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00040b.htm">
+<relationEntry localType="Organisation">
+Department of Youth and Community Services, State Government of New South Wales (1976 - 1988)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01049b.htm">
@@ -163,26 +194,23 @@ Patrick Sephton interviewed by Ann-Mari Jordens in the Bringing them home oral h
 New South Wales Legislative Council Inquiry into Adoption Practices in NSW (1998 - 2000)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00018b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00016b.htm">
 <relationEntry localType="Legislation">
-Adoption of Children Act 1965, State of New South Wales (1965 - 2003)
+Aborigines Protection (Amendment) Act 1943 (1943 - 1969)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00015b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01540b.htm">
 <relationEntry localType="Legislation">
-Aborigines Protection (Amendment) Act 1940, State of New South Wales (1940 - 1969)
+Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987 (1987 - 2007)
 </relationEntry>
 <descriptiveNote>
-<p>The <span style="font-style:italic">Aborigines Protection (Amendment) Act of 1940</span> enabled Aboriginal children to be removed under the <span style="font-style:italic">Child Welfare Act 1939</span>.</p>
+<p>The <span style="font-style:italic">Child Welfare Act 1939</span> was repealed by the <span style="font-style:italic">Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987</span></p>
 </descriptiveNote>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01533b.htm">
-<relationEntry localType="Legislation">
-Child Welfare (Amendment) Act 1966, State of New South Wales (1966 - 1987)
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00990b.htm">
+<relationEntry localType="Glossary Term">
+Likely to Lapse
 </relationEntry>
-<descriptiveNote>
-<p>The Child Welfare (Amendment) Act 1966 amended the Child Welfare Act 1939.</p>
-</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01061b.htm">
 <relationEntry localType="Organisation">
@@ -204,43 +232,19 @@ State of New South Wales (1901 - )
 Law in New South Wales
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01536b.htm">
-<relationEntry localType="Legislation">
-Child Welfare (Commonwealth Agreement Ratification) Act 1962, State of New South Wales (1962 - )
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00036b.htm">
+<relationEntry localType="Organisation">
+Department of Youth and Community Services, State Government of New South Wales (1973 - 1975)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01537b.htm">
 <relationEntry localType="Legislation">
-Child Welfare (Commonwealth Agreement Ratification) Act 1941, State of New South Wales (1941 - )
+Child Welfare (Commonwealth Agreement Ratification) Act 1941 (1941 - )
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01539b.htm">
-<relationEntry localType="Legislation">
-Child Welfare (Amendment) Act 1969, State of New South Wales (1969 - 1987)
-</relationEntry>
-<descriptiveNote>
-<p>The Child Welfare (Amendment) Act 1969 amended the Child Welfare Act 1939.</p>
-</descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01528b.htm">
-<relationEntry localType="Legislation">
-Child Welfare (Amendment) Act 1924, State of New South Wales (1924 - 1939)
-</relationEntry>
-<descriptiveNote>
-<p>The <span style="font-style:italic">Child Welfare (Amendment) Act 1924</span> was repealed by the <span style="font-style:italic">Child Welfare Act, 1939</span>.</p>
-</descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01540b.htm">
-<relationEntry localType="Legislation">
-Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987, State of New South Wales (1987 - 2007)
-</relationEntry>
-<descriptiveNote>
-<p>The <span style="font-style:italic">Child Welfare Act 1939</span> was repealed by the <span style="font-style:italic">Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987</span></p>
-</descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00990b.htm">
-<relationEntry localType="Glossary Term">
-Likely to Lapse
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01181b.htm">
+<relationEntry localType="Archival Item">
+Joanna Penglase interviewed by Susan Marsden in the Forgotten Australians and Former Child Migrants oral history project [sound recording] (2 June 2010)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00969b.htm">
@@ -248,26 +252,13 @@ Likely to Lapse
 Children's Courts (1905 - )
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01535b.htm">
-<relationEntry localType="Legislation">
-Child Welfare (Further Amendment) Act 1961, State of New South Wales (1961 - 1965)
-</relationEntry>
-<descriptiveNote>
-<p>The Child Welfare (Further Amendment) Act 1961 amended the Child Welfare Act 1939.</p>
-</descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01534b.htm">
-<relationEntry localType="Legislation">
-Child Welfare (Amendment) Act 1961, State of New South Wales (1961 - 1987)
-</relationEntry>
-<descriptiveNote>
-<p>The Child Welfare (Amendment) Act 1961 amended the Child Welfare Act 1939.</p>
-</descriptiveNote>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00028b.htm">
 <relationEntry localType="Legislation">
-Community Welfare Act 1982, State of New South Wales (1981 - 1987)
+Community Welfare Act 1982 (1981 - 1987)
 </relationEntry>
+<descriptiveNote>
+<p>The <span style="font-style:italic">Community Welfare Act 1982</span> modernised and consolidated the <span style="font-style:italic">Child Welfare Act 1939</span>.</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00033b.htm">
 <relationEntry localType="Organisation">
@@ -287,18 +278,15 @@ Aborigines Protection Board (1883 - 1940)
 Department of Child Welfare and Social Welfare, State Government of New South Wales (1970 - 1973)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00040b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00041b.htm">
 <relationEntry localType="Organisation">
-Department of Youth and Community Services, State Government of New South Wales (1976 - 1988)
+Department of Youth, Ethnic and Community Affairs, State Government of New South Wales (1975 - 1976)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01538b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01536b.htm">
 <relationEntry localType="Legislation">
-Child Welfare (Amendment) Act 1967, State of New South Wales (1967 - 1987)
+Child Welfare (Commonwealth Agreement Ratification) Act 1962 (1962 - )
 </relationEntry>
-<descriptiveNote>
-<p>The Child Welfare (Amendment) Act 1967 amended the Children's Welfare Act 1939.</p>
-</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00979b.htm">
 <relationEntry localType="Glossary Term">
@@ -326,7 +314,12 @@ Boarding Out (1881 - )
 </cpfRelation>
 <cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00020b.htm">
 <relationEntry localType="Legislation">
-Children (Care and Protection) Act 1987, State of New South Wales (1987 - 2010)
+Children (Care and Protection) Act 1987 (1987 - 2010)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00018b.htm">
+<relationEntry localType="Legislation">
+Adoption of Children Act 1965 (1965 - 2003)
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
@@ -441,23 +434,22 @@ Children (Care and Protection) Act 1987, State of New South Wales (1987 - 2010)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000161.htm">
-<relationEntry localType="published">Report: Bringing them home: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000186.htm">
+<relationEntry localType="published">Newspaper Article: New Parents for "Nobody's Child"</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="italic">Bringing them home: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</title>
+<title render="quoted">New Parents for "Nobody's Child"</title>
 <imprint>
-<publisher>Commonwealth of Australia: Human Rights and Equal Opportunities Commission</publisher>
-<date>1997</date>
+<date>1939</date>
 </imprint>
+<bibseries>
+<title render="italic">The Sydney Morning Herald</title>
+</bibseries>
 </bibref>
 </objectXMLWrap>
 
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000001.htm">
 <relationEntry localType="published">Resource: Connecting Kin: Guide to Records</relationEntry>
@@ -528,23 +520,23 @@ Children (Care and Protection) Act 1987, State of New South Wales (1987 - 2010)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000656.htm">
-<relationEntry localType="published">Newspaper Article: N.S.W. Report: Reforms sought in child protection</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000161.htm">
+<relationEntry localType="published">Report: Bringing them home: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">N.S.W. Report: Reforms sought in child protection</title>
+<title render="italic">Bringing them home: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</title>
 <imprint>
-<date>1974</date>
+<publisher>Commonwealth of Australia: Human Rights and Equal Opportunities Commission</publisher>
+<date>1997</date>
 </imprint>
-<bibseries>
-<title render="italic">The Canberra Times</title>
-</bibseries>
-<extptr linktype="simple" href="http://trove.nla.gov.au/ndp/del/article/110793580"></extptr>
 </bibref>
 </objectXMLWrap>
 
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000664.htm">
 <relationEntry localType="published">Resource Section: History of Children's Legislation in New South Wales - The Children's Court</relationEntry>
@@ -622,36 +614,37 @@ Warped Mentalities</title>
 
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000866.htm">
-<relationEntry localType="published">Resource Section: State Children Relief Dept (1881-1923) Child Welfare Dept (1923-70) Dept of Child Welfare and Social Welfare (1970-73) Youth and Community Services (1973-75,76-88) Youth, Ethnic and Community Affairs (1975-76) Dept of Community Services (1992-2009) [State Records NSW Agency number 114]</relationEntry>
+<relationEntry localType="published">Resource Section: Dept of Community Services</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">State Children Relief Dept (1881-1923) Child Welfare Dept (1923-70) Dept of Child Welfare and Social Welfare (1970-73) Youth and Community Services (1973-75,76-88) Youth, Ethnic and Community Affairs (1975-76) Dept of Community Services (1992-2009) [State Records NSW Agency number 114]</title>
+<title render="quoted">Dept of Community Services</title>
 <imprint>
-<publisher>State Records Authority of New South Wales</publisher>
+<publisher>State of New South Wales through the State Records Authority of NSW 2016</publisher>
 </imprint>
 <bibseries>
-<title render="italic">SRNSW collection catalogue</title>
+<title render="italic">State Records Authority of New South Wales website</title>
 </bibseries>
-<extptr linktype="simple" href="http://search.records.nsw.gov.au/agencies/114"></extptr>
+<extptr linktype="simple" href="https://www.records.nsw.gov.au/agency/114"></extptr>
 </bibref>
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000186.htm">
-<relationEntry localType="published">Newspaper Article: New Parents for "Nobody's Child"</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000656.htm">
+<relationEntry localType="published">Newspaper Article: N.S.W. Report: Reforms sought in child protection</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">New Parents for "Nobody's Child"</title>
+<title render="quoted">N.S.W. Report: Reforms sought in child protection</title>
 <imprint>
-<date>1939</date>
+<date>1974</date>
 </imprint>
 <bibseries>
-<title render="italic">The Sydney Morning Herald</title>
+<title render="italic">The Canberra Times</title>
 </bibseries>
+<extptr linktype="simple" href="http://trove.nla.gov.au/ndp/del/article/110793580"></extptr>
 </bibref>
 </objectXMLWrap>
 

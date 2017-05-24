@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-21">2016-04-21</eventDateTime>
+<eventDateTime standardDateTime="2017-05-15">2017-05-15</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,7 +43,6 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00016b.htm</entityId>
 <entityType>concept</entityType>
 <nameEntry><part>Aborigines Protection (Amendment) Act 1943</part>
-<part localType="parent">State of New South Wales</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
@@ -55,14 +54,19 @@
 </existDates>
 <places>
 </places>
+<functions>
+<function>
+<term>Amending Act</term>
+</function>
+</functions>
 <biogHist>
 <abstract>The <span style="font-style:italic">Aborigines Protection (Amendment) Act 1943</span> (13/1943) created 'exemption certificates' which enabled an Aboriginal person to argue they should no longer be deemed to be 'an aborigine or a person apparently having an admixture of aboriginal blood', and could thus escape the provisions of the <span style="font-style:italic">Aborigines Protection Act</span> and enjoy similar freedoms to white people. The Act enabled the Board, for the first time, to board out (or foster) children admitted to its control. It asserted the Board's rights to control its wards, their apprenticeship and their custody. It was repealed by the <span style="font-style:italic">Aborigines Act 1969.</span></abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00015b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00010b.htm">
 <relationEntry localType="Legislation">
-Aborigines Protection (Amendment) Act 1940, State of New South Wales (1940 - 1969)
+Aborigines Protection Act 1909 (1909 - 1969)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
@@ -80,11 +84,6 @@ Law in New South Wales
 Aborigines Welfare Board (1940 - 1969)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00010b.htm">
-<relationEntry localType="Legislation">
-Aborigines Protection Act 1909, State of New South Wales (1909 - 1969)
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01529b.htm">
 <relationEntry localType="Glossary Term">
 Exemption Certificate (1943 - 1969)
@@ -95,7 +94,7 @@ Exemption Certificate (1943 - 1969)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00014b.htm">
 <relationEntry localType="Legislation">
-Child Welfare Act 1939, State of New South Wales (1939 - 1987)
+Child Welfare Act 1939 (1939 - 1987)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00979b.htm">
@@ -111,11 +110,6 @@ Boarding Out (1881 - )
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01109b.htm">
 <relationEntry localType="Archival Series">
 Applications for Certificates of Exemption, Board for the Protection of Aborigines (1930 - 1964)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00017b.htm">
-<relationEntry localType="Legislation">
-Aborigines Protection (Amendment) Act 1963, State of New South Wales (1963 - 1969)
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">

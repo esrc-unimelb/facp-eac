@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-21">2016-04-21</eventDateTime>
+<eventDateTime standardDateTime="2017-05-17">2017-05-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,7 +43,6 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00020b.htm</entityId>
 <entityType>concept</entityType>
 <nameEntry><part>Children (Care and Protection) Act 1987</part>
-<part localType="parent">State of New South Wales</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
@@ -55,22 +54,55 @@
 </existDates>
 <places>
 </places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
 <biogHist>
-<abstract>The <span style="font-style:italic">Children (Care and Protection) Act 1987</span> (58/1987) was introduced to cover children in need of care and protection, including children in institutions, foster care and state wards. It was introduced alongside the <span style="font-style:italic">Community Welfare Act 1987</span> and the <span style="font-style:italic">Children's Court Act 1987</span>. This Act was Amended many times. In 1995 the <span style="font-style:italic">Children (Care and Protection) Amendment Act</span> created the Child Deaths Review Team, which examined child death and the deaths of children in 'care' or detention. The Act was to be repealed by the <span style="font-style:italic">Children and Young Persons Legislation (Repeal and Amendment) Act 1998</span> but was repealed by <span style="font-style:italic">The Children Legislation Amendment (Wood Inquiry Recommendations) Act 2009</span> in 2010.</abstract>
+<abstract>The <span style="font-style:italic">Children (Care and Protection) Act 1987</span> (58/1987) was introduced to cover children in need of care and protection, including children in institutions, foster care and state wards. It was introduced alongside the <span style="font-style:italic">Community Welfare Act 1987</span> and the <span style="font-style:italic">Children's Court Act 1987</span>. This Act was amended many times. In 1995 the <span style="font-style:italic">Children (Care and Protection) Amendment Act</span> created the Child Deaths Review Team, which examined child death and the deaths of children in 'care' or detention. The Act was to be repealed by the <span style="font-style:italic">Children and Young Persons Legislation (Repeal and Amendment) Act 1998</span> but was repealed by the <span style="font-style:italic">Children Legislation Amendment (Wood Inquiry Recommendations) Act 2009</span> in 2010.</abstract>
 <p>According to 'To Remove and Protect', this Act defined a child in need of care as: being in a situation where provision is not being made for the child's care; the child is being or is likely to be abused; or there has been an irretrievable breakdown in the relationship between the child and parents. The concept of 'neglect' was replaced by 'behaviour that harms the child'.</p>
 <p>The Aboriginal Child Placement Principle was introduced and outlined a preference to place Aboriginal children with Aboriginal people when they are placed outside their families.</p>
 <p>The <span style="font-style:italic">Children (Care and Protection) (Personal and Family Violence) Amendment Act 1987</span>, dealt with interviewing children subjected to child abuse, neglect and serious assaults. The <span style="font-style:italic">Children (Care and Protection) (Disability Services and Guardianship) Amendment Act 1987</span> had to do with medical and dental procedures on children who did not have parents or guardians who could give consent. The <span style="font-style:italic">Children (Care and Protection) (Prostitution) Amendment Act 1988</span> amended the <span style="font-style:italic">Crimes Act</span> to include offences relating to child prostitution and child pornography.</p>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00014b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01713b.htm">
 <relationEntry localType="Legislation">
-Child Welfare Act 1939, State of New South Wales (1939 - 1987)
+Children Legislation Amendment (Wood Inquiry Recommendations) Act 2009 (2009 - )
+</relationEntry>
+<descriptiveNote>
+<p>The Children (Care and Protection) Act was not repealed until the <span style="font-style:italic">Children Legislation Amendment (Wood Inquiry Recommendations) Act 2009</span> in 2010.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00022b.htm">
+<relationEntry localType="Legislation">
+Children (Community Service Orders) Amendment Act 1988 (1988 - 2010)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00044b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01545b.htm">
+<relationEntry localType="Legislation">
+Children (Detention Centres) Act 1987 (1987 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00023b.htm">
+<relationEntry localType="Legislation">
+Children (Community Service Orders) Further Amendment Act 1988 (1988 - 2010)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01714b.htm">
+<relationEntry localType="Legislation">
+Children and Young Persons Legislation (Repeal and Amendment) Act 1998 (1998 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00014b.htm">
+<relationEntry localType="Legislation">
+Child Welfare Act 1939 (1939 - 1987)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00040b.htm">
 <relationEntry localType="Organisation">
-Department of Community Services, State Government of New South Wales (1992 - 2009)
+Department of Youth and Community Services, State Government of New South Wales (1976 - 1988)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00966b.htm">
@@ -93,16 +125,6 @@ State Ward
 Dependent Children (c. 1883 - )
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00023b.htm">
-<relationEntry localType="Legislation">
-Children (Community Service Orders) Further Amendment Act 1988, State of New South Wales
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00024b.htm">
-<relationEntry localType="Legislation">
-Child (Care and Protection) Amendment Act 1990, State of New South Wales
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00952b.htm">
 <relationEntry localType="Glossary Term">
 Aboriginal Child Placement Principle (1987 - )
@@ -118,29 +140,24 @@ Juvenile Justice
 Neglected Child
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00021b.htm">
+<relationEntry localType="Legislation">
+Community Welfare Act 1987 (1987 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01543b.htm">
+<relationEntry localType="Legislation">
+Children's Court Act 1987 (1987 - )
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00405b.htm">
 <relationEntry localType="Organisation">
 Bidura (1920 - 1977)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01543b.htm">
-<relationEntry localType="Legislation">
-Children's Court Act 1987, State of New South Wales (1987 - )
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
-<relationEntry localType="Concept">
-State of New South Wales (1901 - )
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01028b.htm">
 <relationEntry localType="Organisation">
 Department of Family and Community Services, State Government of New South Wales (1988 - 1991)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00040b.htm">
-<relationEntry localType="Organisation">
-Department of Youth and Community Services, State Government of New South Wales (1976 - 1988)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00045b.htm">
@@ -155,12 +172,7 @@ Department of Health and Community Services, State Government of New South Wales
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01544b.htm">
 <relationEntry localType="Legislation">
-Children (Criminal Proceedings) Act 1987, State of New South Wales (1987 - )
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01545b.htm">
-<relationEntry localType="Legislation">
-Children (Detention Centres) Act 1987, State of New South Wales (1987 - )
+Children (Criminal Proceedings) Act 1987 (1987 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01699b.htm">
@@ -168,14 +180,19 @@ Children (Detention Centres) Act 1987, State of New South Wales (1987 - )
 Law in New South Wales
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00021b.htm">
-<relationEntry localType="Legislation">
-Community Welfare Act 1987, State of New South Wales (1987 - )
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
+<relationEntry localType="Concept">
+State of New South Wales (1901 - )
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00022b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00044b.htm">
+<relationEntry localType="Organisation">
+Department of Community Services, State Government of New South Wales (1992 - 2009)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01546b.htm">
 <relationEntry localType="Legislation">
-Children (Community Service Orders) Amendment Act 1988, State of New South Wales
+Children and Young Persons (Care and Protection) Act 1998 (1998 - )
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">

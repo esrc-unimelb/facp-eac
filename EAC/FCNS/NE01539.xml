@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-21">2016-04-21</eventDateTime>
+<eventDateTime standardDateTime="2017-05-17">2017-05-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,7 +43,6 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01539b.htm</entityId>
 <entityType>concept</entityType>
 <nameEntry><part>Child Welfare (Amendment) Act 1969</part>
-<part localType="parent">State of New South Wales</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
@@ -55,12 +54,25 @@
 </existDates>
 <places>
 </places>
+<functions>
+<function>
+<term>Amending Act</term>
+</function>
+</functions>
 <biogHist>
 <abstract>The <span style="font-style:italic">Child Welfare (Amendment) Act 1969</span> was 'An Act relating to certain proceedings before children's courts, the execution of certain warrants and the transfer of persons between prisons and institutions; to provide for the care of wards and persons having the like status who travel or remove between States; to make further provision with respect to the religious teaching of wards; to establish a Welfare Services Training Council; for these and other purposes to amend the <span style="font-style:italic">Child Welfare Act, 1939</span>, the <span style="font-style:italic">Parole of Prisoners Act, 1966</span>, and certain other Acts'. It was a lengthy Act that contained a number of changes to the way Courts could act in transferring young people between homes, depots, juvenile justice centres, and other institutions. Further Amendments to court proceedings were added in 1977 and 1978. This Act was repealed by the <span style="font-style:italic">Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987</span>.</abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00014b.htm">
+<relationEntry localType="Legislation">
+Child Welfare Act 1939 (1939 - 1987)
+</relationEntry>
+<descriptiveNote>
+<p>The Child Welfare (Amendment) Act 1969 amended the Child Welfare Act 1939.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
 <relationEntry localType="Concept">
 State of New South Wales (1901 - )
 </relationEntry>
@@ -69,14 +81,6 @@ State of New South Wales (1901 - )
 <relationEntry localType="Concept">
 Law in New South Wales
 </relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00014b.htm">
-<relationEntry localType="Legislation">
-Child Welfare Act 1939, State of New South Wales (1939 - 1987)
-</relationEntry>
-<descriptiveNote>
-<p>The Child Welfare (Amendment) Act 1969 amended the Child Welfare Act 1939.</p>
-</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00969b.htm">
 <relationEntry localType="Glossary Term">
@@ -90,7 +94,7 @@ Child Welfare Department, State Government of New South Wales (1923 - 1970)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01540b.htm">
 <relationEntry localType="Legislation">
-Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987, State of New South Wales (1987 - 2007)
+Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987 (1987 - 2007)
 </relationEntry>
 <descriptiveNote>
 <p>The <span style="font-style:italic">Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987</span> repealed the <span style="font-style:italic">Child Welfare (Amendment) Act 1969.</span></p>
@@ -98,7 +102,7 @@ Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987, State of N
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00028b.htm">
 <relationEntry localType="Legislation">
-Community Welfare Act 1982, State of New South Wales (1981 - 1987)
+Community Welfare Act 1982 (1981 - 1987)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00035b.htm">
@@ -123,7 +127,7 @@ Department of Youth and Community Services, State Government of New South Wales 
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01538b.htm">
 <relationEntry localType="Legislation">
-Child Welfare (Amendment) Act 1967, State of New South Wales (1967 - 1987)
+Child Welfare (Amendment) Act 1967 (1967 - 1987)
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">

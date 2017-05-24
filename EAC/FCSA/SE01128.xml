@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-03-04">2015-03-04</eventDateTime>
+<eventDateTime standardDateTime="2017-04-20">2017-04-20</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -49,6 +49,7 @@
 <description><existDates>
 <dateRange>
 <fromDate standardDate="2011-01-01">2011</fromDate>
+<toDate standardDate="2016-12-31">2016</toDate>
 </dateRange>
 </existDates>
 <places>
@@ -65,7 +66,7 @@
 </function>
 </functions>
 <biogHist>
-<abstract>Families SA was transferred from the former Department for Families and Communities to the new Department for Education and Child Development in 2011. Families SA continues to provide child protection and family support services. The Youth Justice function of Families SA is now part of the Department for Communities and Social Inclusion.</abstract>
+<abstract>Families SA was transferred from the former Department for Families and Communities to the new Department for Education and Child Development in 2011. Families SA continues to provide child protection and family support services. The Youth Justice function of Families SA is now part of the Department for Communities and Social Inclusion. In 2016, Families SA became the Department for Child Protection.</abstract>
 
 </biogHist>
 </description>
@@ -87,6 +88,18 @@ Department for Communities and Social Inclusion (2011 - )
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00227b.htm">
 <relationEntry localType="Organisation">
 Regency Park Community Unit (1997 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2011-01-01">2011</fromDate>
+<toDate standardDate="2016-12-31">2016</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Regency Park Community Unit was run by Families SA.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01667b.htm">
+<relationEntry localType="Organisation">
+Department for Child Protection (2016 - )
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-08-16">2016-08-16</eventDateTime>
+<eventDateTime standardDateTime="2017-05-15">2017-05-15</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,7 +43,6 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00019b.htm</entityId>
 <entityType>concept</entityType>
 <nameEntry><part>Aborigines Act 1969</part>
-<part localType="parent">State of New South Wales</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
@@ -55,15 +54,23 @@
 </existDates>
 <places>
 </places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
 <biogHist>
 <abstract>The <span style="font-style:italic">Aborigines Act 1969</span> (37/1969) was 'An Act to make provisions with respect to matters concerning Aborigines; to repeal the Aborigines Protection Act, 1909, and certain other Acts; to amend the Attachment of Wages Limitation Act, 1957.' It was a landmark Act that abolished the Aborigines Welfare Board and moved all Aboriginal children into the same welfare system as non-Aboriginal children. It made Aboriginal children who had been under the care of the Aborigines Welfare Board wards of the State. Aboriginal children's institutions were deemed to be depots under child welfare legislation. The Act reflected changing attitudes to Aboriginal people and the passage of the 1967 referendum. The new Act established Aboriginal Welfare Services in the Department of Child Welfare and Social Welfare; the Directorate of Aboriginal Welfare and the Aborigines Advisory Council. This Act was amended in 1973 and repealed in 1983 by the <span style="font-style:italic">Aboriginal Land Rights Act</span>.</abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00017b.htm">
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00010b.htm">
 <relationEntry localType="Legislation">
-Aborigines Protection (Amendment) Act 1963, State of New South Wales (1963 - 1969)
+Aborigines Protection Act 1909 (1909 - 1969)
 </relationEntry>
+<descriptiveNote>
+<p>The <span style="font-style:italic">Aborigines Act 1969</span> repealed the <span style="font-style:italic">Aborigines Protection Act 1909</span> and all its subsequent amendments.</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
 <relationEntry localType="Concept">
@@ -103,14 +110,6 @@ Aborigines Welfare Directorate (1969 - 1975)
 <relationEntry localType="Glossary Term">
 Aboriginal School (1915 - 1972)
 </relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00010b.htm">
-<relationEntry localType="Legislation">
-Aborigines Protection Act 1909, State of New South Wales (1909 - 1969)
-</relationEntry>
-<descriptiveNote>
-<p>The <span style="font-style:italic">Aborigines Act 1969</span> repealed the <span style="font-style:italic">Aborigines Protection Act 1909</span> and all its subsequent amendments.</p>
-</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01008b.htm">
 <relationEntry localType="Glossary Term">

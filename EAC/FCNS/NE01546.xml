@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-07-27">2015-07-27</eventDateTime>
+<eventDateTime standardDateTime="2017-05-17">2017-05-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,7 +43,6 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01546b.htm</entityId>
 <entityType>concept</entityType>
 <nameEntry><part>Children and Young Persons (Care and Protection) Act 1998</part>
-<part localType="parent">State of New South Wales</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
@@ -54,12 +53,40 @@
 </existDates>
 <places>
 </places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
 <biogHist>
 <abstract>The <span style="font-style:italic">Children and Young Persons (Care and Protection) Act 1998</span> (157/1998) was 'An Act to provide for the care and protection of, and the provision of services to, children and young persons'. This is the Act that created the contemporary system of child protection in New South Wales. It was, in 2014, the legislation underpinning of the operations of the Department of Family and Community Services.</abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01713b.htm">
+<relationEntry localType="Legislation">
+Children Legislation Amendment (Wood Inquiry Recommendations) Act 2009 (2009 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00020b.htm">
+<relationEntry localType="Legislation">
+Children (Care and Protection) Act 1987 (1987 - 2010)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01715b.htm">
+<relationEntry localType="Event">
+Special Commission of Inquiry into Child Protection Services in NSW (2007 - 2008)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01714b.htm">
+<relationEntry localType="Legislation">
+Children and Young Persons Legislation (Repeal and Amendment) Act 1998 (1998 - )
+</relationEntry>
+<descriptiveNote>
+<p>The Children and Young Persons Legislation (Repeal and Amendment Act) 1998 was passed as a consequence of the enactment of the Children and Young Persons (Care and Protection) Act 1998.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
 <relationEntry localType="Concept">
 State of New South Wales (1901 - )
 </relationEntry>
@@ -102,21 +129,6 @@ Royal Commission into the New South Wales Police Service (1995 - 1997)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000735.htm">
-<relationEntry localType="published">Resource: NSW legislation</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">NSW legislation</title>
-<imprint>
-<publisher>Parliamentary Counsel's Office, New South Wales Government</publisher>
-</imprint>
-<extptr linktype="simple" href="http://www.legislation.nsw.gov.au/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000397.htm">
 <relationEntry localType="published">Resource: A brief history of Out of Home Care in NSW since 1980</relationEntry>
 
@@ -128,7 +140,22 @@ Royal Commission into the New South Wales Police Service (1995 - 1997)
 <publisher>ACWA</publisher>
 <date>2010</date>
 </imprint>
-<extptr linktype="simple" href="http://www.acwa.asn.au/Downloads/Wood/ACWA_OOHC_history_timeline.pdf"></extptr>
+<extptr linktype="simple" href="http://web.acwa.asn.au/sites/default/files/public/ACWA/OOHC_Transition/CCC/short_history_OOHC.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000735.htm">
+<relationEntry localType="published">Resource: NSW legislation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">NSW legislation</title>
+<imprint>
+<publisher>Parliamentary Counsel's Office, New South Wales Government</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.legislation.nsw.gov.au/"></extptr>
 </bibref>
 </objectXMLWrap>
 

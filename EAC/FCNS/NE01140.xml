@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-12-15">2015-12-15</eventDateTime>
+<eventDateTime standardDateTime="2017-05-16">2017-05-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -117,7 +117,7 @@ State Children's Relief Board (1881 - 1923)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00003b.htm">
 <relationEntry localType="Legislation">
-State Children Relief Act 1881, Colony of New South Wales (1881 - 1901)
+State Children Relief Act 1881 (1881 - 1901)
 </relationEntry>
 <descriptiveNote>
 <p>The <span style="font-style:italic">State Children's Relief Act</span> gave the State Children's Relief Board the power to take children from the Protestant Orphan School and board them out.</p>
@@ -133,7 +133,7 @@ Female Orphan School (1801 - 1850)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01522b.htm">
 <relationEntry localType="Legislation">
-Apprenticeship Act 1851, Colony of New South Wales (1851 - 1901)
+Apprenticeship Act 1851 (1851 - 1901)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00966b.htm">
@@ -180,17 +180,20 @@ Boarding Out (1881 - )
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000711.htm">
-<relationEntry localType="published">Resource: Index to orphan schools records</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000459.htm">
+<relationEntry localType="published">Resource Section: Index to Child Care and Protection</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="italic">Index to orphan schools records</title>
+<title render="quoted">Index to Child Care and Protection</title>
 <imprint>
-<publisher>State Records Authority of New South Wales</publisher>
+<publisher>State of New South Wales through the State Records Authority of NSW 2016</publisher>
 </imprint>
-<extptr linktype="simple" href="http://www.records.nsw.gov.au/state-archives/indexes-online/indexes-to-education-and-child-welfare-records/index-to-child-care-and-protection/index-to-orphan-schools-records"></extptr>
+<bibseries>
+<title render="italic">State Records Authority of New South Wales website</title>
+</bibseries>
+<extptr linktype="simple" href="https://www.records.nsw.gov.au/archives/collections-and-research/guides-and-indexes/child-care-and-protection-index"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -215,6 +218,25 @@ Boarding Out (1881 - )
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000434.htm">
+<relationEntry localType="published">Resource Section: Female Orphan School and Historical Precinct, Parramatta Campus</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Female Orphan School and Historical Precinct, Parramatta Campus</title>
+<imprint>
+<date>2013</date>
+</imprint>
+<bibseries>
+<title render="italic">Whitlam Institute</title>
+<name type="author">The Whitlam Institute</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.whitlam.org/about_us2/female_orphan_school_precinct"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000663.htm">
 <relationEntry localType="published">Resource Section: Children of the Perishing Class</relationEntry>
 
@@ -231,40 +253,6 @@ Boarding Out (1881 - )
 <name type="author">Lawlink</name>
 </bibseries>
 <extptr linktype="simple" href="http://www.childrenscourt.justice.nsw.gov.au/Documents/Children%20of%20the%20perishing%20class.pdf"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000459.htm">
-<relationEntry localType="published">Resource: Index to Child Care and Protection</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Index to Child Care and Protection</title>
-<imprint>
-<publisher>State Records NSW</publisher>
-</imprint>
-<extptr linktype="simple" href="http://www.records.nsw.gov.au/state-archives/indexes-online/indexes-to-education-and-child-welfare-records/index-to-child-care-and-protection"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000434.htm">
-<relationEntry localType="published">Resource Section: Female Orphan School and Historical Precinct, Parramatta Campus</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Female Orphan School and Historical Precinct, Parramatta Campus</title>
-<imprint>
-<date>2013</date>
-</imprint>
-<bibseries>
-<title render="italic">Whitlam Institute</title>
-<name type="author">The Whitlam Institute</name>
-</bibseries>
-<extptr linktype="simple" href="http://www.whitlam.org/about_us2/female_orphan_school_precinct"></extptr>
 </bibref>
 </objectXMLWrap>
 

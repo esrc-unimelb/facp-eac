@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-21">2016-04-21</eventDateTime>
+<eventDateTime standardDateTime="2017-05-16">2017-05-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,10 +43,9 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00003b.htm</entityId>
 <entityType>concept</entityType>
 <nameEntry><part>State Children Relief Act 1881</part>
-<part localType="parent">Colony of New South Wales</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
-<nameEntry localType=""><part>An Act to establish a System of boarding-out Children</part>
+<nameEntry localType="Long title"><part>An Act to establish a System of boarding-out Children</part>
 </nameEntry>
 </identity>
 <description><existDates>
@@ -57,13 +56,23 @@
 </existDates>
 <places>
 </places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
 <biogHist>
 <abstract>The <span style="font-style:italic">State Children Relief Act</span> of 1881 [24/1881 (44 Vic. No.24)] created the State Children's Relief Board [SCRB], a body of nine members that reported to the Colonial Secretary. Its task was to remove children from state-funded institutions and board them out, or foster them, with working class families. This Act enabled the SCRB to pay fees to foster families, and to supervise foster children, and place them in apprenticeship as it saw fit. Within five years, almost all children who had been in the care of the Benevolent Society and the Roman Catholic and Protestant Orphanages were in the boarding out system. This Act was amended by the <span style="font-style:italic">State Children Relief (Amendment) Act 1896</span>. It was repealed by the <span style="font-style:italic">State Children Relief Act 1901</span>.</abstract>
 <p>At first, only children who had already been placed in institutions could be boarded out, but the Act was amended in 1901 to enable the SCRB to commit children directly to its care. An earlier amendment in 1896 had enabled the SCRB to pay a half-rate of the boarding out allowance to widows and deserted wives who were considered respectable enough to keep their children.</p>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01699b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01177b.htm">
+<relationEntry localType="Legislation">
+State Children Relief Act 1896 (1896 - 1901)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01699b.htm">
 <relationEntry localType="Concept">
 Law in New South Wales
 </relationEntry>
@@ -143,9 +152,9 @@ Benevolent Asylum (1821 - 1901)
 <p>The <span style="font-style:italic">State Children's Relief Act</span> gave the State Children's Relief Board the power to take children from the Benevolent Asylum and board them out.</p>
 </descriptiveNote>
 </cpfRelation>
-<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01177b.htm">
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00006b.htm">
 <relationEntry localType="Legislation">
-State Children Relief (Amendment) Act of 1896, Colony of New South Wales (1896 - 1901)
+State Children Relief Act 1901 (1901 - 1923)
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
@@ -162,19 +171,19 @@ State Children Relief (Amendment) Act of 1896, Colony of New South Wales (1896 -
 </objectXMLWrap>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000866.htm">
-<relationEntry localType="published">Resource Section: State Children Relief Dept (1881-1923) Child Welfare Dept (1923-70) Dept of Child Welfare and Social Welfare (1970-73) Youth and Community Services (1973-75,76-88) Youth, Ethnic and Community Affairs (1975-76) Dept of Community Services (1992-2009) [State Records NSW Agency number 114]</relationEntry>
+<relationEntry localType="published">Resource Section: Dept of Community Services</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">State Children Relief Dept (1881-1923) Child Welfare Dept (1923-70) Dept of Child Welfare and Social Welfare (1970-73) Youth and Community Services (1973-75,76-88) Youth, Ethnic and Community Affairs (1975-76) Dept of Community Services (1992-2009) [State Records NSW Agency number 114]</title>
+<title render="quoted">Dept of Community Services</title>
 <imprint>
-<publisher>State Records Authority of New South Wales</publisher>
+<publisher>State of New South Wales through the State Records Authority of NSW 2016</publisher>
 </imprint>
 <bibseries>
-<title render="italic">SRNSW collection catalogue</title>
+<title render="italic">State Records Authority of New South Wales website</title>
 </bibseries>
-<extptr linktype="simple" href="http://search.records.nsw.gov.au/agencies/114"></extptr>
+<extptr linktype="simple" href="https://www.records.nsw.gov.au/agency/114"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -214,25 +223,6 @@ State Children Relief (Amendment) Act of 1896, Colony of New South Wales (1896 -
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000207.htm">
-<relationEntry localType="published">Report: Report of the State Children's Relief Department</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Report of the State Children's Relief Department</title>
-<imprint>
-<place>Sydney</place>
-<publisher>W.A. Gullick, Government Printer</publisher>
-<date>1881-1893</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000206.htm">
 <relationEntry localType="published">Report: Report of the State Children's Relief Board</relationEntry>
 
@@ -244,6 +234,25 @@ State Children Relief (Amendment) Act of 1896, Colony of New South Wales (1896 -
 <place>Sydney</place>
 <publisher>W.A. Gullick, Government Printer</publisher>
 <date>1894-1920</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000207.htm">
+<relationEntry localType="published">Report: Report of the State Children's Relief Department</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Report of the State Children's Relief Department</title>
+<imprint>
+<place>Sydney</place>
+<publisher>W.A. Gullick, Government Printer</publisher>
+<date>1881-1893</date>
 </imprint>
 </bibref>
 </objectXMLWrap>
@@ -286,20 +295,20 @@ State Children Relief (Amendment) Act of 1896, Colony of New South Wales (1896 -
 
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000145.htm">
-<relationEntry localType="published">Resource Section: State Children's Relief Board [State Records NSW Agency number 111]</relationEntry>
+<relationEntry localType="published">Resource Section: State Children's Relief Board</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">State Children's Relief Board [State Records NSW Agency number 111]</title>
+<title render="quoted">State Children's Relief Board</title>
 <imprint>
-<publisher>State Records Authority of New South Wales</publisher>
+<publisher>State of New South Wales through the State Records Authority of NSW 2016</publisher>
 <date>2012</date>
 </imprint>
 <bibseries>
-<title render="italic">SRNSW collection catalogue</title>
+<title render="italic">State Records Authority of New South Wales website</title>
 </bibseries>
-<extptr linktype="simple" href="http://search.records.nsw.gov.au/agencies/111"></extptr>
+<extptr linktype="simple" href="https://www.records.nsw.gov.au/agency/111"></extptr>
 </bibref>
 </objectXMLWrap>
 

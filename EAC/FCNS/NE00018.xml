@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-21">2016-04-21</eventDateTime>
+<eventDateTime standardDateTime="2017-05-17">2017-05-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,7 +43,6 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00018b.htm</entityId>
 <entityType>concept</entityType>
 <nameEntry><part>Adoption of Children Act 1965</part>
-<part localType="parent">State of New South Wales</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
@@ -55,6 +54,11 @@
 </existDates>
 <places>
 </places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
 <biogHist>
 <abstract>The <span style="font-style:italic">Adoption of Children Act 1965</span> (23/1965) was 'An Act to make provisions with respect to and consequential upon the adoption of children; to amend the <span style="font-style:italic">Child Welfare Act, 1939</span>, the <span style="font-style:italic">Registration of Births Deaths and Marriages Act 1899</span>, and certain other Acts'. It was a model Act for other laws in Australia. The Act required courts making orders in matters relating to the child to regard the child's welfare as the paramount consideration. It banned people from arranging their own adoptions, and it tightened secrecy around adoption, enabling adopted children to assume an entirely new identity (and birth certificate) that was tied to their adoptive parents. In 1991 the <span style="font-style:italic">Adoption Information Act</span> gave adoptive children and birth parents the right to information about their adoptions, including their original birth certificates. The <span style="font-style:italic">Adoption of Children Act</span> was repealed in 2003 when the <span style="font-style:italic">Adoption Act 2000</span> came into effect.</abstract>
 <p>The <span style="font-style:italic">Adoption of Children Act</span> banned privately arranged adoptions, making it an offence to advertise a child for adoption or seek adoptive parents. Birth parents were not allowed to choose who their child went to - they could only give consent to the child being adopted. In practice, this meant adoptions were arranged by adoption agencies and approved by the court. Exceptions were made for relatives or step-parents.</p>
@@ -65,9 +69,9 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01535b.htm">
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00014b.htm">
 <relationEntry localType="Legislation">
-Child Welfare (Further Amendment) Act 1961, State of New South Wales (1961 - 1965)
+Child Welfare Act 1939 (1939 - 1987)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
@@ -80,19 +84,14 @@ State of New South Wales (1901 - )
 Law in New South Wales
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00953b.htm">
-<relationEntry localType="Legislation">
-Adoption Act 2000, State of New South Wales (2000 - )
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00028b.htm">
 <relationEntry localType="Legislation">
-Community Welfare Act 1982, State of New South Wales (1981 - 1987)
+Community Welfare Act 1982 (1981 - 1987)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00021b.htm">
 <relationEntry localType="Legislation">
-Community Welfare Act 1987, State of New South Wales (1987 - )
+Community Welfare Act 1987 (1987 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01262b.htm">
@@ -100,10 +99,13 @@ Community Welfare Act 1987, State of New South Wales (1987 - )
 New South Wales Legislative Council Inquiry into Adoption Practices in NSW (1998 - 2000)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00014b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01097b.htm">
 <relationEntry localType="Legislation">
-Child Welfare Act 1939, State of New South Wales (1939 - 1987)
+Adoption Information Act 1990 (1990 - 2003)
 </relationEntry>
+<descriptiveNote>
+<p>The Adoption Information Act 1990 reversed much of the secrecy relating to adoptions in the Adoption of Children Act 1965.</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01031b.htm">
 <relationEntry localType="Event">
@@ -115,9 +117,9 @@ Commonwealth Contribution to Former Forced Adoption Practices (2011 - 2012)
 Adoption
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01097b.htm">
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00953b.htm">
 <relationEntry localType="Legislation">
-Adoption Information Act 1990, State of New South Wales (1990 - 2003)
+Adoption Act 2000 (2000 - )
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
@@ -160,9 +162,9 @@ Adoption Information Act 1990, State of New South Wales (1990 - 2003)
 <date>1992</date>
 </imprint>
 <bibseries>
-<title render="italic">Lawlink</title>
+<title render="italic">NSW Law Reform Commission</title>
 </bibseries>
-<extptr linktype="simple" href="http://www.lawlink.nsw.gov.au/__4a2565b5001b20d1.nsf/0/40cc78723514bfe24a2565d3007fd71c?OpenDocument&amp;Highlight=2,legitimacy,Level2,Level3"></extptr>
+<extptr linktype="simple" href="http://www.lawreform.justice.nsw.gov.au/Documents/Publications/Reports/Report-69-outline.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -181,7 +183,7 @@ Adoption Information Act 1990, State of New South Wales (1990 - 2003)
 <place>Sydney</place>
 <publisher>Parliament of New South Wales, Legislative Council</publisher>
 </imprint>
-<extptr linktype="simple" href="http://www.parliament.nsw.gov.au/prod/parlment/committee.nsf/0/56e4e53dfa16a023ca256cfd002a63bc/$FILE/Report.PDF"></extptr>
+<extptr linktype="simple" href="https://www.parliament.nsw.gov.au/committees/DBAssets/InquiryReport/ReportAcrobat/5540/Report.PDF"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -197,26 +199,7 @@ Adoption Information Act 1990, State of New South Wales (1990 - 2003)
 <publisher>Law Reform Commission New South Wales</publisher>
 <date>1997</date>
 </imprint>
-<extptr linktype="simple" href="http://www.lawlink.nsw.gov.au/lrc.nsf/pages/R81TOC"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000195.htm">
-<relationEntry localType="published">Report: Discussion Paper 34 (1994) - Review of the Adoption of Children Act 1965 (NSW)</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Discussion Paper 34 (1994) - Review of the Adoption of Children Act 1965 (NSW)</title>
-<imprint>
-<publisher>Law Reform Commission New South Wales</publisher>
-<date>1994</date>
-</imprint>
-<extptr linktype="simple" href="http://www.lawlink.nsw.gov.au/lrc.nsf/pages/DP34TOC"></extptr>
+<extptr linktype="simple" href="http://www.lawreform.justice.nsw.gov.au/Documents/Publications/Reports/Report-81.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -235,10 +218,29 @@ Adoption Information Act 1990, State of New South Wales (1990 - 2003)
 <publisher>Law Reform Commission New South Wales</publisher>
 <date>1993</date>
 </imprint>
-<extptr linktype="simple" href="http://www.lawlink.nsw.gov.au/lrc.nsf/pages/IP9TOC"></extptr>
+<extptr linktype="simple" href="http://web.archive.org/web/20110605164433/http://www.lawlink.nsw.gov.au/lrc.nsf/pages/IP9TOC"></extptr>
 </bibref>
 </objectXMLWrap>
 
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000195.htm">
+<relationEntry localType="published">Report: Discussion Paper 34 (1994) - Review of the Adoption of Children Act 1965 (NSW)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Discussion Paper 34 (1994) - Review of the Adoption of Children Act 1965 (NSW)</title>
+<imprint>
+<publisher>Law Reform Commission New South Wales</publisher>
+<date>1994</date>
+</imprint>
+<extptr linktype="simple" href="http://web.archive.org/web/20110408153244/http://lawlink.nsw.gov.au/lrc.nsf/pages/DP34TOC"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000136.htm">
 <relationEntry localType="published">Book: St Anthony's Family Care</relationEntry>

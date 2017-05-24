@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-07-27">2015-07-27</eventDateTime>
+<eventDateTime standardDateTime="2017-05-16">2017-05-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,7 +43,6 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01097b.htm</entityId>
 <entityType>concept</entityType>
 <nameEntry><part>Adoption Information Act 1990</part>
-<part localType="parent">State of New South Wales</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
@@ -55,8 +54,13 @@
 </existDates>
 <places>
 </places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
 <biogHist>
-<abstract>The <span style="font-style:italic">Adoption Information Act 1990</span> (63/1990) was 'An Act to allow greater access to information relating to adoptions'. It was an important piece of legislation that reversed much of the secrecy relating to adoptions. improved the rights of all people involved in adoption to access information and created registers so adoptees and relinquishing parents could express interest in contact, or veto contact. It was amended in 1995 to establish a Reunion and Information Register. It was repealed in 2003 by the <span style="font-style:italic">Adoption Act 2000</span>.</abstract>
+<abstract>The <span style="font-style:italic">Adoption Information Act 1990</span> (63/1990) was 'An Act to allow greater access to information relating to adoptions'. It was an important piece of legislation that reversed much of the secrecy relating to adoptions. This act improved the rights of all people involved in adoption to access information and created registers so adoptees and relinquishing parents could express interest in contact, or veto contact. It was amended in 1995 to establish a Reunion and Information Register. It was repealed in 2003 by the <span style="font-style:italic">Adoption Act 2000</span>.</abstract>
 <p>Speaking in Parliament, the then Minister for Family and Community Services described the Act was intended to correct the problem of 'genealogical bewilderment'. Many people, he said, 'would argue that without knowledge of your origins, you cannot truly know who you are'.</p>
 <p>The provisions of the Act only came into effect when adoptees reached the age of 18. The Act was not intended to reduce the rights of adoptive parents to control the information their children received during their childhood.</p>
 <p>After this Act was Amended in 1995 a Reunion and Information Register was created to facilitate reunions between adopted persons, birth parents and other persons (if desired by the persons concerned). The Post-Adoption Resource Centre was created by the Benevolent Society to assist adoptees and birth parents find each other.</p>
@@ -64,12 +68,7 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00018b.htm">
-<relationEntry localType="Legislation">
-Adoption of Children Act 1965, State of New South Wales (1965 - 2003)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
 <relationEntry localType="Concept">
 State of New South Wales (1901 - )
 </relationEntry>
@@ -83,6 +82,14 @@ Law in New South Wales
 <relationEntry localType="Event">
 New South Wales Legislative Council Inquiry into Adoption Practices in NSW (1998 - 2000)
 </relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00018b.htm">
+<relationEntry localType="Legislation">
+Adoption of Children Act 1965 (1965 - 2003)
+</relationEntry>
+<descriptiveNote>
+<p>The Adoption Information Act 1990 reversed much of the secrecy relating to adoptions in the Adoption of Children Act 1965.</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00959b.htm">
 <relationEntry localType="Glossary Term">
@@ -102,7 +109,7 @@ Post Adoption Resource Centre (1991 - )
 </cpfRelation>
 <cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00953b.htm">
 <relationEntry localType="Legislation">
-Adoption Act 2000, State of New South Wales (2000 - )
+Adoption Act 2000 (2000 - )
 </relationEntry>
 <dateRange>
 <fromDate standardDate="2003-01-01">2003</fromDate>
@@ -151,9 +158,9 @@ Adoption Act 2000, State of New South Wales (2000 - )
 <date>1992</date>
 </imprint>
 <bibseries>
-<title render="italic">Lawlink</title>
+<title render="italic">NSW Law Reform Commission</title>
 </bibseries>
-<extptr linktype="simple" href="http://www.lawlink.nsw.gov.au/__4a2565b5001b20d1.nsf/0/40cc78723514bfe24a2565d3007fd71c?OpenDocument&amp;Highlight=2,legitimacy,Level2,Level3"></extptr>
+<extptr linktype="simple" href="http://www.lawreform.justice.nsw.gov.au/Documents/Publications/Reports/Report-69-outline.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -172,7 +179,7 @@ Adoption Act 2000, State of New South Wales (2000 - )
 <place>Sydney</place>
 <publisher>Parliament of New South Wales, Legislative Council</publisher>
 </imprint>
-<extptr linktype="simple" href="http://www.parliament.nsw.gov.au/prod/parlment/committee.nsf/0/56e4e53dfa16a023ca256cfd002a63bc/$FILE/Report.PDF"></extptr>
+<extptr linktype="simple" href="https://www.parliament.nsw.gov.au/committees/DBAssets/InquiryReport/ReportAcrobat/5540/Report.PDF"></extptr>
 </bibref>
 </objectXMLWrap>
 

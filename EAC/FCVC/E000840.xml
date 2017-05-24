@@ -27,12 +27,12 @@
 <eventType>created</eventType>
 <eventDateTime standardDateTime="2013-05-22">2013-05-22</eventDateTime>
 <agentType>human</agentType>
-<agent>Rosemary Francis</agent>
+<agent>Cate O'Neill</agent>
 <eventDescription></eventDescription>
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<eventDateTime standardDateTime="2016-11-18">2016-11-18</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -45,10 +45,18 @@
 <nameEntry><part>Harrison House Youth Services</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
+<nameEntry localType="Also known as"><part>Harrison Youth Services</part>
+<useDates>
+<dateRange>
+<fromDate standardDate="1989-01-01">1989</fromDate>
+<toDate standardDate=""></toDate>
+</dateRange>
+</useDates>
+</nameEntry>
 </identity>
 <description><existDates>
 <dateRange>
-<fromDate standardDate="1982-01-01">1982</fromDate>
+<fromDate standardDate="1985-01-01">1985</fromDate>
 <toDate standardDate="1994-12-31">1994</toDate>
 </dateRange>
 </existDates>
@@ -58,21 +66,62 @@
 <function>
 <term>Hostel</term>
 </function>
+<function>
+<term>Uniting Church</term>
+</function>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Adolescent Care</term>
+</function>
 </functions>
 <biogHist>
-<abstract>Harrison House Youth Services was the name given to Harrison House Youth Hostel in 1982. It was originally called the Arthur Harrison Boys' Home. The name change reflected its expansion in services from that date.</abstract>
-<p>Volunteers staffed the Arthur Harrison Boys' Home, renamed the Harrison House Youth Hostel in 1978, until 1979. Staff were employed from 1978.</p>
-<p>By 1982 when it had changed its name to Harrison House Youth Services, the organisation had expanded its services to accommodate and supervise up to 20 youths at any one time and could respond to the needs of young people of both sexes. It had developed additional accommodation and community support services in the eastern suburbs. In 1983/84 a community support unit/program was established.</p>
-<p>In 1985 Harrison House Youth Services helped a community group to establish 'Courtney Youth Services' in North Melbourne. Courtney Youth Services set up Hotham Hostel, a specialist youth hostel for girls. Courtney Youth Services became autonomous in 1988.</p>
-<p>By 1986, the agency had been through several name changes, its program had 7 houses and also included girls at risk of homelessness. Harrison House Youth Services closed its Power Street hostel in 1987/88 and moved its hostel operations to an existing facility in Mitcham. A new project, 'Harrison Industries', commenced in the same year.</p>
-<p>By 1991, Harrison House Youth Services operated 11 houses and in 1992 moved its administrative headquarters to Wantirna. In 1993, it merged with the Waverley Youth Housing Group.</p>
-<p>In 1994 the name changed again to Harrison Community Services reflecting a broadening of services delivered by the agency.</p>
+<abstract>Harrison House Youth Services was the new name for the services that were previously known as Harrison House Youth Hostel. In around 1985 the hostel in Hawthorn closed, and Harrison House Youth Services were established, in Harrison Street, Mitcham. At this time a new model of accommodation was introduced, with volunteer home parents.</abstract>
+<p>Harrison House Youth Services grew out of the Harrison House Youth Hostel in Hawthorn. In the early 1980s, Harrison House had been expanding its services to accommodate young people of both sexes, and also developing additional accommodation and community support services in the eastern suburbs of Melbourne.</p>
+<p>Harrison House Youth Services helped a community group to establish 'Courtney Youth Services' in 1985. Courtney Youth Services set up Hotham Hostel, a specialist youth hostel for girls in North Melbourne. Courtney Youth Services was aupiced by Harrison House Youth Services until it became autonomous in around 1988.</p>
+<p>By 1986, Harrison House Youth Services had programs at 7 houses and also included girls at risk of homelessness. It also ran a program called 'Harrison Industries', repairing motorcycles and selling playground equipment, funded by the William Buckland Foundation.</p>
+<p>In 1989, the organisation became known as Harrison Youth Services. That year, it established Greenock House, a service for people with an intellectual disability leaving prison.</p>
+<p>By 1991, Harrison Youth Services operated 11 houses and in 1992 moved its administrative headquarters to the Wantirna South Uniting Church, 111 Mountain Highway, Wantirna.</p>
+<p>In 1993, it merged with the Waverley Youth Housing Group.</p>
+<p>Harrison Youth Services opened an opportunity shop at Blackburn in 1989 and another one in Vermont in 1993.</p>
+<p>In 1994 the name changed again to Harrison Community Services reflecting a broadening of services delivered by the agency, to include families as well as young people.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1985-01-01">1985</fromDate>
+<toDate standardDate="1985-01-01">1985</toDate>
+</dateRange>
+<placeEntry>Mitcham</placeEntry>
+<event>Location - Harrison House Youth Services was located in Harrison Street, Mitcham.</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1992-01-01">1992</fromDate>
+<toDate standardDate="1992-01-01">1992</toDate>
+</dateRange>
+<placeEntry>Wantirna</placeEntry>
+<event>Address - Harrison House Youth Services was located at the Wantirna South Uniting Church, 111 Mountain Highway, Wantirna.</event>
+</chronItem>
+</chronList>
 
 </biogHist>
 </description>
 <relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000229b.htm">
 <relationEntry localType="Organisation">
-Arthur Harrison Boys' Home (1960 - 1977)
+Harrison House (1960 - 1985)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000233b.htm">
+<relationEntry localType="Organisation">
+Uniting Church in Australia (1977 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001039b.htm">
+<relationEntry localType="Archival Collection">
+Records of UnitingCare Harrison (1994? - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001037b.htm">
+<relationEntry localType="Organisation">
+Harrison Community Services (1994 - 2008)
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
@@ -88,6 +137,25 @@ Arthur Harrison Boys' Home (1960 - 1977)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001219.htm">
+<relationEntry localType="published">Resource: Harrison History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Harrison History</title>
+<imprint>
+<publisher>UnitingCare Harrison</publisher>
+<date>2015</date>
+</imprint>
+<extptr linktype="simple" href="https://www.unitingcareharrison.org.au/index.php/about-us/history"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
 <relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
 
@@ -102,6 +170,9 @@ Arthur Harrison Boys' Home (1960 - 1977)
 </bibref>
 </objectXMLWrap>
 
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 </relations>
 </cpfDescription>

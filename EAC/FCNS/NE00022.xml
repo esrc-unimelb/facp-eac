@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-12-15">2015-12-15</eventDateTime>
+<eventDateTime standardDateTime="2017-05-12">2017-05-12</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,26 +43,30 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00022b.htm</entityId>
 <entityType>concept</entityType>
 <nameEntry><part>Children (Community Service Orders) Amendment Act 1988</part>
-<part localType="parent">State of New South Wales</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
 <description><existDates>
 <dateRange>
 <fromDate standardDate="1988-01-01">1988</fromDate>
-<toDate standardDate="1988-12-31">1988</toDate>
+<toDate standardDate="2010-12-31">2010</toDate>
 </dateRange>
 </existDates>
 <places>
 </places>
+<functions>
+<function>
+<term>Amending Act</term>
+</function>
+</functions>
 <biogHist>
 <abstract>Requiring the consent of a child to the making of a community service order or restricting orders to children under fourteen.</abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00020b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00020b.htm">
 <relationEntry localType="Legislation">
-Children (Care and Protection) Act 1987, State of New South Wales (1987 - 2010)
+Children (Care and Protection) Act 1987 (1987 - 2010)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
@@ -73,11 +77,6 @@ State of New South Wales (1901 - )
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01699b.htm">
 <relationEntry localType="Concept">
 Law in New South Wales
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00023b.htm">
-<relationEntry localType="Legislation">
-Children (Community Service Orders) Further Amendment Act 1988, State of New South Wales
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">

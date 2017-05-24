@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-11-06">2015-11-06</eventDateTime>
+<eventDateTime standardDateTime="2017-05-15">2017-05-15</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -142,11 +142,6 @@ Department of Family and Community Services, State Government of New South Wales
 Govo (1970s - )
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01152b.htm">
-<relationEntry localType="Organisation">
-Renwick Association Inc (2011 - )
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00930b.htm">
 <relationEntry localType="Archival Collection">
 Records relating to State Wards, New South Wales (1881 - )
@@ -179,6 +174,39 @@ Mittagong Cottage Homes Area (1896 - 1994)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00431b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000398.htm">
+<relationEntry localType="published">Resource: A Short History of Out of Home Care in New South Wales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Coalition for Children in Care</name>
+<title render="italic">A Short History of Out of Home Care in New South Wales</title>
+<imprint>
+<publisher>ACWA</publisher>
+<date>2010</date>
+</imprint>
+<extptr linktype="simple" href="http://www.acwa.asn.au/sites/default/files/public/ACWA/OOHC_Transition/CCC/short_history_OOHC.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000412.htm">
+<relationEntry localType="published">Report: Annual Report: Child Welfare Department of New South Wales</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Child Welfare Department</name>
+<title render="italic">Annual Report: Child Welfare Department of New South Wales</title>
+<imprint>
+<date>1955-1970</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000850.htm">
 <relationEntry localType="published">Resource Section: Challoner Cottage, Mittagong Farm Home [Other names: Cottage No.12, Old Dormitory Building, Renwick Child Welfare House, Mittagong Training School for Boys, Renwick Farm Home, Renwick State Ward Home]</relationEntry>
@@ -364,39 +392,6 @@ Mittagong Cottage Homes Area (1896 - 1994)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000412.htm">
-<relationEntry localType="published">Report: Annual Report: Child Welfare Department of New South Wales</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Child Welfare Department</name>
-<title render="italic">Annual Report: Child Welfare Department of New South Wales</title>
-<imprint>
-<date>1955-1970</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000398.htm">
-<relationEntry localType="published">Resource: A Short History of Out of Home Care in New South Wales</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Coalition for Children in Care</name>
-<title render="italic">A Short History of Out of Home Care in New South Wales</title>
-<imprint>
-<publisher>ACWA</publisher>
-<date>2010</date>
-</imprint>
-<extptr linktype="simple" href="http://www.acwa.asn.au/kts/downloads/short_history_OOHC.pdf"></extptr>
-</bibref>
-</objectXMLWrap>
-
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000021.htm">
 <relationEntry localType="published">Resource: Renwick (Mittagong Farm Home for Boys) web site</relationEntry>

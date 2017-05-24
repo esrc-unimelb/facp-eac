@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-06-28">2016-06-28</eventDateTime>
+<eventDateTime standardDateTime="2017-05-02">2017-05-02</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -95,6 +95,11 @@ Colonial Secretary (1821 - 1959)
 Benevolent Society of New South Wales (1813 - )
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00963b.htm">
+<relationEntry localType="Glossary Term">
+Asylum (1800? - 1930?)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01379b.htm">
 <relationEntry localType="Archival Collection">
 Benevolent Society of New South Wales Collection, 1813-1996 (1813 - 1996)
@@ -131,28 +136,12 @@ Liverpool Asylum for the Infirm and Destitute (1862 - 1933)
 <name type="author"></name>
 <title render="quoted">Infirm / Destitute Asylums Guide</title>
 <imprint>
-<publisher>State Records Authority of New South Wales</publisher>
+<publisher>State of New South Wales through the State Records Authority of NSW 2016</publisher>
 </imprint>
 <bibseries>
 <title render="italic">State Records Authority of New South Wales website</title>
 </bibseries>
 <extptr linktype="simple" href="https://www.records.nsw.gov.au/archives/collections-and-research/guides-and-indexes/infirm-destitute-asylums-guide"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000776.htm">
-<relationEntry localType="published">Resource: Benevolent Society: 200 year celebration: Last 200</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Benevolent Society: 200 year celebration: Last 200</title>
-<imprint>
-<publisher>Benevolent Society</publisher>
-<date>2013</date>
-</imprint>
-<extptr linktype="simple" href="http://www.benevolent.org.au/200--year--celebration/last--200"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -176,6 +165,22 @@ Liverpool Asylum for the Infirm and Destitute (1862 - 1933)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000776.htm">
+<relationEntry localType="published">Resource: Benevolent Society: 200 year celebration: Last 200</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Benevolent Society: 200 year celebration: Last 200</title>
+<imprint>
+<publisher>Benevolent Society</publisher>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="http://www.benevolent.org.au/200--year--celebration/last--200"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000163.htm">
 <relationEntry localType="published">Resource Section: Liverpool State Hospital and Home Guide</relationEntry>
 
@@ -184,7 +189,7 @@ Liverpool Asylum for the Infirm and Destitute (1862 - 1933)
 <name type="author"></name>
 <title render="quoted">Liverpool State Hospital and Home Guide</title>
 <imprint>
-<publisher>State Records Authority of New South Wales</publisher>
+<publisher>State of New South Wales through the State Records Authority of NSW 2016</publisher>
 </imprint>
 <bibseries>
 <title render="italic">State Records Authority of New South Wales website</title>

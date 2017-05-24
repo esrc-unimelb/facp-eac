@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2013-09-24">2013-09-24</eventDateTime>
+<eventDateTime standardDateTime="2017-03-27">2017-03-27</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -50,6 +50,7 @@
 <description><existDates>
 <dateRange>
 <fromDate standardDate="2011-01-01">2011</fromDate>
+<toDate standardDate="2016-12-31">2016</toDate>
 </dateRange>
 </existDates>
 <places>
@@ -66,7 +67,7 @@
 </function>
 </functions>
 <biogHist>
-<abstract>The Department of Children and Families was formed in 2011. This occurred when the health and welfare functions of the Department of Health and Community Services [ll] were separated and two new Departments formed. The Department of Children and Families is the current department responsible for the welfare of children and families.</abstract>
+<abstract>The Department of Children and Families was formed in 2011. This occurred when the health and welfare functions of the Department of Health and Community Services [ll] were separated and two new Departments formed. The Department of Children and Families was responsible for the welfare of children and families. This Department was replaced by Territory Families on 12 September 2016.</abstract>
 
 </biogHist>
 </description>
@@ -78,6 +79,11 @@ Department of Health and Families, Northern Territory Government (2008 - 2010)
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00100b.htm">
 <relationEntry localType="Organisation">
 Department of Health, Northern Territory Government (2011 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nt/biogs/YE00503b.htm">
+<relationEntry localType="Organisation">
+Territory Families (2016 - )
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">

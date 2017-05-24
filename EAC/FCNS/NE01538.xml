@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-21">2016-04-21</eventDateTime>
+<eventDateTime standardDateTime="2017-05-17">2017-05-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,7 +43,6 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01538b.htm</entityId>
 <entityType>concept</entityType>
 <nameEntry><part>Child Welfare (Amendment) Act 1967</part>
-<part localType="parent">State of New South Wales</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
@@ -55,12 +54,25 @@
 </existDates>
 <places>
 </places>
+<functions>
+<function>
+<term>Amending Act</term>
+</function>
+</functions>
 <biogHist>
 <abstract>The <span style="font-style:italic">Child Welfare (Amendment) Act 1967</span> (27/1967) was 'An Act relating to proceedings before children's courts; to make provision for the care of intellectually handicapped children and young persons; for these and other purposes to amend the <span style="font-style:italic">Child Welfare Act, 1939</span>, as amended by subsequent Acts'. It brought the issue of disability more clearly under the Child Welfare Act. While still very paternalistic, it allowed courts to sentence young offenders as 'handicapped' people, made the care of disabled people part of the child welfare system, and in general provided for young disabled people in a way that the welfare system had not before. It was amended in 1969 and in 1973. It was repealed by the <span style="font-style:italic">Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987</span>.</abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00014b.htm">
+<relationEntry localType="Legislation">
+Child Welfare Act 1939 (1939 - 1987)
+</relationEntry>
+<descriptiveNote>
+<p>The Child Welfare (Amendment) Act 1967 amended the Children's Welfare Act 1939.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01698b.htm">
 <relationEntry localType="Concept">
 State of New South Wales (1901 - )
 </relationEntry>
@@ -80,17 +92,9 @@ Child Welfare Department, State Government of New South Wales (1923 - 1970)
 Children's Courts (1905 - )
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00014b.htm">
-<relationEntry localType="Legislation">
-Child Welfare Act 1939, State of New South Wales (1939 - 1987)
-</relationEntry>
-<descriptiveNote>
-<p>The Child Welfare (Amendment) Act 1967 amended the Children's Welfare Act 1939.</p>
-</descriptiveNote>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01540b.htm">
 <relationEntry localType="Legislation">
-Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987, State of New South Wales (1987 - 2007)
+Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987 (1987 - 2007)
 </relationEntry>
 <descriptiveNote>
 <p>The <span style="font-style:italic">Miscellaneous Acts (Community Welfare) Repeal and Amendment Act 1987</span> repealed the <span style="font-style:italic">Child Welfare (Amendment) Act 1967.</span></p>
@@ -123,7 +127,7 @@ Department of Youth and Community Services, State Government of New South Wales 
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01539b.htm">
 <relationEntry localType="Legislation">
-Child Welfare (Amendment) Act 1969, State of New South Wales (1969 - 1987)
+Child Welfare (Amendment) Act 1969 (1969 - 1987)
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">

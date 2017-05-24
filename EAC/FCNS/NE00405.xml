@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-21">2016-04-21</eventDateTime>
+<eventDateTime standardDateTime="2017-05-16">2017-05-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -212,17 +212,20 @@ Thornbury Lodge (1958 - c. 1990)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00020b.htm">
 <relationEntry localType="Legislation">
-Children (Care and Protection) Act 1987, State of New South Wales (1987 - 2010)
+Children (Care and Protection) Act 1987 (1987 - 2010)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01514b.htm">
-<relationEntry localType="Archival Collection">
-Records held by Bidura Children's Court (1912 - )
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01392b.htm">
+<relationEntry localType="Organisation">
+Metropolitan Girls' Shelter, Glebe (c. 1923 - 1978)
 </relationEntry>
+<descriptiveNote>
+<p>The Metropolitan Girls' Shelter was located on the Bidura site, but was a separate building.</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00014b.htm">
 <relationEntry localType="Legislation">
-Child Welfare Act 1939, State of New South Wales (1939 - 1987)
+Child Welfare Act 1939 (1939 - 1987)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00973b.htm">
@@ -234,14 +237,6 @@ Depot
 <relationEntry localType="Archival Item">
 Yoonthalla Close interviewed by Anne Monsour in the Forgotten Australians and Former Child Migrants oral history project [sound recording]
 </relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01392b.htm">
-<relationEntry localType="Organisation">
-Metropolitan Girls' Shelter, Glebe (c. 1923 - 1978)
-</relationEntry>
-<descriptiveNote>
-<p>The Metropolitan Girls' Shelter was located on the Bidura site, but was a separate building.</p>
-</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00467b.htm">
 <relationEntry localType="Organisation">
@@ -262,7 +257,7 @@ Ormond House (1884 - 1923)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00012b.htm">
 <relationEntry localType="Legislation">
-Child Welfare Act 1923, State of New South Wales (1923 - 1939)
+Child Welfare Act 1923 (1923 - 1939)
 </relationEntry>
 <dateRange>
 <fromDate standardDate="1923-01-01">1923</fromDate>
@@ -294,22 +289,25 @@ Ormond House (1824 - )
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000412.htm">
-<relationEntry localType="published">Report: Annual Report: Child Welfare Department of New South Wales</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000509.htm">
+<relationEntry localType="published">Resource Section: Submission 377</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Child Welfare Department</name>
-<title render="italic">Annual Report: Child Welfare Department of New South Wales</title>
+<name type="author"></name>
+<title render="quoted">Submission 377</title>
 <imprint>
-<date>1955-1970</date>
+<publisher>Commonwealth of Australia</publisher>
+<date>2005</date>
 </imprint>
+<bibseries>
+<title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
+<name type="author">Senate Community Affairs Reference Committee</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
 </bibref>
 </objectXMLWrap>
 
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000097.htm">
 <relationEntry localType="published">Book: Children In Need: An account of the administration and functions of the Child Welfare Department, New South Wales, Australia: with an examination of the principles involved in helping deprived and wayward children</relationEntry>
@@ -450,44 +448,22 @@ Ormond House (1824 - )
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000770.htm">
-<relationEntry localType="published">Newspaper Article: The Forgotten Ones: half a million lost childhoods</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000412.htm">
+<relationEntry localType="published">Report: Annual Report: Child Welfare Department of New South Wales</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Kenneally, Christine</name>
-<title render="quoted">The Forgotten Ones: half a million lost childhoods</title>
+<name type="author">Child Welfare Department</name>
+<title render="italic">Annual Report: Child Welfare Department of New South Wales</title>
 <imprint>
-<date>2012</date>
+<date>1955-1970</date>
 </imprint>
-<bibseries>
-<title render="italic">The Monthly</title>
-<num type="issue">81</num>
-</bibseries>
-<extptr linktype="simple" href="http://www.themonthly.com.au/issue/2012/august/1354057131/christine-kenneally/forgotten-ones"></extptr>
 </bibref>
 </objectXMLWrap>
 
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000509.htm">
-<relationEntry localType="published">Resource Section: Submission 377</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Submission 377</title>
-<imprint>
-<publisher>Commonwealth of Australia</publisher>
-<date>2005</date>
-</imprint>
-<bibseries>
-<title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
-<name type="author">Senate Community Affairs Reference Committee</name>
-</bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
-</bibref>
-</objectXMLWrap>
-
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000511.htm">
 <relationEntry localType="published">Resource Section: Submission 8</relationEntry>
@@ -582,6 +558,25 @@ Ormond House (1824 - )
 <title render="italic">The Catholic Press</title>
 </bibseries>
 <extptr linktype="simple" href="http://trove.nla.gov.au/ndp/del/article/106380402"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000770.htm">
+<relationEntry localType="published">Newspaper Article: The Forgotten Ones: half a million lost childhoods</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kenneally, Christine</name>
+<title render="quoted">The Forgotten Ones: half a million lost childhoods</title>
+<imprint>
+<date>2012</date>
+</imprint>
+<bibseries>
+<title render="italic">The Monthly</title>
+<num type="issue">81</num>
+</bibseries>
+<extptr linktype="simple" href="http://www.themonthly.com.au/issue/2012/august/1354057131/christine-kenneally/forgotten-ones"></extptr>
 </bibref>
 </objectXMLWrap>
 

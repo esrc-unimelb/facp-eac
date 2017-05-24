@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-12-15">2015-12-15</eventDateTime>
+<eventDateTime standardDateTime="2017-05-04">2017-05-04</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,10 +43,9 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00001b.htm</entityId>
 <entityType>concept</entityType>
 <nameEntry><part>Reformatory Schools Act 1866</part>
-<part localType="parent">Colony of New South Wales</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
-<nameEntry localType=""><part>An Act to establish Juvenile Reformatories</part>
+<nameEntry localType="Long title"><part>An Act to establish Juvenile Reformatories</part>
 </nameEntry>
 </identity>
 <description><existDates>
@@ -57,8 +56,13 @@
 </existDates>
 <places>
 </places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
 <biogHist>
-<abstract>The <span style="font-style:italic">Reformatory Schools Act 1866</span> (30 Victoria, Act No. 4, 1866) came into operation in 1869. Under the Act, any child under the age of sixteen who had been convicted of a criminal offence and sentenced to fourteen or more days imprisonment could be sent to a reformatory for one to five years. There were to be separate reformatories for boys and girls, and parents were asked to pay maintenance for children, if possible, while they served time. The Act was repealed by the <span style="font-style:italic">Reformatory and Industrial Schools Act 1901.</span></abstract>
+<abstract>The <span style="font-style:italic">Reformatory Schools Act 1866</span> (30 Victoria, Act No. 4, 1866) came into operation in 1869. Under the Act, any child under the age of sixteen who had been convicted of a criminal offence and sentenced to fourteen or more days imprisonment could be sent to a reformatory for one to five years. There were to be separate reformatories for boys and girls, and parents were asked to pay maintenance for children, if possible, while they served time. The Act was repealed by the <span style="font-style:italic">Reformatory and Industrial Schools Act 1901</span>.</abstract>
 <p>Reformatories were controlled by the Comptroller General of Prisons until the 1880s, when they were transferred to the Department of Public Instruction.</p>
 
 </biogHist>
@@ -127,7 +131,7 @@ Newcastle Reformatory School for Females (1869 - 1871)
 </cpfRelation>
 <cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00007b.htm">
 <relationEntry localType="Legislation">
-Reformatory and Industrial Schools Act 1901, State of New South Wales (1901 - 1905)
+Reformatory and Industrial Schools Act 1901 (1901 - 1905)
 </relationEntry>
 <descriptiveNote>
 <p>The <span style="font-style:italic">Reformatory and Industrial Schools Act 1901</span> replaced the <span style="font-style:italic">Reformatory Schools Act.</span></p>
@@ -201,6 +205,27 @@ Reformatory and Industrial Schools Act 1901, State of New South Wales (1901 - 19
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000571.htm">
+<relationEntry localType="published">Resource Section: Mount Penang Juvenile Justice Centre</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Mount Penang Juvenile Justice Centre</title>
+<imprint>
+<publisher>State of New South Wales through the State Records Authority of NSW 2016</publisher>
+</imprint>
+<bibseries>
+<title render="italic">State Records Authority of New South Wales website</title>
+</bibseries>
+<extptr linktype="simple" href="https://www.records.nsw.gov.au/agency/486"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000663.htm">
 <relationEntry localType="published">Resource Section: Children of the Perishing Class</relationEntry>
 
@@ -220,27 +245,6 @@ Reformatory and Industrial Schools Act 1901, State of New South Wales (1901 - 19
 </bibref>
 </objectXMLWrap>
 
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000571.htm">
-<relationEntry localType="published">Resource Section: Carpentarian Reformatory for Boys (1894-1908) / Brush Farm Home for Boys (1909-1913) / Farm Home for Boys, Gosford (1914-1946) / Mount Penang Training School for Boys, Gosford (1946-1990) / Mount Penang Juvenile Justice Centre (1990- ) [State Records NSW Agency number 486]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Carpentarian Reformatory for Boys (1894-1908) / Brush Farm Home for Boys (1909-1913) / Farm Home for Boys, Gosford (1914-1946) / Mount Penang Training School for Boys, Gosford (1946-1990) / Mount Penang Juvenile Justice Centre (1990- ) [State Records NSW Agency number 486]</title>
-<imprint>
-<publisher>State Records Authority of New South Wales</publisher>
-</imprint>
-<bibseries>
-<title render="italic">SRNSW collection catalogue</title>
-</bibseries>
-<extptr linktype="simple" href="http://search.records.nsw.gov.au/agencies/486"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000148.htm">
 <relationEntry localType="published">Resource: History of the Children's Court [extracted from Blackmore, R., <span style="font-style:italic">The Children's Court and Community Welfare in NSW</span></relationEntry>
@@ -262,19 +266,19 @@ Reformatory and Industrial Schools Act 1901, State of New South Wales (1901 - 19
 </descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000127.htm">
-<relationEntry localType="published">Resource Section: Newcastle Reformatory School for Females (1869-1871) / Biloela Reformatory School for Females (1871-1880) / Shaftesbury Reformatory (1880-1904) [State Records NSW Agency number 461]</relationEntry>
+<relationEntry localType="published">Resource Section: Shaftesbury Reformatory</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Newcastle Reformatory School for Females (1869-1871) / Biloela Reformatory School for Females (1871-1880) / Shaftesbury Reformatory (1880-1904) [State Records NSW Agency number 461]</title>
+<title render="quoted">Shaftesbury Reformatory</title>
 <imprint>
-<publisher>State Records Authority of New South Wales</publisher>
+<publisher>State of New South Wales through the State Records Authority of NSW 2016</publisher>
 </imprint>
 <bibseries>
-<title render="italic">SRNSW collection catalogue</title>
+<title render="italic">State Records Authority of New South Wales website</title>
 </bibseries>
-<extptr linktype="simple" href="http://search.records.nsw.gov.au/agencies/461"></extptr>
+<extptr linktype="simple" href="https://www.records.nsw.gov.au/agency/461"></extptr>
 </bibref>
 </objectXMLWrap>
 

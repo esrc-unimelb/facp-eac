@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<eventDateTime standardDateTime="2017-03-22">2017-03-22</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -49,6 +49,7 @@
 <description><existDates>
 <dateRange>
 <fromDate standardDate="2012-10-01">October 2012</fromDate>
+<toDate standardDate="2016-12-31">2016</toDate>
 </dateRange>
 </existDates>
 <places>
@@ -65,23 +66,29 @@
 </function>
 </functions>
 <biogHist>
-<abstract>Lentara UnitingCare was formed as a result of UnitingCare Sunshine and Broadmeadows (UCSB) and Orana UnitingCare (OUC) agreeing to form a new organisation. Agreement was reached on 29 June 2012 to be effective from October 2012.</abstract>
+<abstract>Lentara UnitingCare was formed as a result of UnitingCare Sunshine and Broadmeadows (UCSB) and Orana UnitingCare (OUC) agreeing to form a new organisation. Agreement was reached on 29 June 2012 to be effective from October 2012. In 2016, Lentara UnitingCare became part of the new organisation, Uniting (Victoria and Tasmania) Limited.</abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000696b.htm">
-<relationEntry localType="Archival Collection">
-Orana UnitingCare Records (1888 - )
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000784b.htm">
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000784b.htm">
 <relationEntry localType="Organisation">
 Orana UnitingCare (2011 - 2012)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000870b.htm">
-<relationEntry localType="Contact Details">
-Lentara UnitingCare - Contact Details
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000696b.htm">
+<relationEntry localType="Archival Collection">
+Orana UnitingCare Records (1888 - )
+</relationEntry>
+<dateRange>
+<toDate standardDate="2016-12-31">2016</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Lentara UnitingCare held the Orana UnitingCare Records until 2016.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001036b.htm">
+<relationEntry localType="Organisation">
+Uniting (Victoria and Tasmania) Limited (2016 - )
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
@@ -97,6 +104,28 @@ Lentara UnitingCare - Contact Details
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001218.htm">
+<relationEntry localType="published">Resource Section: We will be Uniting - an exciting step</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">We will be Uniting - an exciting step</title>
+<imprint>
+<publisher>Wesley Mission Victoria</publisher>
+<date>2016</date>
+</imprint>
+<bibseries>
+<title render="italic">Wesley Mission Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="https://wesley.org.au/we-will-be-uniting/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001094.htm">
 <relationEntry localType="published">Report: Guide to the Access and Issue of "Forgotten Australians" Client Records (records pre 1989)</relationEntry>
 
@@ -108,7 +137,7 @@ Lentara UnitingCare - Contact Details
 <publisher>Lentara UnitingCare, UnitingCare Victoria and Tasmania</publisher>
 <date>2013</date>
 </imprint>
-<extptr linktype="simple" href="http://www.lentarauc.org.au/wp-content/uploads/2012/09/Records-Access-Guide-2014.pdf"></extptr>
+<extptr linktype="simple" href="http://web.archive.org/web/20150311031850/http://www.lentarauc.org.au/wp-content/uploads/2012/09/Records-Access-Guide-2014.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 

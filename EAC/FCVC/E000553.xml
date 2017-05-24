@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-06-22">2016-06-22</eventDateTime>
+<eventDateTime standardDateTime="2017-03-28">2017-03-28</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -49,6 +49,7 @@
 <description><existDates>
 <dateRange>
 <fromDate standardDate="2010-01-01">2010</fromDate>
+<toDate standardDate="2016-12-31">2016</toDate>
 </dateRange>
 </existDates>
 <places>
@@ -68,23 +69,18 @@
 </function>
 </functions>
 <biogHist>
-<abstract>On 1 February 2010, Wesley Mission Victoria came into being. It was previously known as Wesley Mission Melbourne. The name change reflects an expansion of Wesley's services into regional areas of Victoria.</abstract>
+<abstract>On 1 February 2010, Wesley Mission Victoria came into being. It was previously known as Wesley Mission Melbourne. The name change reflected an expansion of Wesley's services into regional areas of Victoria. In October 2016, Wesley Mission Victoria merged with 21 UnitingCare agencies to form a new organisation: Uniting (Victoria and Tasmania) Limited.</abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000698b.htm">
-<relationEntry localType="Archival Collection">
-Wesley Mission Victoria Records (1902 - )
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000001b.htm">
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000001b.htm">
 <relationEntry localType="Organisation">
 Wesley Mission Melbourne (2001 - 2010)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000872b.htm">
-<relationEntry localType="Contact Details">
-Wesley Mission Victoria - Contact Details
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000698b.htm">
+<relationEntry localType="Archival Collection">
+Wesley Mission Victoria Records (1902 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000123b.htm">
@@ -99,6 +95,11 @@ The Who Am I? Project (2008 - 2012)
 <p>Wesley Mission Victoria was a Linkage Partner to the Who Am I? project.</p>
 </descriptiveNote>
 </cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001036b.htm">
+<relationEntry localType="Organisation">
+Uniting (Victoria and Tasmania) Limited (2016 - )
+</relationEntry>
+</cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Wesley Mission Victoria', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
 
@@ -111,6 +112,44 @@ The Who Am I? Project (2008 - 2012)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000553b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000004.htm">
+<relationEntry localType="published">Resource Section: About Wesley - History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">About Wesley - History</title>
+<imprint>
+<publisher>Wesley Mission Victoria</publisher>
+<date>2004</date>
+</imprint>
+<extptr linktype="simple" href="https://www.wesley.org.au/history-values/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001218.htm">
+<relationEntry localType="published">Resource Section: We will be Uniting - an exciting step</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">We will be Uniting - an exciting step</title>
+<imprint>
+<publisher>Wesley Mission Victoria</publisher>
+<date>2016</date>
+</imprint>
+<bibseries>
+<title render="italic">Wesley Mission Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="https://wesley.org.au/we-will-be-uniting/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 </relations>
 </cpfDescription>
