@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-16">2017-05-16</eventDateTime>
+<eventDateTime standardDateTime="2017-08-11">2017-08-11</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -42,10 +42,12 @@
 <cpfDescription>
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE00096b.htm</entityId>
 <entityType>corporateBody</entityType>
-<nameEntry><part>St Saviour's Neighbourhood Centre Goulburn</part>
+<nameEntry><part>St Saviour's Neighbourhood Centre</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
-<nameEntry localType=""><part>St Saviour's Temporary Family Care</part>
+<nameEntry localType="also known as"><part>St Saviour's</part>
+</nameEntry>
+<nameEntry localType="also known as"><part>St Saviour's Temporary Family Care</part>
 </nameEntry>
 </identity>
 <description><existDates>
@@ -66,17 +68,14 @@
 <term>Care Provider</term>
 </function>
 <function>
-<term>Records Access Service</term>
-</function>
-<function>
-<term>Records Holder</term>
-</function>
-<function>
 <term>Protestant</term>
+</function>
+<function>
+<term>Foster Care</term>
 </function>
 </functions>
 <biogHist>
-<abstract>St Saviour's Neighbourhood Centre Goulburn was established in 1980. From 1994 it provided long term care for up to 12 State wards with high support needs. St Saviour's was an agency of Anglicare and part of the Anglican Diocese of Canberra and Goulburn. In 2013 St Saviour's is part of Anglicare and based at Liverpool, offering an extensive range of child care and children's welfare services.</abstract>
+<abstract>St Saviour's Neighbourhood Centre, in Goulburn, was established in 1980. From 1994 it provided long term care for up to 12 State wards with high support needs. St Saviour's was an agency of Anglicare and part of the Anglican Diocese of Canberra and Goulburn. In 2013 St Saviour's is part of Anglicare NSW South, NSW West and ACT and based at Liverpool, offering an extensive range of child care and children's welfare services.</abstract>
 <p>In 1994 St Saviour's was contracted by the New South Wales Department of Community Services to provide long term care for up to 12 state wards with high support needs. The model of care was the provision of individualised placement.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1980-01-01">1980</fromDate>
@@ -85,18 +84,32 @@
 <placeEntry>Goulburn</placeEntry>
 <event>Location - St Saviour's Neighbourhood Centre Goulburn was situated at Goulburn</event>
 </chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="2013-01-01">2013</fromDate>
+<toDate standardDate="2013-01-01">2013</toDate>
+</dateRange>
+<placeEntry>Liverpool</placeEntry>
+<event>Location - St Saviour's is located in Liverpool (Sydney)</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="2017-01-01">2017</fromDate>
+<toDate standardDate="2017-01-01">2017</toDate>
+</dateRange>
+<placeEntry>Nowra</placeEntry>
+<event>Location - St Saviour's is located in Nowra</event>
+</chronItem>
 </chronList>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00844b.htm">
-<relationEntry localType="Archival Collection">
-Records of the St Saviour's Children's Home and St Saviour's Cottage Home (1929 - 1994)
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01327b.htm">
+<relationEntry localType="Organisation">
+Anglicare NSW South, NSW West &amp; ACT (2006 - )
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00099b.htm">
-<relationEntry localType="Organisation">
-Anglican Diocese of Canberra and Goulburn (1863 - )
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00844b.htm">
+<relationEntry localType="Archival Collection">
+Records of the St Saviour's Children's Home and St Saviour's Cottage Home (1929 - 1994)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00846b.htm">
@@ -114,19 +127,9 @@ St Saviour's Cottage Home (1982 - 1986)
 Adolescent Program (Anglicare Canberra Goulburn) (1986 - 1994)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00049b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00099b.htm">
 <relationEntry localType="Organisation">
-Anglicare Diocese of Sydney (1997 - )
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01327b.htm">
-<relationEntry localType="Organisation">
-Anglicare (1929 - )
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01415b.htm">
-<relationEntry localType="Contact Details">
-St Saviour's Neighbourhood Centre - Contact Details
+Anglican Diocese of Canberra and Goulburn (1863 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00097b.htm">
@@ -139,11 +142,11 @@ St Saviour's Children's Home (1929 - 1982)
 </dateRange>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
-<relationEntry localType="published">'St Saviour's Neighbourhood Centre Goulburn', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+<relationEntry localType="published">'St Saviour's Neighbourhood Centre', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<title render="italic">St Saviour's Neighbourhood Centre Goulburn</title>
+<title render="italic">St Saviour's Neighbourhood Centre</title>
 <bibseries>
 <title render="italic">Find &amp; Connect - New South Wales</title>
 </bibseries>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-04-06">2017-04-06</eventDateTime>
+<eventDateTime standardDateTime="2017-06-14">2017-06-14</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -121,6 +121,11 @@ CBERSS: Christian Brothers Ex Residents and Students Services (1995 - 2005)
 Catholic Archdiocese of Perth (1913 - )
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00377b.htm">
+<relationEntry localType="Organisation">
+Catholic Diocese of Perth (1845 - 1913)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00473b.htm">
 <relationEntry localType="Event">
 Child and Youth Migration to Western Australia (1913 - 1968)
@@ -132,6 +137,11 @@ Child and Youth Migration to Western Australia (1913 - 1968)
 <descriptiveNote>
 <p>The Sisters of Mercy received child migrants from Britain and Malta after World War Two.</p>
 </descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00196b.htm">
+<relationEntry localType="Organisation">
+St Vincent's Foundling Home (1914 - 1971)
+</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00191b.htm">
 <relationEntry localType="Organisation">
@@ -148,14 +158,9 @@ St Anne's Mercy Hospital (1982 - 1997)
 St Anne's Maternity Home (c. 1958 - 1982)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00891b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00345b.htm">
 <relationEntry localType="Organisation">
-St Margaret's Hostel (1918 - 1971)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00196b.htm">
-<relationEntry localType="Organisation">
-St Vincent's Foundling Home (1914 - 1971)
+Catherine McAuley Centre (1971 - 1991)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00878b.htm">
@@ -163,9 +168,9 @@ St Vincent's Foundling Home (1914 - 1971)
 St Joseph's Catholic Orphanage for Girls (1868 - 1901)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00345b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00891b.htm">
 <relationEntry localType="Organisation">
-Catherine McAuley Centre (1971 - 1991)
+St Margaret's Hostel (1918 - 1971)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00793b.htm">
@@ -245,45 +250,6 @@ Institute of Sisters of Mercy Australia and Papua New Guinea (2011 - )
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000529.htm">
-<relationEntry localType="published">Resource Section: CCWC Minutes of Evidence Document 5</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Catholic Child Welfare Council</name>
-<title render="quoted">CCWC Minutes of Evidence Document 5</title>
-<imprint>
-<publisher>Parliament of the United Kingdom</publisher>
-<date>1998</date>
-</imprint>
-<bibseries>
-<title render="italic">Minutes of Evidence Taken Before the Health Committee on 11 June 1998</title>
-</bibseries>
-<extptr linktype="simple" href="https://www.publications.parliament.uk/pa/cm199798/cmselect/cmhealth/755/8061108.htm"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000527.htm">
-<relationEntry localType="published">Resource Section: Minutes of Evidence Taken Before the Health Committee on 11 June 1998</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Minutes of Evidence Taken Before the Health Committee on 11 June 1998</title>
-<imprint>
-<publisher>Parliament of the United Kingdom</publisher>
-<date>1998</date>
-</imprint>
-<bibseries>
-<title render="italic">Health - Third Report</title>
-<name type="author">House of Commons Health Committee</name>
-</bibseries>
-<extptr linktype="simple" href="https://www.publications.parliament.uk/pa/cm199798/cmselect/cmhealth/755/8061101.htm"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000514.htm">
 <relationEntry localType="published">Resource Section: Submission No. 172 Inquiry into Children in Institutional Care: Submissions</relationEntry>
 
@@ -324,6 +290,45 @@ Institute of Sisters of Mercy Australia and Papua New Guinea (2011 - )
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000529.htm">
+<relationEntry localType="published">Resource Section: CCWC Minutes of Evidence Document 5</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Catholic Child Welfare Council</name>
+<title render="quoted">CCWC Minutes of Evidence Document 5</title>
+<imprint>
+<publisher>Parliament of the United Kingdom</publisher>
+<date>1998</date>
+</imprint>
+<bibseries>
+<title render="italic">Minutes of Evidence Taken Before the Health Committee on 11 June 1998</title>
+</bibseries>
+<extptr linktype="simple" href="https://www.publications.parliament.uk/pa/cm199798/cmselect/cmhealth/755/8061108.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000527.htm">
+<relationEntry localType="published">Resource Section: Minutes of Evidence Taken Before the Health Committee on 11 June 1998</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Minutes of Evidence Taken Before the Health Committee on 11 June 1998</title>
+<imprint>
+<publisher>Parliament of the United Kingdom</publisher>
+<date>1998</date>
+</imprint>
+<bibseries>
+<title render="italic">Health - Third Report</title>
+<name type="author">House of Commons Health Committee</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.publications.parliament.uk/pa/cm199798/cmselect/cmhealth/755/8061101.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000138.htm">
 <relationEntry localType="published">Book: Date it!: a Western Australian chronology to 1929</relationEntry>
 
@@ -343,18 +348,6 @@ Institute of Sisters of Mercy Australia and Papua New Guinea (2011 - )
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000053.htm">
-<relationEntry localType="published">Resource: Catholic Archdiocese of Perth [website]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Catholic Church</name>
-<title render="italic">Catholic Archdiocese of Perth [website]</title>
-<extptr linktype="simple" href="http://www.perthcatholic.org.au"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000032.htm">
 <relationEntry localType="published">Report: A Piece of the Story: A Research Project Undertaken by the Australian Catholic Social Welfare Commission and the Australian Conference of Leaders of Religious Institutes</relationEntry>
 
@@ -366,6 +359,18 @@ Institute of Sisters of Mercy Australia and Papua New Guinea (2011 - )
 <date>November 1999</date>
 </imprint>
 <extptr linktype="simple" href="http://www.cssa.org.au/storage/A%20Piece%20of%20the%20Story.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000053.htm">
+<relationEntry localType="published">Resource: Catholic Archdiocese of Perth [website]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Catholic Church</name>
+<title render="italic">Catholic Archdiocese of Perth [website]</title>
+<extptr linktype="simple" href="http://www.perthcatholic.org.au"></extptr>
 </bibref>
 </objectXMLWrap>
 

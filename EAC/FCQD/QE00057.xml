@@ -31,7 +31,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-12">2017-05-12</eventDateTime>
+<eventDateTime standardDateTime="2017-08-31">2017-08-31</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,6 +43,8 @@
 <entityType>corporateBody</entityType>
 <nameEntry><part>W. R. Black Home</part>
 <authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Also known as"><part>WR Black Children's Home</part>
 </nameEntry>
 <nameEntry localType="Also known as"><part>Presbyterian Home for Children</part>
 </nameEntry>
@@ -93,6 +95,14 @@
 <relationEntry localType="Organisation">
 Presbyterian Church of Queensland (1849 - )
 </relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00940b.htm">
+<relationEntry localType="Archival Collection">
+UnitingCare Queensland Records (1910 - )
+</relationEntry>
+<descriptiveNote>
+<p>UnitingCare Queensland Records includes Admission Registers for W.R. Black Home.</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00269b.htm">
 <relationEntry localType="Event">
@@ -338,7 +348,6 @@ Chelmer Children's Home (1969 - 1995)
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
 <unittitle>WR Black Home at Chelmer</unittitle>
-<unitdate>Unknown</unitdate>
 <note label="rights">Image taken from the report of the Commission of Inquiry into Child Abuse in Queensland institutions.</note>
 </archref>
 </objectXMLWrap>
@@ -349,9 +358,7 @@ Chelmer Children's Home (1969 - 1995)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>John Oxley Library, State Library of Queensland</repository>
 <unittitle>Presbyterian Home for Children, also known as W. R. Black Home, Brisbane</unittitle>
-<unitid>JOL, SLQ Negative number: 2898</unitid>
 <unitdate>November 1928</unitdate>
 <abstract>Originally the residence of the late J. W. Sutton, purchased by W. R. Black and opened on 24 November 1928 as the Presbyterian Home for Children.</abstract>
 <note label="rights">Reproduction rights owned by John Oxley Library, State Library of Queensland</note>

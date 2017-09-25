@@ -31,7 +31,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-12">2017-05-12</eventDateTime>
+<eventDateTime standardDateTime="2017-06-21">2017-06-21</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -63,7 +63,16 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00027b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE01007b.htm">
+<relationEntry localType="Legislation">
+Adoption of Children Acts and Another Act Amendment Act 1986 (1986 - 1994)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1986-01-01">1986</fromDate>
+<toDate standardDate="1994-12-31">1994</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00027b.htm">
 <relationEntry localType="Legislation">
 Adoption of Children (Amendment) Act 1987 (1987 - 1995)
 </relationEntry>
@@ -78,15 +87,6 @@ Adoption of Children Act 1964 (1965 - 2010)
 </relationEntry>
 <dateRange>
 <fromDate standardDate="1983-01-01">1983</fromDate>
-<toDate standardDate="1994-12-31">1994</toDate>
-</dateRange>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE01007b.htm">
-<relationEntry localType="Legislation">
-Adoption of Children Acts and Another Act Amendment Act 1986 (1986 - 1994)
-</relationEntry>
-<dateRange>
-<fromDate standardDate="1986-01-01">1986</fromDate>
 <toDate standardDate="1994-12-31">1994</toDate>
 </dateRange>
 </cpfRelation>

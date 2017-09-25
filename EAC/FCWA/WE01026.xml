@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-04-13">2017-04-13</eventDateTime>
+<eventDateTime standardDateTime="2017-08-31">2017-08-31</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -161,24 +161,6 @@ Claremont Mental Hospital (1903 - 1972)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001497.htm">
-<relationEntry localType="published">Resource Section: Heathcote Hospital [picture]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Heathcote Hospital [picture]</title>
-<imprint>
-<publisher>State Library of Western Australia</publisher>
-</imprint>
-<bibseries>
-<title render="italic">State Library of Western Australia website</title>
-</bibseries>
-<extptr linktype="simple" href="http://catalogue.slwa.wa.gov.au/record=b3416425~S5"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000970.htm">
 <relationEntry localType="published">Report: Timeline for Heathcote</relationEntry>
 
@@ -260,12 +242,29 @@ Claremont Mental Hospital (1903 - 1972)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001497.htm">
+<relationEntry localType="published">Resource Section: Heathcote Hospital [picture]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Heathcote Hospital [picture]</title>
+<imprint>
+<publisher>State Library of Western Australia</publisher>
+</imprint>
+<bibseries>
+<title render="italic">State Library of Western Australia website</title>
+</bibseries>
+<extptr linktype="simple" href="http://catalogue.slwa.wa.gov.au/record=b3416425~S5"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000457.htm">
 <relationEntry localType="digitalObject">Certificate, Mental Treatment Act 1927</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Collection of Historical Images, Mental Health Museum WA Inc</repository>
 <unittitle>Certificate, Mental Treatment Act 1927</unittitle>
 <unitdate>1927</unitdate>
 <abstract>Certificate, Mental Treatment Act 1927 is a digital copy of a document from the Mental Health Museum WA Inc's collection. The document shows the information that was required from a doctor to admit a voluntary patient to a mental health institution.</abstract>
@@ -279,9 +278,7 @@ Claremont Mental Hospital (1903 - 1972)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Western Australian images, State Library of Western Australia</repository>
 <unittitle>217695PD: Ward atHeathcote Hospital, ca. 1939</unittitle>
-<unitid>State Library of Western Australia Call Number BA1521/268-270</unitid>
 <unitdate>1939?</unitdate>
 <abstract>This is a digitised copy of a negative and is part of the group of images 'Heathcote Hospital [picture]' held at the State Library of Western Australia. The image shows one of the wards at Heathcote.</abstract>
 <note label="rights">For personal use only. To publish or display, contact the State Library of Western Australia.</note>
@@ -294,7 +291,6 @@ Claremont Mental Hospital (1903 - 1972)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Dr Philippa Martyr, Department of Health Western Australia</repository>
 <unittitle>Glossary of terms relating to mental hospitals, Western Australia</unittitle>
 <unitdate>2012</unitdate>
 <abstract>'Glossary of terms relating to mental hospitals, Western Australia' lists names of drugs, treatments and other terms that were commonly used in mental health and disability institutions in the State during the twentieth century.</abstract>
@@ -308,9 +304,7 @@ Claremont Mental Hospital (1903 - 1972)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Mental Health Museum of WA Inc</repository>
 <unittitle>Researching Your Family History in Western Australia through Mental Health Records</unittitle>
-<unitid>Info-Sheet-Family History-A4-final.pdf</unitid>
 <unitdate>9 May 2012</unitdate>
 <abstract>'Researching Your Family History in Western Australia through Mental Health Records' is a version of a brochure from the Mental Health Museum of Western Australia. It is a 'how to' guide for people looking for mental health records</abstract>
 </archref>

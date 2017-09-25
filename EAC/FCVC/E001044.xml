@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-18">2017-05-18</eventDateTime>
+<eventDateTime standardDateTime="2017-06-30">2017-06-30</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -89,6 +89,22 @@ Family Information, Networks and Discovery, Department of Health &amp; Human Ser
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E001044b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001225.htm">
+<relationEntry localType="published">Resource: Finding Records</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department of Health and Human Services</name>
+<title render="italic">Finding Records</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+<date>2016</date>
+</imprint>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 </relations>
 </cpfDescription>

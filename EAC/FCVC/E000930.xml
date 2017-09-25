@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -58,9 +58,6 @@
 </places>
 <functions>
 <function>
-<term>Half-caste Home</term>
-</function>
-<function>
 <term>Home</term>
 </function>
 <function>
@@ -75,6 +72,7 @@
 <p>The passing of the 1886 'Half-Caste' Act lead to the expulsion of many mixed race people from the Mission greatly reducing the population. Many of these expelled people set up residence close by at Greenvale and Little Dunmore. This allowed them to visit family still living on the Mission, and the Church.</p>
 <p>As the numbers declined the Station was closed in 1919, but Aborigines remained in the area. They requested the Reserve to be handed over to them to be run as a farming co-operative. The Government denied this request and the land was carved up for soldier settler blocks.</p>
 <p>As a joint project with the Kerrupjmara people and the National Parks Service, to assist the community in appreciating its history, part of the Mission was brought back, Mission buildings rebuilt, and cabin accommodation built for tourists In 1987, land was handed over to the Kerrupjmara Elder's Association at Lake Condah and Framlingham.</p>
+<p>Lake Condah Mission Station was mentioned in the Bringing Them Home Report (1997) as an institution that housed Indigenous children removed from their families.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1867-01-01">1867</fromDate>
 <toDate standardDate="1919-12-31">1919</toDate>
@@ -128,6 +126,11 @@ Aborigines Act 1910 (1910 - 1915)
 The Aborigines Protection Act 1886 (1887 - 1890)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000158b.htm">
+<relationEntry localType="Glossary Term">
+Stolen Generations
+</relationEntry>
+</cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Lake Condah Mission Station', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
 
@@ -140,6 +143,22 @@ The Aborigines Protection Act 1886 (1887 - 1890)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000930b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000041.htm">
+<relationEntry localType="published">Report: Bringing Them Home: Report of the National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from their Families</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Human Rights and Equal Opportunity Commission</name>
+<title render="italic">Bringing Them Home: Report of the National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from their Families</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>1997</date>
+</imprint>
+<extptr linktype="simple" href="http://www.humanrights.gov.au/publications/bringing-them-home-stolen-children-report-1997"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001091.htm">
 <relationEntry localType="published">Resource: Koorie Heritage - Aboriginal Records at PROV</relationEntry>
@@ -270,7 +289,6 @@ The Aborigines Protection Act 1886 (1887 - 1890)
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
 <unittitle>Lake Condah Aboriginal Station [picture]</unittitle>
-<unitid>IAN07/10/74/17</unitid>
 <unitdate>1874</unitdate>
 <abstract>This is an image of the Lake Condah Aboriginal Mission. It was published in the "Illustrated Australian News for Home readers.' It shows the Aboriginal settlement, with a cricket game in progress in the foreground.</abstract>
 <physdesc>Print: wood engraving.<geogname></geogname>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-07-13">2016-07-13</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -105,7 +105,12 @@ Aboriginal Education and Employment Hostels (1950 - )
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00108b.htm">
+<relationEntry localType="Organisation">
+Kalgoorlie Hostel (1976 - 1993?)
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
@@ -155,6 +160,22 @@ Department for Child Protection and Family Support [and its predecessors] Record
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000004.htm">
+<relationEntry localType="published">Report: Aboriginal Hostels in Perth : A Comparative Survey</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wilson, Katrin and Michael V. Robinson.</name>
+<title render="italic">Aboriginal Hostels in Perth : A Comparative Survey</title>
+<imprint>
+<place>[Perth, W.A.]</place>
+<publisher>Department of Native Welfare</publisher>
+<date>1971</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000019.htm">
 <relationEntry localType="published">Report: Annual Report: Department for Community Welfare</relationEntry>
 
@@ -174,22 +195,6 @@ Department for Child Protection and Family Support [and its predecessors] Record
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000004.htm">
-<relationEntry localType="published">Report: Aboriginal Hostels in Perth : A Comparative Survey</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Wilson, Katrin and Michael V. Robinson.</name>
-<title render="italic">Aboriginal Hostels in Perth : A Comparative Survey</title>
-<imprint>
-<place>[Perth, W.A.]</place>
-<publisher>Department of Native Welfare</publisher>
-<date>1971</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
 <relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
@@ -214,9 +219,7 @@ Department for Child Protection and Family Support [and its predecessors] Record
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Department for Child Protection and Family Support</repository>
 <unittitle>Nindeebai, studying</unittitle>
-<unitid>Department for Community Welfare, Western Australia , Annual Report 1974, p.18</unitid>
 <unitdate>1974</unitdate>
 <abstract>'Nindeebai, studying' is a digital copy of an image included (p.18) in the <span style="font-style:italic">Annual Report 1974</span> of the Department for Community Welfare. The caption reads, 'A student from Warburton at Nindeebai Hostel'.</abstract>
 <note label="rights">Department for Child Protection and Family Support</note>
@@ -232,9 +235,7 @@ Department for Child Protection and Family Support [and its predecessors] Record
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Department for Child Protection and Family Support</repository>
 <unittitle>Nindeebai, cooking</unittitle>
-<unitid>Department for Community Welfare, Western Australia , Annual Report 1974, p.18</unitid>
 <unitdate>1974</unitdate>
 <abstract>'Nindeebai, cooking' is a digital copy of an image included (p.18) in the <span style="font-style:italic">Annual Report 1974</span> of the Department for Community Welfare. The caption reads, 'Nindeebai girls at cooking classes, Eastern Goldfields Project School'.</abstract>
 <note label="rights">Department for Child Protection and Family Support</note>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-04-06">2017-04-06</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -121,7 +121,7 @@ New Norcia Archives (1846 - )
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00945b.htm">
@@ -236,28 +236,6 @@ Department of Native Welfare, State of Western Australia (1955 - 1972)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000236.htm">
-<relationEntry localType="published">Book: Nyungar Tradition : glimpses of Aborigines of south-western Australia 1829-1914</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Tilbrook, Lois</name>
-<title render="italic">Nyungar Tradition : glimpses of Aborigines of south-western Australia 1829-1914</title>
-<imprint>
-<publisher>University of Western Australia Press</publisher>
-<date>1983</date>
-</imprint>
-<bibseries>
-<title render="italic">Online version published by the Australian Institute of Aboriginal and Torres Strait Islander Studies in 2007</title>
-</bibseries>
-<extptr linktype="simple" href="http://aiatsis.gov.au/sites/default/files/catalogue_resources/m0022954.pdf"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000213.htm">
 <relationEntry localType="published">Book Section: New Norcia</relationEntry>
 
@@ -281,20 +259,27 @@ Department of Native Welfare, State of Western Australia (1955 - 1972)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000032.htm">
-<relationEntry localType="published">Report: A Piece of the Story: A Research Project Undertaken by the Australian Catholic Social Welfare Commission and the Australian Conference of Leaders of Religious Institutes</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000236.htm">
+<relationEntry localType="published">Book: Nyungar Tradition : glimpses of Aborigines of south-western Australia 1829-1914</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">National Directory of Records of Catholic Organisations Caring for Children Separated from Families</name>
-<title render="italic">A Piece of the Story: A Research Project Undertaken by the Australian Catholic Social Welfare Commission and the Australian Conference of Leaders of Religious Institutes</title>
+<name type="author">Tilbrook, Lois</name>
+<title render="italic">Nyungar Tradition : glimpses of Aborigines of south-western Australia 1829-1914</title>
 <imprint>
-<date>November 1999</date>
+<publisher>University of Western Australia Press</publisher>
+<date>1983</date>
 </imprint>
-<extptr linktype="simple" href="http://www.cssa.org.au/storage/A%20Piece%20of%20the%20Story.pdf"></extptr>
+<bibseries>
+<title render="italic">Online version published by the Australian Institute of Aboriginal and Torres Strait Islander Studies in 2007</title>
+</bibseries>
+<extptr linktype="simple" href="http://aiatsis.gov.au/sites/default/files/catalogue_resources/m0022954.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000027.htm">
 <relationEntry localType="published">Report: Annual Report: Department of Native Welfare</relationEntry>
@@ -308,6 +293,21 @@ Department of Native Welfare, State of Western Australia (1955 - 1972)
 <publisher>Dept. Of Native Welfare,</publisher>
 <date>1955-1972</date>
 </imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000032.htm">
+<relationEntry localType="published">Report: A Piece of the Story: A Research Project Undertaken by the Australian Catholic Social Welfare Commission and the Australian Conference of Leaders of Religious Institutes</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">National Directory of Records of Catholic Organisations Caring for Children Separated from Families</name>
+<title render="italic">A Piece of the Story: A Research Project Undertaken by the Australian Catholic Social Welfare Commission and the Australian Conference of Leaders of Religious Institutes</title>
+<imprint>
+<date>November 1999</date>
+</imprint>
+<extptr linktype="simple" href="http://www.cssa.org.au/storage/A%20Piece%20of%20the%20Story.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -351,7 +351,6 @@ Department of Native Welfare, State of Western Australia (1955 - 1972)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
 <unittitle>New Norcia evidence to the Roth royal commission</unittitle>
 <unitdate>25 February 1905</unitdate>
 <abstract>This digital copy of an article from <span style="font-style:italic">The Western Mail </span> in February 1905 gives an account of testimony by Father Edmund McCormick on behalf of the New Norcia Mission.</abstract>

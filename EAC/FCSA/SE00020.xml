@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-11-17">2015-11-17</eventDateTime>
+<eventDateTime standardDateTime="2017-08-15">2017-08-15</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -66,15 +66,31 @@
 <function>
 <term>Anglican</term>
 </function>
+<function>
+<term>Records Holder</term>
+</function>
+<function>
+<term>Records Access Service</term>
+</function>
 </functions>
 <biogHist>
 <abstract>Anglicare SA was the new name for Anglican Community Services from 1997. While Anglicare SA was still under local control, it became part of a national network of Anglican caring agencies.</abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01317b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01668b.htm">
+<relationEntry localType="Archival Collection">
+Records held by AnglicareSA (1948 - 1990)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01317b.htm">
 <relationEntry localType="Organisation">
 Anglican Community Services (1988 - 1997)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01669b.htm">
+<relationEntry localType="Contact Details">
+AnglicareSA - Contact Details
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
@@ -104,7 +120,7 @@ Anglican Community Services (1988 - 1997)
 <bibseries>
 <title render="italic">Anglicare SA</title>
 </bibseries>
-<extptr linktype="simple" href="http://www.anglicare-sa.org.au/history/"></extptr>
+<extptr linktype="simple" href="http://anglicaresa.com.au/about/history/"></extptr>
 </bibref>
 </objectXMLWrap>
 

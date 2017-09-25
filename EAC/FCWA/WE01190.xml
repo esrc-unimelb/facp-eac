@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-04-06">2017-04-06</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -100,7 +100,7 @@ Department of Aboriginal Affairs [predecessors], Records, Department of Aborigin
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00467b.htm">
@@ -126,24 +126,6 @@ United Aborigines Mission, Gnowangerup (1935 - 1954)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001505.htm">
-<relationEntry localType="published">Resource Section: Gnowangerup Mission run by the United Aboriginal Mission, January 1958 [picture]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Gnowangerup Mission run by the United Aboriginal Mission, January 1958 [picture]</title>
-<imprint>
-<publisher>State Library of Western Australia</publisher>
-</imprint>
-<bibseries>
-<title render="italic">State Library of Western Australia website</title>
-</bibseries>
-<extptr linktype="simple" href="http://catalogue.slwa.wa.gov.au/record=b2604757~S2"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001167.htm">
 <relationEntry localType="published">Resource Section: Records of the Gnowangerup Mission</relationEntry>
 
@@ -165,6 +147,24 @@ United Aborigines Mission, Gnowangerup (1935 - 1954)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001505.htm">
+<relationEntry localType="published">Resource Section: Gnowangerup Mission run by the United Aboriginal Mission, January 1958 [picture]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Gnowangerup Mission run by the United Aboriginal Mission, January 1958 [picture]</title>
+<imprint>
+<publisher>State Library of Western Australia</publisher>
+</imprint>
+<bibseries>
+<title render="italic">State Library of Western Australia website</title>
+</bibseries>
+<extptr linktype="simple" href="http://catalogue.slwa.wa.gov.au/record=b2604757~S2"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 </relations>
 </cpfDescription>

@@ -31,7 +31,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-05">2017-05-05</eventDateTime>
+<eventDateTime standardDateTime="2017-08-31">2017-08-31</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -44,7 +44,7 @@
 <nameEntry><part>Alexandra Cottage</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
-<nameEntry localType=""><part>Alexandra Family Group Home</part>
+<nameEntry localType="Also known as"><part>Alexandra Family Group Home</part>
 </nameEntry>
 </identity>
 <description><existDates>
@@ -74,7 +74,6 @@
 </functions>
 <biogHist>
 <abstract>Alexandra Cottage was a family group home situated at 50 Lorward Street, Bardon. It opened in September 1960, and was run by the Methodist Church until 1977, when the Uniting Church took over the running of the Home. Alexandra Cottage closed in 1993.</abstract>
-<p>The Uniting Church has advised that they hold no client records of former residents of Congregational, Methodist, Presbyterian and Uniting Church institutions.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1960-01-01">1960?</fromDate>
 <toDate standardDate="1993-12-31">1993?</toDate>
@@ -112,10 +111,13 @@ Uniting Church in Australia (1977 - )
 <toDate standardDate="1993-12-31">1993</toDate>
 </dateRange>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00425b.htm">
-<relationEntry localType="Organisation">
-UnitingCare Queensland (c. 1999 - )
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00940b.htm">
+<relationEntry localType="Archival Collection">
+UnitingCare Queensland Records (1910 - )
 </relationEntry>
+<descriptiveNote>
+<p>UnitingCare Queensland Records includes Admission Registers for Alexandra Cottage.</p>
+</descriptiveNote>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Alexandra Cottage', in <span style="font-style:italic">Find &amp; Connect - Queensland</span>, </relationEntry>
@@ -153,7 +155,6 @@ UnitingCare Queensland (c. 1999 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Forde Foundation</repository>
 <unittitle>Alexandra Cottage</unittitle>
 <unitdate>c. 1980</unitdate>
 <note label="rights">Reproduction rights owned by the Forde Foundation, G.P.O. Box 806, BRISBANE QLD 4001</note>

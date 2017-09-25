@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-08-16">2016-08-16</eventDateTime>
+<eventDateTime standardDateTime="2017-09-06">2017-09-06</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -90,6 +90,11 @@
 <relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00006b.htm">
 <relationEntry localType="Organisation">
 Church of England in Australia and Tasmania (1788 - 1981)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00409b.htm">
+<relationEntry localType="Archival Collection">
+St Francis House Records (1946 - 1961)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00820b.htm">
@@ -168,13 +173,11 @@ St Francis House (1946 - 1959)
 </descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/objects/SD0000171.htm">
-<relationEntry localType="digitalObject">Australian Board of Missions - Technical training of half-castes (boys) at St Francis House, Semaphore, South Australia</relationEntry>
+<relationEntry localType="digitalObject">Australian Board of Missions - Technical training of boys at St Francis House, Semaphore, South Australia [altered from original title]</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Archives of Australia</repository>
-<unittitle>Australian Board of Missions - Technical training of half-castes (boys) at St Francis House, Semaphore, South Australia</unittitle>
-<unitid>NAA: A452, 1955/508 Part 1</unitid>
+<unittitle>Australian Board of Missions - Technical training of boys at St Francis House, Semaphore, South Australia [altered from original title]</unittitle>
 <unitdate>1946 - 1953</unitdate>
 <abstract>Digital copy of paper file and documents</abstract>
 <note label="rights">Copyright Commonwealth of Australia (National Archives of Australia)</note>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<eventDateTime standardDateTime="2017-09-14">2017-09-14</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,11 +43,16 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00640b.htm</entityId>
 <entityType>corporateBody</entityType>
 <nameEntry><part>Past Adoption Information and Services</part>
-<part localType="parent">Department for Child Protection and Family Support</part>
+<part localType="parent">Child Protection and Family Support</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
-<description><places>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1994-01-01">1994?</fromDate>
+</dateRange>
+</existDates>
+<places>
 </places>
 <functions>
 <function>
@@ -64,7 +69,7 @@
 </function>
 </functions>
 <biogHist>
-<abstract>Past Adoption Information and Services is a section of the Department for Child Protection and Family Support (DCP). Its purpose is to ensure that people who are legally able to do so can gain access to adoption records.</abstract>
+<abstract>Past Adoption Information and Services is a section of Child Protection and Family Support within the Department of Communities. Its purpose is to ensure that people who are legally able to do so can gain access to adoption records.</abstract>
 <p>The publication <span style="font-style:italic">ROADS - An index of locations and access to adoption records</span> shows that the following types of records are held by the DCP:</p>
 <list><item>Names of adoption applicants</item>
 <item>Names of birth parents </item>
@@ -75,7 +80,7 @@
 <item>Names of children at birth and after adoption</item>
 <item>Birth registration details</item></list>
 <p>Access to these records is restricted and confidentiality is protected by the DCP's Protocols for Access. If you believe the DCP may hold records about you, or about a family member, you are encouraged to apply. The DCP has an application form which you must use to apply for records. It is called 'Application for Past Adoption Services'. To get this form or to find out how to apply, please click on the website link on this page, or speak with someone in the Past Adoption Information and Services office.</p>
-<p>Adoptions have been possible in Western Australia since 1896. The legislation has changed over the years and historically adoptions could be arranged either by the Department for Child Protection and Family Support or privately through solicitors.</p>
+<p>Adoptions have been possible in Western Australia since 1896. The legislation has changed over the years and historically adoptions could be arranged either by the Department or privately through solicitors.</p>
 <p>The Adoption Act 1994 acknowledges the importance of information for people involved in the adoption and their relatives. Access to information has improved, particularly for adopted people and birth parents. The type of information that can be obtained will depend upon who is applying for the information and when the adoption occurred.</p>
 
 </biogHist>
@@ -92,7 +97,7 @@ Past Adoption Information and Services - Contact Details
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01118b.htm">
 <relationEntry localType="Organisation">
-Department for Child Protection and Family Support, State of Western Australia (2013 - )
+Department for Child Protection and Family Support, State of Western Australia (2013 - 2017)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00438b.htm">
@@ -146,7 +151,7 @@ Child Welfare Department, State of Western Australia (1927 - 1972)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00624b.htm">
@@ -159,8 +164,13 @@ Richard S. Haynes &amp; Co Adoption Files [Mr Bryan's client files] (1946 - 1980
 Family Court of Western Australia (1976 - )
 </relationEntry>
 <descriptiveNote>
-<p>The Past Adoptions Information and Services at the Department for Child Protection should be contacted for access to records of adoption held by the Family Court of WA.</p>
+<p>Past Adoptions Information and Services should be contacted for access to records of adoption held by the Family Court of Western Australia.</p>
 </descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01541b.htm">
+<relationEntry localType="Organisation">
+Child Protection and Family Support, State of Western Australia (2017 - )
+</relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Past Adoption Information and Services', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>

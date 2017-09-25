@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<eventDateTime standardDateTime="2017-09-06">2017-09-06</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -104,7 +104,12 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000412b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001056b.htm">
+<relationEntry localType="Archival Collection">
+Records of the Immigrants' Aid Society (c. 1878 - c. 1902)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000412b.htm">
 <relationEntry localType="Event">
 The Gold Rushes in Victoria (1851 - c. 1869)
 </relationEntry>
@@ -172,6 +177,22 @@ Reformatory (1864 - c. 1954)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000351b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001227.htm">
+<relationEntry localType="published">Resource: The Immigrants Aid Society</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">The Immigrants Aid Society</title>
+<imprint>
+<publisher>State Library of Victoria</publisher>
+<date>2017</date>
+</imprint>
+<extptr linktype="simple" href="https://www.slv.vic.gov.au/contribute-create/vicfix/immigrants-aid-society"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000382.htm">
 <relationEntry localType="published">Book: Poverty abounding, charity aplenty: the charity network in colonial Victoria</relationEntry>
@@ -253,7 +274,7 @@ Reformatory (1864 - c. 1954)
 <bibseries>
 <title render="italic">eMelbourne: the city past and present</title>
 </bibseries>
-<extptr linktype="simple" href="http://www.egold.net.au/biogs/EG00090b.htm"></extptr>
+<extptr linktype="simple" href="http://www.emelbourne.net.au/biogs/EM00744b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -280,6 +301,22 @@ Reformatory (1864 - c. 1954)
 
 <descriptiveNote>
 <p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000557.htm">
+<relationEntry localType="digitalObject">St. Kilda Road</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>St. Kilda Road</unittitle>
+<unitdate>1885</unitdate>
+<abstract>This image of Melbourne viewed from south side of the Yarra river shows in the foreground the Immigrants Aid Society Depot on left and Immigrants Home on right.</abstract>
+<note label="rights">This work is out of copyright</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
 </descriptiveNote>
 </resourceRelation>
 </relations>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-04-06">2017-04-06</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -111,7 +111,7 @@ State Archives Collection of Western Australia (1829 - )
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01120b.htm">
@@ -144,6 +144,24 @@ Carnarvon Teens Hostel (1968 - 1984?)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
+<relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Information Services, Department for Community Development</name>
+<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+</imprint>
+<extptr linktype="simple" href="http://signposts.cpfs.wa.gov.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
 <relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
 
@@ -163,32 +181,12 @@ Carnarvon Teens Hostel (1968 - 1984?)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
-<relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Information Services, Department for Community Development</name>
-<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
-<imprint>
-<publisher>Government of Western Australia</publisher>
-</imprint>
-<extptr linktype="simple" href="http://signposts.cpfs.wa.gov.au/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0001026.htm">
 <relationEntry localType="digitalObject">Oval and playground, Carnarvon Mission</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Global Mission Partners</repository>
 <unittitle>Oval and playground, Carnarvon Mission</unittitle>
-<unitid>Churches of Christ Federal Aborigines Mission Board Photographs, C5553</unitid>
 <unitdate>1980s</unitdate>
 <abstract>Oval and playground, Carnarvon Mission' is a digital copy of an image held by Global Mission Partners in the Churches of Christ Federal Aborigines Mission Board Photographs collection. As described by historian Deslee Moyle, the image dates from the early 1980s</abstract>
 </archref>
@@ -200,9 +198,7 @@ Carnarvon Teens Hostel (1968 - 1984?)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Global Mission Partners</repository>
 <unittitle>Carinya scatter cottage</unittitle>
-<unitid>Churches of Christ Federal Aborigines Mission Board Photographs, Image No. C5088</unitid>
 <unitdate>1980 - 1981</unitdate>
 <abstract>'Carinya scatter cottage' is a digital copy of an image held by Global Mission Partners in the Churches of Christ Federal Aborigines Mission Board Photographs collection. As described by historian Deslee Moyle, the image dates from 1980 or 1981 and shows one of the 'scatter cottages' in the Carnarvon township that were part of Ingada Village (which was the new name given to the Carnarvon Mission in 1975).</abstract>
 </archref>
@@ -217,7 +213,6 @@ Carnarvon Teens Hostel (1968 - 1984?)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Deslee Moyle</repository>
 <unittitle>Carnarvon Mission Ingada Village</unittitle>
 <unitdate>22 April 2014</unitdate>
 <abstract>'Carnarvon Mission Ingada Village' is a history of the Churches of Christ's management of Carnarvon Mission and the Mission's later name, Ingada Village. It also includes information about the Carnarvon Teens Hostel and was written by Deslee Moyle, who has preserved many archival records relating to the Churches of Christ Federal Aborigines Mission Board (CCFAMB) and the organisation that followed it, the Australian Churches of Christ Indigenous Ministries (ACCIM). The item gives insight into life at the Mission and the Hostel.</abstract>

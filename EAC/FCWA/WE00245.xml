@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-04-06">2017-04-06</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -110,7 +110,7 @@ State Archives Collection of Western Australia (1829 - )
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01120b.htm">
@@ -213,6 +213,18 @@ Karalundi Mission (1954 - 1974)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000060.htm">
+<relationEntry localType="published">Resource: Mundus Gateway to Missionary Collections in the United Kingdom</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Research Support Libraries Programme</name>
+<title render="italic">Mundus Gateway to Missionary Collections in the United Kingdom</title>
+<extptr linktype="simple" href="http://www.mundus.ac.uk"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000024.htm">
 <relationEntry localType="published">Resource Section: Western Australia Protectors Reports 1899-1959</relationEntry>
 
@@ -235,17 +247,30 @@ Karalundi Mission (1954 - 1974)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000060.htm">
-<relationEntry localType="published">Resource: Mundus Gateway to Missionary Collections in the United Kingdom</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001204.htm">
+<relationEntry localType="published">Newspaper Article: Achievement Plus!</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Research Support Libraries Programme</name>
-<title render="italic">Mundus Gateway to Missionary Collections in the United Kingdom</title>
-<extptr linktype="simple" href="http://www.mundus.ac.uk"></extptr>
+<name type="author"></name>
+<title render="quoted">Achievement Plus!</title>
+<imprint>
+<publisher>General Conference of Seventh-day Adventists</publisher>
+<date>1964</date>
+</imprint>
+<bibseries>
+<title render="italic">Australasian Record and Advent World Survey</title>
+<num type="volume">68</num>
+<num type="issue">45</num>
+<num type="pages">6-7</num>
+</bibseries>
+<extptr linktype="simple" href="http://documents.adventistarchives.org/Periodicals/AAR/AAR19641109-V68-45.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000204.htm">
 <relationEntry localType="published">Resource: Guide to Institutions Attended by Aboriginal People in Western Australia</relationEntry>
@@ -278,31 +303,6 @@ Karalundi Mission (1954 - 1974)
 <publisher>Government of Western Australia</publisher>
 <date>2004</date>
 </imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001204.htm">
-<relationEntry localType="published">Newspaper Article: Achievement Plus!</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Achievement Plus!</title>
-<imprint>
-<publisher>General Conference of Seventh-day Adventists</publisher>
-<date>1964</date>
-</imprint>
-<bibseries>
-<title render="italic">Australasian Record and Advent World Survey</title>
-<num type="volume">68</num>
-<num type="issue">45</num>
-<num type="pages">6-7</num>
-</bibseries>
-<extptr linktype="simple" href="http://documents.adventistarchives.org/Periodicals/AAR/AAR19641109-V68-45.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -629,9 +629,7 @@ Karalundi Mission (1954 - 1974)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>General Conference of Seventh-day Adventists Online Document Archives</repository>
 <unittitle>Wiluna mission children</unittitle>
-<unitid>Review and Herald Vol.140 No.14 p.19</unitid>
 <unitdate>4 April 1963</unitdate>
 <abstract>'Wiluna mission children' is a digital copy of an image from the <span style="font-style:italic">Review and Herald</span> that is published on the General Conference of Seventh-day Adventists' website, <span style="font-style:italic"> Online Document Archives</span>. The caption reads, 'Aboriginal children at the Wiluna Mission school say grace before partaking of their meal'.</abstract>
 </archref>
@@ -643,9 +641,7 @@ Karalundi Mission (1954 - 1974)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>General Conference of Seventh-day Adventists Online Document Archives</repository>
 <unittitle>Dormitory, Wiluna</unittitle>
-<unitid>Australasian Record and Advent World Survey Vol. 68 No.45 p.6</unitid>
 <unitdate>9 November 1964</unitdate>
 <abstract>'Dormitory, Wiluna' is a digital copy of an image published in the <span style="font-style:italic">Australasian Record and Advent World Survey</span> on the General Conference of Seventh-day Adventists' website, <span style="font-style:italic"> Online Document Archives</span>. The caption reads, 'The dormitory building at the beginning of the fourth day of its erection'.</abstract>
 </archref>
@@ -657,9 +653,7 @@ Karalundi Mission (1954 - 1974)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>General Conference of Seventh-day Adventists Online Document Archives</repository>
 <unittitle>Wiluna Mission Church</unittitle>
-<unitid>Signs of the Times Vol. 92 No.2 p.12</unitid>
 <unitdate>February 1965</unitdate>
 <abstract>'Wiluna Mission Church' is a digital copy of an image published in the <span style="font-style:italic">Signs of the Times</span> on the General Conference of Seventh-day Adventists' website, <span style="font-style:italic"> Online Document Archives</span>. The caption reads, 'The Adventist church at Wiluna was started by Pastor Smith and has just recently been completed'.</abstract>
 </archref>

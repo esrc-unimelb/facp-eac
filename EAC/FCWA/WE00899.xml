@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-08-26">2015-08-26</eventDateTime>
+<eventDateTime standardDateTime="2017-08-31">2017-08-31</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -139,6 +139,44 @@ Boarding Out (1897 - 1976)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00899b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000270.htm">
+<relationEntry localType="published">Book Section: Colonial Secretary's Department</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Colonial Secretary's Department</title>
+<imprint>
+<place>Victoria Park</place>
+<publisher>Hesperian Press</publisher>
+<date>1985</date>
+</imprint>
+<bibseries>
+<title render="italic">The Cyclopedia of Western Australia (1912)</title>
+<name type="author">JS Battye</name>
+<num type="volume">1</num>
+<num type="pages">502-507</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000267.htm">
+<relationEntry localType="published">Newspaper Article: Labour of Love</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Labour of Love</title>
+<bibseries>
+<title render="italic">The West Australian</title>
+<num type="pages">9</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article47304456"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000772.htm">
 <relationEntry localType="published">Report: Annual Report and Financial Statements [Children's Protection Society]</relationEntry>
@@ -254,52 +292,12 @@ Boarding Out (1897 - 1976)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000270.htm">
-<relationEntry localType="published">Book Section: Colonial Secretary's Department</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Colonial Secretary's Department</title>
-<imprint>
-<place>Victoria Park</place>
-<publisher>Hesperian Press</publisher>
-<date>1985</date>
-</imprint>
-<bibseries>
-<title render="italic">The Cyclopedia of Western Australia (1912)</title>
-<name type="author">JS Battye</name>
-<num type="volume">1</num>
-<num type="pages">502-507</num>
-</bibseries>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000267.htm">
-<relationEntry localType="published">Newspaper Article: Labour of Love</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Labour of Love</title>
-<bibseries>
-<title render="italic">The West Australian</title>
-<num type="pages">9</num>
-</bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article47304456"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000259.htm">
 <relationEntry localType="digitalObject">Report of the Select Committee of the Legislative Council on the State Children Act Amendment Bill</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Records Office Western Australia</repository>
 <unittitle>Report of the Select Committee of the Legislative Council on the State Children Act Amendment Bill</unittitle>
-<unitid>Western Australia <span style="font-style:italic">Votes and Proceedings</span> 1918 Vol.2 Paper A2</unitid>
 <unitdate>19 November 1918</unitdate>
 <abstract>This is a digital copy of the report which is published in the Votes and Proceedings of the Parliament of Western Australia.</abstract>
 </archref>

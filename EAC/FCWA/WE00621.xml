@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-04-16">2015-04-16</eventDateTime>
+<eventDateTime standardDateTime="2017-09-14">2017-09-14</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -59,33 +59,24 @@
 </function>
 </functions>
 <biogHist>
-<abstract>The Family Court of Western Australia is responsible for approving adoptions in this State, a role which it took over from the Supreme Court in 1976. The Family Court releases information about adoption via officers at Past Adoption and Information Services at the Department for Child Protection and Family Support.</abstract>
+<abstract>The Family Court of Western Australia is responsible for approving adoptions in this State, a role which it took over from the Supreme Court in 1976. The Family Court holds records relating to adoption dating back to the 1890s. These records are released via officers at Past Adoption and Information Services within Child Protection and Family Support, Department of Communities.</abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00619b.htm">
-<relationEntry localType="Archival Collection">
-Hillcrest Records (1912 - 1974)
-</relationEntry>
-<dateRange>
-<fromDate standardDate="1899-01-01">1899</fromDate>
-<toDate standardDate="1974-12-31">1974</toDate>
-</dateRange>
-<descriptiveNote>
-<p>The Family Court of Western Australia holds records of adoptions occurring from the 'Maternity Home, North Fremantle' from 1899 onwards. However, it is not known if this is the Salvation Army's maternity home (which appears to have been established in 1903).</p>
-</descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00438b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00438b.htm">
 <relationEntry localType="Glossary Term">
 Adoption (1896 - )
 </relationEntry>
+<descriptiveNote>
+<p>The Family Court of Western Australia is responsible for approving adoptions.</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00640b.htm">
 <relationEntry localType="Organisation">
-Past Adoption Information and Services, Department for Child Protection and Family Support
+Past Adoption Information and Services, Child Protection and Family Support (1994? - )
 </relationEntry>
 <descriptiveNote>
-<p>The Past Adoptions Information and Services at the Department for Child Protection should be contacted for access to records of adoption held by the Family Court of WA.</p>
+<p>Past Adoptions Information and Services should be contacted for access to records of adoption held by the Family Court of Western Australia.</p>
 </descriptiveNote>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
@@ -100,6 +91,24 @@ Past Adoption Information and Services, Department for Child Protection and Fami
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00621b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
+<relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Information Services, Department for Community Development</name>
+<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+</imprint>
+<extptr linktype="simple" href="http://signposts.cpfs.wa.gov.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001430.htm">
 <relationEntry localType="published">Resource Section: Adoptions</relationEntry>
@@ -116,24 +125,6 @@ Past Adoption Information and Services, Department for Child Protection and Fami
 <title render="italic">Family Court of Western Australia Website</title>
 </bibseries>
 <extptr linktype="simple" href="http://www.familycourt.wa.gov.au/A/adoptions.aspx?uid=2091-1909-3665-7673"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
-<relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Information Services, Department for Community Development</name>
-<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
-<imprint>
-<publisher>Government of Western Australia</publisher>
-</imprint>
-<extptr linktype="simple" href="http://signposts.cpfs.wa.gov.au/"></extptr>
 </bibref>
 </objectXMLWrap>
 

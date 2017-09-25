@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-03-01">2017-03-01</eventDateTime>
+<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -44,6 +44,8 @@
 <entityType>corporateBody</entityType>
 <nameEntry><part>Koonibba Children's Home</part>
 <authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Also known as"><part>Koonibba Lutheran Children's Home</part>
 </nameEntry>
 </identity>
 <description><existDates>
@@ -73,6 +75,8 @@
 <p>A superintendent's report from 1931 described the work of the Children's Home:</p>
 <p>'The two girls about fifteen or sixteen years old, we had to bring in by persuasion that they were not given a chance to resist. We found them wandering about the bush and it was quite evident that it was our duty to bring them in and save their souls. They have made excellent progress both in school and at the domestic work they are asked to do in the Home.'</p>
 <p>The Koonibba Children's Home closed in July 1963 when the South Australian Government took over the control of the Mission. The Mission came under the control of the Koonibba Aboriginal Community Council in 1975.</p>
+<p>Koonibba Lutheran Children's Home<br />
+was mentioned in the Bringing Them Home Report (1997) as an institution that housed Indigenous children removed from their families.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1913-01-01">1913</fromDate>
 <toDate standardDate="1963-12-31">1963</toDate>
@@ -136,6 +140,22 @@ Records of Aboriginal Missions in South Australia (1850s - 1970s)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00116b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000206.htm">
+<relationEntry localType="published">Report: Bringing them home: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Bringing them home: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</title>
+<imprint>
+<publisher>Commonwealth of Australia: Human Rights and Equal Opportunities Commission</publisher>
+<date>1997</date>
+</imprint>
+<extptr linktype="simple" href="http://www.humanrights.gov.au/publications/bringing-them-home-1997"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000042.htm">
 <relationEntry localType="published">Resource: Finding your own way</relationEntry>
@@ -241,9 +261,7 @@ Evangelical Lutheran Church of Australia, 1901-1951</title>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of South Australia</repository>
 <unittitle>Koonibba Children's Home 03</unittitle>
-<unitid>B 64269/38</unitid>
 <unitdate>c. 1914 - c. 1920</unitdate>
 <abstract>Part of album titled Aboriginal people Koonibba Mission Children's Home, South Australia. Koonobba Mission some time between 1914 and 1920. The matron of the children's home, Miss A. Von Einem, with her sewing class</abstract>
 <note label="rights">No known copyright restrictions</note>
@@ -256,9 +274,7 @@ Evangelical Lutheran Church of Australia, 1901-1951</title>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of South Australia</repository>
 <unittitle>Koonibba Children's Home 02</unittitle>
-<unitid>B 64269/33</unitid>
 <unitdate>c. 1900 - c. 1960</unitdate>
 <abstract>Part of album titled Aboriginal people Koonibba Mission Children's Home, South Australia. Large group of children.</abstract>
 <note label="rights">No known copyright restrictions</note>
@@ -271,9 +287,7 @@ Evangelical Lutheran Church of Australia, 1901-1951</title>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of South Australia</repository>
 <unittitle>Aboriginal people Koonibba Mission Children's Home, South Australia</unittitle>
-<unitid>B 64269/7</unitid>
 <unitdate>c. 1900 - c. 1960</unitdate>
 <abstract>View of settlement</abstract>
 <note label="rights">Reproduction rights owned by the:State Library of South Australia</note>

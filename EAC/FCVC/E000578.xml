@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-10-18">2016-10-18</eventDateTime>
+<eventDateTime standardDateTime="2017-09-15">2017-09-15</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,7 +43,7 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000578b.htm</entityId>
 <entityType>corporateBody</entityType>
 <nameEntry><part>Adoption Information Service</part>
-<part localType="parent">Connections UnitingCare</part>
+<part localType="parent">Uniting - Connections</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
@@ -63,7 +63,7 @@
 </function>
 </functions>
 <biogHist>
-<abstract>The Adoption Information Service began in 1984 with the introduction of the Victorian Adoption Act, which provided for the first time rights to the parties to adoption to access to information. Adopted persons, adoptive parents, parents who have relinquished their child and other family members can obtain information about an adoption.The Service also provides counselling, mediation and support, as well as search and outreach on behalf of people affected by adoption.</abstract>
+<abstract>The Adoption Information Service, Uniting - Connections began in 1984 with the introduction of the Victorian Adoption Act, which provided for the first time rights to the parties to adoption to access to information. Adopted persons, adoptive parents, parents who have relinquished their child and other family members can obtain information about an adoption organised by Uniting - Connections or its predecessor agencies.The Service also provides counselling, mediation and support, as well as search and outreach on behalf of people affected by adoption.</abstract>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="2000-01-01">2000</fromDate>
 <toDate standardDate="2000-12-31">2000</toDate>
@@ -75,12 +75,25 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000223b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000887b.htm">
+<relationEntry localType="Contact Details">
+Adoption Information Service, Uniting - Connections - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001057b.htm">
 <relationEntry localType="Organisation">
-Connections UnitingCare (2000 - 2016)
+Uniting - Connections (2017 - )
 </relationEntry>
 <descriptiveNote>
-<p>The Adoption Information Service is part of Connections UnitingCare. People can request information about adoptions facilitated by Connections UnitingCare and it's predecessors through this service.</p>
+<p>The Adoption Information Service is part of Uniting - Connections. People can request information about adoptions facilitated by Uniting - Connections and its predecessors through this service.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000223b.htm">
+<relationEntry localType="Organisation">
+Connections UnitingCare (2000 - 2017)
+</relationEntry>
+<descriptiveNote>
+<p>The Adoption Information Service is part of Connections UnitingCare. People can request information about adoptions facilitated by Connections UnitingCare and its predecessors through this service.</p>
 </descriptiveNote>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">

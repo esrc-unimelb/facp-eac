@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-22">2016-04-22</eventDateTime>
+<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -118,6 +118,11 @@ Health Act 1898 (1898 - 1911)
 Institution (1907 - 1976)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00612b.htm">
+<relationEntry localType="Organisation">
+Government Receiving Depot (1907 - 1935)
+</relationEntry>
+</cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Orphanage', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
 
@@ -130,6 +135,38 @@ Institution (1907 - 1976)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00459b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000022.htm">
+<relationEntry localType="published">Report: Annual Report of the Child Welfare Department</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Western Australia. Child Welfare Department</name>
+<title render="italic">Annual Report of the Child Welfare Department</title>
+<imprint>
+<place>Perth [W.A.]</place>
+<publisher>Child Welfare Department</publisher>
+<date>1928-1972</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000021.htm">
+<relationEntry localType="published">Report: Annual report of the State Children Department</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Annual report of the State Children Department</title>
+<imprint>
+<place>[Perth, W.A.]</place>
+<publisher>State Children's Department</publisher>
+<date>1908-1927</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000767.htm">
 <relationEntry localType="published">Resource Section: The Western Australia post office directory</relationEntry>
@@ -214,38 +251,6 @@ Institution (1907 - 1976)
 <publisher>State Law Publisher of Western Australia</publisher>
 </imprint>
 <extptr linktype="simple" href="http://www.slp.wa.gov.au/legislation/statutes.nsf/main_mrtitle_9400_homepage.html"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000022.htm">
-<relationEntry localType="published">Report: Annual Report of the Child Welfare Department</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Western Australia. Child Welfare Department</name>
-<title render="italic">Annual Report of the Child Welfare Department</title>
-<imprint>
-<place>Perth [W.A.]</place>
-<publisher>Child Welfare Department</publisher>
-<date>1928-1972</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000021.htm">
-<relationEntry localType="published">Report: Annual report of the State Children Department</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Annual report of the State Children Department</title>
-<imprint>
-<place>[Perth, W.A.]</place>
-<publisher>State Children's Department</publisher>
-<date>1908-1927</date>
-</imprint>
 </bibref>
 </objectXMLWrap>
 

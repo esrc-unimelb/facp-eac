@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-03-13">2017-03-13</eventDateTime>
+<eventDateTime standardDateTime="2017-09-14">2017-09-14</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,7 +43,6 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00617b.htm</entityId>
 <entityType>concept</entityType>
 <nameEntry><part>Family Information Research System</part>
-<part localType="parent">Department for Child Protection and Family Support and its predecessors</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 <nameEntry localType="acronym"><part>FIRS</part>
@@ -59,7 +58,7 @@
 <biogHist>
 <abstract>Family Information Research System [FIRS] for the Department for Child Protection and Family Support and its predecessors is an electronic database designed specifically to hold records that are important for Aboriginal people in WA who are part of the 'stolen generations'. FIRS contains indexes to government, non-government and community records.</abstract>
 <h4>Access Conditions</h4>
-<p>Access to these records is restricted and confidentiality is protected by the Department. If you believe the Department may hold records about you, or about a family member, you are encouraged to apply. Access is governed by the Freedom of Information Act 1992 and the Department has a form on their website which you must use to apply for records.</p>
+<p>Access to these records is restricted and confidentiality is protected by Child Protection and Family Support. If you believe the Department may hold records about you, or about a family member, you are encouraged to apply. Access is governed by the Freedom of Information Act 1992 and CPFS has a form on their website which you must use to apply for records.</p>
 <h4>Records</h4>
 <p>The amount of information that will be available for people will differ from person to person, but the database is designed to identify at least the following:</p>
 <list><item>Family name</item>
@@ -72,19 +71,14 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01118b.htm">
-<relationEntry localType="Organisation">
-Department for Child Protection and Family Support, State of Western Australia (2013 - )
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01176b.htm">
 <relationEntry localType="Contact Details">
-Department for Child Protection and Family Support - Contact Details
+Child Protection and Family Support - Contact Details
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00322b.htm">
@@ -130,6 +124,11 @@ State Children Department, State of Western Australia (1917 - 1927)
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00364b.htm">
 <relationEntry localType="Organisation">
 Child Welfare Department, State of Western Australia (1927 - 1972)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01118b.htm">
+<relationEntry localType="Organisation">
+Department for Child Protection and Family Support, State of Western Australia (2013 - 2017)
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">

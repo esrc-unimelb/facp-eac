@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-04-06">2017-04-06</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -182,7 +182,7 @@ Children's Homes Collection held by Salvation Army Heritage Museum WA (1898 - )
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00407b.htm">
@@ -219,18 +219,6 @@ Index to the War Cry (1883 - )
 Orphanage
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00199b.htm">
-<relationEntry localType="Organisation">
-Salvation Army Boys' Home (1918 - 1965)
-</relationEntry>
-<dateRange>
-<fromDate standardDate="1918-01-01">1918</fromDate>
-<toDate standardDate="1918-12-31">1918</toDate>
-</dateRange>
-<descriptiveNote>
-<p>Boys transferred from The Collie Boys' Homewere the first residents of the Salvation Army Boys' Home.</p>
-</descriptiveNote>
-</cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Collie Boys' Home', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
 
@@ -244,19 +232,59 @@ Salvation Army Boys' Home (1918 - 1965)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001355.htm">
-<relationEntry localType="published">Newspaper Article: West Australia</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001356.htm">
+<relationEntry localType="published">Newspaper Article: Remaking Young Australians</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">West Australia</title>
+<title render="quoted">Remaking Young Australians</title>
 <imprint>
 <date>1921</date>
 </imprint>
 <bibseries>
-<title render="italic">The Victory</title>
+<title render="italic">The War Cry</title>
 </bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000635.htm">
+<relationEntry localType="published">Newspaper Article: Salvation Army at Collie</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Salvation Army at Collie</title>
+<imprint>
+<publisher>Western Mail</publisher>
+<date>1902</date>
+</imprint>
+<bibseries>
+<title render="italic">Western Mail</title>
+<num type="pages">33</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article37797643"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000636.htm">
+<relationEntry localType="published">Newspaper Article: No heading [Salvation Army at Collie - illustrations]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">No heading [Salvation Army at Collie - illustrations]</title>
+<imprint>
+<publisher>Western Mail</publisher>
+<date>1902</date>
+</imprint>
+<bibseries>
+<title render="italic">Western Mail</title>
+<num type="pages">29</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-page3847693"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -305,6 +333,28 @@ Salvation Army Boys' Home (1918 - 1965)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000716.htm">
+<relationEntry localType="published">Newspaper Article: The Daily News [Christmas Cheer Fund]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Daily News [Christmas Cheer Fund]</title>
+<imprint>
+<date>1916</date>
+</imprint>
+<bibseries>
+<title render="italic">The Daily News</title>
+<num type="pages">10</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article81358001"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000629.htm">
 <relationEntry localType="published">Newspaper Article: Sketches in the District [Salvation Army Homes, Collie]</relationEntry>
 
@@ -328,42 +378,19 @@ Salvation Army Boys' Home (1918 - 1965)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000635.htm">
-<relationEntry localType="published">Newspaper Article: Salvation Army at Collie</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001355.htm">
+<relationEntry localType="published">Newspaper Article: West Australia</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Salvation Army at Collie</title>
+<title render="quoted">West Australia</title>
 <imprint>
-<publisher>Western Mail</publisher>
-<date>1902</date>
+<date>1921</date>
 </imprint>
 <bibseries>
-<title render="italic">Western Mail</title>
-<num type="pages">33</num>
+<title render="italic">The Victory</title>
 </bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article37797643"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000636.htm">
-<relationEntry localType="published">Newspaper Article: No heading [Salvation Army at Collie - illustrations]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">No heading [Salvation Army at Collie - illustrations]</title>
-<imprint>
-<publisher>Western Mail</publisher>
-<date>1902</date>
-</imprint>
-<bibseries>
-<title render="italic">Western Mail</title>
-<num type="pages">29</num>
-</bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-page3847693"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -386,59 +413,6 @@ Salvation Army Boys' Home (1918 - 1965)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000727.htm">
-<relationEntry localType="published">Newspaper Article: Salvation Army Rescue Work</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Salvation Army Rescue Work</title>
-<imprint>
-<date>1903</date>
-</imprint>
-<bibseries>
-<title render="italic">Kalgoorlie Western Argus</title>
-<num type="pages">36</num>
-</bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article32674697"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001425.htm">
-<relationEntry localType="published">Newspaper Article: Salvos given a caning</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Salvos given a caning</title>
-<imprint>
-<date>1995</date>
-</imprint>
-<bibseries>
-<title render="italic">Sunday Times</title>
-</bibseries>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001356.htm">
-<relationEntry localType="published">Newspaper Article: Remaking Young Australians</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Remaking Young Australians</title>
-<imprint>
-<date>1921</date>
-</imprint>
-<bibseries>
-<title render="italic">The War Cry</title>
-</bibseries>
-</bibref>
-</objectXMLWrap>
-
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001357.htm">
 <relationEntry localType="published">Newspaper Article: The Chief in the West</relationEntry>
@@ -532,36 +506,48 @@ Salvation Army Boys' Home (1918 - 1965)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000716.htm">
-<relationEntry localType="published">Newspaper Article: The Daily News [Christmas Cheer Fund]</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001425.htm">
+<relationEntry localType="published">Newspaper Article: Salvos given a caning</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">The Daily News [Christmas Cheer Fund]</title>
+<title render="quoted">Salvos given a caning</title>
 <imprint>
-<date>1916</date>
+<date>1995</date>
 </imprint>
 <bibseries>
-<title render="italic">The Daily News</title>
-<num type="pages">10</num>
+<title render="italic">Sunday Times</title>
 </bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article81358001"></extptr>
 </bibref>
 </objectXMLWrap>
 
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000727.htm">
+<relationEntry localType="published">Newspaper Article: Salvation Army Rescue Work</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Salvation Army Rescue Work</title>
+<imprint>
+<date>1903</date>
+</imprint>
+<bibseries>
+<title render="italic">Kalgoorlie Western Argus</title>
+<num type="pages">36</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article32674697"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000935.htm">
 <relationEntry localType="digitalObject">General instructions</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Salvation Army Heritage Museum WA</repository>
 <unittitle>General instructions</unittitle>
-<unitid>Collie Estate child homes closed file</unitid>
 <unitdate>1907 - 1920</unitdate>
 <abstract>'General instructions' is a digital image of a photocopied item that is held in the <span style="font-style:italic">Collie Estate child homes closed</span> file at the Salvation Army Heritage Museum WA. The item gives instructions about how to discipline children in accordance with 'State Children Regulations'. A handwritten caption in the file indicates that the instructions are an excerpt from a 'Punishment Book'. The item is undated. The State Children's Department was not established until 1907 and the Salvation Army's institutions in Collie had closed by 1920, giving the item a practical date of 1907-1920.</abstract>
 <note label="rights">Salvation Army Heritage Museum WA</note>
@@ -577,9 +563,7 @@ Salvation Army Boys' Home (1918 - 1965)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Salvation Army Heritage Museum WA</repository>
 <unittitle>Our Collie Boys' Homes</unittitle>
-<unitid>Collie Estate child homes closed file</unitid>
 <unitdate>September 1913</unitdate>
 <abstract>'Our Collie Boys' Homes' is a digital copy of a photocopied article from <span style="font-style:italic">The Victory</span> dated September 1913 that is held in the <span style="font-style:italic">Collie Estate child homes closed</span> file at the Salvation Army Heritage Museum WA. The article gives a glowing account of life at the Salvation Army Industrial School for Boys Collie (No. 1 Home), and the Collie Boys' Home (No.2 Home). It also gives a lot of detail on the boys' daily routines, and includes images of boys and facilities.</abstract>
 <note label="rights">Salvation Army Heritage Museum WA</note>
@@ -595,9 +579,7 @@ Salvation Army Boys' Home (1918 - 1965)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Department for Child Protection and Family Support</repository>
 <unittitle>Home for Little Boys - Salvation Army Industrial School, Collie, 1906</unittitle>
-<unitid>Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools, Report 1906, after p.22</unitid>
 <unitdate>1907</unitdate>
 <abstract>'Home for Little Boys - Salvation Army Industrial School, Collie, 1906' is a digital copy of an image included (after p.22) in the <span style="font-style:italic">Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</span> for the year ending 31 December 1906.</abstract>
 <note label="rights">Department for Child Protection and Family Support</note>

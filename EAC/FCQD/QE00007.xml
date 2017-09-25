@@ -31,7 +31,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-11-16">2016-11-16</eventDateTime>
+<eventDateTime standardDateTime="2017-08-03">2017-08-03</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -66,7 +66,16 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE01015b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00017b.htm">
+<relationEntry localType="Legislation">
+Adoption of Children Act 1964 (1965 - 2010)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1964-01-01">1964</fromDate>
+<toDate standardDate="1965-12-31">1965</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE01015b.htm">
 <relationEntry localType="Legislation">
 Children's Services Act Amendment Act 1970 (1970 - 1995)
 </relationEntry>
@@ -138,14 +147,20 @@ Children's Services Act and Another Act Amendment Act 1989 (1989 - 1993)
 <toDate standardDate="1993-12-31">1993</toDate>
 </dateRange>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00017b.htm">
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00018b.htm">
 <relationEntry localType="Legislation">
-Adoption of Children Act 1964 (1965 - 2010)
+Guardianship and Custody of Infants Act 1891 (1891 - 1966)
 </relationEntry>
-<dateRange>
-<fromDate standardDate="1964-01-01">1964</fromDate>
-<toDate standardDate="1965-12-31">1965</toDate>
-</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00019b.htm">
+<relationEntry localType="Legislation">
+Children's Protection Act 1896 (1896 - 1966)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00013b.htm">
+<relationEntry localType="Legislation">
+Children's Court Act 1907 (1907 - 1966)
+</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00004b.htm">
 <relationEntry localType="Legislation">
@@ -155,21 +170,6 @@ State Children Act 1911 (1911 - 1966)
 <cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00012b.htm">
 <relationEntry localType="Legislation">
 Infant Life Protection Act 1905 (1905 - 1966)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00013b.htm">
-<relationEntry localType="Legislation">
-Children's Court Act 1907 (1907 - 1966)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00019b.htm">
-<relationEntry localType="Legislation">
-Children's Protection Act 1896 (1896 - 1965)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00018b.htm">
-<relationEntry localType="Legislation">
-Guardianship and Custody of Infants Act 1891 (1891 - 1966)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00115b.htm">
@@ -367,7 +367,7 @@ Child Protection Act 1999 (1999 - )
 <bibseries>
 <title render="italic">Queensland Legislation</title>
 </bibseries>
-<extptr linktype="simple" href="http://aiatsis.gov.au/archive_digitised_collections/remove/qld/legislation.html"></extptr>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect/queensland"></extptr>
 </bibref>
 </objectXMLWrap>
 

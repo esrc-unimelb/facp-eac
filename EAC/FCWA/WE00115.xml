@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-07-13">2016-07-13</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -132,7 +132,7 @@ Hostel (1900s - )
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00635b.htm">
@@ -153,6 +153,22 @@ Aboriginal Education and Employment Hostels (1950 - )
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000611.htm">
+<relationEntry localType="published">Resource: Transcripts [St Andrew's Hostel Inquiry]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Public Sector Commission, Western Australia</name>
+<title render="italic">Transcripts [St Andrew's Hostel Inquiry]</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+<date>2012</date>
+</imprint>
+<extptr linktype="simple" href="http://www.publicsector.wa.gov.au/public-administration/sector-performance-and-oversight/reviews-investigations-and-special-inquiries/special-inquiries/st-andrews-hostel-inquiry/transcripts"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
 <relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
 
@@ -172,35 +188,19 @@ Aboriginal Education and Employment Hostels (1950 - )
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000611.htm">
-<relationEntry localType="published">Resource: Transcripts [St Andrew's Hostel Inquiry]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Public Sector Commission, Western Australia</name>
-<title render="italic">Transcripts [St Andrew's Hostel Inquiry]</title>
-<imprint>
-<publisher>Government of Western Australia</publisher>
-<date>2012</date>
-</imprint>
-<extptr linktype="simple" href="http://www.publicsector.wa.gov.au/public-administration/sector-performance-and-oversight/reviews-investigations-and-special-inquiries/special-inquiries/st-andrews-hostel-inquiry/transcripts"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000610.htm">
 <relationEntry localType="published">Resource Section: Reidy House</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Heritage Council</name>
+<name type="author">Heritage Council of Western Australia</name>
 <title render="quoted">Reidy House</title>
 <imprint>
 <publisher>Government of Western Australia</publisher>
 <date>2015</date>
 </imprint>
 <bibseries>
-<title render="italic">inHerit: Search Heritage Places</title>
+<title render="italic">inHerit</title>
 <name type="author">Western Australia State Heritage Office</name>
 </bibseries>
 <extptr linktype="simple" href="http://inherit.stateheritage.wa.gov.au/public/p/1332"></extptr>
@@ -265,9 +265,7 @@ Aboriginal Education and Employment Hostels (1950 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Department for Child Protection and Family Support</repository>
 <unittitle>Activities in Kartanup Hostel Workshop</unittitle>
-<unitid>Department for Community Welfare, Western Australia , Annual Report 1983-84, p.49</unitid>
 <unitdate>1984</unitdate>
 <abstract>'Activities in Kartanup Hostel Workshop' is a digital copy of an image included (p.49) in the <span style="font-style:italic">Annual Report 1983-84</span> of the Department for Community Welfare.</abstract>
 <note label="rights">Department for Child Protection and Family Support</note>
@@ -280,9 +278,7 @@ Aboriginal Education and Employment Hostels (1950 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Heritage Council of Western Australia</repository>
 <unittitle>Kartanup</unittitle>
-<unitid>Place Number 01332, State Heritage Office</unitid>
 <unitdate>25 May 2011</unitdate>
 <abstract>This is a picture of the property called Reidy House, which was known as Kartanup and St Rita's Hostel during the 1970s and 1980s. In 1985, it became an annexe of St Andrew's Hostel at Katanning. This photograph was taken by Helen Munt.</abstract>
 </archref>

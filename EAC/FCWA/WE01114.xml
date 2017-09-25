@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-01-28">2015-01-28</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -96,7 +96,7 @@ Slow Learning Children's Group (1951 - 1989)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01213b.htm">
@@ -129,24 +129,6 @@ Ministering Children's League (1891 - 1957)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001089.htm">
-<relationEntry localType="published">Book: </relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">James, Ruth Marchant</name>
-<imprint>
-<place>Perth Western Australia</place>
-<publisher>Meath Ministering League Anglican Homes Perth WA</publisher>
-<date>1982</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000855.htm">
 <relationEntry localType="published">Book: Our Children: A History of the Slow Learning Children's Group of WA</relationEntry>
 
@@ -158,6 +140,25 @@ Ministering Children's League (1891 - 1957)
 <place>Perth</place>
 <publisher>Activ Foundation</publisher>
 <date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001089.htm">
+<relationEntry localType="published">Book: The Meath Story</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James, Ruth Marchant</name>
+<title render="italic">The Meath Story</title>
+<imprint>
+<place>Perth Western Australia</place>
+<publisher>Meath Ministering League Anglican Homes Perth WA</publisher>
+<date>1982</date>
 </imprint>
 </bibref>
 </objectXMLWrap>

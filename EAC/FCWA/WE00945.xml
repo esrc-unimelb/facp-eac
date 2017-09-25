@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-04-06">2017-04-06</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -63,9 +63,6 @@
 </function>
 <function>
 <term>Industrial School</term>
-</function>
-<function>
-<term>Half-caste Home</term>
 </function>
 <function>
 <term>Orphanage</term>
@@ -106,7 +103,7 @@ Stolen Generations
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00637b.htm">
@@ -156,22 +153,6 @@ St Mary's Mission, New Norcia (1848 - 1974)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00945b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001289.htm">
-<relationEntry localType="published">Report: Report by Margaret Valadian</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Valadian, Margaret</name>
-<title render="italic">Report by Margaret Valadian</title>
-<imprint>
-<place>Perth ?</place>
-<publisher>Department of Native Welfare ?</publisher>
-<date>196-</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000873.htm">
 <relationEntry localType="published">Resource Section: Charitable Institutions Bill Second Reading [Hansard p13-14]</relationEntry>
@@ -358,14 +339,28 @@ St Mary's Mission, New Norcia (1848 - 1974)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001289.htm">
+<relationEntry localType="published">Report: Report by Margaret Valadian</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Valadian, Margaret</name>
+<title render="italic">Report by Margaret Valadian</title>
+<imprint>
+<place>Perth ?</place>
+<publisher>Department of Native Welfare ?</publisher>
+<date>196-</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000287.htm">
 <relationEntry localType="digitalObject">The New Norcia Aboriginal Mission (W.A.)</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of Victoria</repository>
 <unittitle>The New Norcia Aboriginal Mission (W.A.)</unittitle>
-<unitid>Accession No: IAN01/02/95/4 Image No. mp007972</unitid>
 <unitdate>1 February 1895</unitdate>
 <abstract>This is a digital copy of a photograph held by the State Library of Victoria. It shows a collection of scenes from the New Norcia Mission which were published in 1895.</abstract>
 </archref>

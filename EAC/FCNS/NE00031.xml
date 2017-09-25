@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-16">2017-05-16</eventDateTime>
+<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -79,6 +79,7 @@
 <p>There was a school on site, but most girls were at or near school-leaving age when they were taken to the home and spent just a few months there being 'trained' before they were sent out to employment as 'apprentices' in homes in Sydney or rural New South Wales. These placements were arranged by Miss Lowe, who would also inspect the girls. Miss Lowe was, in the 1930s, replaced by Mrs Inspector English.</p>
 <p>In 1940 the Aborigines Protection Board was replaced by the Aborigines Welfare Board. The regime at the home became slightly more liberal, although it must be said the Aborigines Welfare Board instigated these changes to provide opportunities for Aboriginal girls to assimilate with white mainstream culture. Cootamundra girls began to attend the local high school, and enter their produce and craft in the Cootamundra Show. The longstanding Matron in this period was Ella Hiscocks. Cootamundra townspeople became more involved in fundraising for the home, and girls began to attend dances and socials. They also had more training and employment opportunities, although domestic service remained a priority.</p>
 <p>When the Aborigines Welfare Board was abolished in 1969 the site was taken over by the New South Wales Department of Youth and Community Services and run as a girls home. In 1975 the buildings were sold to the Young Aboriginal Land Council and renamed Bimbadeen. In 2014 Bimbadeen was still in use as an Aboriginal-run Christian training centre.</p>
+<p>Cootamundra Girls' Home was mentioned in the Bringing Them Home Report (1997) as an institution that housed Indigenous children removed from their families.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1911-01-01">1911</fromDate>
 <toDate standardDate="1969-12-31">1969</toDate>
@@ -95,10 +96,18 @@
 Aborigines Protection Board (1883 - 1940)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01380b.htm">
-<relationEntry localType="Glossary Term">
-Half-Caste (1788 - 1970s)
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00033b.htm">
+<relationEntry localType="Organisation">
+Aborigines Welfare Board (1940 - 1969)
 </relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00019b.htm">
+<relationEntry localType="Legislation">
+Aborigines Act 1969 (1969 - 1983)
+</relationEntry>
+<descriptiveNote>
+<p>The management of the Cootamundra Training Home was transferred to the Child Welfare Department by the <span style="font-style:italic">Aborigines Welfare Act 1969</span>.</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01027b.htm">
 <relationEntry localType="Glossary Term">
@@ -144,17 +153,9 @@ Aborigines Welfare Board Photographs (c. 1916 - c. 1961)
 <p>Some photographs of girls at Cootamundra are included in this series of photographs.</p>
 </descriptiveNote>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00019b.htm">
-<relationEntry localType="Legislation">
-Aborigines Act 1969 (1969 - 1983)
-</relationEntry>
-<descriptiveNote>
-<p>The management of the Cootamundra Training Home was transferred to the Child Welfare Department by the <span style="font-style:italic">Aborigines Welfare Act 1969</span>.</p>
-</descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01615b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01008b.htm">
 <relationEntry localType="Glossary Term">
-Homefinder (1890 - 1920s)
+Stolen Generations
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00010b.htm">
@@ -206,9 +207,9 @@ Brewarrina Aboriginal Station Dormitory (c. 1897 - c. 1940)
 <p>Girls were transferred between the Brewarrina Dormitory and Cootamundra Training Home</p>
 </descriptiveNote>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01008b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01615b.htm">
 <relationEntry localType="Glossary Term">
-Stolen Generations
+Homefinder (1890 - 1920s)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00030b.htm">
@@ -255,6 +256,21 @@ Bimbadeen Girls Home (1969 - 1974)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00031b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000161.htm">
+<relationEntry localType="published">Report: Bringing them home: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Bringing them home: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</title>
+<imprint>
+<publisher>Commonwealth of Australia: Human Rights and Equal Opportunities Commission</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000900.htm">
 <relationEntry localType="published">Journal: Annual report of the Aborigines Welfare Board for the year ended …</relationEntry>
@@ -303,7 +319,7 @@ Bimbadeen Girls Home (1969 - 1974)
 <publisher>University of Sydney</publisher>
 <date>2010-2013</date>
 </imprint>
-<extptr linktype="simple" href="http://www.historyofaboriginalsydney.edu.au/about"></extptr>
+<extptr linktype="simple" href="http://www.historyofaboriginalsydney.edu.au/index.php?p=about"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -464,9 +480,7 @@ Bimbadeen Girls Home (1969 - 1974)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Records Photo Investigator</repository>
 <unittitle>Cootamundra Training Home for Girls - school</unittitle>
-<unitid>4346_a020_a020000151</unitid>
 <unitdate>c. 1915 - c. 1920</unitdate>
 <note label="rights">State Records New South Wales</note>
 </archref>
@@ -478,9 +492,7 @@ Bimbadeen Girls Home (1969 - 1974)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Records Photo Investigator</repository>
 <unittitle>Cootamundra Training Home for Girls - back view</unittitle>
-<unitid>4346_a020_a020000151</unitid>
 <unitdate>c. 1911 - c. 1920</unitdate>
 <note label="rights">State Records New South Wales</note>
 </archref>
@@ -492,9 +504,7 @@ Bimbadeen Girls Home (1969 - 1974)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Records Photo Investigator</repository>
 <unittitle>Cootamundra Training Home for Girls - Dormitory</unittitle>
-<unitid>4346_a020_a020000151</unitid>
 <unitdate>c. 1911 - c. 1920</unitdate>
 <note label="rights">State Records New South Wales</note>
 </archref>
@@ -506,7 +516,6 @@ Bimbadeen Girls Home (1969 - 1974)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>YouTube</repository>
 <unittitle>Back to Cootamundra</unittitle>
 <unitdate>9 June 2012</unitdate>
 <abstract>[This description was taken from the caption published on the SBS Living Black channel on YouTube. This episode aired on 9 June 2012]
@@ -521,7 +530,6 @@ Its been a long journey of healing for former residents of the Cootamundra Girls
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Records NSW Photo Investigator</repository>
 <unittitle>Cootamundra Training Home for Girls - front view</unittitle>
 <unitid>State Records New South Wales digital ID 4346_a020_a020000148.jpg</unitid>
 <unitdate>c. 1911 - c. 1940</unitdate>

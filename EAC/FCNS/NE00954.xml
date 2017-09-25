@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-15">2017-05-15</eventDateTime>
+<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -67,24 +67,14 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00456b.htm">
-<relationEntry localType="Organisation">
-Council of Education (1866 - 1880)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00457b.htm">
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00457b.htm">
 <relationEntry localType="Organisation">
 Department of Justice and Public Instruction (1873 - 1881)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00808b.htm">
-<relationEntry localType="Archival Series">
-School Files (1876 - 1979)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01025b.htm">
-<relationEntry localType="Glossary Term">
-Truancy (1881 - )
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00456b.htm">
+<relationEntry localType="Organisation">
+Council of Education (1866 - 1880)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00809b.htm">
@@ -92,17 +82,15 @@ Truancy (1881 - )
 School Records, Education Department (1881 - )
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00408b.htm">
-<relationEntry localType="Place">
-Brush Farm (1803 - )
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01025b.htm">
+<relationEntry localType="Glossary Term">
+Truancy (1881 - )
 </relationEntry>
-<dateRange>
-<fromDate standardDate="1881-01-01">1881</fromDate>
-<toDate standardDate="1915-12-31">1915</toDate>
-</dateRange>
-<descriptiveNote>
-<p>The Department of Public Instruction purchased Brush Farm.</p>
-</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00808b.htm">
+<relationEntry localType="Archival Series">
+School Files (1876 - 1979)
+</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00038b.htm">
 <relationEntry localType="Organisation">
@@ -306,7 +294,6 @@ Department of Education, State Government of New South Wales (1915 - 1989)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Records NSW</repository>
 <unittitle>Department of Public Instruction, Sydney</unittitle>
 <note label="rights">State Records NSW</note>
 </archref>

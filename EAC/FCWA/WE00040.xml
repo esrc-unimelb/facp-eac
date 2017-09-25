@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-08-26">2015-08-26</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -94,7 +94,7 @@ Council Presbyterian Children's Homes (1938? - 1963?)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00646b.htm">
@@ -202,6 +202,26 @@ Benmore Presbyterian Children's Home (1947 - 1962?)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001082.htm">
+<relationEntry localType="published">Resource Section: Burnbrae Orphanage</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Heritage Council of Western Australia</name>
+<title render="quoted">Burnbrae Orphanage</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+<date>2015</date>
+</imprint>
+<bibseries>
+<title render="italic">inHerit</title>
+<name type="author">Western Australia State Heritage Office</name>
+</bibseries>
+<extptr linktype="simple" href="http://inherit.stateheritage.wa.gov.au/public/p/8481"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000589.htm">
 <relationEntry localType="published">Resource Section: Submission No. 496 Inquiry into Children in Institutional Care: Submissions</relationEntry>
 
@@ -232,6 +252,26 @@ Benmore Presbyterian Children's Home (1947 - 1962?)
 <imprint>
 <publisher>Commonwealth of Australia</publisher>
 <date>2004</date>
+</imprint>
+<bibseries>
+<title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
+<name type="author">Senate Community Affairs Committee</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000513.htm">
+<relationEntry localType="published">Resource Section: Submission No. 160 Inquiry into Children in Institutional Care: Submissions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Mofflyn</name>
+<title render="quoted">Submission No. 160 Inquiry into Children in Institutional Care: Submissions</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2003</date>
 </imprint>
 <bibseries>
 <title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
@@ -282,46 +322,6 @@ Benmore Presbyterian Children's Home (1947 - 1962?)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000513.htm">
-<relationEntry localType="published">Resource Section: Submission No. 160 Inquiry into Children in Institutional Care: Submissions</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Mofflyn</name>
-<title render="quoted">Submission No. 160 Inquiry into Children in Institutional Care: Submissions</title>
-<imprint>
-<publisher>Commonwealth of Australia</publisher>
-<date>2003</date>
-</imprint>
-<bibseries>
-<title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
-<name type="author">Senate Community Affairs Committee</name>
-</bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001082.htm">
-<relationEntry localType="published">Resource Section: Burnbrae Orphanage</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Heritage Council</name>
-<title render="quoted">Burnbrae Orphanage</title>
-<imprint>
-<publisher>Government of Western Australia</publisher>
-<date>2015</date>
-</imprint>
-<bibseries>
-<title render="italic">inHerit: Search Heritage Places</title>
-<name type="author">Western Australia State Heritage Office</name>
-</bibseries>
-<extptr linktype="simple" href="http://inherit.stateheritage.wa.gov.au/public/p/8481"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000022.htm">
 <relationEntry localType="published">Report: Annual Report of the Child Welfare Department</relationEntry>
 
@@ -364,9 +364,7 @@ Benmore Presbyterian Children's Home (1947 - 1962?)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Uniting Church (Synod of Western Australia), Archives</repository>
 <unittitle>Dedication and Official Opening of Benmore</unittitle>
-<unitid>Uniting Church (Synod of Western Australia) Uniting Church Children's Homes File, Western Australia Archives</unitid>
 <unitdate>17 May 1947</unitdate>
 <abstract>'Dedication and Official Opening of Benmore' is a digital copy of the program printed for the opening of the Benmore Presbyterian Children's Home in 1947. It has images and history about the Benmore and Burnbrae Presbyterian Children's Homes, a plan of Benmore and a list of the Home's 'needs'. A photocopy of this program is held in the Uniting Church (Synod of Western Australia) Archives.</abstract>
 <note label="rights">Uniting Church (Synod of Western Australia), Archives</note>
@@ -382,9 +380,7 @@ Benmore Presbyterian Children's Home (1947 - 1962?)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Uniting Church (Synod of Western Australia), Archives</repository>
 <unittitle>The Children's Homes, 1953 [Presbyterian Children's Home Council, excerpt]</unittitle>
-<unitid>Uniting Church (Synod of Western Australia) Uniting Church Children's Homes File, Western Australia Archives</unitid>
 <unitdate>1953</unitdate>
 <abstract>'The Children's Homes, 1953 [Presbyterian Children's Home Council, excerpt]' is a digital copy of an excerpt from a report given to the Presbyterian Church by the committee that ran the Burnbrae and Benmore Presbyterian Children's Homes. A photocopy of this report is held in the Uniting Church (Synod of Western Australia) Archives.</abstract>
 <note label="rights">Uniting Church (Synod of Western Australia), Archives</note>
@@ -397,9 +393,7 @@ Benmore Presbyterian Children's Home (1947 - 1962?)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Uniting Church (Synod of Western Australia), Archives</repository>
 <unittitle>Report of Childrens Homes Committee, 1939 [excerpt]</unittitle>
-<unitid>Uniting Church (Synod of Western Australia) Uniting Church Children's Homes File, Western Australia Archives</unitid>
 <unitdate>1939</unitdate>
 <abstract>'Report of Childrens Homes Committee, 1939 [excerpt]' is a digital copy of an exerpt from a report given to the Presbyterian Church by the committee established to develop and run children's Homes on behalf of the church in Western Australia. A photocopy of this report is held in the Uniting Church (Synod of Western Australia) Archives.</abstract>
 <note label="rights">Uniting Church (Synod of Western Australia), Archives</note>
@@ -412,9 +406,7 @@ Benmore Presbyterian Children's Home (1947 - 1962?)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Archives of Australia</repository>
 <unittitle>John Moss C.B.E. U.K. Child Welfare Expert. Visit to Australia. Part II</unittitle>
-<unitid>A445, 133/3/7</unitid>
 <unitdate>1951 - 1952</unitdate>
 <abstract>This is a file held online by the National Archives of Australia. It has draft reports on the Australian institutions which took unaccompanied British child migrants after World War Two.</abstract>
 </archref>
@@ -426,9 +418,7 @@ Benmore Presbyterian Children's Home (1947 - 1962?)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Records Office of Western Australia</repository>
 <unittitle>Burnbrae Home and School location map, 1954</unittitle>
-<unitid>Series 24 - Files Departmental; Cons: 1497 Item: 1941/0538, page 179</unitid>
 <unitdate>26 February 1954</unitdate>
 <abstract>'Burnbrae Home and School location map' is a digital photograph of a drawing made by Mr B. Downes, who was the Head Teacher of the Government School, Burnbrae. The drawing shows the relative location of the school, the Burnbrae Presbyterian Children's Home and nearby roads. The drawing is part of a building and works file created by the Education Department and held at the State Records Office of Western Australia.</abstract>
 </archref>
@@ -443,7 +433,6 @@ Benmore Presbyterian Children's Home (1947 - 1962?)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Uniting Church Archives, Western Australia.</repository>
 <unittitle>Burnbrae Presbyterian Children's Home</unittitle>
 <unitdate>1947</unitdate>
 <abstract>This picture of Burnbrae Presbyterian Children's Home in Byford was used in the programme for the opening of a new Home (Benmore) in Caversham. It probably shows Burnbrae as it looked in 1947.</abstract>
@@ -459,7 +448,6 @@ Benmore Presbyterian Children's Home (1947 - 1962?)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Source: State Records Office of Western Australia. Series 3615; Cons: 1203 Item: 071</repository>
 <unittitle>Burnbrae School Journal Instructions 1949</unittitle>
 <unitdate>1956</unitdate>
 <abstract>This is a picture of the label that was glued inside the cover of a Burnbrae School Journal. The label has instructions about how to use the journal. The journal was the official record of events at the school so the Education Department tried to regulate the type of things that were written in it.</abstract>
@@ -472,7 +460,6 @@ Benmore Presbyterian Children's Home (1947 - 1962?)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Records Office of Western Australia. Series 3615; Cons: 1203 Item: 070</repository>
 <unittitle>Burnbrae School Journal Instructions pre-1949</unittitle>
 <unitdate>1948</unitdate>
 <abstract>This is a picture of the label that was glued inside the cover of a Burnbrae School Journal. The label has instructions about how to use the journal. The journal was the official record of events at the school so the Education Department tried to regulate the type of things that were written in it.</abstract>
@@ -485,7 +472,6 @@ Benmore Presbyterian Children's Home (1947 - 1962?)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Records Office of Western Australia. Series 3615; Cons: 1203 Item: 071</repository>
 <unittitle>Burnbrae School Journal</unittitle>
 <unitdate>1956 - 1958</unitdate>
 <abstract>This is a picture of the front cover of the Burnbrae School Journal. Journals like this were issued to all state schools by the Education Department in Western Australia. This journal can be seen in the State Records Office of Western Australia.</abstract>

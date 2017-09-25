@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-04-28">2017-04-28</eventDateTime>
+<eventDateTime standardDateTime="2017-09-12">2017-09-12</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -92,6 +92,7 @@
 <p>In 2009, the site of the former home is known as WorldMark Ballarat, a resort and conference centre.</p>
 <p>The convicted paedophile Father Gerard Francis Ridsdale was a 'visiting chaplain' at St Joseph's Home in the 1960s (he also had this role at Nazareth House, Ballarat). The organisation Broken Rites has reported that some of Ridsdale's victims were residents at the two institutions in Ballarat run by the Sisters of Nazareth.</p>
 <p>Numerous survivors have given testimony about the abuse of children in St Joseph's Home and Nazareth House Ballarat, including to the Senate Inquiry into Children in Institutional Care (2003-2004), the Victorian Inquiry into the handling of child abuse by religious and other organisations (2012-2013) and the Royal Commission into Institutional responses to Child Sexual Abuse (2013-2017).</p>
+<p>St Joseph's Home was mentioned in the Bringing Them Home Report (1997) as an institution that housed Indigenous children removed from their families.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1913-01-01">1913</fromDate>
 <toDate standardDate="1913-12-31">1913</toDate>
@@ -106,6 +107,11 @@
 <relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000168b.htm">
 <relationEntry localType="Organisation">
 Sisters of Nazareth (c. 1920 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000158b.htm">
+<relationEntry localType="Glossary Term">
+Stolen Generations
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000159b.htm">
@@ -138,6 +144,22 @@ Nazareth House, Ballarat (1888 - 1976)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000346b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000041.htm">
+<relationEntry localType="published">Report: Bringing Them Home: Report of the National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from their Families</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Human Rights and Equal Opportunity Commission</name>
+<title render="italic">Bringing Them Home: Report of the National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from their Families</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>1997</date>
+</imprint>
+<extptr linktype="simple" href="http://www.humanrights.gov.au/publications/bringing-them-home-stolen-children-report-1997"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001166.htm">
 <relationEntry localType="published">Resource Section: Spotlight on Ballarat</relationEntry>
@@ -172,7 +194,7 @@ Nazareth House, Ballarat (1888 - 1976)
 <bibseries>
 <title render="italic">SBS</title>
 </bibseries>
-<extptr linktype="simple" href="http://www.sbs.com.au/news/feature/girls-paedophile-and-cardinal-pell"></extptr>
+<extptr linktype="simple" href="https://donaldelley.wordpress.com/2017/06/28/the-girls-the-paedophile-and-cardinal-pell/"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -391,7 +413,6 @@ Nazareth House, Ballarat (1888 - 1976)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>www.worldmarktheclub.com</repository>
 <unittitle>St Joseph's Home, Sebastapol [former site]</unittitle>
 <unitdate>2009?</unitdate>
 </archref>
@@ -405,8 +426,9 @@ Nazareth House, Ballarat (1888 - 1976)
 <archref xmlns="urn:isbn:1-931666-22-9">
 <repository>State Library of Victoria</repository>
 <unittitle>St Joseph's Home, Grant Street, Sebastapol</unittitle>
-<unitid>Accession Number: H90.100/854, Image Number: jc000849</unitid>
-<note label="rights">Reproduction rights owned by the State Library of Victoria</note>
+<unitdate>1965</unitdate>
+<note label="rights">Terms of use: Use of this work allowed provided the creator and SLV acknowledged.
+No known copyright restrictions apply.</note>
 </archref>
 </objectXMLWrap>
 

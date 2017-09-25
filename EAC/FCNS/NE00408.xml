@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-15">2017-05-15</eventDateTime>
+<eventDateTime standardDateTime="2017-08-30">2017-08-30</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -65,7 +65,17 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01004b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00954b.htm">
+<relationEntry localType="Organisation">
+Department of Public Instruction (1880 - 1915)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00037b.htm">
+<relationEntry localType="Organisation">
+State Children's Relief Board (1881 - 1923)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01004b.htm">
 <relationEntry localType="Glossary Term">
 Reformatory (1860s - 1980s)
 </relationEntry>
@@ -74,18 +84,6 @@ Reformatory (1860s - 1980s)
 <relationEntry localType="Glossary Term">
 Mental Deficiency (c. 1905 - c. 1960)
 </relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00954b.htm">
-<relationEntry localType="Organisation">
-Department of Public Instruction (1880 - 1915)
-</relationEntry>
-<dateRange>
-<fromDate standardDate="1881-01-01">1881</fromDate>
-<toDate standardDate="1915-12-31">1915</toDate>
-</dateRange>
-<descriptiveNote>
-<p>The Department of Public Instruction purchased Brush Farm.</p>
-</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01016b.htm">
 <relationEntry localType="Organisation">
@@ -284,9 +282,7 @@ Brush Farm Infants' Home (1968 - 1988)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of New South Wales</repository>
 <unittitle>Brush Farm</unittitle>
-<unitid>d3_27557</unitid>
 <unitdate>31 May 1976</unitdate>
 <note label="rights">Reproduction rights owned by the State Library of New South Wales</note>
 </archref>

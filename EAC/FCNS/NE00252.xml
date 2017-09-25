@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-16">2017-05-16</eventDateTime>
+<eventDateTime standardDateTime="2017-08-31">2017-08-31</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -109,6 +109,14 @@
 Burnside Presbyterian Orphan Homes (1911 - 1955)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00507b.htm">
+<relationEntry localType="Event">
+Child and Youth Migration to New South Wales (c. 1911 - 1983)
+</relationEntry>
+<descriptiveNote>
+<p>Burnside Presbyterian Homes for Children was a receiving agency for child migrants.</p>
+</descriptiveNote>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01068b.htm">
 <relationEntry localType="Organisation">
 Presbyterian Metropolitan Mission (1900 - 1973?)
@@ -128,14 +136,6 @@ Records held by Burnside Archives (1911 - )
 <relationEntry localType="Glossary Term">
 Cottage Homes
 </relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00507b.htm">
-<relationEntry localType="Event">
-Child and Youth Migration to New South Wales (c. 1911 - 1983)
-</relationEntry>
-<descriptiveNote>
-<p>Burnside Presbyterian Homes for Children was a receiving agency for child migrants.</p>
-</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00261b.htm">
 <relationEntry localType="Organisation">
@@ -173,6 +173,11 @@ Novar (1916 - 1952)
 <descriptiveNote>
 <p>Novar was one of the cottages at Burnside Presbyterian Homes for Children</p>
 </descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00278b.htm">
+<relationEntry localType="Organisation">
+Presbyterian Church of Australia (1803 - )
+</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00265b.htm">
 <relationEntry localType="Organisation">
@@ -305,6 +310,24 @@ Burnside Homes for Children (1978 - 1986)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00252b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001086.htm">
+<relationEntry localType="published">Resource Section: Burnside: Photos and Stories of the 20th Century</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Burnside: Photos and Stories of the 20th Century</title>
+<imprint>
+<publisher>Uniting (NSW.ACT)</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Uniting</title>
+</bibseries>
+<extptr linktype="simple" href="http://cdn.uniting.org/burnside-stories/index.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000498.htm">
 <relationEntry localType="published">Resource Section: Hills Voices Online: Heritage Sites</relationEntry>
@@ -450,9 +473,7 @@ Homes for Children</publisher>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of New South Wales</repository>
 <unittitle>Burnside Orphanage, Parramatta: general view</unittitle>
-<unitid>d1_13848</unitid>
 <unitdate>August 1920</unitdate>
 <note label="rights">Reproduction rights owned by the State Library of New South Wales</note>
 </archref>
@@ -516,9 +537,7 @@ Homes for Children</publisher>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of New South Wales</repository>
 <unittitle>Burnside Orphanage, Parramatta</unittitle>
-<unitid>d1_13852</unitid>
 <unitdate>August 1920</unitdate>
 <note label="rights">Reproduction rights owned by the State Library of New South Wales</note>
 </archref>

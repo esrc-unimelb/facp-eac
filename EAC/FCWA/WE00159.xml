@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-06-24">2016-06-24</eventDateTime>
+<eventDateTime standardDateTime="2017-09-14">2017-09-14</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -175,7 +175,7 @@ Interview with Beryl Grant, nurse, State Library of Western Australia (1989)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00365b.htm">
@@ -269,7 +269,7 @@ Department for Community Services, State of Western Australia (1985 - 1992)
 <publisher>South Perth Hospital</publisher>
 <date>1989</date>
 </imprint>
-<extptr linktype="simple" href="http://www.sph.org.au/our-history"></extptr>
+<extptr linktype="simple" href="http://www.sph.org.au/?page_id=124"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -312,6 +312,30 @@ Department for Community Services, State of Western Australia (1985 - 1992)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000645.htm">
+<relationEntry localType="published">Book Section: Ngala</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Grant, Beryl</name>
+<title render="quoted">Ngala</title>
+<imprint>
+<place>Crawley, W.A.</place>
+<publisher>University of Western Australia Press</publisher>
+<date>2009</date>
+</imprint>
+<bibseries>
+<title render="italic">Historical Encyclopedia of Western Australia</title>
+<name type="author">Gregory, Jenny and Jan Gothard [editors]</name>
+<num type="pages">635-636</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000775.htm">
 <relationEntry localType="published">Resource Section: Statement of Support for Adoption Apology [Ngala]</relationEntry>
 
@@ -348,23 +372,21 @@ Department for Community Services, State of Western Australia (1985 - 1992)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000645.htm">
-<relationEntry localType="published">Book Section: Ngala</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000324.htm">
+<relationEntry localType="published">Resource: Western Australian Government Gazette Online Archive</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Grant, Beryl</name>
-<title render="quoted">Ngala</title>
+<name type="author"></name>
+<title render="italic">Western Australian Government Gazette Online Archive</title>
 <imprint>
-<place>Crawley, W.A.</place>
-<publisher>University of Western Australia Press</publisher>
-<date>2009</date>
+<publisher>State Law Publisher of Western Australia</publisher>
 </imprint>
 <bibseries>
-<title render="italic">Historical Encyclopedia of Western Australia</title>
-<name type="author">Gregory, Jenny and Jan Gothard [editors]</name>
-<num type="pages">635-636</num>
+<title render="italic">State Law Publisher: Official Publisher of Western Australian Legislation and Statutory Information</title>
+<name type="author">Western Australia</name>
 </bibseries>
+<extptr linktype="simple" href="http://www.slp.wa.gov.au/gazette/gazette.nsf"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -391,28 +413,6 @@ Department for Community Services, State of Western Australia (1985 - 1992)
 </bibref>
 </objectXMLWrap>
 
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000324.htm">
-<relationEntry localType="published">Resource: Western Australian Government Gazette Online Archive</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Western Australian Government Gazette Online Archive</title>
-<imprint>
-<publisher>State Law Publisher of Western Australia</publisher>
-</imprint>
-<bibseries>
-<title render="italic">State Law Publisher: Official Publisher of Western Australian Legislation and Statutory Information</title>
-<name type="author">Western Australia</name>
-</bibseries>
-<extptr linktype="simple" href="http://www.slp.wa.gov.au/gazette/gazette.nsf"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000006.htm">
 <relationEntry localType="published">Book: The Open Door: a History of Loving Care for Families, House of Mercy-Alexandra Home-Ngala, 1890-1980</relationEntry>
@@ -456,9 +456,7 @@ Department for Community Services, State of Western Australia (1985 - 1992)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>City of South Perth Local History Collection</repository>
 <unittitle>The entrance of Ngala, 1961</unittitle>
-<unitid>City of South Perth Local History Collection COSP_PH_2224/</unitid>
 <unitdate>1961</unitdate>
 <abstract>This digitised image is part of the Picture South Perth Photograph Collection. Matron Beryl Grant is pictured with some children at the front entrance of the Ngal-a Mothercraft Home and Training Centre Inc.</abstract>
 <note label="rights">Reproduction rights owned by City of South Perth</note>
@@ -474,9 +472,7 @@ Department for Community Services, State of Western Australia (1985 - 1992)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>PhotoSearch, National Archives of Australia</repository>
 <unittitle>Sister Janet Chin, from Malaya [Ngala]</unittitle>
-<unitid>PhotoSearch Image no. A1501, A4281/3 Barcode 8925298</unitid>
 <unitdate>1963</unitdate>
 <abstract>This is a digital version of an image held by the 'PhotoSearch' site of the National Archives of Australia.The full title is 'Sister Janet Chin, from Malaya [Malaysia], a triple certificated nurse has spent 18 months in Australia as a private student, specialising in maternal and infant care and obtaining a diploma in child care at Ngala, a mothercraft and infant welfare centre in South Perth - Sister Chin with five month old baby Diane [photographic image] / photographer, W Hartley. 1 photographic negative: b&amp;w, acetate'.</abstract>
 <note label="rights">National Archives of Australia</note>

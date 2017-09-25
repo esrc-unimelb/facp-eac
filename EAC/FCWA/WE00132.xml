@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-08-01">2016-08-01</eventDateTime>
+<eventDateTime standardDateTime="2017-09-14">2017-09-14</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -97,6 +97,15 @@
 Department for Community Services, State of Western Australia (1985 - 1992)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00365b.htm">
+<relationEntry localType="Organisation">
+Department for Community Welfare, State of Western Australia (1972 - 1985)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1983-01-01">1983</fromDate>
+<toDate standardDate="1985-12-31">1985</toDate>
+</dateRange>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00361b.htm">
 <relationEntry localType="Organisation">
 Department for Community Development, State of Western Australia (1992 - 1995)
@@ -108,7 +117,7 @@ Department for Community Development, State of Western Australia (1992 - 1995)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00167b.htm">
@@ -141,15 +150,6 @@ Longmore Hostel (1982 - 1985)
 <p>Longmore Hostel was located in the grounds of Longmore Training Centre</p>
 </descriptiveNote>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00365b.htm">
-<relationEntry localType="Organisation">
-Department for Community Welfare, State of Western Australia (1972 - 1985)
-</relationEntry>
-<dateRange>
-<fromDate standardDate="1983-01-01">1983</fromDate>
-<toDate standardDate="1985-12-31">1985</toDate>
-</dateRange>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00131b.htm">
 <relationEntry localType="Organisation">
 Longmore Remand and Assessment Centre (1965 - 1993?)
@@ -164,7 +164,7 @@ Longmore Remand and Assessment Centre (1965 - 1993?)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00578b.htm">
 <relationEntry localType="Organisation">
-Freedom of Information, Department for Child Protection and Family Support WA
+Freedom of Information, Child Protection and Family Support (1992? - )
 </relationEntry>
 <dateRange>
 <fromDate standardDate="1983-01-01">1983</fromDate>
@@ -283,6 +283,9 @@ Longmore Detention Centre (1993 - 1997)
 </bibref>
 </objectXMLWrap>
 
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
 <relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-12">2017-05-12</eventDateTime>
+<eventDateTime standardDateTime="2017-09-15">2017-09-15</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -118,9 +118,14 @@ Uniting Church in Australia (1977 - )
 <toDate standardDate="1991-12-31">1991</toDate>
 </dateRange>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000746b.htm">
+<relationEntry localType="Archival Collection">
+Records held by Uniting Church Archives (1923 - 1994)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000886b.htm">
 <relationEntry localType="Archival Collection">
-Records held by Connections UnitingCare (c. 1910 - )
+Records held by Uniting - Connections (1910 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000779b.htm">
@@ -282,6 +287,21 @@ Copelen Child and Family Services (1991 - 1998)
 
 <descriptiveNote>
 <p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000135.htm">
+<relationEntry localType="digitalObject">Methodist Babies' Home</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Methodist Babies' Home</unittitle>
+<abstract>Postcard of Methodist Babies' Home, South Yarra.</abstract>
+<note label="rights">Stonnington History Centre</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
 </descriptiveNote>
 </resourceRelation>
 </relations>

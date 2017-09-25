@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<eventDateTime standardDateTime="2017-08-24">2017-08-24</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -51,6 +51,7 @@
 <description><existDates>
 <dateRange>
 <fromDate standardDate="1863-01-01">1863</fromDate>
+<toDate standardDate="2008-12-31">2008</toDate>
 </dateRange>
 </existDates>
 <places>
@@ -67,14 +68,16 @@
 </function>
 </functions>
 <biogHist>
-<abstract>On 24 June 1863 the first four Good Shepherd Sisters landed in Melbourne, having travelled from Angers in France at the request of Bishop James Goold of Melbourne, to establish a female rescue home. They purchased a property at Abbotsford, from which they ran an industrial school, commercial laundry, and provided accommodation for female juvenile offenders, and poor and homeless women. The work with children and families carried out by the Good Shepherd Sisters has been the responsibility of the Good Shepherd Youth and Family Service since the establishment of that organisation in 1976.</abstract>
+<abstract>On 24 June 1863 the first four Good Shepherd Sisters landed in Melbourne, having travelled from Angers in France at the request of Bishop James Goold of Melbourne, to establish a female rescue home. They purchased a property at Abbotsford, from which they ran an industrial school, commercial laundry, and provided accommodation for female juvenile offenders, and poor and homeless women. In 1976, the Sisters' work with children and families became the responsibility of the newly-established Good Shepherd Youth and Family Service. In 2008, the Sisters established Good Shepherd Australia New Zealand.</abstract>
 <p>In 1973 the Good Shepherd Sisters adopted a policy of deinstitutionalisation. They went on to provide hostel accommodation for the girls and women. The Good Shepherd Sisters worked in such areas as youth, family and financial counselling, emergency housing, and prison, hospital and industrial chaplaincies.</p>
+<p>The work with children and families carried out by the Good Shepherd Sisters became the responsibility of the Good Shepherd Youth and Family Service which was established in 1976.</p>
+<p>As part of their succession planning, the Sisters established Good Shepherd Australia New Zealand in 2008 to create a formal framework for sustaining and developing the Good Shepherd mission into the future.</p>
 
 </biogHist>
 </description>
 <relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000729b.htm">
 <relationEntry localType="Archival Collection">
-Good Shepherd Provincialate Records (1865 - c. 1981)
+Good Shepherd Archive collection of records of provision of residential care in Victoria (1863 - c. 1981)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000237b.htm">
@@ -87,12 +90,12 @@ Catholic Church in Australia (c. 1788 - )
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000919b.htm">
 <relationEntry localType="Organisation">
-Good Shepherd Archives (1863 - )
+Good Shepherd Archive (1983 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000010b.htm">
 <relationEntry localType="Organisation">
-Good Shepherd Youth and Family Services (1976 - )
+Good Shepherd Youth and Family Services (1976 - 2014)
 </relationEntry>
 <dateRange>
 <fromDate standardDate="1976-01-01">1976</fromDate>
@@ -119,7 +122,12 @@ Convent of the Good Shepherd, Oakleigh (1883 - 1981)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000187b.htm">
 <relationEntry localType="Organisation">
-Convent of the Good Shepherd, Bendigo (1905 - 1980?)
+Convent of the Good Shepherd, Bendigo (1905 - 1984)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001053b.htm">
+<relationEntry localType="Organisation">
+Good Shepherd Australia New Zealand (2008 - )
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
@@ -134,6 +142,24 @@ Convent of the Good Shepherd, Bendigo (1905 - 1980?)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000143b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001233.htm">
+<relationEntry localType="published">Resource Section: Our history</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Our history</title>
+<imprint>
+<publisher>Good Shepherd Australia New Zealand</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.goodshep.org.au/about-us/our-history/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001034.htm">
 <relationEntry localType="published">Resource Section: Good Shepherd Sisters denying history</relationEntry>

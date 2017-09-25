@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-15">2017-05-15</eventDateTime>
+<eventDateTime standardDateTime="2017-08-11">2017-08-11</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -67,7 +67,6 @@
 </functions>
 <biogHist>
 <abstract>The Adolescent Program, formerly run under the name of St Saviour's Cottage Home, operated at Goulburn until 1994. This service implemented individual care programs for children and young people with a goal of restoration and reconciliation with families as the option of first choice. The Program changed from a residential model in 1995 and in 1996 operated as a flexible community placement model.</abstract>
-<p>In 2012 Anglicare's Goulburn Child Protection Service was operating from 134 Cowper Street, providing counselling and other services to children aged 4 to 13 and their families.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1986-01-01">1986</fromDate>
 <toDate standardDate="1994-12-31">1994</toDate>
@@ -79,14 +78,19 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00096b.htm">
-<relationEntry localType="Organisation">
-St Saviour's Neighbourhood Centre Goulburn (1980 - )
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00100b.htm">
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00100b.htm">
 <relationEntry localType="Organisation">
 St Saviour's Cottage Home (1982 - 1986)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00844b.htm">
+<relationEntry localType="Archival Collection">
+Records of the St Saviour's Children's Home and St Saviour's Cottage Home (1929 - 1994)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00096b.htm">
+<relationEntry localType="Organisation">
+St Saviour's Neighbourhood Centre (1980 - )
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">

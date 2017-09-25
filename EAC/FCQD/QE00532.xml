@@ -31,7 +31,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-12">2017-05-12</eventDateTime>
+<eventDateTime standardDateTime="2017-06-23">2017-06-23</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -96,6 +96,11 @@ Public Instruction Department, Orphanages Branch, State Government of Queensland
 <fromDate standardDate="1899-01-01">1899</fromDate>
 <toDate standardDate="1900-12-31">1900</toDate>
 </dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00777b.htm">
+<relationEntry localType="Archival Series">
+Admission Registers, Reformatory School for Boys - Hulk Proserpine, Reformatory School for Boys, Lytton, Diamantina Reformatory School for Boys and Westbrook Reformatory for Boys. (1871 - 1906)
+</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00348b.htm">
 <relationEntry localType="Archival Collection">
@@ -171,14 +176,14 @@ Westbrook Reformatory for Boys (1900 - 1919)
 </objectXMLWrap>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000544.htm">
-<relationEntry localType="published">Resource Section: Queensland State Archives Agency ID11372, Diamantina Reformatory School for Boys</relationEntry>
+<relationEntry localType="published">Resource Section: Diamantina Reformatory School for Boys (Agency ID 11372)</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Queensland State Archives Agency ID11372, Diamantina Reformatory School for Boys</title>
+<title render="quoted">Diamantina Reformatory School for Boys (Agency ID 11372)</title>
 <imprint>
-<publisher>The State of Queensland - Queensland State Archives</publisher>
+<publisher>Queensland Government</publisher>
 <date>2004 - 2013</date>
 </imprint>
 <bibseries>
@@ -200,7 +205,7 @@ Westbrook Reformatory for Boys (1900 - 1919)
 <name type="author"></name>
 <title render="quoted">Orphanage and children's home records - brief guide 28</title>
 <imprint>
-<publisher>The State of Queensland - Queensland State Archives</publisher>
+<publisher>Queensland Government</publisher>
 <date>2004 - 2013</date>
 </imprint>
 <bibseries>

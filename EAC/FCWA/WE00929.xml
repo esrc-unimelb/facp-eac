@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-08-16">2016-08-16</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -125,7 +125,7 @@ Chief Protector of Aborigines (1898 - 1936)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00942b.htm">
@@ -391,6 +391,28 @@ Stolen Generations
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000716.htm">
+<relationEntry localType="published">Newspaper Article: The Daily News [Christmas Cheer Fund]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Daily News [Christmas Cheer Fund]</title>
+<imprint>
+<date>1916</date>
+</imprint>
+<bibseries>
+<title render="italic">The Daily News</title>
+<num type="pages">10</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article81358001"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000717.htm">
 <relationEntry localType="published">Book: Was it worthwhile?</relationEntry>
 
@@ -407,28 +429,6 @@ Stolen Generations
 <title render="italic">An historical analysis of five women missionaries and their encounters with the Nyungar people of south-west Australia</title>
 </bibseries>
 <extptr linktype="simple" href="http://researchrepository.murdoch.edu.au/163/2/02Whole.pdf"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000716.htm">
-<relationEntry localType="published">Newspaper Article: The Daily News [Christmas Cheer Fund]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">The Daily News [Christmas Cheer Fund]</title>
-<imprint>
-<date>1916</date>
-</imprint>
-<bibseries>
-<title render="italic">The Daily News</title>
-<num type="pages">10</num>
-</bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article81358001"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -460,9 +460,7 @@ Stolen Generations
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
 <unittitle>Dulhi-Gunyah Aborigine Girls' Orphanage, Victoria Park</unittitle>
-<unitid><span style="font-style:italic">Western Mail</span> Supplement, Page 7</unitid>
 <unitdate>23 December 1911</unitdate>
 <abstract>This digital copy of a photograph from the <span style="font-style:italic">Western Mail</span> is published on the National Library of Australia's website, <span style="font-style:italic">Trove</span>. It says the Dulhi Gunyah orphanage was for Aboriginal girls. In fact, both boys and girls were sent to live there.</abstract>
 </archref>
