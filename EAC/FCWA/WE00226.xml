@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-04-06">2017-04-06</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -161,7 +161,7 @@
 </description>
 <relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01115b.htm">
@@ -220,6 +220,28 @@ West Australian Foundation for Deaf Children (Inc.) (2004 - )
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00226b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000024.htm">
+<relationEntry localType="published">Resource Section: Western Australia Protectors Reports 1899-1959</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Western Australia Protectors Reports 1899-1959</title>
+<imprint>
+<publisher>National Library of Australia</publisher>
+</imprint>
+<bibseries>
+<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
+<name type="author">Australian Institute of Aboriginal and Torres Strait Islander Studies</name>
+</bibseries>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect/western-australia"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001091.htm">
 <relationEntry localType="published">Resource Section: Western Australian Foundation for Deaf Children records, 1897-1999 [manuscript]</relationEntry>
@@ -282,26 +304,6 @@ West Australian Foundation for Deaf Children (Inc.) (2004 - )
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000570.htm">
-<relationEntry localType="published">Resource Section: Submission No. 319 Inquiry into Children in Institutional Care: Submissions</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Submission No. 319 Inquiry into Children in Institutional Care: Submissions</title>
-<imprint>
-<publisher>Commonwealth of Australia</publisher>
-<date>2005</date>
-</imprint>
-<bibseries>
-<title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
-<name type="author">Senate Community Affairs Committee</name>
-</bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000510.htm">
 <relationEntry localType="published">Resource Section: Submission No. 84 Inquiry into Children in Institutional Care: Submissions</relationEntry>
 
@@ -322,27 +324,25 @@ West Australian Foundation for Deaf Children (Inc.) (2004 - )
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000024.htm">
-<relationEntry localType="published">Resource Section: Western Australia Protectors Reports 1899-1959</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000570.htm">
+<relationEntry localType="published">Resource Section: Submission No. 319 Inquiry into Children in Institutional Care: Submissions</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Western Australia Protectors Reports 1899-1959</title>
+<title render="quoted">Submission No. 319 Inquiry into Children in Institutional Care: Submissions</title>
 <imprint>
-<publisher>National Library of Australia</publisher>
+<publisher>Commonwealth of Australia</publisher>
+<date>2005</date>
 </imprint>
 <bibseries>
-<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
-<name type="author">Australian Institute of Aboriginal and Torres Strait Islander Studies</name>
+<title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
+<name type="author">Senate Community Affairs Committee</name>
 </bibseries>
-<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect/western-australia"></extptr>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
 </bibref>
 </objectXMLWrap>
 
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000022.htm">
 <relationEntry localType="published">Report: Annual Report of the Child Welfare Department</relationEntry>
@@ -380,9 +380,7 @@ West Australian Foundation for Deaf Children (Inc.) (2004 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Community History Images Collection, The Grove Library</repository>
 <unittitle>West Australian School for Deaf Children Inc c 1935</unittitle>
-<unitid>Community History Images Collection File No: CPM02/CPM02215</unitid>
 <unitdate>c. 1935</unitdate>
 <abstract>This is a digital copy of a photograph of the WA School for Deaf Children. This image is part of the The Grove Library's Community History Images Collection.</abstract>
 <note label="rights">No known copyright</note>
@@ -395,9 +393,7 @@ West Australian Foundation for Deaf Children (Inc.) (2004 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Aerial Surveys Australia collection of aerial photographs of Western Australia, State Library of Western Australia</repository>
 <unittitle>W.A. School for Deaf Children, Mosman Park, 21 April 1968</unittitle>
-<unitid>State Library of Western Australia Call Number BA1475/10501</unitid>
 <unitdate>21 April 1968</unitdate>
 <abstract>This is a digitised copy of a negative and is part of the Aerial Surveys Australia collection of aerial photographs of Western Australia held at the State Library of Western Australia. The image shows an aerial view of the WA School for Deaf Children.</abstract>
 <note label="rights">For personal use only. To publish or display, contact the State Library of Western Australia.</note>
@@ -410,9 +406,7 @@ West Australian Foundation for Deaf Children (Inc.) (2004 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Illustrations Ltd collection, State Library of Western Australia</repository>
 <unittitle>WA School for Deaf Children, Mosman Park, 1928</unittitle>
-<unitid>State Library of Western Australia Call Number 8292B/A/1036-1</unitid>
 <unitdate>1928</unitdate>
 <abstract>This is a digitised copy of a negative and is part of the Illustrations Ltd collection held at the State Library of Western Australia. The image shows the building and grounds of the WA School for Deaf Children in 1928.</abstract>
 <note label="rights">This image is for personal use only. To publish or display it, contact the State Library of Western Australia.</note>
@@ -428,9 +422,7 @@ West Australian Foundation for Deaf Children (Inc.) (2004 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Illustrations Ltd collection, State Library of Western Australia</repository>
 <unittitle>The sewing lesson, 1920s</unittitle>
-<unitid>State Library of Western Australia Call Number 8292B/A/1036-5</unitid>
 <unitdate>1928</unitdate>
 <abstract>This is a digitised copy of a negative and is part of the Illustrations Ltd collection held at the State Library of Western Australia. The image shows girls in a sewing lesson at the WA School for Deaf Children.</abstract>
 <note label="rights">This image is for personal use only. To publish or display it, contact the State Library of Western Australia.</note>
@@ -443,9 +435,7 @@ West Australian Foundation for Deaf Children (Inc.) (2004 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Illustrations Ltd collection, State Library of Western Australia</repository>
 <unittitle>A school dining room, 1920s</unittitle>
-<unitid>State Library of Western Australia Call Number 8292B/A/1036-7</unitid>
 <unitdate>1928</unitdate>
 <abstract>This is a digitised copy of a negative and is part of the Illustrations Ltd collection held at the State Library of Western Australia. The image shows the dining room at the WA School for Deaf Children.</abstract>
 <note label="rights">This image is for personal use only. To publish or display it, contact the State Library of Western Australia.</note>
@@ -458,9 +448,7 @@ West Australian Foundation for Deaf Children (Inc.) (2004 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Illustrations Ltd collection, State Library of Western Australia</repository>
 <unittitle>The woodworklesson, 1920s</unittitle>
-<unitid>State Library of Western Australia Call Number 8292B/A/1036-6</unitid>
 <unitdate>1928</unitdate>
 <abstract>This image is a digitised copy of a negative and is part of the Illustrations Ltd collection held at the State Library of Western Australia. The image shows boys and a teacher in a woodwork lesson at the WA School for Deaf Children.</abstract>
 <note label="rights">This image is for personal use only. To publish or display it, contact the State Library of Western Australia.</note>
@@ -473,9 +461,7 @@ West Australian Foundation for Deaf Children (Inc.) (2004 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Illustrations Ltd collection, State Library of Western Australia</repository>
 <unittitle>The laundry lesson, 1920s</unittitle>
-<unitid>State Library of Western Australia Call Number 8292B/A/1036-4</unitid>
 <unitdate>1928</unitdate>
 <abstract>This is a digitised copy of a negative and is part of Illustrations Ltd collection held at the State Library of Western Australia. The image shows girls from the WA School for Deaf Children in a laundry lesson.</abstract>
 <note label="rights">This image is for personal use only. To publish or display it, contact the State Library of Western Australia.</note>
@@ -488,9 +474,7 @@ West Australian Foundation for Deaf Children (Inc.) (2004 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Illustrations Ltd collection, State Library of Western Australia</repository>
 <unittitle>Teachers at the WA School for Deaf Children, 1928</unittitle>
-<unitid>State Library of Western Australia Call Number 8292B/A/1036-2</unitid>
 <unitdate>1928</unitdate>
 <abstract>This is a digitised copy of a negative and is part of the Illustrations Ltd collection held at the State Library of Western Australia. The image shows the eight teachers from the WA School for Deaf Children and a baby.</abstract>
 <note label="rights">This image is for personal use only. To publish or display it, contact the State Library of Western Australia.</note>

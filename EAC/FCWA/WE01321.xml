@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-04-06">2017-04-06</eventDateTime>
+<eventDateTime standardDateTime="2017-09-14">2017-09-14</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -205,7 +205,12 @@ Department of Aboriginal Affairs [predecessors], Records, Department of Aborigin
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00619b.htm">
+<relationEntry localType="Archival Collection">
+Hillcrest Records (1912 - 1974)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00096b.htm">
@@ -324,6 +329,25 @@ Hillcrest Maternity Home (1922 - 1974)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000269.htm">
+<relationEntry localType="published">Book: The Cyclopedia of Western Australia (1912)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Battye, JS</name>
+<title render="italic">The Cyclopedia of Western Australia (1912)</title>
+<imprint>
+<place>Victoria Park</place>
+<publisher>Hesperian Press</publisher>
+<date>1985</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000771.htm">
 <relationEntry localType="published">Report: Report of the Select Committee of the Legislative Council on the State Children Act Amendment Bill</relationEntry>
 
@@ -335,6 +359,24 @@ Hillcrest Maternity Home (1922 - 1974)
 <place>Perth</place>
 <publisher>Government Printer</publisher>
 <date>1918</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000278.htm">
+<relationEntry localType="published">Book: Southern Soup-Soap-Salvation, a compendium of Salvation Army Social Services in the Australian Southern Territory</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Kirkham, Lt-Col John C</name>
+<title render="italic">Southern Soup-Soap-Salvation, a compendium of Salvation Army Social Services in the Australian Southern Territory</title>
+<imprint>
+<publisher>The Salvation Army Australia Southern Territory Territorial Archives and Museum</publisher>
+<date>2003</date>
 </imprint>
 </bibref>
 </objectXMLWrap>
@@ -412,51 +454,12 @@ Hillcrest Maternity Home (1922 - 1974)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000278.htm">
-<relationEntry localType="published">Book: Southern Soup-Soap-Salvation, a compendium of Salvation Army Social Services in the Australian Southern Territory</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Kirkham, Lt-Col John C</name>
-<title render="italic">Southern Soup-Soap-Salvation, a compendium of Salvation Army Social Services in the Australian Southern Territory</title>
-<imprint>
-<publisher>The Salvation Army Australia Southern Territory Territorial Archives and Museum</publisher>
-<date>2003</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000269.htm">
-<relationEntry localType="published">Book: The Cyclopedia of Western Australia (1912)</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Battye, JS</name>
-<title render="italic">The Cyclopedia of Western Australia (1912)</title>
-<imprint>
-<place>Victoria Park</place>
-<publisher>Hesperian Press</publisher>
-<date>1985</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000886.htm">
 <relationEntry localType="digitalObject">New Maternity Home</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Salvation Army Heritage Museum WA</repository>
 <unittitle>New Maternity Home</unittitle>
-<unitid>Hopetoun closed social work file</unitid>
 <unitdate>18 April 1903</unitdate>
 <abstract>'New Maternity Home' is a digital copy of a photocopy of an item published on 18 April 1903, held in the <span style="font-style:italic">Hopetoun closed social work</span> file at the Salvation Army Heritage Museum WA. A handwritten caption shows the item comes from the <span style="font-style:italic">War Cry</span>. It gives information about the forthcoming opening of a new maternity home for 'upwards of twenty young women and their babes' in Fremantle, which became The Open Door. The item describes the facility.</abstract>
 <note label="rights">Salvation Army Heritage Museum WA</note>
@@ -472,9 +475,7 @@ Hillcrest Maternity Home (1922 - 1974)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Salvation Army Heritage Museum WA</repository>
 <unittitle>Salvation Army Maternity Hospital</unittitle>
-<unitid>Hopetoun closed social work file</unitid>
 <unitdate>4 October 1919</unitdate>
 <abstract>'Salvation Army Maternity Hospital' is a digital copy of a photocopy held in the <span style="font-style:italic">Hopetoun closed social work</span> file at the Salvation Army Heritage Museum WA and published, according to a handwritten caption, in the <span style="font-style:italic">War Cry</span> on 4 October 1919 At that time, the Salvation Army Maternity Home was known as 'Hopetoun'. A photocopy of 'North Fremantle Maternity Hospital', the article that refers to the image, is also held in the file.</abstract>
 <note label="rights">Salvation Army Heritage Museum WA</note>
@@ -490,9 +491,7 @@ Hillcrest Maternity Home (1922 - 1974)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Salvation Army Heritage Museum WA</repository>
 <unittitle>Hopetoun North Fremantle</unittitle>
-<unitid>Hillcrest photos file</unitid>
 <unitdate>1906? - 1974</unitdate>
 <abstract>'Hopetoun North Fremantle' is a digital copy of an undated, mounted photocopy held in the <span style="font-style:italic">Hillcrest photos</span> file at the Salvation Army Heritage Museum WA. The caption reads, 'Hopetoun - opened 1910 on corner of Stirling Hwy and Harvest Rd'. There is some confusion about when the maternity home came to be called 'Hopetoun'. Until at least 1918, it was also called 'The Open Door'. The earliest published account of the name 'Hopetoun' is 1916, so there was some overlap. By 1922, the maternity services had moved into another property in Harvest Road, 'Hillcrest'. The Hopetoun building was used as an aged care facility. From around June 1906, the building had been used as a prison-gate home. It is unknown what purpose the building served when this photograph was taken.</abstract>
 <note label="rights">Salvation Army Heritage Museum WA</note>

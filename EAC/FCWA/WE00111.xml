@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-04-06">2017-04-06</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -117,7 +117,7 @@ Western Australian Conference of the Seventh-day Adventist Church (1890 - )
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00467b.htm">
@@ -192,6 +192,18 @@ Wiluna Mission (1955 - 1975)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000060.htm">
+<relationEntry localType="published">Resource: Mundus Gateway to Missionary Collections in the United Kingdom</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Research Support Libraries Programme</name>
+<title render="italic">Mundus Gateway to Missionary Collections in the United Kingdom</title>
+<extptr linktype="simple" href="http://www.mundus.ac.uk"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000024.htm">
 <relationEntry localType="published">Resource Section: Western Australia Protectors Reports 1899-1959</relationEntry>
 
@@ -207,56 +219,6 @@ Wiluna Mission (1955 - 1975)
 <name type="author">Australian Institute of Aboriginal and Torres Strait Islander Studies</name>
 </bibseries>
 <extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect/western-australia"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000060.htm">
-<relationEntry localType="published">Resource: Mundus Gateway to Missionary Collections in the United Kingdom</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Research Support Libraries Programme</name>
-<title render="italic">Mundus Gateway to Missionary Collections in the United Kingdom</title>
-<extptr linktype="simple" href="http://www.mundus.ac.uk"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000204.htm">
-<relationEntry localType="published">Resource: Guide to Institutions Attended by Aboriginal People in Western Australia</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">State Solicitor's Office of Western Australia</name>
-<title render="italic">Guide to Institutions Attended by Aboriginal People in Western Australia</title>
-<imprint>
-<publisher>Government of Western Australia</publisher>
-<date>2005</date>
-</imprint>
-<extptr linktype="simple" href="http://web.archive.org/web/20140126131607/http://www.dpc.wa.gov.au/lantu/MediaPublications/Documents/Guide-to-Institutions-attended-by-Aboriginal-people-in-WA-2005.pdf"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
-<relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Information Services, Department for Community Development</name>
-<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
-<imprint>
-<place>Perth</place>
-<publisher>Government of Western Australia</publisher>
-<date>2004</date>
-</imprint>
 </bibref>
 </objectXMLWrap>
 
@@ -327,6 +289,44 @@ Wiluna Mission (1955 - 1975)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
+<relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Information Services, Department for Community Development</name>
+<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
+<imprint>
+<place>Perth</place>
+<publisher>Government of Western Australia</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000204.htm">
+<relationEntry localType="published">Resource: Guide to Institutions Attended by Aboriginal People in Western Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">State Solicitor's Office of Western Australia</name>
+<title render="italic">Guide to Institutions Attended by Aboriginal People in Western Australia</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://web.archive.org/web/20140126131607/http://www.dpc.wa.gov.au/lantu/MediaPublications/Documents/Guide-to-Institutions-attended-by-Aboriginal-people-in-WA-2005.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001209.htm">
 <relationEntry localType="published">Newspaper Article: New Karalundi celebrates 20 years</relationEntry>
 
@@ -341,7 +341,7 @@ Wiluna Mission (1955 - 1975)
 <title render="italic">Record</title>
 <num type="pages">1,3</num>
 </bibseries>
-<extptr linktype="simple" href="http://link.adventistconnect.org/record/2007/rec01-07_01_20.pdf"></extptr>
+<extptr linktype="simple" href="https://web.archive.org/web/20150701195556/http://link.adventistconnect.org/record/2007/rec01-07_01_20.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -694,9 +694,7 @@ Wiluna Mission (1955 - 1975)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>General Conference of Seventh-day Adventists Online Document Archives</repository>
 <unittitle>Karalundi swimming pool</unittitle>
-<unitid>Australasian Record and Advent World Survey Vol. 66 No.1 p.10</unitid>
 <unitdate>January 1962</unitdate>
 <abstract>'Karalundi swimming pool' is a digital copy of an image published in the <span style="font-style:italic">Australasian Record and Advent World Survey</span> on the General Conference of Seventh-day Adventists' website, <span style="font-style:italic"> Online Document Archives</span>. The caption reads, 'The swimming pool provides hours of refreshment and happy relaxation'.</abstract>
 </archref>
@@ -708,9 +706,7 @@ Wiluna Mission (1955 - 1975)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>General Conference of Seventh-day Adventists Online Document Archives</repository>
 <unittitle>Karalundi Mission</unittitle>
-<unitid>Signs of the Times Vol. 92 No.2 p.13</unitid>
 <unitdate>February 1965</unitdate>
 <abstract>'Karalundi Mission' is a digital copy of an image published in the <span style="font-style:italic">Signs of the Times</span> on the General Conference of Seventh-day Adventists' website, <span style="font-style:italic"> Online Document Archives</span>. The caption reads, 'Karalundi Mission, 540 miles northeast of Perth in West Australia.</abstract>
 </archref>
@@ -725,9 +721,7 @@ Wiluna Mission (1955 - 1975)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Portrait gallery, Volume 1, West Kimberley 1912 - South West 1960, State Library of Western Australia</repository>
 <unittitle>BA368/6/279: L-R: Unknown, Shirley Wongawol, Doreen Hill, ? Little, unknown, Myrtle Brockman, unknown, unknown, unknown, September 1960</unittitle>
-<unitid>State Library of Western Australia BA368/6/279</unitid>
 <unitdate>September 1960</unitdate>
 <abstract>This is a digitised copy of a still image and is part of the Portrait gallery, Volume 1, West Kimberley 1912 - South West 1960 series held at the State Library of Westen Australia. The image shows girls from a domestic science class holding baked goods outside a building at the Karalundi Mission with their teacher.</abstract>
 <note label="rights">For personal use only. To publish or display, contact the State Library of Western Australia.</note>

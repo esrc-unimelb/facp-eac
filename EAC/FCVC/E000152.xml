@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-10">2017-05-10</eventDateTime>
+<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -82,6 +82,7 @@
 <p>In 1972, Allambie had a capacity of 228 children, but this was often exceeded. By the mid 1970s the number of children placed at Allambie reached an all-time high. On several occasions, over 300 children were in residence.</p>
 <p>Overcrowding decreased as alternative reception and care programs were implemented by the Department. During the 1970s, changes in the structure of state-run facilities, including regionalisation of services, reduced the need for large-scale centralised reception centre like Allambie.</p>
 <p>By the early 1980s, Allambie accommodated about 100 children. A review in 1985 recommended the closure of Allambie, and the redirection of funding to regional reception centres. The nursery at Allambie closed in 1986. Allambie Reception Centre closed in June 1990.</p>
+<p>Allambie Reception Centre was mentioned in the Bringing Them Home Report (1997) as an institution that housed Indigenous children removed from their families.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1961-01-01">1961</fromDate>
 <toDate standardDate="1990-12-31">1990</toDate>
@@ -128,6 +129,11 @@ Community Services Victoria, State Government of Victoria (1985 - 1992)
 <fromDate standardDate="1985-01-01">1985</fromDate>
 <toDate standardDate="1990-12-31">1990</toDate>
 </dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000158b.htm">
+<relationEntry localType="Glossary Term">
+Stolen Generations
+</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000634b.htm">
 <relationEntry localType="Event">
@@ -207,24 +213,24 @@ Lady Dugan Children's Home (1970 - 1976)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000520.htm">
-<relationEntry localType="published">Resource Section: Submission no 260</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000549.htm">
+<relationEntry localType="published">Report: Annual report: Social Welfare Department</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Submission no 260</title>
+<title render="italic">Annual report: Social Welfare Department</title>
 <imprint>
-<publisher>Commonwealth of Australia</publisher>
-<date>2005</date>
+<place>Melbourne</place>
+<publisher>Government Printer</publisher>
+<date>1961-1978</date>
 </imprint>
-<bibseries>
-<title render="italic">Inquiry into Children in Institutional Care: Submissions received by the committee as at 17/3/05</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
 </bibref>
 </objectXMLWrap>
 
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
 <relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
@@ -329,6 +335,22 @@ Lady Dugan Children's Home (1970 - 1976)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000395.htm">
+<relationEntry localType="published">Book: Unseen, unheard, unknown</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hamilton-Byrne, Sarah</name>
+<title render="italic">Unseen, unheard, unknown</title>
+<imprint>
+<place>Ringwood</place>
+<publisher>Penguin</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000025.htm">
 <relationEntry localType="published">Resource Section: Royal Park Depot</relationEntry>
 
@@ -351,13 +373,13 @@ Lady Dugan Children's Home (1970 - 1976)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000519.htm">
-<relationEntry localType="published">Resource Section: Submission no 239</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000520.htm">
+<relationEntry localType="published">Resource Section: Submission no 260</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Submission no 239</title>
+<title render="quoted">Submission no 260</title>
 <imprint>
 <publisher>Commonwealth of Australia</publisher>
 <date>2005</date>
@@ -370,39 +392,21 @@ Lady Dugan Children's Home (1970 - 1976)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001223.htm">
-<relationEntry localType="published">Report: Amendment C157, City of Whitehorse, Proposed HO249, Former Kildonan Children's Home, Elgar Road, Burwood</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000041.htm">
+<relationEntry localType="published">Report: Bringing Them Home: Report of the National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from their Families</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">RBA Architects and Conservation Consultants Pty Ltd</name>
-<title render="italic">Amendment C157, City of Whitehorse, Proposed HO249, Former Kildonan Children's Home, Elgar Road, Burwood</title>
+<name type="author">Human Rights and Equal Opportunity Commission</name>
+<title render="italic">Bringing Them Home: Report of the National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from their Families</title>
 <imprint>
-<publisher>City of Whitehorse</publisher>
-<date>2015</date>
+<publisher>Commonwealth of Australia</publisher>
+<date>1997</date>
 </imprint>
+<extptr linktype="simple" href="http://www.humanrights.gov.au/publications/bringing-them-home-stolen-children-report-1997"></extptr>
 </bibref>
 </objectXMLWrap>
 
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000549.htm">
-<relationEntry localType="published">Report: Annual report: Social Welfare Department</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Annual report: Social Welfare Department</title>
-<imprint>
-<place>Melbourne</place>
-<publisher>Government Printer</publisher>
-<date>1961-1978</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000570.htm">
 <relationEntry localType="published">Journal Article: Neglected babies: a study of 289 babies admitted consecutively to a reception centre</relationEntry>
@@ -511,19 +515,63 @@ Lady Dugan Children's Home (1970 - 1976)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000395.htm">
-<relationEntry localType="published">Book: Unseen, unheard, unknown</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001223.htm">
+<relationEntry localType="published">Report: Amendment C157, City of Whitehorse, Proposed HO249, Former Kildonan Children's Home, Elgar Road, Burwood</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Hamilton-Byrne, Sarah</name>
-<title render="italic">Unseen, unheard, unknown</title>
+<name type="author">RBA Architects and Conservation Consultants Pty Ltd</name>
+<title render="italic">Amendment C157, City of Whitehorse, Proposed HO249, Former Kildonan Children's Home, Elgar Road, Burwood</title>
 <imprint>
-<place>Ringwood</place>
-<publisher>Penguin</publisher>
-<date>1995</date>
+<publisher>City of Whitehorse</publisher>
+<date>2015</date>
 </imprint>
 </bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000519.htm">
+<relationEntry localType="published">Resource Section: Submission no 239</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Submission no 239</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">Inquiry into Children in Institutional Care: Submissions received by the committee as at 17/3/05</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000570.htm">
+<relationEntry localType="digitalObject">Allambie Reception Centre</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Allambie Reception Centre</unittitle>
+<unitdate>c. 1964</unitdate>
+<abstract>This is a copy of a photograph that was published in the Department's Annual Report for 1964.</abstract>
+<note label="rights">Government of Victoria</note>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000569.htm">
+<relationEntry localType="digitalObject">Allambie - Deakin University, 149 Elgar Road Burwood</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Allambie - Deakin University, 149 Elgar Road Burwood</unittitle>
+<unitdate>2017</unitdate>
+<abstract>This is a copy of an image of the former Allambie Reception Centre.</abstract>
+<note label="rights">Courtesy M. Hart</note>
+</archref>
 </objectXMLWrap>
 
 </resourceRelation>
@@ -532,7 +580,7 @@ Lady Dugan Children's Home (1970 - 1976)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Courtesy Michael Jones</repository>
+<repository>Michael Jones</repository>
 <unittitle>Former site of Kildonan and Allambie, Deakin University, Burwood campus</unittitle>
 <unitdate>2016</unitdate>
 <abstract>This is a copy of a photograph of a building on the Burwood campus of Deakin University. Situated on Elgar Road, the building was the former site of Kildonan, Burwood (1937-1961) and the former site of Allambie Reception Centre (1961-1990).</abstract>
@@ -683,6 +731,7 @@ Lady Dugan Children's Home (1970 - 1976)
 <unittitle>Allambie Children's Home, Burwood</unittitle>
 <unitdate>1960</unitdate>
 <abstract>This image appeared in the Department's annual report for 1960.</abstract>
+<note label="rights">Government of Victoria</note>
 </archref>
 </objectXMLWrap>
 

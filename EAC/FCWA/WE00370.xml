@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-03-06">2017-03-06</eventDateTime>
+<eventDateTime standardDateTime="2017-09-14">2017-09-14</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -110,7 +110,7 @@ Aborigines Act Amendment Act 1936 (1936 - 1964)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00622b.htm">
 <relationEntry localType="Archival Series">
-Department of Native Welfare [and predecessors], Client Files, Department for Child Protection and Family Support (1921 - 1969)
+Department of Native Welfare [and predecessors], Client Files (1921 - 1969)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00558b.htm">
@@ -266,21 +266,17 @@ Department of Native Welfare, State of Western Australia (1955 - 1972)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001201.htm">
-<relationEntry localType="published">Newspaper Article: Appointment of Woman for Native Welfare</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
+<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Appointment of Woman for Native Welfare</title>
+<name type="author">AIATSIS</name>
+<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
 <imprint>
-<date>1951</date>
+<date>2010</date>
 </imprint>
-<bibseries>
-<title render="italic">The West Australian</title>
-<num type="pages">2</num>
-</bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article48976867"></extptr>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -303,6 +299,28 @@ Department of Native Welfare, State of Western Australia (1955 - 1972)
 </bibref>
 </objectXMLWrap>
 
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000024.htm">
+<relationEntry localType="published">Resource Section: Western Australia Protectors Reports 1899-1959</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Western Australia Protectors Reports 1899-1959</title>
+<imprint>
+<publisher>National Library of Australia</publisher>
+</imprint>
+<bibseries>
+<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
+<name type="author">Australian Institute of Aboriginal and Torres Strait Islander Studies</name>
+</bibseries>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect/western-australia"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000571.htm">
 <relationEntry localType="published">Resource Section: Submission No. 347 Inquiry into Children in Institutional Care: Submissions</relationEntry>
@@ -413,43 +431,6 @@ Department of Native Welfare, State of Western Australia (1955 - 1972)
 </bibref>
 </objectXMLWrap>
 
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
-<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">AIATSIS</name>
-<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
-<imprint>
-<date>2010</date>
-</imprint>
-<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000024.htm">
-<relationEntry localType="published">Resource Section: Western Australia Protectors Reports 1899-1959</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Western Australia Protectors Reports 1899-1959</title>
-<imprint>
-<publisher>National Library of Australia</publisher>
-</imprint>
-<bibseries>
-<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
-<name type="author">Australian Institute of Aboriginal and Torres Strait Islander Studies</name>
-</bibseries>
-<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect/western-australia"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 </relations>
 </cpfDescription>

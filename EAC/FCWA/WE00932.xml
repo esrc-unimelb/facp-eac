@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-04-06">2017-04-06</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -122,7 +122,7 @@ Department of Aboriginal Affairs [predecessors], Records, Department of Aborigin
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00942b.htm">
@@ -208,6 +208,25 @@ Carrolup Native Settlement (1939 - 1951)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000145.htm">
+<relationEntry localType="published">Book: Mister Neville: a biography</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jacobs, Pat</name>
+<title render="italic">Mister Neville: a biography</title>
+<imprint>
+<place>Fremantle</place>
+<publisher>Fremantle Arts Centre Press</publisher>
+<date>1990</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000717.htm">
 <relationEntry localType="published">Book: Was it worthwhile?</relationEntry>
 
@@ -250,33 +269,12 @@ Carrolup Native Settlement (1939 - 1951)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000145.htm">
-<relationEntry localType="published">Book: Mister Neville: a biography</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Jacobs, Pat</name>
-<title render="italic">Mister Neville: a biography</title>
-<imprint>
-<place>Fremantle</place>
-<publisher>Fremantle Arts Centre Press</publisher>
-<date>1990</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000706.htm">
 <relationEntry localType="digitalObject">Soup kitchen [picture]</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of Western Australia</repository>
 <unittitle>Soup kitchen [picture]</unittitle>
-<unitid>Record No. B1996425</unitid>
 <unitdate>1915?</unitdate>
 <abstract>'Soup kitchen [picture]' is an image from A.O. Neville's album of photographs of Aboriginal missions in Western Australia, held by the State Library of Western Australia.</abstract>
 <note label="rights">State Library of Western Australia</note>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-02-25">2016-02-25</eventDateTime>
+<eventDateTime standardDateTime="2017-08-08">2017-08-08</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -83,6 +83,16 @@ Sending Agency
 Receiving Agency
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00214b.htm">
+<relationEntry localType="Organisation">
+Swan Homes (1943 - 1959)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00057b.htm">
+<relationEntry localType="Organisation">
+Clontarf (1901 - 1983)
+</relationEntry>
+</cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Child Migrant', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
 
@@ -95,6 +105,23 @@ Receiving Agency
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00474b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000117.htm">
+<relationEntry localType="published">Report: Lost Innocents: Righting the Record Report on Child Migration</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Parliament of Australia Senate</name>
+<title render="italic">Lost Innocents: Righting the Record Report on Child Migration</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Senate Printing Unit</publisher>
+<date>2001</date>
+</imprint>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/completed_inquiries/1999-02/child_migrat/report/index.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000226.htm">
 <relationEntry localType="published">Resource: Child migration to Australia - Fact sheet 124</relationEntry>
@@ -123,23 +150,6 @@ Receiving Agency
 <date>2012</date>
 </imprint>
 <extptr linktype="simple" href="http://guides.naa.gov.au/good-british-stock/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000117.htm">
-<relationEntry localType="published">Report: Lost Innocents: Righting the Record Report on Child Migration</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Parliament of Australia Senate</name>
-<title render="italic">Lost Innocents: Righting the Record Report on Child Migration</title>
-<imprint>
-<place>Canberra</place>
-<publisher>Senate Printing Unit</publisher>
-<date>2001</date>
-</imprint>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/completed_inquiries/1999-02/child_migrat/report/index.htm"></extptr>
 </bibref>
 </objectXMLWrap>
 

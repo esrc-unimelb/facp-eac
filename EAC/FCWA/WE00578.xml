@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-01-28">2015-01-28</eventDateTime>
+<eventDateTime standardDateTime="2017-09-14">2017-09-14</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -42,13 +42,18 @@
 <cpfDescription>
 <identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE00578b.htm</entityId>
 <entityType>corporateBody</entityType>
-<nameEntry><part>Freedom of Information, Department for Child Protection and Family Support WA</part>
+<nameEntry><part>Freedom of Information, Child Protection and Family Support</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 <nameEntry localType="also known as"><part>Family Information and Records Bureau</part>
 </nameEntry>
 </identity>
-<description><places>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1992-01-01">1992?</fromDate>
+</dateRange>
+</existDates>
+<places>
 </places>
 <functions>
 <function>
@@ -59,18 +64,18 @@
 </function>
 </functions>
 <biogHist>
-<abstract>Freedom of Information is a service provided through the Department for Child Protection and Family Support to help people who were in subsidised out of home care, access records that are held by the Department. This service was formerly known as the Family Information and Records Bureau (FIRB).</abstract>
+<abstract>Freedom of Information is a service provided through the Child Protection and Family Support, Department of Communities, to help people who were in subsidised out of home care, access records that are held by the Department. This service was formerly known as the Family Information and Records Bureau (FIRB).</abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01118b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01541b.htm">
 <relationEntry localType="Organisation">
-Department for Child Protection and Family Support, State of Western Australia (2013 - )
+Child Protection and Family Support, State of Western Australia (2017 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00435b.htm">
@@ -86,12 +91,22 @@ PHIND Personal History Index (1938 - 1965)
 Files - Child Welfare, State Records Office of Western Australia (1917 - 1972)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01152b.htm">
+<relationEntry localType="Organisation">
+Government Industrial School (1893 - 1907)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00132b.htm">
+<relationEntry localType="Organisation">
+Longmore Training Centre (1983 - 1993)
+</relationEntry>
+</cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
-<relationEntry localType="published">'Freedom of Information, Department for Child Protection and Family Support WA', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+<relationEntry localType="published">'Freedom of Information, Child Protection and Family Support', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<title render="italic">Freedom of Information, Department for Child Protection and Family Support WA</title>
+<title render="italic">Freedom of Information, Child Protection and Family Support</title>
 <bibseries>
 <title render="italic">Find &amp; Connect - Western Australia</title>
 </bibseries>

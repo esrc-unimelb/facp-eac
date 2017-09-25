@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-22">2016-04-22</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -105,14 +105,6 @@ Methodist Homes for Children (1922 - 1977)
 <toDate standardDate="1962-12-31">1962</toDate>
 </dateRange>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00464b.htm">
-<relationEntry localType="Glossary Term">
-Service Children
-</relationEntry>
-<descriptiveNote>
-<p>Children at Werribee could be placed out 'at service' on neighbouring farms.</p>
-</descriptiveNote>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01287b.htm">
 <relationEntry localType="Archival Series">
 Inspector's books - Werribee (1930 - 1951)
@@ -120,7 +112,7 @@ Inspector's books - Werribee (1930 - 1951)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00674b.htm">
@@ -141,6 +133,11 @@ Uniting Church (Synod of Western Australia) Archives, Records (1918 - 1980s)
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00646b.htm">
 <relationEntry localType="Glossary Term">
 Private Child (1870s - 1970s)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00464b.htm">
+<relationEntry localType="Glossary Term">
+Service Children
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00149b.htm">
@@ -192,27 +189,21 @@ Mofflyn (1959 - 1984)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001267.htm">
-<relationEntry localType="published">Resource Section: Motion - Child Welfare Department. Maintenance of Children</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
+<relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Motion - Child Welfare Department. Maintenance of Children</title>
+<name type="author">Information Services, Department for Community Development</name>
+<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
 <imprint>
-<publisher>Parliament of Western Australia</publisher>
-<date>1940</date>
+<place>Perth</place>
+<publisher>Government of Western Australia</publisher>
+<date>2004</date>
 </imprint>
-<bibseries>
-<title render="italic">Hansard Archive 1870 to 1995</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.parliament.wa.gov.au/Hansard%5Chansard1870to1995.nsf/vwMainBackground/19401204_Assembly.pdf/$File/19401204_Assembly.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001265.htm">
 <relationEntry localType="published">Report: Report of the Royal Commission on Youth Employment and the Apprenticeship System</relationEntry>
@@ -236,21 +227,27 @@ Mofflyn (1959 - 1984)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
-<relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001267.htm">
+<relationEntry localType="published">Resource Section: Motion - Child Welfare Department. Maintenance of Children</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Information Services, Department for Community Development</name>
-<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
+<name type="author"></name>
+<title render="quoted">Motion - Child Welfare Department. Maintenance of Children</title>
 <imprint>
-<place>Perth</place>
-<publisher>Government of Western Australia</publisher>
-<date>2004</date>
+<publisher>Parliament of Western Australia</publisher>
+<date>1940</date>
 </imprint>
+<bibseries>
+<title render="italic">Hansard Archive 1870 to 1995</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.parliament.wa.gov.au/Hansard%5Chansard1870to1995.nsf/vwMainBackground/19401204_Assembly.pdf/$File/19401204_Assembly.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000513.htm">
 <relationEntry localType="published">Resource Section: Submission No. 160 Inquiry into Children in Institutional Care: Submissions</relationEntry>
@@ -314,9 +311,7 @@ Mofflyn (1959 - 1984)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Archives of Australia</repository>
 <unittitle>Methodist Homes for Children Response to Moss Questionnaire</unittitle>
-<unitid>PP9/1, 1951/63/1957 pp.39-40</unitid>
 <unitdate>1 June 1951</unitdate>
 <abstract>'Methodist Homes for Children Response to Moss Questionnaire' is an excerpt from the digital copy of the <span style="font-style:italic">Moss John - visiting Child Welfare Expert</span> file from the National Archives of Australia website. It is a letter from the Methodist Homes for Children, responding to questions about the Methodist Children's Home, Victoria Park, and Werribee Farm School.</abstract>
 </archref>
@@ -328,9 +323,7 @@ Mofflyn (1959 - 1984)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Archives of Australia</repository>
 <unittitle>Enquiry by Mr. John Moss. Points on which information is needed as to provision for the welfare of children emigrating from the United Kingdom to Australia</unittitle>
-<unitid>PP9/1, 1951/63/1957 pp.136-137</unitid>
 <unitdate>10 May 1951</unitdate>
 <abstract>'Enquiry by Mr. John Moss. Points on which information is needed as to provision for the welfare of children emigrating from the United Kingdom to Australia' is an excerpt from the digital copy of the <span style="font-style:italic">Moss John - visiting Child Welfare Expert</span> file from the National Archives of Australia website. It is the questionnaire that was circulated to government, the organisations that received and placed child migrants, and the children's Homes where the children lived. This questionnaire was received by the Commonwealth Government on 10 May 1951.</abstract>
 </archref>
@@ -342,7 +335,6 @@ Mofflyn (1959 - 1984)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Parliament of Western Australia</repository>
 <unittitle>Farm Schools</unittitle>
 <unitdate>28 February 1938</unitdate>
 <abstract>'Farm Schools' is an excerpt from the <span style="font-style:italic"> Report of the Royal Commission on Youth Employment and the Apprenticeship System</span> which is held online by the Parliament of Western Australia. It gives an overview of the four Farm Schools operating in WA in 1938: Fairbridge Farm School; Tardun Agricultural College; Werribee Boys' Home; and the Unemployed Boys' Farm at Wokalup. The full Report is very large and difficult to download, so this relevant excerpt has been reproduced for quick downloading from the Find &amp; Connect web resource.</abstract>
@@ -355,7 +347,6 @@ Mofflyn (1959 - 1984)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Uniting Church (Synod of Western Australia) Archives.</repository>
 <unittitle>Mofflyn turns back the pages</unittitle>
 <unitdate>February 2006</unitdate>
 <abstract>'Mofflyn turns back the pages' is an article that was published in the Uniting Church's journal <span style="font-style:italic">Western Impact</span>. It shares one person's memories of living at the Methodist Children's Home and tells some of the history of that Home, which became 'Mofflyn'.</abstract>
@@ -368,9 +359,7 @@ Mofflyn (1959 - 1984)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Uniting Church (Synod of Western Australia) Archives</repository>
 <unittitle>The 'Homes' Herald, 1966 [Methodist Homes for Children]</unittitle>
-<unitid>Vol 1 No 12</unitid>
 <unitdate>December 1966</unitdate>
 <abstract><span style="font-style:italic">The 'Homes' Herald</span> was a newsletter of the Methodist Homes for Children. This is a copy of the December 1966 edition. It has a picture of the new hostel ('Cooinda') in Mt Lawley and a photo of some young women who lived there. There are also photos of buildings at the Mofflyn site in Victoria Park and a photo of children with 'Father Christmas'. There is news about donations and activities in the other Homes. The newsletter also tells readers how they can help.</abstract>
 </archref>
@@ -382,9 +371,7 @@ Mofflyn (1959 - 1984)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Uniting Church (Synod of Western Australia) Archives</repository>
 <unittitle>The 'Homes' Herald 1965 [Methodist Homes for Children]</unittitle>
-<unitid>Vol 1 No 8</unitid>
 <unitdate>December 1965</unitdate>
 <abstract><span style="font-style:italic">The 'Homes' Herald</span> was a newsletter of the Methodist Homes for Children. The December 1965 edition is held in the Children's Homes File at the Uniting Church Archive in Perth. This edition has a photo of some kindergarten children acting in their Christmas play. There are also photos of buildings and children at the Mofflyn site in Victoria Park and information about the Homes and children's activities.</abstract>
 </archref>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-04-06">2017-04-06</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -128,7 +128,7 @@ Mowanjum Collection: Barunga Bequest (1947 - 1975)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00554b.htm">
@@ -155,6 +155,25 @@ Commissioner of Native Welfare (1954 - 1972)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00154b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
+<relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Information Services, Department for Community Development</name>
+<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
+<imprint>
+<place>Perth</place>
+<publisher>Government of Western Australia</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001233.htm">
 <relationEntry localType="published">Book: Mowanjum 50 years : community history</relationEntry>
@@ -215,40 +234,6 @@ Commissioner of Native Welfare (1954 - 1972)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
-<relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Information Services, Department for Community Development</name>
-<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
-<imprint>
-<place>Perth</place>
-<publisher>Government of Western Australia</publisher>
-<date>2004</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
-<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">AIATSIS</name>
-<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
-<imprint>
-<date>2010</date>
-</imprint>
-<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000024.htm">
 <relationEntry localType="published">Resource Section: Western Australia Protectors Reports 1899-1959</relationEntry>
 
@@ -270,18 +255,6 @@ Commissioner of Native Welfare (1954 - 1972)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000011.htm">
-<relationEntry localType="published">Resource: Australian Institute of Aboriginal and Torres Strait Islander Studies [website]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)</name>
-<title render="italic">Australian Institute of Aboriginal and Torres Strait Islander Studies [website]</title>
-<extptr linktype="simple" href="http://aiatsis.gov.au/"></extptr>
-</bibref>
-</objectXMLWrap>
-
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000005.htm">
 <relationEntry localType="published">Resource: Looking West: A Guide to Aboriginal Sources in Western Australia</relationEntry>
@@ -315,6 +288,33 @@ Commissioner of Native Welfare (1954 - 1972)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
+<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">AIATSIS</name>
+<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
+<imprint>
+<date>2010</date>
+</imprint>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000011.htm">
+<relationEntry localType="published">Resource: Australian Institute of Aboriginal and Torres Strait Islander Studies [website]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)</name>
+<title render="italic">Australian Institute of Aboriginal and Torres Strait Islander Studies [website]</title>
+<extptr linktype="simple" href="http://aiatsis.gov.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
 <relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
 
@@ -338,9 +338,7 @@ Commissioner of Native Welfare (1954 - 1972)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of Western Australia</repository>
 <unittitle>Mowanjum community gate 1970s</unittitle>
-<unitid>State Library of Western Australia Call No. 305.89915 MOW and Record No. B2643137</unitid>
 <unitdate>2008</unitdate>
 <abstract>'Mowanjum community gate 1970s' is a digital copy of an image published in <span style="font-style:italic">Mowanjum: 50 years community history</span> (p.115). The caption reads, 'Mowanjum front gate, 1973-74'.</abstract>
 </archref>
@@ -352,9 +350,7 @@ Commissioner of Native Welfare (1954 - 1972)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of Western Australia</repository>
 <unittitle>Map West Kimberleys</unittitle>
-<unitid>State Library of Western Australia Call No. 305.89915 MOW and Record No. B2643137</unitid>
 <unitdate>2008</unitdate>
 <abstract>'Map West Kimberleys' is a digital copy of an image published in <span style="font-style:italic">Mowanjum: 50 years community history</span> (p.23).</abstract>
 </archref>
@@ -366,9 +362,7 @@ Commissioner of Native Welfare (1954 - 1972)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of Western Australia</repository>
 <unittitle>Mowanjum picnic 1969</unittitle>
-<unitid>State Library of Western Australia Call No. 305.89915 MOW and Record No. B2643137</unitid>
 <unitdate>2008</unitdate>
 <abstract>'Mowanjum picnic 1969' is a digital copy of an image published in <span style="font-style:italic">Mowanjum: 50 years community history</span> (p.106). The caption reads, 'Going for a picnic from Old Site in 1969 on the trailer pulled by the old Massey Ferguson tractor known to the children as <span style="font-style:italic">Bug Bug</span> because of the slow putt putt of the engine'.</abstract>
 </archref>

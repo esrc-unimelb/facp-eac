@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-04-19">2017-04-19</eventDateTime>
+<eventDateTime standardDateTime="2017-08-30">2017-08-30</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -45,7 +45,9 @@
 <nameEntry><part>Bungarimbil Boys' Home</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
-<nameEntry localType="also referred to as"><part>Bungarimbil Boys' Farm Home</part>
+<nameEntry localType="also known as"><part>Bungarimbil Children's Home</part>
+</nameEntry>
+<nameEntry localType="also known as"><part>Bungarimbil Boys' Farm Home</part>
 </nameEntry>
 </identity>
 <description><existDates>
@@ -77,7 +79,7 @@
 </function>
 </functions>
 <biogHist>
-<abstract>Bungarimbil Boys' Home was founded by the Church of England (Anglican) Diocese of Canberra and Goulburn at Tumbarumba in 1957. Some children were transferred from the Australian Capital Territory (ACT) and placed in this Home. The property was bequeathed to the Church by Mrs Jean McLeod. Later, extra land was added. This home, which was a small cottage-style home, closed in 1983.</abstract>
+<abstract>Bungarimbil Boys' Home was a small, cottage-style Home founded by the Church of England (Anglican) Diocese of Canberra and Goulburn at Tumbarumba in 1957. Some children were transferred from the Australian Capital Territory (ACT) and placed in this Home. The property was bequeathed to the Church by Mrs Jean McLeod. Later, extra land was added and the Home expanded in 1961. This Home closed in 1983 and became Wagga Community Services.</abstract>
 <p>In 1949 Mrs Jean Macleod transferred 937 acres to the Church Property Trust, and later, further property, together with the Bungarimbil homestead and outbuildings. Bishop KJ Clements planned Bungarimbil, intending it would be 'a real home'.</p>
 <p>A bequest of $30,000 from the Estate of the late Mrs Ruby Woodhouse was made available to the Church Property Trust, the interest of which was to be used for the Bungarimbil Boys' Home.</p>
 <p>By early 1957 the Bungarimbil Boys' Farm Home had the first intake of boys and by September there were 12. Bungarimbil was staffed by house parents. An auxiliary provided amenities for the home.</p>
@@ -95,14 +97,24 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00841b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00099b.htm">
+<relationEntry localType="Organisation">
+Anglican Diocese of Canberra and Goulburn (1863 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00846b.htm">
+<relationEntry localType="Archival Collection">
+Parish Archives, Anglican Diocese of Canberra and Goulburn (1828 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00841b.htm">
 <relationEntry localType="Archival Collection">
 Records of the Bungarimbil Adolescent and Family Care Program (1957 - 2000?)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00090b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00088b.htm">
 <relationEntry localType="Organisation">
-Bungarimbil Children's Home (1961? - 1983)
+Bungarimbil Adolescent and Family Care Program (c. 1989 - 2001?)
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
@@ -117,6 +129,41 @@ Bungarimbil Children's Home (1961? - 1983)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00089b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001081.htm">
+<relationEntry localType="published">Book: Jean Ann Macleod : foundress of "Bungarimbil" Children's Home, Tumbarumba, N.S.W.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Clements, KJ</name>
+<title render="italic">Jean Ann Macleod : foundress of "Bungarimbil" Children's Home, Tumbarumba, N.S.W.</title>
+<imprint>
+<place>Buderim, Qld</place>
+<publisher>KJ Clements</publisher>
+<date>1980</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001065.htm">
+<relationEntry localType="published">Resource: Anglicare Australia Provenance Project</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Anglicare Australia Provenance Project</title>
+<imprint>
+<publisher>Anglicare Australia</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.anglicare.asn.au/docs/default-source/default-document-library/provenance-project-2014.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000017.htm">
 <relationEntry localType="published">Resource: Homes and Orphanages Listings</relationEntry>
@@ -238,6 +285,9 @@ Bungarimbil Children's Home (1961? - 1983)
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
 <title render="quoted">Bishop renews appeal</title>
+<imprint>
+<date>1980</date>
+</imprint>
 <bibseries>
 <title render="italic">The Canberra Times</title>
 </bibseries>
@@ -314,7 +364,6 @@ Bungarimbil Children's Home (1961? - 1983)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Care Leavers Australia Network [CLAN]</repository>
 <unittitle>Bungarimbil Boys' Home</unittitle>
 </archref>
 </objectXMLWrap>

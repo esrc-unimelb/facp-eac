@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-04-16">2015-04-16</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -110,7 +110,7 @@
 </description>
 <relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00469b.htm">
@@ -140,6 +140,49 @@ Alexandra Home for Women (1916 - 1950)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00350b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000776.htm">
+<relationEntry localType="published">Newspaper Article: A House of Mercy</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">A House of Mercy</title>
+<imprint>
+<date>1890</date>
+</imprint>
+<bibseries>
+<title render="italic">The Inquirer &amp; Commercial News</title>
+<num type="pages">3</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article67200946"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000645.htm">
+<relationEntry localType="published">Book Section: Ngala</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Grant, Beryl</name>
+<title render="quoted">Ngala</title>
+<imprint>
+<place>Crawley, W.A.</place>
+<publisher>University of Western Australia Press</publisher>
+<date>2009</date>
+</imprint>
+<bibseries>
+<title render="italic">Historical Encyclopedia of Western Australia</title>
+<name type="author">Gregory, Jenny and Jan Gothard [editors]</name>
+<num type="pages">635-636</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001327.htm">
 <relationEntry localType="published">Newspaper Article: The Proposed House of Mercy</relationEntry>
@@ -207,25 +250,6 @@ Alexandra Home for Women (1916 - 1950)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000776.htm">
-<relationEntry localType="published">Newspaper Article: A House of Mercy</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">A House of Mercy</title>
-<imprint>
-<date>1890</date>
-</imprint>
-<bibseries>
-<title render="italic">The Inquirer &amp; Commercial News</title>
-<num type="pages">3</num>
-</bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article67200946"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000774.htm">
 <relationEntry localType="published">Resource: History</relationEntry>
 
@@ -237,30 +261,6 @@ Alexandra Home for Women (1916 - 1950)
 <date>2009</date>
 </imprint>
 <extptr linktype="simple" href="http://www.ngala.com.au/About-Ngala/History"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000645.htm">
-<relationEntry localType="published">Book Section: Ngala</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Grant, Beryl</name>
-<title render="quoted">Ngala</title>
-<imprint>
-<place>Crawley, W.A.</place>
-<publisher>University of Western Australia Press</publisher>
-<date>2009</date>
-</imprint>
-<bibseries>
-<title render="italic">Historical Encyclopedia of Western Australia</title>
-<name type="author">Gregory, Jenny and Jan Gothard [editors]</name>
-<num type="pages">635-636</num>
-</bibseries>
 </bibref>
 </objectXMLWrap>
 
@@ -290,22 +290,6 @@ Alexandra Home for Women (1916 - 1950)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000006.htm">
-<relationEntry localType="published">Book: The Open Door: a History of Loving Care for Families, House of Mercy-Alexandra Home-Ngala, 1890-1980</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Lang, Jean</name>
-<title render="italic">The Open Door: a History of Loving Care for Families, House of Mercy-Alexandra Home-Ngala, 1890-1980</title>
-<imprint>
-<place>Perth</place>
-<publisher>Ngala Mothercraft Home &amp; Training Centre Inc.</publisher>
-<date>1980</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
 <relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
 
@@ -323,6 +307,22 @@ Alexandra Home for Women (1916 - 1950)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000006.htm">
+<relationEntry localType="published">Book: The Open Door: a History of Loving Care for Families, House of Mercy-Alexandra Home-Ngala, 1890-1980</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Lang, Jean</name>
+<title render="italic">The Open Door: a History of Loving Care for Families, House of Mercy-Alexandra Home-Ngala, 1890-1980</title>
+<imprint>
+<place>Perth</place>
+<publisher>Ngala Mothercraft Home &amp; Training Centre Inc.</publisher>
+<date>1980</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 </relations>
 </cpfDescription>

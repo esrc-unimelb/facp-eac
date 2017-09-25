@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-16">2017-05-16</eventDateTime>
+<eventDateTime standardDateTime="2017-08-11">2017-08-11</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -45,13 +45,7 @@
 <nameEntry><part>Anglican Diocese of Canberra and Goulburn</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
-<nameEntry localType=""><part>Church of England Diocese of Canberra and Goulburn</part>
-<useDates>
-<dateRange>
-<fromDate standardDate="1981-01-01">1981</fromDate>
-<toDate standardDate=""></toDate>
-</dateRange>
-</useDates>
+<nameEntry localType="also known as"><part>Church of England Diocese of Canberra and Goulburn</part>
 </nameEntry>
 </identity>
 <description><existDates>
@@ -71,13 +65,24 @@
 <function>
 <term>Care Provider</term>
 </function>
+<function>
+<term>Records Access Service</term>
+</function>
+<function>
+<term>Records Holder</term>
+</function>
 </functions>
 <biogHist>
-<abstract>The Church of England (Anglican) Diocese of Canberra and Goulburn was first established as a separate diocese (the Diocese of Goulburn, New South Wales) in 1863. As the new city of Canberra developed in the early twentieth century, the Diocese of Goulburn also became responsible for Church of England activities in the Australian Capital Territory. The Church of England changed its name to the Anglican Church in 1983 and the Diocese followed suit. The Diocese of Canberra and Goulburn has been responsible for a number of children's homes in both New South Wales and the Australian Capital Territory. The Diocese manages records relating to St Saviour's Children's Home and Bungarimbil Home.</abstract>
+<abstract>The Anglican Diocese of Canberra and Goulburn (previously known as the Church of England Diocese of Canberra and Goulburn) was first established as a separate diocese (the Diocese of Goulburn, New South Wales) in 1863. As the new city of Canberra developed in the early twentieth century, the Diocese of Goulburn also became responsible for Church of England activities in the Australian Capital Territory. The Church of England changed its name to the Anglican Church in 1983 and the Diocese followed suit. The Diocese of Canberra and Goulburn has been responsible for a number of children's homes in both New South Wales and the Australian Capital Territory. The Diocese manages records relating to St Saviour's Children's Home and Bungarimbil Boys' Home.</abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00846b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00844b.htm">
+<relationEntry localType="Archival Collection">
+Records of the St Saviour's Children's Home and St Saviour's Cottage Home (1929 - 1994)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00846b.htm">
 <relationEntry localType="Archival Collection">
 Parish Archives, Anglican Diocese of Canberra and Goulburn (1828 - )
 </relationEntry>
@@ -92,6 +97,11 @@ St Saviour's Cottage Home (1982 - 1986)
 Anglican Church of Australia (1981 - )
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00096b.htm">
+<relationEntry localType="Organisation">
+St Saviour's Neighbourhood Centre (1980 - )
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00047b.htm">
 <relationEntry localType="Organisation">
 Church of England (1788 - 1981)
@@ -99,7 +109,7 @@ Church of England (1788 - 1981)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01327b.htm">
 <relationEntry localType="Organisation">
-Anglicare (1929 - )
+Anglicare NSW South, NSW West &amp; ACT (2006 - )
 </relationEntry>
 <dateRange>
 <fromDate standardDate="1929-01-01">1929</fromDate>
@@ -128,11 +138,6 @@ Bungarimbil Boys' Home (1957 - 1983)
 Birralee (1971 - c. 1977)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00096b.htm">
-<relationEntry localType="Organisation">
-St Saviour's Neighbourhood Centre Goulburn (1980 - )
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00097b.htm">
 <relationEntry localType="Organisation">
 St Saviour's Children's Home (1929 - 1982)
@@ -154,6 +159,43 @@ St Saviour's Children's Home (1929 - 1982)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00099b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001082.htm">
+<relationEntry localType="published">Resource Section: Parish records of the Diocese of Canberra and Goulburn, 1843-2004 [manuscript]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Parish records of the Diocese of Canberra and Goulburn, 1843-2004 [manuscript]</title>
+<imprint>
+<publisher>National Library of Australia</publisher>
+</imprint>
+<bibseries>
+<title render="italic">National Library of Australia catalogue</title>
+</bibseries>
+<extptr linktype="simple" href="http://catalogue.nla.gov.au/Record/1265903"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001065.htm">
+<relationEntry localType="published">Resource: Anglicare Australia Provenance Project</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Anglicare Australia Provenance Project</title>
+<imprint>
+<publisher>Anglicare Australia</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.anglicare.asn.au/docs/default-source/default-document-library/provenance-project-2014.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000590.htm">
 <relationEntry localType="published">Newspaper Article: A spreading of authority in the Catholic Church: Around the churches</relationEntry>
@@ -183,6 +225,9 @@ St Saviour's Children's Home (1929 - 1982)
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
 <title render="quoted">Bishop renews appeal</title>
+<imprint>
+<date>1980</date>
+</imprint>
 <bibseries>
 <title render="italic">The Canberra Times</title>
 </bibseries>

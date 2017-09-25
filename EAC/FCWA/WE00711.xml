@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-04-07">2017-04-07</eventDateTime>
+<eventDateTime standardDateTime="2017-08-31">2017-08-31</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -71,9 +71,14 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00702b.htm">
-<relationEntry localType="Event">
-Select Committee into Child Migration, Legislative Assembly, Parliament of Western Australia (1996)
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00366b.htm">
+<relationEntry localType="Organisation">
+Department for Family and Children's Services, State of Western Australia (1995 - 2001)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00810b.htm">
+<relationEntry localType="Organisation">
+Advisory Council of Empire Settlement, United Kingdom (1925 - 1981)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00824b.htm">
@@ -111,22 +116,14 @@ Child Migrants Trust (1987 - )
 Old Fairbridgians Association, Western Australia (1930s - )
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01427b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00270b.htm">
 <relationEntry localType="Organisation">
-Holy Spirit Province of the Christian Brothers (1967 - 2007)
-</relationEntry>
-<descriptiveNote>
-<p>The Christian Brothers gave evidence at the Inquiry into the Welfare of Former British Child Migrants.</p>
-</descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00810b.htm">
-<relationEntry localType="Organisation">
-Advisory Council of Empire Settlement, United Kingdom (1925 - 1981)
+Fairbridge (c. 1909 - 2011)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00366b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00699b.htm">
 <relationEntry localType="Organisation">
-Department for Family and Children's Services, State of Western Australia (1995 - 2001)
+CBERSS: Christian Brothers Ex Residents and Students Services (1995 - 2005)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00967b.htm">
@@ -136,6 +133,11 @@ Child Migrant Support Fund (1999 - 2002?)
 <descriptiveNote>
 <p>The Child Migrant Support Fund was established as a British Government response to the Inquiry into the Welfare of Former British Child Migrants.</p>
 </descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00702b.htm">
+<relationEntry localType="Event">
+Select Committee into Child Migration, Legislative Assembly, Parliament of Western Australia (1996)
+</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00713b.htm">
 <relationEntry localType="Event">
@@ -173,10 +175,13 @@ Father Hudson's Society, United Kingdom (1902 - )
 Child Abuse
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00699b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01427b.htm">
 <relationEntry localType="Organisation">
-CBERSS: Christian Brothers Ex Residents and Students Services (1995 - 2005)
+Holy Spirit Province of the Christian Brothers (1967 - 2007)
 </relationEntry>
+<descriptiveNote>
+<p>The Christian Brothers gave evidence at the Inquiry into the Welfare of Former British Child Migrants.</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00712b.htm">
 <relationEntry localType="Organisation">
@@ -317,6 +322,23 @@ The Children's Society, United Kingdom (1881 - )
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000117.htm">
+<relationEntry localType="published">Report: Lost Innocents: Righting the Record Report on Child Migration</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Parliament of Australia Senate</name>
+<title render="italic">Lost Innocents: Righting the Record Report on Child Migration</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Senate Printing Unit</publisher>
+<date>2001</date>
+</imprint>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/completed_inquiries/1999-02/child_migrat/report/index.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000526.htm">
 <relationEntry localType="published">Resource Section: Minutes of Evidence Taken Before the Health Committee on 4 June 1998</relationEntry>
 
@@ -356,29 +378,11 @@ The Children's Society, United Kingdom (1881 - )
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000117.htm">
-<relationEntry localType="published">Report: Lost Innocents: Righting the Record Report on Child Migration</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Parliament of Australia Senate</name>
-<title render="italic">Lost Innocents: Righting the Record Report on Child Migration</title>
-<imprint>
-<place>Canberra</place>
-<publisher>Senate Printing Unit</publisher>
-<date>2001</date>
-</imprint>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/completed_inquiries/1999-02/child_migrat/report/index.htm"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000210.htm">
 <relationEntry localType="digitalObject">CCWC Minutes of Evidence Document 3</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>House of Commons Health Committee, Parliament of the United Kingdom</repository>
 <unittitle>CCWC Minutes of Evidence Document 3</unittitle>
 <unitdate>11 June 1998</unitdate>
 <abstract>'CCWC Minutes of Evidence Document 3' is part of a document tabled by the Catholic Child Welfare Council (CCWC) to the British parliament's Inquiry into the Welfare of Former British Child Migrants in 1998. This item gives a history of Catholic child migration to Australia (1937-1963) and identifies the main government and church agencies involved in the migration scheme in Britain and Australia.</abstract>

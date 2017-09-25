@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-06-24">2016-06-24</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -124,30 +124,23 @@ Department for Community Welfare, State of Western Australia (1972 - 1985)
 Ministry of Justice, State of Western Australia (1993 - 2001)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01345b.htm">
-<relationEntry localType="Glossary Term">
-Annexe (1890s - 1990s)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
-<relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00451b.htm">
 <relationEntry localType="Glossary Term">
 Juvenile Offending (1840s - )
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00637b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-State Archives Collection of Western Australia (1829 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01071b.htm">
-<relationEntry localType="Archival Collection">
-Youth Justice Records (1994 - )
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01442b.htm">
+<relationEntry localType="Organisation">
+Anglican Farm School, Stoneville (1955 - 1961)
 </relationEntry>
+<descriptiveNote>
+<p>Boys who ran away from the Anglican Farm School, Stoneville on a regular basis were often sent to Riverbank as it was a more secure detention centre.</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01444b.htm">
 <relationEntry localType="Organisation">
@@ -157,13 +150,20 @@ Hillston, Anglican Farm School, Stoneville (1962 - 1969)
 <p>Boys who ran away from the Hillston, Anglican Farm School, Stoneville on a regular basis were often sent to Riverbank as it was a more secure detention centre.</p>
 </descriptiveNote>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01442b.htm">
-<relationEntry localType="Organisation">
-Anglican Farm School, Stoneville (1955 - 1961)
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01345b.htm">
+<relationEntry localType="Glossary Term">
+Annexe (1890s - 1990s)
 </relationEntry>
-<descriptiveNote>
-<p>Boys who ran away from the Anglican Farm School, Stoneville on a regular basis were often sent to Riverbank as it was a more secure detention centre.</p>
-</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01071b.htm">
+<relationEntry localType="Archival Collection">
+Youth Justice Records (1994 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00637b.htm">
+<relationEntry localType="Archival Collection">
+State Archives Collection of Western Australia (1829 - )
+</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00238b.htm">
 <relationEntry localType="Organisation">
@@ -213,6 +213,11 @@ McDonald House (1952 - 1985?)
 <p>McDonald Housewas an annexe of Riverbank.</p>
 </descriptiveNote>
 </cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01404b.htm">
+<relationEntry localType="Organisation">
+Banksia Hill Detention Centre (1997 - )
+</relationEntry>
+</cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Riverbank', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
 
@@ -238,44 +243,6 @@ McDonald House (1952 - 1985?)
 <publisher>Office of the Inspector of Custodial Services</publisher>
 </imprint>
 <extptr linktype="simple" href="http://www.oics.wa.gov.au/reports/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001338.htm">
-<relationEntry localType="published">Resource: State wards Perth Australia</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">State wards Perth Australia</title>
-<imprint>
-<publisher>Frankie Panaia</publisher>
-<date>2003-2013</date>
-</imprint>
-<extptr linktype="simple" href="https://plus.google.com/photos/+FrankiePanaia/albums/5386062937909441377"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000867.htm">
-<relationEntry localType="published">Resource Section: Hansard Archive 1870 to 1995</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Hansard Archive 1870 to 1995</title>
-<imprint>
-<publisher>Parliament of Western Australia</publisher>
-<date>2013</date>
-</imprint>
-<bibseries>
-<title render="italic">Parliament of Western Australia website</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.parliament.wa.gov.au/hansard/hansard1870to1995.nsf/vwWeb1870Main"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -323,6 +290,22 @@ McDonald House (1952 - 1985?)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001338.htm">
+<relationEntry localType="published">Resource: State wards Perth Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">State wards Perth Australia</title>
+<imprint>
+<publisher>Frankie Panaia</publisher>
+<date>2003-2013</date>
+</imprint>
+<extptr linktype="simple" href="https://plus.google.com/photos/+FrankiePanaia/albums/5386062937909441377"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000516.htm">
 <relationEntry localType="published">Resource Section: Submission No. 177 Inquiry into Children in Institutional Care: Submissions</relationEntry>
@@ -404,7 +387,6 @@ McDonald House (1952 - 1985?)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State wards Perth Australia (collection compiled by Frankie Panaia)</repository>
 <unittitle>Riverbank</unittitle>
 <unitdate>29 January 2003</unitdate>
 </archref>
@@ -419,9 +401,7 @@ McDonald House (1952 - 1985?)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Department for Child Protection and Family Support</repository>
 <unittitle>Workshop activities at Riverbank</unittitle>
-<unitid>Department for Community Services, Western Australia , Annual Report 1986, p.41</unitid>
 <unitdate>1986</unitdate>
 <abstract>'Workshop activities at Riverbank' is a digital copy of an image included (p.41) the <span style="font-style:italic">Annual Report 1986</span> of the Department for Community Services.</abstract>
 <note label="rights">Department for Child Protection and Family Support</note>
@@ -434,9 +414,7 @@ McDonald House (1952 - 1985?)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Department for Child Protection and Family Support</repository>
 <unittitle>Riverbank, computers</unittitle>
-<unitid>Department for Community Services, Western Australia , Annual Report 1986, p.44</unitid>
 <unitdate>1986</unitdate>
 <abstract>'Riverbank, computers' is a digital copy of an image included (p.44) the <span style="font-style:italic">Annual Report 1986</span> of the Department for Community Services. The caption reads, 'Computers are proving to be a useful and popular teaching aid at Riverbank'.</abstract>
 <note label="rights">Department for Child Protection and Family Support</note>
@@ -449,9 +427,7 @@ McDonald House (1952 - 1985?)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Department for Child Protection and Family Support</repository>
 <unittitle>Riverbank, woodwork</unittitle>
-<unitid>Department for Community Services Western Australia , Annual Report 1987, p.41</unitid>
 <unitdate>1987</unitdate>
 <abstract>'Riverbank, woodwork' is a digital copy of an image included (p.41) in the <span style="font-style:italic">Annual Report 1987</span> of the Department for Community Services. The caption reads, 'Youths at Riverbank have a chance to learn woodwork skills'.</abstract>
 <note label="rights">Department for Child Protection and Family Support</note>
@@ -464,9 +440,7 @@ McDonald House (1952 - 1985?)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Department for Child Protection and Family Support</repository>
 <unittitle>Riverbank, trailbike</unittitle>
-<unitid>Department for Community Welfare, Western Australia , Annual Report 1975, p.57</unitid>
 <unitdate>1975</unitdate>
 <abstract>'Riverbank, trailbike' is a digital copy of an image included (p.57) in the <span style="font-style:italic">Annual Report 1975</span> of the Department for Community Welfare.</abstract>
 <note label="rights">Department for Child Protection and Family Support</note>
@@ -479,9 +453,7 @@ McDonald House (1952 - 1985?)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Department for Child Protection and Family Support</repository>
 <unittitle>Riverbank, workshop</unittitle>
-<unitid>Department for Community Welfare, Western Australia , Annual Report 1975, p.58</unitid>
 <unitdate>1975</unitdate>
 <abstract>'Riverbank, workshop' is a digital copy of an image included (p.58) in the <span style="font-style:italic">Annual Report 1975</span> of the Department for Community Welfare. The caption reads, 'Riverbank attempts to replicate the outside community with such facilities as factory workshops and "Token" economy system'.</abstract>
 <note label="rights">Department for Child Protection and Family Support</note>

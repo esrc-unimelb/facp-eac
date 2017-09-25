@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-16">2017-05-16</eventDateTime>
+<eventDateTime standardDateTime="2017-08-11">2017-08-11</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -55,9 +55,9 @@
 <places>
 </places>
 <biogHist>
-<abstract>This collection contains records relating to St Saviour's Neighbourhood Centre, St Saviour's Cottage and St Saviour's Adolescent program dated between 1929 and 1994. These records are held by the St Saviour's Neighbourhood Centre.</abstract>
+<abstract>The Records of the St Saviour's Children's Home and St Saviour's Cottage Home is a collection containing records dated between 1929 and 1994, relating to St Saviour's Children's Home, St Saviour's Neighbourhood Centre, St Saviour's Cottage and Anglicare's Adolescent Program.</abstract>
 <h4>Access Conditions</h4>
-<p>Information may be made available to people seeking family information. Requests for information should be accompanied by proof of identity and made in writing to the St Saviour's Neighbourhood Centre.</p>
+<p>The Diocesan Registrar has an open approach to access to records in this collection, only diocesan restrictions apply. Proof of identity is required, there is no written form to fill in and no fee is charged for finding information.</p>
 <h4>Records</h4>
 <p>This archival collection can be broken down into three archival series or groups of records:</p>
 <list><item>Admission and discharge registers, St Saviour's Children's Home (1929 - 1951)</item>
@@ -66,9 +66,9 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00096b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00099b.htm">
 <relationEntry localType="Organisation">
-St Saviour's Neighbourhood Centre Goulburn (1980 - )
+Anglican Diocese of Canberra and Goulburn (1863 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00563b.htm">
@@ -86,6 +86,16 @@ Individual Case Files, St Saviour's Children's Home (1970 - 1994)
 Admission and Discharge Registers, St Saviour's Children's Home (1929 - 1951)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00101b.htm">
+<relationEntry localType="Organisation">
+Adolescent Program (Anglicare Canberra Goulburn) (1986 - 1994)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00096b.htm">
+<relationEntry localType="Organisation">
+St Saviour's Neighbourhood Centre (1980 - )
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00100b.htm">
 <relationEntry localType="Organisation">
 St Saviour's Cottage Home (1982 - 1986)
@@ -96,19 +106,9 @@ St Saviour's Cottage Home (1982 - 1986)
 St Saviour's Children's Home (1929 - 1982)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01415b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01498b.htm">
 <relationEntry localType="Contact Details">
-St Saviour's Neighbourhood Centre - Contact Details
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01125b.htm">
-<relationEntry localType="Glossary Term">
-Archival Series
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01124b.htm">
-<relationEntry localType="Glossary Term">
-Archival Collection
+Anglican Diocese of Canberra and Goulburn - Contact Details
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
@@ -123,6 +123,25 @@ Archival Collection
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00844b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001065.htm">
+<relationEntry localType="published">Resource: Anglicare Australia Provenance Project</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Anglicare Australia Provenance Project</title>
+<imprint>
+<publisher>Anglicare Australia</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://www.anglicare.asn.au/docs/default-source/default-document-library/provenance-project-2014.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 </relations>
 </cpfDescription>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-10">2017-05-10</eventDateTime>
+<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -44,6 +44,8 @@
 <entityType>corporateBody</entityType>
 <nameEntry><part>The Gables</part>
 <authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Also known as"><part>Gables Orphanage</part>
 </nameEntry>
 </identity>
 <description><existDates>
@@ -68,7 +70,8 @@
 <biogHist>
 <abstract>The Gables was opened as a state-run children's Home in 1962. It accommodated 25 children who were wards of the state, consisting of boys from 4 to 10 years of age and girls from 4 to 14 years of age. Most of the children accommodated at The Gables had either physical, behavioural or learning difficulties. The Home was closed by the mid 1980s.</abstract>
 <p>The Gables first accommodated children in dormitories on the first floor, but in 1965 alterations were made so that the children were accommodated in three fairly self-contained units, upstairs and downstairs in the main building and in a cottage at the rear of the main building. At the same time the Home's rostered child care workers were replaced with cottage mothers.</p>
-<p>he Home was closed by the mid 1980s as part of the Department's rationalisation of residential child care resources.</p>
+<p>The Home was closed by the mid 1980s as part of the Department's rationalisation of residential child care resources.</p>
+<p>The Gables was mentioned in the Bringing Them Home Report (1997) as an institution that housed Indigenous children removed from their families.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1962-01-01">1962</fromDate>
 <toDate standardDate="1962-12-31">1962</toDate>
@@ -107,6 +110,11 @@ Department of Community Welfare Services, State Government of Victoria (1978 - 1
 <toDate standardDate="1985-12-31">c. 1985</toDate>
 </dateRange>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000158b.htm">
+<relationEntry localType="Glossary Term">
+Stolen Generations
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000704b.htm">
 <relationEntry localType="Archival Collection">
 Victorian Government Records relating to Wardship and Adoption (1864 - )
@@ -135,6 +143,22 @@ Adoption and Family Records Service, Department of Human Services (c. 1984 - 201
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000516b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000041.htm">
+<relationEntry localType="published">Report: Bringing Them Home: Report of the National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from their Families</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Human Rights and Equal Opportunity Commission</name>
+<title render="italic">Bringing Them Home: Report of the National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from their Families</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>1997</date>
+</imprint>
+<extptr linktype="simple" href="http://www.humanrights.gov.au/publications/bringing-them-home-stolen-children-report-1997"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
 <relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>

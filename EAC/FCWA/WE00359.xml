@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2015-11-18">2015-11-18</eventDateTime>
+<eventDateTime standardDateTime="2017-09-14">2017-09-14</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -86,7 +86,7 @@ Country High School Hostels Ex-Gratia Scheme (2012 - 2013)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00617b.htm">
 <relationEntry localType="Archival Series">
-Family Information Research System, Department for Child Protection and Family Support and its predecessors (1921 - )
+Family Information Research System (1921 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00505b.htm">
@@ -149,6 +149,21 @@ Department of Local Government and Communities (2013 - )
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000182.htm">
+<relationEntry localType="published">Report: Annual Report 2010-2011</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Department for Communities</name>
+<title render="italic">Annual Report 2010-2011</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+<date>2011</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000183.htm">
 <relationEntry localType="published">Report: Redress WA Guidelines: Guidelines to Provide for an Ex Gratia Payment to Persons Abused and/or Neglected as Children While in State Care</relationEntry>
 
@@ -161,21 +176,6 @@ Department of Local Government and Communities (2013 - )
 <date>2011</date>
 </imprint>
 <extptr linktype="simple" href=""></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000182.htm">
-<relationEntry localType="published">Report: Annual Report 2010-2011</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Department for Communities</name>
-<title render="italic">Annual Report 2010-2011</title>
-<imprint>
-<publisher>Government of Western Australia</publisher>
-<date>2011</date>
-</imprint>
 </bibref>
 </objectXMLWrap>
 
@@ -223,7 +223,6 @@ Department of Local Government and Communities (2013 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Redress WA</repository>
 <unittitle>Redress WA scheme updates 2009-2011</unittitle>
 <unitdate>28 July 2009 - 6 March 2011</unitdate>
 <abstract>This document outlines some key changes to and progress statements on the Redress WA scheme which sought to acknowledge and apologise to adults who had endured neglect and/or abuse in 'care' as children.</abstract>
@@ -236,7 +235,6 @@ Department of Local Government and Communities (2013 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Redress WA</repository>
 <unittitle>Redress WA Guidelines (as amended 15 February 2010)</unittitle>
 <unitdate>15 February 2010</unitdate>
 <abstract>Amended on 15 February 2010, these were the second version of guidelines which were developed to support the operation of the Western Australian Redress WA program.
@@ -250,7 +248,6 @@ The guidelines outline how the Redress WA scheme operated, including the applica
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Redress WA</repository>
 <unittitle>Redress WA Guidelines (as amended 18 May 2011)</unittitle>
 <unitdate>18 May 2011</unitdate>
 <abstract>Amended on 18 May 2011, these were the final guidelines which were developed to support the operation of the Western Australian Redress WA program. The document also (pages 34-38) lists the Children's Homes and other organizations where the government regulated and subsidized 'care'. It also describes (p.39) each 'scale' of abuse.</abstract>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-03-06">2017-03-06</eventDateTime>
+<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -71,6 +71,14 @@ Commissioner for Native Affairs (1936 - 1954)
 Aboriginal Protection (c. 1832 - c. 1972)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01280b.htm">
+<relationEntry localType="Organisation">
+Halls Creek Mission (1943 - 1960)
+</relationEntry>
+<descriptiveNote>
+<p>The Commissioner of Native Welfare was the legal guardian of children at Halls Creek Mission.</p>
+</descriptiveNote>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00684b.htm">
 <relationEntry localType="Organisation">
 Sister Kate's Children's Cottage Home (1934 - 1980)
@@ -87,17 +95,20 @@ Sunday Island Mission (1937 - 1964)
 <p>The Commissioner of Native Welfare was the legal guardian of children at Sunday Island Mission until 1963 when he could regulate the 'care' of those Aboriginal children.</p>
 </descriptiveNote>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01387b.htm">
-<relationEntry localType="Concept">
-Assimilation (1930s - 1970s)
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00195b.htm">
 <relationEntry localType="Organisation">
 St Mary's Mission, New Norcia (1848 - 1974)
 </relationEntry>
 <descriptiveNote>
 <p>The Commissioner of Native Welfare was the legal guardian of children at St Mary's Mission, New Norcia until 1963 when he could regulate the 'care' of those Aboriginal children.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00182b.htm">
+<relationEntry localType="Organisation">
+Rangevue Hostel (1969 - 1973?)
+</relationEntry>
+<descriptiveNote>
+<p>The Commissioner of Native Welfare could regulate the 'care' of Aboriginal children in Rangevue Hostel.</p>
 </descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00068b.htm">
@@ -132,21 +143,10 @@ Department of Native Welfare, State of Western Australia (1955 - 1972)
 <p>The Commissioner was the head of the Department of Native Welfare.</p>
 </descriptiveNote>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01280b.htm">
-<relationEntry localType="Organisation">
-Halls Creek Mission (1943 - 1960)
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01387b.htm">
+<relationEntry localType="Concept">
+Assimilation (1930s - 1970s)
 </relationEntry>
-<descriptiveNote>
-<p>The Commissioner of Native Welfare was the legal guardian of children at Halls Creek Mission.</p>
-</descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00182b.htm">
-<relationEntry localType="Organisation">
-Rangevue Hostel (1969 - 1973?)
-</relationEntry>
-<descriptiveNote>
-<p>The Commissioner of Native Welfare could regulate the 'care' of Aboriginal children in Rangevue Hostel.</p>
-</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00423b.htm">
 <relationEntry localType="Legislation">
@@ -212,18 +212,6 @@ Wandering Mission (1944 - 1979)
 <p>The Commissioner of Native Welfare was was the guardian of all 'native' children at Wandering Mission until 1963 when he could regulate the 'care' of those Aboriginal children.</p>
 </descriptiveNote>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00154b.htm">
-<relationEntry localType="Organisation">
-Mowanjum (1956 - )
-</relationEntry>
-<dateRange>
-<fromDate standardDate="1954-01-01">1954</fromDate>
-<toDate standardDate="1972-12-31">1972</toDate>
-</dateRange>
-<descriptiveNote>
-<p>The Commissioner of Native Welfare was the legal guardian of children at Mowanjum until 1963 when he could regulate the 'care' of those Aboriginal children.</p>
-</descriptiveNote>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00152b.htm">
 <relationEntry localType="Organisation">
 Mount Margaret Mission (1921 - 1975)
@@ -234,6 +222,18 @@ Mount Margaret Mission (1921 - 1975)
 </dateRange>
 <descriptiveNote>
 <p>The Commissioner of Native Welfare was the legal guardian of children at Mount Margaret Mission until 1963 when he could regulate the 'care' of those Aboriginal children.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00154b.htm">
+<relationEntry localType="Organisation">
+Mowanjum (1956 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1954-01-01">1954</fromDate>
+<toDate standardDate="1972-12-31">1972</toDate>
+</dateRange>
+<descriptiveNote>
+<p>The Commissioner of Native Welfare was the legal guardian of children at Mowanjum until 1963 when he could regulate the 'care' of those Aboriginal children.</p>
 </descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00173b.htm">
@@ -380,6 +380,11 @@ Bamburra Hostel (1970 - )
 <p>The Commissioner of Native Welfare could regulate the 'care' of Aboriginal children at Bamburra Hostel.</p>
 </descriptiveNote>
 </cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00365b.htm">
+<relationEntry localType="Organisation">
+Department for Community Welfare, State of Western Australia (1972 - 1985)
+</relationEntry>
+</cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Commissioner of Native Welfare', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
 
@@ -412,6 +417,60 @@ Bamburra Hostel (1970 - )
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000027.htm">
+<relationEntry localType="published">Report: Annual Report: Department of Native Welfare</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Western Australia. Department of Native Welfare</name>
+<title render="italic">Annual Report: Department of Native Welfare</title>
+<imprint>
+<place>Perth [W.A.]</place>
+<publisher>Dept. Of Native Welfare,</publisher>
+<date>1955-1972</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000195.htm">
+<relationEntry localType="published">Resource Section: Interview with Frank Ellis Gare, last Commissioner for Native Welfare [interviewed by Darren Foster]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Interview with Frank Ellis Gare, last Commissioner for Native Welfare [interviewed by Darren Foster]</title>
+<imprint>
+<publisher>National Library of Australia</publisher>
+<date>1998</date>
+</imprint>
+<bibseries>
+<title render="italic">Trove</title>
+</bibseries>
+<extptr linktype="simple" href="http://trove.nla.gov.au/work/159332908"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000024.htm">
+<relationEntry localType="published">Resource Section: Western Australia Protectors Reports 1899-1959</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Western Australia Protectors Reports 1899-1959</title>
+<imprint>
+<publisher>National Library of Australia</publisher>
+</imprint>
+<bibseries>
+<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
+<name type="author">Australian Institute of Aboriginal and Torres Strait Islander Studies</name>
+</bibseries>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect/western-australia"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001200.htm">
 <relationEntry localType="published">Newspaper Article: Nullarbor Natives Gain New Life</relationEntry>
 
@@ -430,6 +489,45 @@ Bamburra Hostel (1970 - )
 </bibref>
 </objectXMLWrap>
 
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000149.htm">
+<relationEntry localType="published">Book Section: Aboriginal protectors</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">van den Berg, Rosemary</name>
+<title render="quoted">Aboriginal protectors</title>
+<imprint>
+<place>Crawley, W.A.</place>
+<publisher>University of Western Australia Press</publisher>
+<date>2009</date>
+</imprint>
+<bibseries>
+<title render="italic">Historical Encyclopedia of Western Australia</title>
+<name type="author">Gregory, Jenny and Jan Gothard [editors]</name>
+<num type="pages">Pages 36-37</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
+<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">AIATSIS</name>
+<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
+<imprint>
+<date>2010</date>
+</imprint>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000233.htm">
 <relationEntry localType="published">Newspaper Article: Family Notices - Gare</relationEntry>
@@ -462,25 +560,6 @@ Bamburra Hostel (1970 - )
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000195.htm">
-<relationEntry localType="published">Resource Section: Interview with Frank Ellis Gare, last Commissioner for Native Welfare [interviewed by Darren Foster]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Interview with Frank Ellis Gare, last Commissioner for Native Welfare [interviewed by Darren Foster]</title>
-<imprint>
-<publisher>National Library of Australia</publisher>
-<date>1998</date>
-</imprint>
-<bibseries>
-<title render="italic">Trove</title>
-</bibseries>
-<extptr linktype="simple" href="http://trove.nla.gov.au/work/159332908"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000194.htm">
 <relationEntry localType="published">Resource Section: Papers of Frank Gare, circa 1937-2004</relationEntry>
 
@@ -496,101 +575,6 @@ Bamburra Hostel (1970 - )
 <title render="italic">Trove</title>
 </bibseries>
 <extptr linktype="simple" href="http://trove.nla.gov.au/work/36228895"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000149.htm">
-<relationEntry localType="published">Book Section: Aboriginal protectors</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">van den Berg, Rosemary</name>
-<title render="quoted">Aboriginal protectors</title>
-<imprint>
-<place>Crawley, W.A.</place>
-<publisher>University of Western Australia Press</publisher>
-<date>2009</date>
-</imprint>
-<bibseries>
-<title render="italic">Historical Encyclopedia of Western Australia</title>
-<name type="author">Gregory, Jenny and Jan Gothard [editors]</name>
-<num type="pages">Pages 36-37</num>
-</bibseries>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000149.htm">
-<relationEntry localType="published">Book Section: Aboriginal protectors</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">van den Berg, Rosemary</name>
-<title render="quoted">Aboriginal protectors</title>
-<imprint>
-<place>Crawley, W.A.</place>
-<publisher>University of Western Australia Press</publisher>
-<date>2009</date>
-</imprint>
-<bibseries>
-<title render="italic">Historical Encyclopedia of Western Australia</title>
-<name type="author">Gregory, Jenny and Jan Gothard [editors]</name>
-<num type="pages">Pages 36-37</num>
-</bibseries>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000027.htm">
-<relationEntry localType="published">Report: Annual Report: Department of Native Welfare</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Western Australia. Department of Native Welfare</name>
-<title render="italic">Annual Report: Department of Native Welfare</title>
-<imprint>
-<place>Perth [W.A.]</place>
-<publisher>Dept. Of Native Welfare,</publisher>
-<date>1955-1972</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
-<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">AIATSIS</name>
-<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
-<imprint>
-<date>2010</date>
-</imprint>
-<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000024.htm">
-<relationEntry localType="published">Resource Section: Western Australia Protectors Reports 1899-1959</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Western Australia Protectors Reports 1899-1959</title>
-<imprint>
-<publisher>National Library of Australia</publisher>
-</imprint>
-<bibseries>
-<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
-<name type="author">Australian Institute of Aboriginal and Torres Strait Islander Studies</name>
-</bibseries>
-<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect/western-australia"></extptr>
 </bibref>
 </objectXMLWrap>
 

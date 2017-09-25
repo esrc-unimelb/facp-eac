@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-04-06">2017-04-06</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -134,6 +134,11 @@ Stolen Generations
 United Aborigines Mission, Records (1929? - 1977?)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
+<relationEntry localType="Archival Collection">
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01187b.htm">
 <relationEntry localType="Organisation">
 Gnowangerup Agricultural School (1954 - ?)
@@ -227,6 +232,22 @@ Gnowangerup Agricultural School (1954 - ?)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000005.htm">
+<relationEntry localType="published">Resource: Looking West: A Guide to Aboriginal Sources in Western Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">State Records Taskforce, Government of Western Australia</name>
+<title render="italic">Looking West: A Guide to Aboriginal Sources in Western Australia</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+<date>2004</date>
+</imprint>
+<extptr linktype="simple" href="http://pandora.nla.gov.au/pan/42687/20040616-0000/www.lookingwest.communitydevelopment.wa.gov.au/menu.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000033.htm">
 <relationEntry localType="published">Resource: Bringing Them Home: The 'Stolen Children' Report (1997)</relationEntry>
 
@@ -243,21 +264,6 @@ Gnowangerup Agricultural School (1954 - ?)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
-<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">AIATSIS</name>
-<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
-<imprint>
-<date>2010</date>
-</imprint>
-<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000011.htm">
 <relationEntry localType="published">Resource: Australian Institute of Aboriginal and Torres Strait Islander Studies [website]</relationEntry>
 
@@ -270,18 +276,17 @@ Gnowangerup Agricultural School (1954 - ?)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000005.htm">
-<relationEntry localType="published">Resource: Looking West: A Guide to Aboriginal Sources in Western Australia</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000025.htm">
+<relationEntry localType="published">Resource: To Remove and Protect: Aboriginal Lives Under Control [website]</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">State Records Taskforce, Government of Western Australia</name>
-<title render="italic">Looking West: A Guide to Aboriginal Sources in Western Australia</title>
+<name type="author">AIATSIS</name>
+<title render="italic">To Remove and Protect: Aboriginal Lives Under Control [website]</title>
 <imprint>
-<publisher>Government of Western Australia</publisher>
-<date>2004</date>
+<date>2010</date>
 </imprint>
-<extptr linktype="simple" href="http://pandora.nla.gov.au/pan/42687/20040616-0000/www.lookingwest.communitydevelopment.wa.gov.au/menu.htm"></extptr>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -310,7 +315,6 @@ Gnowangerup Agricultural School (1954 - ?)
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
 <unittitle>134394PD: Gnowangerup Mission run by the United Aboriginal Mission, January 1958</unittitle>
-<unitid>State Library of Western Australia Call Number BA1203/914-918,958</unitid>
 <unitdate>January 1958</unitdate>
 <abstract>This is a digitised copy of a slides and is part of the group of images 'Gnowangerup Mission run by the United Aboriginal Mission, January 1958 [picture]' held at the State Library of Western Australia. The image shows some of the buildings on the Gnowangerup Mission.</abstract>
 <note label="rights">For personal use only. To publish or display, contact the State Library of Western Australia.</note>
@@ -327,7 +331,6 @@ Gnowangerup Agricultural School (1954 - ?)
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
 <unittitle>134349PD: Gnowangerup Mission, January 1958. Nursery dormitory</unittitle>
-<unitid>State Library of Western Australia Call Number BA1203/914-918,958</unitid>
 <unitdate>1958</unitdate>
 <abstract>This is a digitised copy of a slide and is part of the group of images 'Gnowangerup Mission run by the United Aboriginal Mission, January 1958 [picture]' held at the State Library of Western Australia. The image shows young children outside at Gnowangerup Mission.</abstract>
 <note label="rights">For personal use only. To publish or display, contact the State Library of Western Australia.</note>

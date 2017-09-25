@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-21">2016-04-21</eventDateTime>
+<eventDateTime standardDateTime="2017-09-14">2017-09-14</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -78,7 +78,7 @@ Ward (1927 - 2004)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00622b.htm">
 <relationEntry localType="Archival Series">
-Department of Native Welfare [and predecessors], Client Files, Department for Child Protection and Family Support (1921 - 1969)
+Department of Native Welfare [and predecessors], Client Files (1921 - 1969)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00364b.htm">
@@ -93,6 +93,11 @@ Commissioner of Native Welfare (1954 - 1972)
 <descriptiveNote>
 <p>Commissioner of Native Welfare was the legal guardian, of all Aboriginal children in Western Australia until 1963 when he could regulate the 'care' of Aboriginal children.</p>
 </descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00073b.htm">
+<relationEntry localType="Organisation">
+Fairhaven Hostel (1965 - 1987)
+</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00196b.htm">
 <relationEntry localType="Organisation">
@@ -170,22 +175,6 @@ Nazareth House (1941 - 1979?)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000022.htm">
-<relationEntry localType="published">Report: Annual Report of the Child Welfare Department</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Western Australia. Child Welfare Department</name>
-<title render="italic">Annual Report of the Child Welfare Department</title>
-<imprint>
-<place>Perth [W.A.]</place>
-<publisher>Child Welfare Department</publisher>
-<date>1928-1972</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000019.htm">
 <relationEntry localType="published">Report: Annual Report: Department for Community Welfare</relationEntry>
 
@@ -199,6 +188,22 @@ Nazareth House (1941 - 1979?)
 <date>1973-1984</date>
 </imprint>
 <extptr linktype="simple" href="http://catalogue.slwa.wa.gov.au/record=b1410539~S7"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000022.htm">
+<relationEntry localType="published">Report: Annual Report of the Child Welfare Department</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Western Australia. Child Welfare Department</name>
+<title render="italic">Annual Report of the Child Welfare Department</title>
+<imprint>
+<place>Perth [W.A.]</place>
+<publisher>Child Welfare Department</publisher>
+<date>1928-1972</date>
+</imprint>
 </bibref>
 </objectXMLWrap>
 

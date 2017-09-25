@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-04-28">2017-04-28</eventDateTime>
+<eventDateTime standardDateTime="2017-08-11">2017-08-11</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -91,11 +91,6 @@ Anglicare Out-of-Home Care Services also took responsibility for storing and man
 Care Force (1984 - 1997)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00049b.htm">
-<relationEntry localType="Organisation">
-Anglicare Diocese of Sydney (1997 - )
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00068b.htm">
 <relationEntry localType="Organisation">
 Charlton Youth Services (1950s - c. 2012)
@@ -116,6 +111,18 @@ Anglicare Child and Family Services (1997 - 2008)
 </dateRange>
 <descriptiveNote>
 <p>Anglicare Child and Family Services managed the records of Anglicare Welfare Services until 2008.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00049b.htm">
+<relationEntry localType="Organisation">
+Anglicare (1997 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1997-01-01">1997</fromDate>
+<toDate standardDate="2011-12-31">2011</toDate>
+</dateRange>
+<descriptiveNote>
+<p>Anglicare Welfare Services was part of Anglicare.</p>
 </descriptiveNote>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-21">2016-04-21</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -131,7 +131,7 @@ Wanslea Family Services (1946 - )
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00591b.htm">
@@ -174,18 +174,40 @@ Child Welfare Department, State of Western Australia (1927 - 1972)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001297.htm">
-<relationEntry localType="published">Book: Heritage of pines : a history of the town of Cottesloe Western Australia</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
+<relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">James, Ruth Marchant and Cownie, Stewart</name>
-<title render="italic">Heritage of pines : a history of the town of Cottesloe Western Australia</title>
+<name type="author">Information Services, Department for Community Development</name>
+<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
 <imprint>
-<place>Cottesloe, Western Australia</place>
-<publisher>Town of Cottesloe</publisher>
-<date>1977</date>
+<place>Perth</place>
+<publisher>Government of Western Australia</publisher>
+<date>2004</date>
 </imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000867.htm">
+<relationEntry localType="published">Resource Section: Hansard Archive 1870 to 1995</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Hansard Archive 1870 to 1995</title>
+<imprint>
+<publisher>Parliament of Western Australia</publisher>
+<date>2013</date>
+</imprint>
+<bibseries>
+<title render="italic">Parliament of Western Australia website</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.parliament.wa.gov.au/hansard/hansard1870to1995.nsf/vwWeb1870Main"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -217,14 +239,14 @@ Child Welfare Department, State of Western Australia (1927 - 1972)
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Heritage Council</name>
+<name type="author">Heritage Council of Western Australia</name>
 <title render="quoted">Wanslea</title>
 <imprint>
 <publisher>Government of Western Australia</publisher>
 <date>2015</date>
 </imprint>
 <bibseries>
-<title render="italic">inHerit: Search Heritage Places</title>
+<title render="italic">inHerit</title>
 <name type="author">Western Australia State Heritage Office</name>
 </bibseries>
 <extptr linktype="simple" href="http://inherit.stateheritage.wa.gov.au/public/p/598"></extptr>
@@ -235,43 +257,21 @@ Child Welfare Department, State of Western Australia (1927 - 1972)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000867.htm">
-<relationEntry localType="published">Resource Section: Hansard Archive 1870 to 1995</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001297.htm">
+<relationEntry localType="published">Book: Heritage of pines : a history of the town of Cottesloe Western Australia</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Hansard Archive 1870 to 1995</title>
+<name type="author">James, Ruth Marchant and Cownie, Stewart</name>
+<title render="italic">Heritage of pines : a history of the town of Cottesloe Western Australia</title>
 <imprint>
-<publisher>Parliament of Western Australia</publisher>
-<date>2013</date>
-</imprint>
-<bibseries>
-<title render="italic">Parliament of Western Australia website</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.parliament.wa.gov.au/hansard/hansard1870to1995.nsf/vwWeb1870Main"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
-<relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Information Services, Department for Community Development</name>
-<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
-<imprint>
-<place>Perth</place>
-<publisher>Government of Western Australia</publisher>
-<date>2004</date>
+<place>Cottesloe, Western Australia</place>
+<publisher>Town of Cottesloe</publisher>
+<date>1977</date>
 </imprint>
 </bibref>
 </objectXMLWrap>
 
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000500.htm">
 <relationEntry localType="published">Resource Section: Submission No. 55 Inquiry into Children in Institutional Care: Submissions</relationEntry>
@@ -316,9 +316,7 @@ Child Welfare Department, State of Western Australia (1927 - 1972)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of Western Australia</repository>
 <unittitle>Children running 3-legged race, Wanslea</unittitle>
-<unitid>State Library of Western Australia Call No. BA 172 and Record No. b2610204, found in BA 100-198 Vol. 266 Numbers BA 172/5 27928P</unitid>
 <unitdate>1940s</unitdate>
 <abstract>'Children running 3-legged race, Wanslea' is a digital copy from a collection of photocopies of images held by the State Library of Western Australia in its collection, 'Photographs relating to Florence Hummerston and her work [picture]'. The caption does not give a date, but it is adjacent to other images from the 1940s. It is unknown whether this image comes from the Wanslea Hostel at 30 Bulwer Street (1943-1946) or the Wanslea Children's Home at Cottesloe (1947-1984).</abstract>
 <note label="rights">State Library of Western Australia</note>
@@ -331,9 +329,7 @@ Child Welfare Department, State of Western Australia (1927 - 1972)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of Western Australia</repository>
 <unittitle>Group of children at Wanslea</unittitle>
-<unitid>State Library of Western Australia Call No. BA 172 and Record No. b2610204, found in BA 100-198 Vol. 266, Numbers BA 172/5 27819P</unitid>
 <unitdate>1940s</unitdate>
 <abstract>'Group of children at Wanslea' is a digital copy from a collection of photocopies of images held by the State Library of Western Australia in its collection, 'Photographs relating to Florence Hummerston and her work [picture]'. The caption is dated 1944. However, it is unknown whether this image comes from the Wanslea Hostel at 30 Bulwer Street (1943-1946) or the Wanslea Children's Home at Cottesloe (1947-1984). The child-size furniture is a feature of this image.</abstract>
 <note label="rights">State Library of Western Australia</note>
@@ -346,9 +342,7 @@ Child Welfare Department, State of Western Australia (1927 - 1972)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of Western Australia</repository>
 <unittitle>Wanslea Children's Home</unittitle>
-<unitid>State Library of Western Australia Call No. BA 172 and Record No. b2610204, found in BA 100-198 Vol. 266, Numbers BA 172/5, 27820P</unitid>
 <unitdate>1940s</unitdate>
 <abstract>'Wanslea Children's Home' is a digital copy from a collection of photocopies of images held by the State Library of Western Australia in its collection, 'Photographs relating to Florence Hummerston and her work [picture]'. The caption reads: 'Wanslea Children's Home c.1944'. However, based on the building's appearance, it is likely that this image comes from Wanslea Children's Home at Cottesloe (1947-1984) rather than the Wanslea Hostel at 30 Bulwer Street (1943-1946).</abstract>
 <note label="rights">State Library of Western Australia</note>
@@ -364,9 +358,7 @@ Child Welfare Department, State of Western Australia (1927 - 1972)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of Western Australia</repository>
 <unittitle>Photographs relating to Florence Hummerston and her work [picture]</unittitle>
-<unitid>State Library of Western Australia Call No. BA 172 and Record No. b2610204</unitid>
 <unitdate>1939 - 1968</unitdate>
 <abstract>'Photographs relating to Florence Hummerston and her work [picture]' is a collection of twenty six photographs held by the State Library of Western Australia. Although most of these photographs are not yet available online, but may be in the future. Florence Hummerston was closely associated with Wanslea.</abstract>
 <note label="rights">State Library of Western Australia</note>
@@ -379,7 +371,6 @@ Child Welfare Department, State of Western Australia (1927 - 1972)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Wanslea Family Services, Perth</repository>
 <unittitle>The WANS: Pledged to Unity and Service</unittitle>
 <abstract>'The WANS: Pledged to Unity and Service' is a history of the Women's Australian National Services in Western Australia, the organisation that established and ran Wanslea. It is published on Wanslea's website and is available to download and read. There are some images of the children and grounds at Wanslea.</abstract>
 <note label="rights">Reproduced with the permission of Wanslea Family Services, which retains reproduction rights.</note>

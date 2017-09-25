@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-03-09">2016-03-09</eventDateTime>
+<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -66,10 +66,16 @@
 <biogHist>
 <abstract>The United Aborigines' Mission (UAM) was an interdenominational Mission organisation established in New South Wales in 1895. In South Australia, the first UAM children's Home was established in Oodnadatta in 1924. In 1927 the UAM established Colebrook Home in Quorn, residents of which included the residents and matron of the former Oodnadatta Children's Home. The UAM was later renamed the United Aboriginal Ministries.</abstract>
 <p>The United Aborigines Mission ran residential institutions for the care, education and conversion to Christianity of Aboriginal children, mostly on Mission stations and in children's Homes. The institutional care provided by the UAM was closely tied to Government funding and policy in the area of Indigenous affairs.</p>
+<p>The United Aborigines Mission was mentioned in the Bringing Them Home Report (1997) as an institution that housed Indigenous children removed from their families.</p>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00881b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01362b.htm">
+<relationEntry localType="Glossary Term">
+Stolen Generations
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00881b.htm">
 <relationEntry localType="Glossary Term">
 Mission
 </relationEntry>
@@ -205,6 +211,22 @@ Kali Boys' Hostel (1971 - 1972)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000206.htm">
+<relationEntry localType="published">Report: Bringing them home: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Bringing them home: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</title>
+<imprint>
+<publisher>Commonwealth of Australia: Human Rights and Equal Opportunities Commission</publisher>
+<date>1997</date>
+</imprint>
+<extptr linktype="simple" href="http://www.humanrights.gov.au/publications/bringing-them-home-1997"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000042.htm">
 <relationEntry localType="published">Resource: Finding your own way</relationEntry>

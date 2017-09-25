@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-15">2017-05-15</eventDateTime>
+<eventDateTime standardDateTime="2017-08-11">2017-08-11</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -42,7 +42,7 @@
 <cpfDescription>
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01327b.htm</entityId>
 <entityType>corporateBody</entityType>
-<nameEntry><part>Anglicare</part>
+<nameEntry><part>Anglicare NSW South, NSW West &amp; ACT</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 <nameEntry localType="also known as"><part>Anglicare NSW South, NSW West &amp; ACT</part>
@@ -50,7 +50,7 @@
 </identity>
 <description><existDates>
 <dateRange>
-<fromDate standardDate="1929-01-01">1929</fromDate>
+<fromDate standardDate="2006-01-01">2006</fromDate>
 </dateRange>
 </existDates>
 <places>
@@ -68,14 +68,9 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00100b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00096b.htm">
 <relationEntry localType="Organisation">
-St Saviour's Cottage Home (1982 - 1986)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00096b.htm">
-<relationEntry localType="Organisation">
-St Saviour's Neighbourhood Centre Goulburn (1980 - )
+St Saviour's Neighbourhood Centre (1980 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00099b.htm">
@@ -89,18 +84,42 @@ Anglican Diocese of Canberra and Goulburn (1863 - )
 <p>Anglicare is operated by the Anglican Diocese of Canberra and Goulburn</p>
 </descriptiveNote>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00088b.htm">
+<relationEntry localType="Organisation">
+Bungarimbil Adolescent and Family Care Program (c. 1989 - 2001?)
+</relationEntry>
+</cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
-<relationEntry localType="published">'Anglicare', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+<relationEntry localType="published">'Anglicare NSW South, NSW West &amp; ACT', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<title render="italic">Anglicare</title>
+<title render="italic">Anglicare NSW South, NSW West &amp; ACT</title>
 <bibseries>
 <title render="italic">Find &amp; Connect - New South Wales</title>
 </bibseries>
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01327b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001084.htm">
+<relationEntry localType="published">Resource Section: Our History</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Our History</title>
+<imprint>
+<publisher>Anglicare NSW South, NSW West &amp; ACT</publisher>
+<date>2016</date>
+</imprint>
+<bibseries>
+<title render="italic">Anglicare NSW South, NSW West &amp; ACT</title>
+</bibseries>
+<extptr linktype="simple" href="https://www.anglicare.com.au/about-us/our-history/"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001065.htm">
 <relationEntry localType="published">Resource: Anglicare Australia Provenance Project</relationEntry>
@@ -113,7 +132,7 @@ Anglican Diocese of Canberra and Goulburn (1863 - )
 <publisher>Anglicare Australia</publisher>
 <date>2014</date>
 </imprint>
-<extptr linktype="simple" href="http://www.anglicare.asn.au/publications/other-publications/provenance-project"></extptr>
+<extptr linktype="simple" href="http://www.anglicare.asn.au/docs/default-source/default-document-library/provenance-project-2014.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-22">2016-04-22</eventDateTime>
+<eventDateTime standardDateTime="2017-08-31">2017-08-31</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -97,6 +97,11 @@ Child Abuse
 Industrial School
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00650b.htm">
+<relationEntry localType="Glossary Term">
+Lying-in Home (1890s - 1920s)
+</relationEntry>
+</cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Health Act Amendment Act 1918', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
 
@@ -134,9 +139,7 @@ Industrial School
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Law Publisher of Western Australia</repository>
 <unittitle>Health Act Amendment Act 1918</unittitle>
-<unitid>017 of 1918 (9 Geo. V No. 7)</unitid>
 <unitdate>13 June 1918</unitdate>
 <abstract>This is a version of the <span style="font-style:italic">Health Act Amendment Act 1918</span>, which is published on the State Law Publisher of Western Australia's website.</abstract>
 </archref>

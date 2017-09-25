@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-16">2017-05-16</eventDateTime>
+<eventDateTime standardDateTime="2017-08-11">2017-08-11</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -43,7 +43,7 @@
 <identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01667b.htm</entityId>
 <entityType>corporateBody</entityType>
 <nameEntry><part>Care Leavers Records and Archives</part>
-<part localType="parent">Anglicare Sydney</part>
+<part localType="parent">Anglicare</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
@@ -56,9 +56,6 @@
 </places>
 <functions>
 <function>
-<term>Records Holder</term>
-</function>
-<function>
 <term>Records Access Service</term>
 </function>
 <function>
@@ -69,32 +66,25 @@
 </function>
 </functions>
 <biogHist>
-<abstract>Care Leavers Records and Archives is part of Anglicare Sydney. It stores, maintains and provides access to records from children's Homes and other institutions run by Anglicare and its predecessors.</abstract>
+<abstract>Care Leavers Records and Archives is part of Anglicare. It stores, maintains and provides access to records from children's Homes and other institutions run by Anglicare and its predecessors.</abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01496b.htm">
-<relationEntry localType="Archival Collection">
-Anglicare Children's Homes, Foster Care and Out-of-Home Care Records (1932 - 2010s)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01669b.htm">
-<relationEntry localType="Archival Collection">
-Anglicare Out of Home Care Records (c. 2008 - )
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01668b.htm">
+<relationEntry localType="Contact Details">
+Care Leavers Records and Archives - Contact Details
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00049b.htm">
 <relationEntry localType="Organisation">
-Anglicare Diocese of Sydney (1997 - )
+Anglicare (1997 - )
 </relationEntry>
+<dateRange>
+<fromDate standardDate="2014-01-01">2014</fromDate>
+</dateRange>
 <descriptiveNote>
-<p>The Care Leavers Records and Archives is part of the Anglicare Diocese of Sydney</p>
+<p>The Care Leavers Records and Archives is part of Anglicare.</p>
 </descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01668b.htm">
-<relationEntry localType="Contact Details">
-Care Leavers Records and Archives - Contact Details
-</relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Care Leavers Records and Archives', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>

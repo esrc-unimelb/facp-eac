@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-12">2017-05-12</eventDateTime>
+<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -64,6 +64,7 @@
 <biogHist>
 <abstract>Riverina Juvenile Justice Centre at Wagga Wagga was established by the Department of Youth and Community Services in 1984. In 1991 it was transferred to the Department of Juvenile Justice. It has a capacity for 45 detainees. Riverina Juvenile Justice Centre is still operating in 2013.</abstract>
 <p>Riverina Juvenile Justice Centre was run by the Department of Juvenile Justice after that department was created in 1990.</p>
+<p>Riverina Juvenile Justice Centre was mentioned in the Bringing Them Home Report (1997) as an institution that housed Indigenous children removed from their families.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1984-01-01">1984</fromDate>
 <toDate standardDate="1984-12-31">1984</toDate>
@@ -101,6 +102,11 @@ Department of Juvenile Justice, State Government of New South Wales (1990 - )
 <fromDate standardDate="1990-01-01">1990</fromDate>
 </dateRange>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01008b.htm">
+<relationEntry localType="Glossary Term">
+Stolen Generations
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00813b.htm">
 <relationEntry localType="Archival Series">
 Children's Court information, Department of Juvenile Justice (c. 1980 - )
@@ -128,6 +134,21 @@ Detainee files, Department of Juvenile Justice (1985 - 1992)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00465b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000161.htm">
+<relationEntry localType="published">Report: Bringing them home: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Bringing them home: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</title>
+<imprint>
+<publisher>Commonwealth of Australia: Human Rights and Equal Opportunities Commission</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000927.htm">
 <relationEntry localType="published">Conference Paper: An overview of juvenile detention in Australia</relationEntry>

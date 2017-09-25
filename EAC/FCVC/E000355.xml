@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-03-23">2017-03-23</eventDateTime>
+<eventDateTime standardDateTime="2017-09-06">2017-09-06</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -45,9 +45,11 @@
 <nameEntry><part>Frances Barkman Homes</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
-<nameEntry localType=""><part>Frances Barkman House</part>
+<nameEntry localType="Also known as"><part>Frances Barkman House</part>
 </nameEntry>
-<nameEntry localType=""><part>Larino</part>
+<nameEntry localType="Also known as"><part>Larino</part>
+</nameEntry>
+<nameEntry localType="Also known as"><part>Larino Children's Home</part>
 </nameEntry>
 </identity>
 <description><existDates>
@@ -74,6 +76,7 @@
 <biogHist>
 <abstract>The Frances Barkman Homes were run by the Australian Jewish Welfare Society (AJWS). From the late 1930s, the Society used a Balwyn mansion, Larino, to accommodate Jewish children migrating from Germany and Austria, including survivors of the Holocaust. In the 1960s, the Society shifted its model of care towards family group homes in the Caulfield area.</abstract>
 <p>In the late 1930s, the Australian Jewish Welfare Society (AJWS) leased a mansion known as 'Larino', to be used as a home for Jewish children migrating from Germany and Austria.</p>
+<p>The mansion was located at 23 Maleela Avenue, Balwyn, on the corner of Whitehorse Road.</p>
 <p>Frances Barkman had been the first to propose the immigration of Jewish children to the Executive of the AJWS in late 1938. In February 1939, the AJWS formally requested the Australian government to grant visas to 750 Jewish children over the next three years.</p>
 <p>In March, the Australian government responded, however begrudgingly, agreeing to accept 250 children a year. The department stressed that these children were to be included in the total of 15,000 Jewish immigrants over 3 years that the Government had agreed to accept in December 1938.</p>
 <p>The historian Rodney Benjamin writes:</p>
@@ -97,7 +100,7 @@
 <toDate standardDate="1940-12-31">1940</toDate>
 </dateRange>
 <placeEntry>Balwyn</placeEntry>
-<event>Location - Frances Barkman House was located in Maleela Avenue, Balwyn</event>
+<event>Location - Frances Barkman House was located on the corner of Whitehorse Road and Maleela Avenue, Balwyn</event>
 </chronItem>
 <chronItem>
 <dateRange><fromDate standardDate="1964-01-01">c. 1964</fromDate>
@@ -227,12 +230,27 @@ Illoura Children's Home (1964 - 1984)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000554.htm">
+<relationEntry localType="digitalObject">Australian Jewish Welfare Society, Group Outside Children's Home, Balwyn, Victoria</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Australian Jewish Welfare Society, Group Outside Children's Home, Balwyn, Victoria</unittitle>
+<unitdate>2 October 1959</unitdate>
+<abstract>This is a copy of an image from the Laurie Richards Collection, held by Museums Victoria. The collection includes a number of promotional photographs of the Larino Children's Home (also known as Frances Barkman House) in Balwyn.</abstract>
+<note label="rights">Museums Victoria</note>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000429.htm">
 <relationEntry localType="digitalObject">Children in the Frances Barkman House</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Flickr</repository>
 <unittitle>Children in the Frances Barkman House</unittitle>
 <abstract>Caption reads, 'Jewish children eat together in the dining room of the Frances Barkman House, one of Australia's many hostels that took in Jewish war refugees.'</abstract>
 </archref>
@@ -240,8 +258,6 @@ Illoura Children's Home (1964 - 1984)
 
 <descriptiveNote>
 <p>Source used to compile entry</p>
-
-<p>Include in Gallery</p>
 </descriptiveNote>
 </resourceRelation>
 </relations>

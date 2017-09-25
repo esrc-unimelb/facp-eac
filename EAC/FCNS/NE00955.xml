@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-15">2017-05-15</eventDateTime>
+<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -94,6 +94,7 @@ finance a new hostel development for young Aboriginal people.'
 
 </p>
 <p>The Kinchela site was returned to the Kempsey Local Aboriginal Land Council and in 2012 it was used as Bennelong's Haven Aboriginal Rehabilitation Services. Since 2012 the Kinchela Boys Home Aboriginal Corporation, based in Darlington in Sydney, has provided support for former residents of the Home. They also organise reunions.</p>
+<p>Kinchela Boys' Home was mentioned in the Bringing Them Home Report (1997) as an institution that housed Indigenous children removed from their families.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1923-01-01">1923</fromDate>
 <toDate standardDate="1970-12-31">1970</toDate>
@@ -142,10 +143,13 @@ Aborigines Welfare Directorate (1969 - 1975)
 <toDate standardDate="1970-12-31">1970</toDate>
 </dateRange>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01008b.htm">
-<relationEntry localType="Glossary Term">
-Stolen Generations
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00322b.htm">
+<relationEntry localType="Organisation">
+Bomaderry Aboriginal Children's Home (1908 - 1980)
 </relationEntry>
+<descriptiveNote>
+<p>Children from Bomaderry Home were sent to Kinchela once they were old enough for 'training'.</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01104b.htm">
 <relationEntry localType="Archival Series">
@@ -180,27 +184,24 @@ Aboriginal Boys' Training Home, Kinchela, Case Papers (1944 - 1967)
 Aborigines Protection (Amendment) Act 1963 (1963 - 1969)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00808b.htm">
-<relationEntry localType="Archival Series">
-School Files (1876 - 1979)
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01108b.htm">
 <relationEntry localType="Archival Series">
 Aborigines Welfare Board Photographs (c. 1916 - c. 1961)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00322b.htm">
-<relationEntry localType="Organisation">
-Bomaderry Aboriginal Children's Home (1908 - 1980)
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00808b.htm">
+<relationEntry localType="Archival Series">
+School Files (1876 - 1979)
 </relationEntry>
-<descriptiveNote>
-<p>Children from Bomaderry Home were sent to Kinchela once they were old enough for 'training'.</p>
-</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01634b.htm">
 <relationEntry localType="Organisation">
 Kinchela Boys Home Aboriginal Corporation (2001 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01008b.htm">
+<relationEntry localType="Glossary Term">
+Stolen Generations
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00019b.htm">
@@ -210,11 +211,6 @@ Aborigines Act 1969 (1969 - 1983)
 <descriptiveNote>
 <p>The management of the Kinchela Training Home for Aboriginal Boys was transferred to the Child Welfare Department by the <span style="font-style:italic">Aborigines Welfare Act 1969</span>.</p>
 </descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01380b.htm">
-<relationEntry localType="Glossary Term">
-Half-Caste (1788 - 1970s)
-</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00010b.htm">
 <relationEntry localType="Legislation">
@@ -273,6 +269,21 @@ Cootamundra Training Home (1911 - 1969)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00955b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000161.htm">
+<relationEntry localType="published">Report: Bringing them home: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Bringing them home: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</title>
+<imprint>
+<publisher>Commonwealth of Australia: Human Rights and Equal Opportunities Commission</publisher>
+<date>1997</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000932.htm">
 <relationEntry localType="published">Resource: Kinchela Boys Home Gate</relationEntry>
@@ -375,7 +386,7 @@ Cootamundra Training Home (1911 - 1969)
 <publisher>University of Sydney</publisher>
 <date>2010-2013</date>
 </imprint>
-<extptr linktype="simple" href="http://www.historyofaboriginalsydney.edu.au/about"></extptr>
+<extptr linktype="simple" href="http://www.historyofaboriginalsydney.edu.au/index.php?p=about"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -544,7 +555,6 @@ Cootamundra Training Home (1911 - 1969)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Museum of Australia</repository>
 <unittitle>One of the original front gates from the Kinchela Aboriginal Boys Training Home.</unittitle>
 <unitdate>c. 2012</unitdate>
 <abstract>This is an image from the National Museum of Australia's Collections pages.</abstract>
@@ -561,7 +571,6 @@ Cootamundra Training Home (1911 - 1969)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>A History of Aboriginal Sydney</repository>
 <unittitle>Kinchela Home for Boys 1955, where many Koori boys were ill treated</unittitle>
 <unitdate>1955</unitdate>
 <abstract>This is a scan of an image that has been reproduced on <span style="font-style:italic">A history of Aboriginal Sydney</span></abstract>

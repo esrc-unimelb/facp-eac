@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-07-27">2016-07-27</eventDateTime>
+<eventDateTime standardDateTime="2017-05-19">2017-05-19</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -115,7 +115,7 @@ Women's Australian National Service (WANS) (1941 - 1946)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00061b.htm">
 <relationEntry localType="Organisation">
-Communicare (1977 - 1991)
+Communicare (1977 - )
 </relationEntry>
 <dateRange>
 <fromDate standardDate="1991-01-01">1991</fromDate>
@@ -142,25 +142,6 @@ Wanslea (1947 - 1984)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01147b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001160.htm">
-<relationEntry localType="published">Resource Section: Community Services Wanslea</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Community Services Wanslea</title>
-<imprint>
-<publisher>Parliament of Western Australia</publisher>
-<date>1984</date>
-</imprint>
-<bibseries>
-<title render="italic">Hansard Archive 1870 to 1995</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.parliament.wa.gov.au/Hansard%5Chansard1870to1995.nsf/vwMainBackground/19841121_Assembly.pdf/$File/19841121_Assembly.pdf"></extptr>
-</bibref>
-</objectXMLWrap>
-
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
 <relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
@@ -196,6 +177,25 @@ Wanslea (1947 - 1984)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001160.htm">
+<relationEntry localType="published">Resource Section: Community Services Wanslea</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Community Services Wanslea</title>
+<imprint>
+<publisher>Parliament of Western Australia</publisher>
+<date>1984</date>
+</imprint>
+<bibseries>
+<title render="italic">Hansard Archive 1870 to 1995</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.parliament.wa.gov.au/Hansard%5Chansard1870to1995.nsf/vwMainBackground/19841121_Assembly.pdf/$File/19841121_Assembly.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 </relations>
 </cpfDescription>

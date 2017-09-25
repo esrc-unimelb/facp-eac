@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-21">2016-04-21</eventDateTime>
+<eventDateTime standardDateTime="2017-09-14">2017-09-14</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -160,7 +160,7 @@ State Child (1907 - 1927)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00466b.htm">
@@ -188,7 +188,7 @@ King Edward Memorial Hospital (1916 - )
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00613b.htm">
 <relationEntry localType="Archival Series">
-Admission Registers of the Government Receiving Home [Walcott Street, Mt Lawley], Department for Child Protection and Family Support (1894 - 1988)
+Admission Registers of the Government Receiving Home [Walcott Street, Mt Lawley] (1894 - 1988)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00875b.htm">
@@ -268,6 +268,22 @@ Government Receiving Home (1935 - 1952)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000017.htm">
+<relationEntry localType="published">Report: Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Western Australia. Charities Department</name>
+<title render="italic">Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</title>
+<imprint>
+<place>Perth, [W.A.]</place>
+<publisher>Government Printer</publisher>
+<date>1899-1907</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001163.htm">
 <relationEntry localType="published">Newspaper Article: News and Notes [Government Receiving Depot]</relationEntry>
 
@@ -283,6 +299,28 @@ Government Receiving Home (1935 - 1952)
 <num type="pages">6</num>
 </bibseries>
 <extptr linktype="simple" href="http://nla.gov.au/nla.news-article27966891"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000270.htm">
+<relationEntry localType="published">Book Section: Colonial Secretary's Department</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Colonial Secretary's Department</title>
+<imprint>
+<place>Victoria Park</place>
+<publisher>Hesperian Press</publisher>
+<date>1985</date>
+</imprint>
+<bibseries>
+<title render="italic">The Cyclopedia of Western Australia (1912)</title>
+<name type="author">JS Battye</name>
+<num type="volume">1</num>
+<num type="pages">502-507</num>
+</bibseries>
 </bibref>
 </objectXMLWrap>
 
@@ -314,14 +352,14 @@ Government Receiving Home (1935 - 1952)
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Heritage Council</name>
+<name type="author">Heritage Council of Western Australia</name>
 <title render="quoted">Walcott Centre</title>
 <imprint>
 <publisher>Government of Western Australia</publisher>
 <date>2015</date>
 </imprint>
 <bibseries>
-<title render="italic">inHerit: Search Heritage Places</title>
+<title render="italic">inHerit</title>
 <name type="author">Western Australia State Heritage Office</name>
 </bibseries>
 <extptr linktype="simple" href="http://inherit.stateheritage.wa.gov.au/public/p/15731"></extptr>
@@ -372,45 +410,6 @@ Government Receiving Home (1935 - 1952)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000270.htm">
-<relationEntry localType="published">Book Section: Colonial Secretary's Department</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Colonial Secretary's Department</title>
-<imprint>
-<place>Victoria Park</place>
-<publisher>Hesperian Press</publisher>
-<date>1985</date>
-</imprint>
-<bibseries>
-<title render="italic">The Cyclopedia of Western Australia (1912)</title>
-<name type="author">JS Battye</name>
-<num type="volume">1</num>
-<num type="pages">502-507</num>
-</bibseries>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000114.htm">
-<relationEntry localType="published">Report: History of the Department 1829-1979</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Department for Community Welfare</name>
-<title render="italic">History of the Department 1829-1979</title>
-<imprint>
-<date>1979</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000022.htm">
 <relationEntry localType="published">Report: Annual Report of the Child Welfare Department</relationEntry>
 
@@ -446,21 +445,22 @@ Government Receiving Home (1935 - 1952)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000017.htm">
-<relationEntry localType="published">Report: Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000114.htm">
+<relationEntry localType="published">Report: History of the Department 1829-1979</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Western Australia. Charities Department</name>
-<title render="italic">Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</title>
+<name type="author">Department for Community Welfare</name>
+<title render="italic">History of the Department 1829-1979</title>
 <imprint>
-<place>Perth, [W.A.]</place>
-<publisher>Government Printer</publisher>
-<date>1899-1907</date>
+<date>1979</date>
 </imprint>
 </bibref>
 </objectXMLWrap>
 
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
 <relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
@@ -485,9 +485,7 @@ Government Receiving Home (1935 - 1952)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Department for Child Protection and Family Support</repository>
 <unittitle>Government Receiving Home, Mt Lawley, 1926</unittitle>
-<unitid>Annual Report of the State Children Department, 1926, p.2</unitid>
 <unitdate>1926</unitdate>
 <abstract>'Government Receiving Home, Mt Lawley, 1926' is a digital copy of an image included (p.2) in the <span style="font-style:italic"> Annual Report of the State Children Department, 1926</span>. The caption reads, 'Administrative Section - Government Receiving Home for Children, Mt. Lawley'.</abstract>
 <note label="rights">Department for Child Protection and Family Support</note>
@@ -503,7 +501,6 @@ Government Receiving Home (1935 - 1952)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Dr Debra Rosser</repository>
 <unittitle>Reception Home front door, 1921</unittitle>
 <unitdate>2013</unitdate>
 <abstract>'Reception Home front door' is a digital image of the stained glass panels that were saved during the restoration of the government 'reception Home' on the corner of Walcott and Lord Streets, Mt Lawley. The building in 2013 was the Youth Justice Services Centre.</abstract>
@@ -516,7 +513,6 @@ Government Receiving Home (1935 - 1952)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Dr Debra Rosser</repository>
 <unittitle>Reception Home doors, 1921</unittitle>
 <unitdate>2013</unitdate>
 <abstract>'Reception Home doors' is a digital image of a set of interior doors and panels that were saved during the restoration of the government 'reception Home' on the corner of Walcott and Lord Streets, Mt Lawley. The doors are mounted on a wall in the office of the old building, which in 2013 was the Youth Justice Services Centre.</abstract>

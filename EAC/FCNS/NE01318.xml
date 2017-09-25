@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-16">2017-05-16</eventDateTime>
+<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -110,6 +110,7 @@ at Arncliffe.'</p>
 <p>Parragirls is lobbying for the preservation of the Parramatta Industrial School site as an international Site of Conscience. The New South Wales Government and Parramatta Council are currently preparing master plans for the site, which is likely to be developed.</p>
 <p>A fire occurred in the Orphan School building on 21 December 2012, causing significant damage and destroying the historic interior, and much of the remaining graffiti from its time as a girls' home.</p>
 <p>The Girls Training School Precinct, 1 Fleet St, Parramatta, NSW, Australia has been listed on the Register of the National Estate since 21 March 1978.</p>
+<p>Parramatta Girls' Home was mentioned in the Bringing Them Home Report (1997) as an institution that housed Indigenous children removed from their families.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1946-01-01">1946</fromDate>
 <toDate standardDate="1975-12-31">1975</toDate>
@@ -200,14 +201,6 @@ Taldree (1974 - 1980)
 ILWA (1887 - 1974)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01061b.htm">
-<relationEntry localType="Organisation">
-Myee (1926 - 1977)
-</relationEntry>
-<descriptiveNote>
-<p>Girls from Parramatta Training School were sent to Myee</p>
-</descriptiveNote>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00446b.htm">
 <relationEntry localType="Organisation">
 Crown Street Women's Hospital (1893 - 1983)
@@ -215,6 +208,11 @@ Crown Street Women's Hospital (1893 - 1983)
 <descriptiveNote>
 <p>Girls who were pregant while they were in Parramatta Girls Training School were transferred to Myee and gave birth at Crown Street Women's Hospital before returning to Myee and Parramatta</p>
 </descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01008b.htm">
+<relationEntry localType="Glossary Term">
+Stolen Generations
+</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00773b.htm">
 <relationEntry localType="Archival Series">
@@ -250,6 +248,14 @@ Ken Buttrum interviewed by Gail Winkworth in the National Library of Australia's
 <relationEntry localType="Archival Series">
 Copies Of Weekly Returns Of Inmates (1957 - 1960)
 </relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01061b.htm">
+<relationEntry localType="Organisation">
+Myee (1926 - 1977)
+</relationEntry>
+<descriptiveNote>
+<p>Girls from Parramatta Training School were sent to Myee</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01404b.htm">
 <relationEntry localType="Place">
@@ -324,6 +330,25 @@ Kamballa (1974 - 1983)
 </bibref>
 </objectXMLWrap>
 
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000080.htm">
+<relationEntry localType="published">Resource Section: Exposed to Moral Danger</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Arnold, Ann</name>
+<title render="quoted">Exposed to Moral Danger</title>
+<imprint>
+<publisher>ABC Radio National Hindsight</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://www.abc.net.au/rn/hindsight/stories/2009/2627360.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000494.htm">
 <relationEntry localType="published">Newspaper Article: Rees offers apology to casualties of care system</relationEntry>
@@ -536,20 +561,22 @@ Kamballa (1974 - 1983)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000493.htm">
-<relationEntry localType="published">Newspaper Article: Rees apologises over orphanage abuse</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000178.htm">
+<relationEntry localType="published">Resource Section: Hay Institution for Girls</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Rees apologises over orphanage abuse</title>
+<name type="author">Killens, Sharyn</name>
+<title render="quoted">Hay Institution for Girls</title>
 <imprint>
-<date>2009</date>
+<publisher>Miracle Publishing Ltd</publisher>
+<date>2010</date>
 </imprint>
 <bibseries>
-<title render="italic">The Sydney Morning Herald</title>
+<title render="italic">The Inconvenient Child</title>
+<name type="author">Sharyn Killens and Leslie Lewis</name>
 </bibseries>
-<extptr linktype="simple" href="http://www.smh.com.au//breaking-news-national/rees-apologises-over-orphanage-abuse-20090919-fvvi.html"></extptr>
+<extptr linktype="simple" href="http://www.theinconvenientchild.com/hay_girls.html"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -754,20 +781,39 @@ Kamballa (1974 - 1983)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000496.htm">
-<relationEntry localType="published">Resource Section: The Forgotten Australians</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000657.htm">
+<relationEntry localType="published">Resource Section: Minda</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Hawkins, Leanne</name>
-<title render="quoted">The Forgotten Australians</title>
+<name type="author"></name>
+<title render="quoted">Minda</title>
 <imprint>
-<date>2013</date>
+<publisher>State of New South Wales through the State Records Authority of NSW 2016</publisher>
 </imprint>
 <bibseries>
-<title render="italic">Leanne Hawkins</title>
+<title render="italic">State Records Authority of New South Wales website</title>
 </bibseries>
-<extptr linktype="simple" href="http://leannehawkins.com.au/news"></extptr>
+<extptr linktype="simple" href="https://www.records.nsw.gov.au/agency/575"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001034.htm">
+<relationEntry localType="published">Resource Section: Let no child walk this path again…</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Laurent, Nicola</name>
+<title render="quoted">Let no child walk this path again…</title>
+<imprint>
+<publisher>eScholarship Research Centre, the University of Melbourne</publisher>
+<date>2016</date>
+</imprint>
+<bibseries>
+<title render="italic">Find &amp; Connect web resource blog</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnectwrblog.info/2016/04/award-winning-book/"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -948,6 +994,24 @@ Parramatta, 1941-1961</title>
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000131.htm">
+<relationEntry localType="published">Resource Section: Bonney Djuric on Parramatta Girls' Home 2009</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Stockell, Poppy</name>
+<title render="quoted">Bonney Djuric on Parramatta Girls' Home 2009</title>
+<imprint>
+<date>2009</date>
+</imprint>
+<bibseries>
+<title render="italic">Dictionary of Sydney</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.dictionaryofsydney.org/audio/20049?zoom_highlight=parramatta+girls+home"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000705.htm">
 <relationEntry localType="published">Resource Section: Transfer of children from Australian Capital Territory (ACT) and Norfolk Island to New South Wales (1941 - 1986)</relationEntry>
 
@@ -967,24 +1031,23 @@ Parramatta, 1941-1961</title>
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000080.htm">
-<relationEntry localType="published">Resource Section: Exposed to Moral Danger</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000493.htm">
+<relationEntry localType="published">Newspaper Article: Rees apologises over orphanage abuse</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Arnold, Ann</name>
-<title render="quoted">Exposed to Moral Danger</title>
+<name type="author"></name>
+<title render="quoted">Rees apologises over orphanage abuse</title>
 <imprint>
-<publisher>ABC Radio National Hindsight</publisher>
 <date>2009</date>
 </imprint>
-<extptr linktype="simple" href="http://www.abc.net.au/rn/hindsight/stories/2009/2627360.htm"></extptr>
+<bibseries>
+<title render="italic">The Sydney Morning Herald</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.smh.com.au//breaking-news-national/rees-apologises-over-orphanage-abuse-20090919-fvvi.html"></extptr>
 </bibref>
 </objectXMLWrap>
 
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000435.htm">
 <relationEntry localType="published">Newspaper Article: Dismay after Parramatta's historic Norma Parker Detention Centre orphanage damaged by fire</relationEntry>
@@ -1007,20 +1070,20 @@ Parramatta, 1941-1961</title>
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000131.htm">
-<relationEntry localType="published">Resource Section: Bonney Djuric on Parramatta Girls' Home 2009</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000496.htm">
+<relationEntry localType="published">Resource Section: The Forgotten Australians</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Stockell, Poppy</name>
-<title render="quoted">Bonney Djuric on Parramatta Girls' Home 2009</title>
+<name type="author">Hawkins, Leanne</name>
+<title render="quoted">The Forgotten Australians</title>
 <imprint>
-<date>2009</date>
+<date>2013</date>
 </imprint>
 <bibseries>
-<title render="italic">Dictionary of Sydney</title>
+<title render="italic">Leanne Hawkins</title>
 </bibseries>
-<extptr linktype="simple" href="http://www.dictionaryofsydney.org/audio/20049?zoom_highlight=parramatta+girls+home"></extptr>
+<extptr linktype="simple" href="http://leannehawkins.com.au/news"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -1171,59 +1234,32 @@ Parramatta, 1941-1961</title>
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000178.htm">
-<relationEntry localType="published">Resource Section: Hay Institution for Girls</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Killens, Sharyn</name>
-<title render="quoted">Hay Institution for Girls</title>
-<imprint>
-<publisher>Miracle Publishing Ltd</publisher>
-<date>2010</date>
-</imprint>
-<bibseries>
-<title render="italic">The Inconvenient Child</title>
-<name type="author">Sharyn Killens and Leslie Lewis</name>
-</bibseries>
-<extptr linktype="simple" href="http://www.theinconvenientchild.com/hay_girls.html"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001034.htm">
-<relationEntry localType="published">Resource Section: Let no child walk this path again…</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Laurent, Nicola</name>
-<title render="quoted">Let no child walk this path again…</title>
-<imprint>
-<publisher>eScholarship Research Centre, the University of Melbourne</publisher>
-<date>2016</date>
-</imprint>
-<bibseries>
-<title render="italic">Find &amp; Connect web resource blog</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.findandconnectwrblog.info/2016/04/award-winning-book/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000657.htm">
-<relationEntry localType="published">Resource Section: Minda</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000161.htm">
+<relationEntry localType="published">Report: Bringing them home: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Minda</title>
+<title render="italic">Bringing them home: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</title>
 <imprint>
-<publisher>State of New South Wales through the State Records Authority of NSW 2016</publisher>
+<publisher>Commonwealth of Australia: Human Rights and Equal Opportunities Commission</publisher>
+<date>1997</date>
 </imprint>
-<bibseries>
-<title render="italic">State Records Authority of New South Wales website</title>
-</bibseries>
-<extptr linktype="simple" href="https://www.records.nsw.gov.au/agency/575"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001070.htm">
+<relationEntry localType="published">Book: Living Traces: a Parragirls Artist Book and Print Exhibition</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hibberd, Lily</name>
+<title render="italic">Living Traces: a Parragirls Artist Book and Print Exhibition</title>
+<imprint>
+<publisher>Parragirls Female Factory Precinct Memory Project</publisher>
+<date>2016</date>
+</imprint>
 </bibref>
 </objectXMLWrap>
 
@@ -1234,7 +1270,6 @@ Parramatta, 1941-1961</title>
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
 <unittitle>Training School for Girls (reformatory), Parramatta</unittitle>
-<unitid>Australian Photographic Agency - 21323</unitid>
 <unitdate>26 November 1965</unitdate>
 <abstract>This is a copy of a photograph taken by Curly Fraser</abstract>
 <note label="rights">Taken by Australian Photographic Agency for account: Womans Day 651239. Reproduction for purposes other than private study or research will require permission.</note>
@@ -1355,7 +1390,6 @@ Parramatta, 1941-1961</title>
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
 <unittitle>Girls Training School Precinct, 1 Fleet Street, Parramatta, NSW, Australia</unittitle>
-<unitid>Original item no. Rt50168</unitid>
 <unitdate>1996</unitdate>
 <abstract>This is a picture of the front of what was formerly the Parramatta Girls Training School</abstract>
 <note label="rights">Daryl Chapman, Australian Government, Department of Sustainability, Environment, Water, Population and Communities.</note>
@@ -1368,9 +1402,7 @@ Parramatta, 1941-1961</title>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of New South Wales</repository>
 <unittitle>Training School for Girls (reformatory), Parramatta</unittitle>
-<unitid>Australian Photographic Agency - 21326</unitid>
 <unitdate>26 November 1965</unitdate>
 <note label="rights">State Library of New South Wales. Copyright status: Taken by Australian Photographic Agency for account: Woman's Day 651239. Reproduction for purposes other than private study or research will require permission.</note>
 </archref>
@@ -1397,7 +1429,7 @@ The document examines the site's archaeological heritage together with an overvi
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
 <unittitle>'Inmates' of the Parramatta Girls Home</unittitle>
-<unitdate>c. 1973 - c. 1974</unitdate>
+<unitdate>1975</unitdate>
 <abstract>This is a digital copy of an image that appeared in the <span style="font-style:italic">Sunday Sun-Herald</span> on 4 November 2012.
 
 The title for this photograph was provided by the newspaper. Information from care leavers is that this image was not from Parramatta Girls Home but was taken during the time the institution was renamed Kamballa, and renovated. As one former resident of Parramatta Girls Home stated 'Parramatta Girls' Home did not allow short skirts. We were not allowed to sit around playing records and we definitely did not play with a dog! PGH was an inhumane, brutal, strict institution.'
@@ -1414,7 +1446,6 @@ Parramatta was unofficially known as Kamballa from December 1973 and formally re
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
 <unittitle>Visit by Mrs May to Girls' Institution, Parramatta</unittitle>
-<unitid>Original item no. NCY43/265</unitid>
 <unitdate>1939</unitdate>
 <abstract>Part of Hood Collection part I : Sydney streets, buildings, people, activities and events, c.1925-1955</abstract>
 <note label="rights">Reproduction rights owned by the State Library of New South Wales</note>

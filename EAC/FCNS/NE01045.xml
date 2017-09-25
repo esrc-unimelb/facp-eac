@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-16">2017-05-16</eventDateTime>
+<eventDateTime standardDateTime="2017-08-14">2017-08-14</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -93,20 +93,7 @@ Some records of children's homes operated by the Home Mission Society of the Ang
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01669b.htm">
-<relationEntry localType="Archival Collection">
-Anglicare Out of Home Care Records (c. 2008 - )
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00840b.htm">
-<relationEntry localType="Archival Collection">
-Records of the Anglicare Adoption Services (1961 - )
-</relationEntry>
-<descriptiveNote>
-<p>Anglicare Out-of-Home Care holds adoption records dating back to around 1960.</p>
-</descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00048b.htm">
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00048b.htm">
 <relationEntry localType="Organisation">
 Anglicare Child and Family Services (1997 - 2008)
 </relationEntry>
@@ -114,25 +101,25 @@ Anglicare Child and Family Services (1997 - 2008)
 <fromDate standardDate="2008-01-01">2008</fromDate>
 </dateRange>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01669b.htm">
+<relationEntry localType="Archival Collection">
+Anglicare Out of Home Care Records (c. 2008 - )
+</relationEntry>
+<descriptiveNote>
+<p>Anglicare Out of Home Care Records contains the files of children and young people who were discharged from programs run by Anglicare Out-of-Home Care Services in the previous 1 to 2 years.</p>
+</descriptiveNote>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01407b.htm">
 <relationEntry localType="Contact Details">
 Anglicare Out-of-Home Care Services - Contact Details
 </relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00049b.htm">
-<relationEntry localType="Organisation">
-Anglicare Diocese of Sydney (1997 - )
-</relationEntry>
-<descriptiveNote>
-<p>Anglicare Out-of-Home Care Services is part of Anglicare, Sydney.</p>
-</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00074b.htm">
 <relationEntry localType="Organisation">
 Anglicare Adoption Services (1997 - )
 </relationEntry>
 <descriptiveNote>
-<p>Anglicare Adoption Services is part of Out-of-Home Care Services</p>
+<p>Anglicare Adoption Services is part of Anglicare Out-of-Home Care Services</p>
 </descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01496b.htm">
@@ -140,7 +127,18 @@ Anglicare Adoption Services (1997 - )
 Anglicare Children's Homes, Foster Care and Out-of-Home Care Records (1932 - 2010s)
 </relationEntry>
 <descriptiveNote>
-<p>After a young person is discharged from Anglicare Out-of-Home Care Services, his or her files are transferred into the Anglicare Children's Home Records for permanent retention.</p>
+<p>After a young person is discharged from Anglicare Out-of-Home Care Services, his or her files are transferred into the Anglicare Children's Home,Foster Care and Out-of-Home Care Records for permanent retention.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00049b.htm">
+<relationEntry localType="Organisation">
+Anglicare (1997 - )
+</relationEntry>
+<dateRange>
+<fromDate standardDate="2008-01-01">2008</fromDate>
+</dateRange>
+<descriptiveNote>
+<p>Anglicare Out-of-Home Care Services is part of Anglicare.</p>
 </descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01666b.htm">
@@ -172,7 +170,7 @@ Paul Street Adolescent Program (2002 - )
 <publisher>Anglicare Australia</publisher>
 <date>2014</date>
 </imprint>
-<extptr linktype="simple" href="http://www.anglicare.asn.au/publications/other-publications/provenance-project"></extptr>
+<extptr linktype="simple" href="http://www.anglicare.asn.au/docs/default-source/default-document-library/provenance-project-2014.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 

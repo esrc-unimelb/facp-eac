@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-03-24">2017-03-24</eventDateTime>
+<eventDateTime standardDateTime="2017-07-28">2017-07-28</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -59,7 +59,12 @@ Calls for a Royal Commission into the abuse suffered by people who were in insti
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000810b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001052b.htm">
+<relationEntry localType="Event">
+Case Study 30, August 2015, Melbourne, Royal Commission into Institutional Responses to Child Sexual Abuse
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000810b.htm">
 <relationEntry localType="Glossary Term">
 Child Abuse
 </relationEntry>
@@ -101,6 +106,41 @@ Alliance for Forgotten Australians (2006 - )
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000812b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001230.htm">
+<relationEntry localType="published">Article: Ripple Effect</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Laurent, Nicola</name>
+<title render="quoted">Ripple Effect</title>
+<imprint>
+<publisher>Find &amp; Connect Web Resource Project for the Commonwealth of Australia</publisher>
+<date>2016</date>
+</imprint>
+<bibseries>
+<title render="italic">Find &amp; Connect web resource blog</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnectwrblog.info/2016/06/ripple-effect/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001229.htm">
+<relationEntry localType="published">Report: Report of Case Study No 30: The response of Turana, Winlaton and Baltara, and the Victoria Police and the Department of Health and Human Services Victoria to allegations of child sexual abuse</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Report of Case Study No 30: The response of Turana, Winlaton and Baltara, and the Victoria Police and the Department of Health and Human Services Victoria to allegations of child sexual abuse</title>
+<imprint>
+<publisher>Royal Commission into Institutional Responses to Child Sexual Abuse</publisher>
+<date>2016</date>
+</imprint>
+<extptr linktype="simple" href="http://www.childabuseroyalcommission.gov.au/getattachment/2f1a980e-8efb-4dce-b2a0-2dcc2ee6aeb1/Report-of-Case-Study-No-30"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000936.htm">
 <relationEntry localType="published">Resource: 'Establishment of the Royal Commission into Child Sexual Abuse'.</relationEntry>

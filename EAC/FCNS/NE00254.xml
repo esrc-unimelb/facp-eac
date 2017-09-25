@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-15">2017-05-15</eventDateTime>
+<eventDateTime standardDateTime="2017-08-31">2017-08-31</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -107,6 +107,11 @@
 Burnside Homes for Children (1978 - 1986)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00237b.htm">
+<relationEntry localType="Organisation">
+Uniting Church in Australia (1977 - )
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00266b.htm">
 <relationEntry localType="Organisation">
 War Memorial Home (1922 - 1982)
@@ -119,15 +124,6 @@ War Memorial Home (1922 - 1982)
 <relationEntry localType="Archival Collection">
 Records held by Burnside Archives (1911 - )
 </relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00237b.htm">
-<relationEntry localType="Organisation">
-Uniting Church in Australia (1977 - )
-</relationEntry>
-<dateRange>
-<fromDate standardDate="1986-01-01">1986</fromDate>
-<toDate standardDate="2000-12-31">2000</toDate>
-</dateRange>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00269b.htm">
 <relationEntry localType="Organisation">
@@ -190,7 +186,7 @@ Cumbrae (1912 - 1987)
 </cpfRelation>
 <cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01101b.htm">
 <relationEntry localType="Organisation">
-UnitingCare Burnside (2000 - )
+Uniting Burnside (2000 - )
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
@@ -205,6 +201,24 @@ UnitingCare Burnside (2000 - )
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00254b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001086.htm">
+<relationEntry localType="published">Resource Section: Burnside: Photos and Stories of the 20th Century</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Burnside: Photos and Stories of the 20th Century</title>
+<imprint>
+<publisher>Uniting (NSW.ACT)</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Uniting</title>
+</bibseries>
+<extptr linktype="simple" href="http://cdn.uniting.org/burnside-stories/index.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000310.htm">
 <relationEntry localType="published">Book: Burnside from the inside 1916-1926</relationEntry>
@@ -347,9 +361,7 @@ Homes for Children</publisher>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of New South Wales</repository>
 <unittitle>Burnside Orphanage, Parramatta: general view</unittitle>
-<unitid>d1_13848</unitid>
 <unitdate>August 1920</unitdate>
 <note label="rights">Reproduction rights owned by the State Library of New South Wales</note>
 </archref>
@@ -413,9 +425,7 @@ Homes for Children</publisher>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Library of New South Wales</repository>
 <unittitle>Burnside Orphanage, Parramatta</unittitle>
-<unitid>d1_13852</unitid>
 <unitdate>August 1920</unitdate>
 <note label="rights">Reproduction rights owned by the State Library of New South Wales</note>
 </archref>

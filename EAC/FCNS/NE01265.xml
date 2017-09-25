@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-04-28">2017-04-28</eventDateTime>
+<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -123,6 +123,11 @@ Anglican Diocese of Sydney (1788 - )
 <p>Church of England Homes were financially supported by the Anglican Diocese of Sydney</p>
 </descriptiveNote>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00050b.htm">
+<relationEntry localType="Organisation">
+Home Mission Society of the Anglican Diocese of Sydney (1857 - 1997)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00064b.htm">
 <relationEntry localType="Organisation">
 New South Wales Protestant Federation Children's Home (1921 - 1980)
@@ -137,7 +142,7 @@ New South Wales Protestant Federation Children's Home (1921 - 1980)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00054b.htm">
 <relationEntry localType="Organisation">
-Church of England Girls' Home (1913 - 1970s)
+Church of England Girls' Home, Carlingford (1913 - 1970s)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00053b.htm">
@@ -158,11 +163,6 @@ Quipolli Children's Home (c. 1930 - c. 1935)
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00056b.htm">
 <relationEntry localType="Organisation">
 Cornwell Group Home (1980s - 1990s)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00063b.htm">
-<relationEntry localType="Organisation">
-Marella Aboriginal Temporary Care (1979 - 1990s)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00057b.htm">
@@ -203,6 +203,11 @@ Cooinoo Home for Destitute Children (1924 - 1970?)
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01402b.htm">
 <relationEntry localType="Place">
 Arden (1918 - 1927)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00063b.htm">
+<relationEntry localType="Organisation">
+Marella Aboriginal Temporary Care (1979 - 1990s)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00055b.htm">
@@ -404,7 +409,6 @@ Care Force (1984 - 1997)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Anglicare Out-of-Home Care</repository>
 <unittitle>Havilah (Group Home)</unittitle>
 <unitdate>1984</unitdate>
 <abstract>This is a scan of a an image from the Church of England Homes newsletter <span style="font-style:italic">Care</span> article about residential and crisis care that was made by Anglicare Out-of-Home Care staff in 2014.</abstract>
@@ -418,7 +422,6 @@ Care Force (1984 - 1997)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Anglicare Out-of-Home Care</repository>
 <unittitle>Exterior Charlton</unittitle>
 <unitdate>1976</unitdate>
 <abstract>This is a scan of an image from a document in the collection of Anglicare Out-of-Home Care that was made by staff in 2014</abstract>
@@ -432,7 +435,6 @@ Care Force (1984 - 1997)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Anglicare Out-of-Home Care</repository>
 <unittitle>Buckland</unittitle>
 <unitdate>1984</unitdate>
 <abstract>This is a scan of a an image from the Church of England Homes newsletter <span style="font-style:italic">Care</span> article about residential and crisis care that was made by Anglicare Out-of-Home Care staff in 2014.</abstract>
@@ -446,7 +448,6 @@ Care Force (1984 - 1997)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Anglicare Out-of-Home Care</repository>
 <unittitle>Cornwell</unittitle>
 <unitdate>1984</unitdate>
 <abstract>This is a scan of a an image from the Church of England Homes newsletter <span style="font-style:italic">Care</span> article about residential and crisis care that was made by Anglicare Out-of-Home Care staff in 2014.</abstract>
@@ -460,7 +461,6 @@ Care Force (1984 - 1997)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Anglicare Out-of-Home Care</repository>
 <unittitle>Marella</unittitle>
 <unitdate>1984</unitdate>
 <abstract>This is a scan of a an image from the Church of England Homes newsletter <span style="font-style:italic">Care</span> article about residential and crisis care that was made by Anglicare Out-of-Home Care staff in 2014.</abstract>
@@ -474,7 +474,6 @@ Care Force (1984 - 1997)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Anglicare Out-of-Home Care</repository>
 <unittitle>Kingsleigh (Paul Street, Blacktown)</unittitle>
 <unitdate>1984</unitdate>
 <abstract>This is a scan of a an image from the Church of England Homes newsletter <span style="font-style:italic">Care</span> article about residential and crisis care that was made by Anglicare Out-of-Home Care staff in 2014.</abstract>
@@ -488,7 +487,6 @@ Care Force (1984 - 1997)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Anglicare Out-of-Home Care</repository>
 <unittitle>The Church of England Homes doing the job</unittitle>
 <unitdate>1984</unitdate>
 <abstract>This is a scan of a section of a the Church of England Homes newsletter <span style="font-style:italic">Care</span> article about residential and crisis care that was made by Anglicare Out-of-Home Care staff in 2014.</abstract>
@@ -502,7 +500,6 @@ Care Force (1984 - 1997)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Anglicare Out-of-Home Care Services</repository>
 <unittitle>The Pleader</unittitle>
 <unitdate>20 November 1930</unitdate>
 <abstract>This is a digital copy of the 20 November 1930 issue of <span style="font-style:italic">The Pleader</span></abstract>
@@ -515,7 +512,6 @@ Care Force (1984 - 1997)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Anglicare Out-of-Home Care Services</repository>
 <unittitle>The Pleader</unittitle>
 <unitdate>10 October 1930</unitdate>
 <abstract>This is a digital copy of the 10 October 1930 issue of <span style="font-style:italic">The Pleader</span></abstract>
@@ -528,7 +524,6 @@ Care Force (1984 - 1997)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Anglicare Out-of-Home Care Services, Parramatta</repository>
 <unittitle>Church of England Homes 75th Annual Report</unittitle>
 <unitdate>1958 - 1959</unitdate>
 <abstract>This is a digital copy of the 75th Annual Report of the Church of England Homes</abstract>

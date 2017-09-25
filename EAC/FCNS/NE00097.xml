@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-16">2017-05-16</eventDateTime>
+<eventDateTime standardDateTime="2017-08-30">2017-08-30</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -89,9 +89,9 @@ Diocesan Chlidren's Home, Goulburn</part>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00100b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00078b.htm">
 <relationEntry localType="Organisation">
-St Saviour's Cottage Home (1982 - 1986)
+Anglican Diocese of Newcastle (c. 1800 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00098b.htm">
@@ -105,7 +105,7 @@ Sisters of the Holy Cross
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00083b.htm">
 <relationEntry localType="Organisation">
-The Community of the Holy Name (1912 - )
+Community of the Holy Name (1912 - )
 </relationEntry>
 <dateRange>
 <fromDate standardDate="1933-01-01">1933</fromDate>
@@ -123,7 +123,7 @@ Anglican Diocese of Canberra and Goulburn (1863 - )
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00096b.htm">
 <relationEntry localType="Organisation">
-St Saviour's Neighbourhood Centre Goulburn (1980 - )
+St Saviour's Neighbourhood Centre (1980 - )
 </relationEntry>
 <dateRange>
 <fromDate standardDate="1980-01-01">1980</fromDate>
@@ -160,11 +160,6 @@ Duplicate Book of Admissions, St Saviour's Children's Home (1943 - 1948)
 Parish Archives, Anglican Diocese of Canberra and Goulburn (1828 - )
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01327b.htm">
-<relationEntry localType="Organisation">
-Anglicare (1929 - )
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00562b.htm">
 <relationEntry localType="Archival Series">
 Register of Illnesses, St Saviour's Children's Home (1941 - 1952)
@@ -173,6 +168,11 @@ Register of Illnesses, St Saviour's Children's Home (1941 - 1952)
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00561b.htm">
 <relationEntry localType="Archival Series">
 General Correspondence Files, St Saviour's Children's Home (1929? - 1982?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00100b.htm">
+<relationEntry localType="Organisation">
+St Saviour's Cottage Home (1982 - 1986)
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
@@ -269,7 +269,6 @@ General Correspondence Files, St Saviour's Children's Home (1929? - 1982?)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Care Leavers Australia Network [CLAN]</repository>
 <unittitle>St Saviour's Children's Home</unittitle>
 </archref>
 </objectXMLWrap>

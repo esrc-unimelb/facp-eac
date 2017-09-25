@@ -31,7 +31,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-05-12">2017-05-12</eventDateTime>
+<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -63,7 +63,12 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00985b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00004b.htm">
+<relationEntry localType="Legislation">
+State Children Act 1911 (1911 - 1966)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00985b.htm">
 <relationEntry localType="Legislation">
 Aboriginals Protection and Restriction of the Sale of Opium Acts Amendment Act 1927 (1928 - 1939)
 </relationEntry>
@@ -77,15 +82,6 @@ Aboriginals Protection and Restriction of the Sale of Opium Act 1901 (1901 - 193
 <relationEntry localType="Legislation">
 Aboriginals Protection and Restriction of the Sale of Opium Acts Amendment Act 1934 (1934 - 1939)
 </relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00004b.htm">
-<relationEntry localType="Legislation">
-State Children Act 1911 (1911 - 1966)
-</relationEntry>
-<dateRange>
-<fromDate standardDate="1911-01-01">1911</fromDate>
-<toDate standardDate="1939-12-31">1939</toDate>
-</dateRange>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00984b.htm">
 <relationEntry localType="Legislation">
@@ -204,7 +200,7 @@ Aboriginals Preservation and Protection Act 1939 (1939 - 1966)
 <bibseries>
 <title render="italic">Queensland Legislation</title>
 </bibseries>
-<extptr linktype="simple" href="http://aiatsis.gov.au/archive_digitised_collections/remove/qld/legislation.html"></extptr>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect/queensland"></extptr>
 </bibref>
 </objectXMLWrap>
 

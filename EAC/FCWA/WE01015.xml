@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-06">2016-04-06</eventDateTime>
+<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -117,7 +117,7 @@ Claremont Mental Hospital (1903 - 1972)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
 <relationEntry localType="Archival Collection">
-Department for Child Protection and Family Support [and its predecessors] Records (1894 - )
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01016b.htm">
@@ -151,38 +151,19 @@ Hospital [Public Hospitals] Records, Western Australia, Department of Health Wes
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000983.htm">
-<relationEntry localType="published">Newspaper Article: Editorial [intellectual disability]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Editorial [intellectual disability]</title>
-<imprint>
-<date>1950</date>
-</imprint>
-<bibseries>
-<title render="italic">The Daily News</title>
-<num type="pages">6</num>
-</bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article82923253"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000916.htm">
 <relationEntry localType="published">Resource Section: Earlsferry</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Heritage Council</name>
+<name type="author">Heritage Council of Western Australia</name>
 <title render="quoted">Earlsferry</title>
 <imprint>
 <publisher>Government of Western Australia</publisher>
 <date>2015</date>
 </imprint>
 <bibseries>
-<title render="italic">inHerit: Search Heritage Places</title>
+<title render="italic">inHerit</title>
 <name type="author">Western Australia State Heritage Office</name>
 </bibseries>
 <extptr linktype="simple" href="http://inherit.stateheritage.wa.gov.au/public/p/128"></extptr>
@@ -283,25 +264,6 @@ Hospital [Public Hospitals] Records, Western Australia, Department of Health Wes
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000851.htm">
-<relationEntry localType="published">Book: Eloquent Testimony : the Story of the Mental Health Services in Western Australia, 1830-1975</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Ellis, A.S.</name>
-<title render="italic">Eloquent Testimony : the Story of the Mental Health Services in Western Australia, 1830-1975</title>
-<imprint>
-<place>Nedlands, Western Australia</place>
-<publisher>University of Western Australia Press</publisher>
-<date>1984</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000850.htm">
 <relationEntry localType="published">Book Section: Once a Defective, always a Defective: Public Sector Residential Care 1900-1965</relationEntry>
 
@@ -326,14 +288,50 @@ Hospital [Public Hospitals] Records, Western Australia, Department of Health Wes
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000983.htm">
+<relationEntry localType="published">Newspaper Article: Editorial [intellectual disability]</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Editorial [intellectual disability]</title>
+<imprint>
+<date>1950</date>
+</imprint>
+<bibseries>
+<title render="italic">The Daily News</title>
+<num type="pages">6</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article82923253"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000851.htm">
+<relationEntry localType="published">Book: Eloquent Testimony : the Story of the Mental Health Services in Western Australia, 1830-1975</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ellis, A.S.</name>
+<title render="italic">Eloquent Testimony : the Story of the Mental Health Services in Western Australia, 1830-1975</title>
+<imprint>
+<place>Nedlands, Western Australia</place>
+<publisher>University of Western Australia Press</publisher>
+<date>1984</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000332.htm">
 <relationEntry localType="digitalObject">Researching Your Family History in Western Australia through Mental Health Records</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Mental Health Museum of WA Inc</repository>
 <unittitle>Researching Your Family History in Western Australia through Mental Health Records</unittitle>
-<unitid>Info-Sheet-Family History-A4-final.pdf</unitid>
 <unitdate>9 May 2012</unitdate>
 <abstract>'Researching Your Family History in Western Australia through Mental Health Records' is a version of a brochure from the Mental Health Museum of Western Australia. It is a 'how to' guide for people looking for mental health records</abstract>
 </archref>
@@ -345,9 +343,7 @@ Hospital [Public Hospitals] Records, Western Australia, Department of Health Wes
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Heritage Council of Western Australia</repository>
 <unittitle>Earlsferry stairs</unittitle>
-<unitid>Heritage Council of Western Australia Place No. 00128 Image No. DSC00654</unitid>
 <unitdate>7 May 2011</unitdate>
 <abstract>This is a digital copy of a photograph held by the Heritage Council of Western Australia. It shows the staircase inside Earlsferry and is part of Earlsferry's 1999 heritage assessment. The photograph shows Earlsferry in its restored condition, not as it was when used as a hostel for people with intellectual disabilities. This photograph was taken by Sian Ferraz.</abstract>
 </archref>
@@ -359,9 +355,7 @@ Hospital [Public Hospitals] Records, Western Australia, Department of Health Wes
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>Heritage Council of Western Australia</repository>
 <unittitle>Earlsferry</unittitle>
-<unitid>Heritage Council of Western Australia Place No. 00128 Image No. IMGP1921</unitid>
 <unitdate>26 March 2011</unitdate>
 <abstract>This is a digital copy of a photograph held by the Heritage Council of Western Australia. It shows Earlsferry from the rear, facing the Swan River. It is part of Earlsferry's 1999 heritage assessment. The photograph shows Earlsferry in its restored condition, not as it was when used as a hostel for people with intellectual disabilities. This photograph was taken by Sian Ferraz.</abstract>
 </archref>
