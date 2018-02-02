@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
+<eventDateTime standardDateTime="2017-12-05">2017-12-05</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -87,12 +87,7 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00006b.htm">
-<relationEntry localType="Organisation">
-Church of England in Australia and Tasmania (1788 - 1981)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00881b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00881b.htm">
 <relationEntry localType="Glossary Term">
 Mission
 </relationEntry>
@@ -135,6 +130,11 @@ Point Pearce Aboriginal Station (1915 - 1972)
 <descriptiveNote>
 <p>Some of the residents of the Point Pearce Aboriginal Station were former residents of the Poonindie Mission.</p>
 </descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00006b.htm">
+<relationEntry localType="Organisation">
+Church of England in Australia and Tasmania (1788 - 1981)
+</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01330b.htm">
 <relationEntry localType="Archival Collection">
@@ -218,6 +218,7 @@ Records of Aboriginal Missions in South Australia (1850s - 1970s)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Poonindie Collection - State Library of South Australia</repository>
 <unittitle>Poonindie Mission 02</unittitle>
 <unitdate>1885</unitdate>
 <abstract>View of Aboriginal people at Poonindie Mission</abstract>
@@ -234,6 +235,7 @@ Records of Aboriginal Missions in South Australia (1850s - 1970s)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia</repository>
 <unittitle>Poonindie Mission Station</unittitle>
 <unitdate>1910</unitdate>
 <abstract>Entrance to Poonindie Mission Station at Poonindie</abstract>

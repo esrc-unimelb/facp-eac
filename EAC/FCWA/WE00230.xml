@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
+<eventDateTime standardDateTime="2017-12-06">2017-12-06</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -147,6 +147,11 @@ Foster Care (1907 - )
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00646b.htm">
 <relationEntry localType="Glossary Term">
 Private Child (1870s - 1970s)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01542b.htm">
+<relationEntry localType="Archival Collection">
+Photographs relating to Florence Hummerston and her work [picture] (1939 - 1968)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00364b.htm">
@@ -316,6 +321,7 @@ Child Welfare Department, State of Western Australia (1927 - 1972)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Western Australia</repository>
 <unittitle>Children running 3-legged race, Wanslea</unittitle>
 <unitdate>1940s</unitdate>
 <abstract>'Children running 3-legged race, Wanslea' is a digital copy from a collection of photocopies of images held by the State Library of Western Australia in its collection, 'Photographs relating to Florence Hummerston and her work [picture]'. The caption does not give a date, but it is adjacent to other images from the 1940s. It is unknown whether this image comes from the Wanslea Hostel at 30 Bulwer Street (1943-1946) or the Wanslea Children's Home at Cottesloe (1947-1984).</abstract>
@@ -329,6 +335,7 @@ Child Welfare Department, State of Western Australia (1927 - 1972)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Western Australia</repository>
 <unittitle>Group of children at Wanslea</unittitle>
 <unitdate>1940s</unitdate>
 <abstract>'Group of children at Wanslea' is a digital copy from a collection of photocopies of images held by the State Library of Western Australia in its collection, 'Photographs relating to Florence Hummerston and her work [picture]'. The caption is dated 1944. However, it is unknown whether this image comes from the Wanslea Hostel at 30 Bulwer Street (1943-1946) or the Wanslea Children's Home at Cottesloe (1947-1984). The child-size furniture is a feature of this image.</abstract>
@@ -342,6 +349,7 @@ Child Welfare Department, State of Western Australia (1927 - 1972)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Western Australia</repository>
 <unittitle>Wanslea Children's Home</unittitle>
 <unitdate>1940s</unitdate>
 <abstract>'Wanslea Children's Home' is a digital copy from a collection of photocopies of images held by the State Library of Western Australia in its collection, 'Photographs relating to Florence Hummerston and her work [picture]'. The caption reads: 'Wanslea Children's Home c.1944'. However, based on the building's appearance, it is likely that this image comes from Wanslea Children's Home at Cottesloe (1947-1984) rather than the Wanslea Hostel at 30 Bulwer Street (1943-1946).</abstract>
@@ -353,24 +361,12 @@ Child Welfare Department, State of Western Australia (1927 - 1972)
 <p>Include in Gallery</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000505.htm">
-<relationEntry localType="digitalObject">Photographs relating to Florence Hummerston and her work [picture]</relationEntry>
-
-<objectXMLWrap>
-<archref xmlns="urn:isbn:1-931666-22-9">
-<unittitle>Photographs relating to Florence Hummerston and her work [picture]</unittitle>
-<unitdate>1939 - 1968</unitdate>
-<abstract>'Photographs relating to Florence Hummerston and her work [picture]' is a collection of twenty six photographs held by the State Library of Western Australia. Although most of these photographs are not yet available online, but may be in the future. Florence Hummerston was closely associated with Wanslea.</abstract>
-<note label="rights">State Library of Western Australia</note>
-</archref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000498.htm">
 <relationEntry localType="digitalObject">The WANS: Pledged to Unity and Service</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Wanslea Family Services, Perth</repository>
 <unittitle>The WANS: Pledged to Unity and Service</unittitle>
 <abstract>'The WANS: Pledged to Unity and Service' is a history of the Women's Australian National Services in Western Australia, the organisation that established and ran Wanslea. It is published on Wanslea's website and is available to download and read. There are some images of the children and grounds at Wanslea.</abstract>
 <note label="rights">Reproduced with the permission of Wanslea Family Services, which retains reproduction rights.</note>

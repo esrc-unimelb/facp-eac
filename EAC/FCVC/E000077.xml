@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
+<eventDateTime standardDateTime="2017-11-07">2017-11-07</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -367,23 +367,6 @@ Anglicare Victoria (1997 - )
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000723.htm">
-<relationEntry localType="published">Journal Article: The Blackburn Story</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">The Blackburn Story</title>
-<imprint>
-<date>1961</date>
-</imprint>
-<bibseries>
-<title render="italic">The Brothers</title>
-</bibseries>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000724.htm">
 <relationEntry localType="published">Journal Article: Behind the scenes at Blackburn South</relationEntry>
 
@@ -393,6 +376,23 @@ Anglicare Victoria (1997 - )
 <title render="quoted">Behind the scenes at Blackburn South</title>
 <imprint>
 <date>1964</date>
+</imprint>
+<bibseries>
+<title render="italic">The Brothers</title>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000723.htm">
+<relationEntry localType="published">Journal Article: The Blackburn Story</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Blackburn Story</title>
+<imprint>
+<date>1961</date>
 </imprint>
 <bibseries>
 <title render="italic">The Brothers</title>
@@ -636,6 +636,7 @@ Anglicare Victoria (1997 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Anglicare Victoria</repository>
 <unittitle>Kids Speak Out: What it's like being a State Ward</unittitle>
 <unitdate>1984</unitdate>
 <abstract>This is a digital copy of <span style="font-style:italic">Kids Speak Out: What it's like being a State Ward</span>, a publication from 1984. [Editor's note: This digital copy does not include the front cover, which has an image of the face of a young person, and the Find &amp; Connect web resource chose not to publish this image without her consent.]</abstract>

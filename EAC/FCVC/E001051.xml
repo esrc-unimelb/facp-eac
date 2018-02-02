@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E001051</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Collection</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2017-07-27">2017-07-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Nicola Laurent</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2017-09-15">2017-09-15</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E001051b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Kilmany Family Care Family Group Home Records</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1981-01-01">1981</fromDate>
+<toDate standardDate="1996-12-31">1996</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Kilmany Family Care Family Group Home Records date from 1981 to 1996 and relate to the family group homes run by Kilmany Family Care. The collection includes client files, day books, address books, financial records, photographs.</abstract>
+<h4>Access Conditions</h4>
+<p>Former residents (and their families) should contact the Uniting Heritage Service to find information, and access personal files. The Uniting Heritage Service is a free service that helps individuals access information about them or family members, as well as access appropriate support should they choose. Heritage Service staff prefer to release records to past residents or their family members in person, where possible, in order to give greater meaning and context to the information.</p>
+<h4>Records</h4>
+<p>Kilmany Family Care Family Group Home Records is a collection of records related to the four family group homes run by Kilmany Family Care. Most of the records are client files from 1981-1996. Records in this collection have been catalogued, digitised and indexed by UnitingCare Gippsland as part of the Records Access Documentation Grants in 2017.</p>
+<p>More specifically, the collection includes:</p>
+<list><item>Fitzroy Street Family Group Home Client Files, 1981-1996 - Client files may contain: legal documents; school files; photographs; case notes; day notes; personal and family details.</item>
+<item>Reeve Street (also known as Cunninghame) Family Group Home Client Files, 1981-1996 - Client files may contain: personal information; family details; legal documents; case notes; day notes; school files and photographs.</item>
+<item>Wallace Street Family Group Home Client Files, 1981-1996 - Client files may contain: personal details; family information; legal documents; school files; photographs; case notes and day notes.</item>
+<item>Main Street Family Group Home Client Files, 1981-1996 - Client files may contain: personal details; family information; legal documents; school files; photographs; case notes and day notes.</item>
+<item>Client Files and Day Books, 1981-1996 - Contains six client files, five day books and two address books for unknown family group homes. Client files may contain: personal details; family information; legal documents; school files; photographs; case notes and day notes.</item>
+<item>General Family Group Home Files, 1981-1996 - Contains information relevant to all four family group homes, and includes: financial documents and records, invoices, admission and discharge dates, information on children's location and residential care reviews.</item>
+<item>Reeve Street Day Books, 1981-1996 - Contains day books and notes about children in the Home on a day to day basis.</item></list>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001036b.htm">
+<relationEntry localType="Organisation">
+Uniting (Victoria and Tasmania) Limited (2016 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000150b.htm">
+<relationEntry localType="Organisation">
+Kilmany Family Care (c. 1978 - 2002)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001035b.htm">
+<relationEntry localType="Contact Details">
+Uniting Heritage Service - Contact Details
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Kilmany Family Care Family Group Home Records', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Kilmany Family Care Family Group Home Records</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E001051b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

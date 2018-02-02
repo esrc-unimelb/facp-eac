@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
+<eventDateTime standardDateTime="2017-11-22">2017-11-22</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -170,21 +170,6 @@ Heritage Centre, Child and Family Services Ballarat (2000 - )
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000008.htm">
-<relationEntry localType="published">Resource: Child and Family Services Ballarat</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Child and Family Services Ballarat</title>
-<imprint>
-<publisher>Child and Family Services Ballarat</publisher>
-</imprint>
-<extptr linktype="simple" href="http://www.cafs.org.au/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000009.htm">
 <relationEntry localType="published">Resource Section: Ballarat Orphanage and Children's Homes</relationEntry>
 
@@ -206,11 +191,27 @@ Heritage Centre, Child and Family Services Ballarat (2000 - )
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000008.htm">
+<relationEntry localType="published">Resource: Child and Family Services Ballarat</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Child and Family Services Ballarat</title>
+<imprint>
+<publisher>Child and Family Services Ballarat</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.cafs.org.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000002.htm">
 <relationEntry localType="digitalObject">Ballarat Orphanage Interments</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Child and Family Services Ballarat</repository>
 <unittitle>Ballarat Orphanage Interments</unittitle>
 <abstract>In February 2008, a memorial service commemorated children formerly residing at Ballarat Orphanage who now rested at a grave site in the Ballarat New Cemetery, Private F Section. The names of these children are displayed on a memorial plaque at the grave site. This document shows the names of the children, their ages at the date of death and the cause of death.</abstract>
 <note label="rights">Permission to use or reproduce part or all of this image must be sought from Child and Family Services Ballarat</note>

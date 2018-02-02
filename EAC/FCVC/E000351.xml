@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-06">2017-09-06</eventDateTime>
+<eventDateTime standardDateTime="2017-11-10">2017-11-10</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -45,7 +45,7 @@
 <nameEntry><part>Immigrants' Aid Society</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
-<nameEntry localType=""><part>Immigrants' Home</part>
+<nameEntry localType="Also known as"><part>Immigrants' Home</part>
 <useDates>
 <dateRange>
 <fromDate standardDate="1853-01-01">1853</fromDate>
@@ -53,7 +53,7 @@
 </dateRange>
 </useDates>
 </nameEntry>
-<nameEntry localType=""><part>Princes Bridge</part>
+<nameEntry localType="Also known as"><part>Princes Bridge</part>
 </nameEntry>
 </identity>
 <description><existDates>
@@ -79,7 +79,7 @@
 </function>
 </functions>
 <biogHist>
-<abstract>The Immigrants' Aid Society came into being in May 1853. A non-government organisation, its initial purpose was to provide relief and information only to new arrivals, though its activities quickly expanded beyond providing aid to poor immigrants. Before the passage of the Neglected and Criminal Children's Act in 1864, the Immigrants' Aid Society was responsible for the 'care' of hundreds of 'neglected' children. The Immigrants' Home in St Kilda Road accommodated 'neglected' and orphaned children and also had a reformatory for children. In 1870, the Society changed its name to the Immigrants' Aid Society's Home for Houseless and Destitute Persons. In 1902, having become a benevolent asylum, it changed its name to the Victorian Homes for the Aged and Infirm.</abstract>
+<abstract>The Immigrants' Aid Society came into being in May 1853. A non-government organisation, its initial purpose was to provide relief and information only to new arrivals, though its activities quickly expanded beyond providing aid to poor immigrants. Before the colonial government passed the Neglected and Criminal Children's Act in 1864, the Immigrants' Aid Society was responsible for the 'care' of hundreds of vulnerable children. The Immigrants' Home in St Kilda Road accommodated orphaned and 'neglected' children and also had a reformatory for children convicted of offences. In 1870, the Society changed its name to the Immigrants' Aid Society's Home for Houseless and Destitute Persons. In 1902, having become a benevolent asylum, it changed its name to the Victorian Homes for the Aged and Infirm.</abstract>
 <p>The Immigrants' Aid Society came into being in May 1853, following a meeting of Melbourne's prominent citizens, concerned about the welfare of immigrants being drawn to the colony by the gold rushes. Many who came to the colony intending to seek gold found themselves stranded in Melbourne, without the funds to make the eight-day journey to the goldfields, let alone purchase the necessary equipment. A tent city on the outskirts of Melbourne, known as Canvas Town, was home for many of these impoverished immigrants. Others could not even afford the weekly rent required to pitch a tent in Canvas Town.</p>
 <p>The initial purpose of the Immigrants' Aid Society was to provide aid only to new arrivals, however its activities quickly expanded beyond providing relief and information to poor immigrants. The Immigrants' Home was the name that early colonists gave to ramshackle buildings on either side of St Kilda Road at Princes Bridge. Over time, the Immigrants' Home came to serve a similar function to an English workhouse, operating a night shelter, convalescent hospital and providing shelter for deserted wives, single mothers, the disabled and 'neglected' children.</p>
 <p>Victoria had no legislation relating to the 'care' of 'neglected' children until 1864. Before this date, under the Criminal Law (Infants) Act 13 Vic., No.21 1849, children could be assigned by the Supreme Court to persons willing to undertake their 'maintenance and education'. The Immigrants' Aid Society was responsible for the 'care' of hundreds of 'neglected' children before the 1864 Neglected and Criminal Children Act came into being.</p>
@@ -178,6 +178,21 @@ Reformatory (1864 - c. 1954)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001237.htm">
+<relationEntry localType="published">Book: Mount Royal Hospital: a social history</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Uhl, Jean</name>
+<title render="italic">Mount Royal Hospital: a social history</title>
+<imprint>
+<publisher>Mount Royal Hospital</publisher>
+<date>1981</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001227.htm">
 <relationEntry localType="published">Resource: The Immigrants Aid Society</relationEntry>
 
@@ -243,17 +258,20 @@ Reformatory (1864 - c. 1954)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000131.htm">
-<relationEntry localType="published">Resource Section: RMH Royal Park Campus - a brief history 1853-2005</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000133.htm">
+<relationEntry localType="published">Newspaper Article: [The barracks south of Prince's Bridge]</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">RMH Royal Park Campus - a brief history 1853-2005</title>
+<title render="quoted">[The barracks south of Prince's Bridge]</title>
 <imprint>
-<date>2005</date>
+<date>1860</date>
 </imprint>
-<extptr linktype="simple" href="http://www.mh.org.au/"></extptr>
+<bibseries>
+<title render="italic">The Argus</title>
+<num type="pages">5</num>
+</bibseries>
 </bibref>
 </objectXMLWrap>
 
@@ -282,20 +300,17 @@ Reformatory (1864 - c. 1954)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000133.htm">
-<relationEntry localType="published">Newspaper Article: [The barracks south of Prince's Bridge]</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000131.htm">
+<relationEntry localType="published">Resource Section: RMH Royal Park Campus - a brief history 1853-2005</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">[The barracks south of Prince's Bridge]</title>
+<title render="quoted">RMH Royal Park Campus - a brief history 1853-2005</title>
 <imprint>
-<date>1860</date>
+<date>2005</date>
 </imprint>
-<bibseries>
-<title render="italic">The Argus</title>
-<num type="pages">5</num>
-</bibseries>
+<extptr linktype="simple" href="https://www.thermh.org.au/about/about-rmh/our-history/history-royal-park-campus"></extptr>
 </bibref>
 </objectXMLWrap>
 

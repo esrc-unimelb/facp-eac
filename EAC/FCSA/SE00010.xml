@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-03-09">2016-03-09</eventDateTime>
+<eventDateTime standardDateTime="2017-11-24">2017-11-24</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -60,13 +60,21 @@
 <function>
 <term>Care Provider</term>
 </function>
+<function>
+<term>Religious Order</term>
+</function>
 </functions>
 <biogHist>
-<abstract>The Community of the Holy Name in South Australia is part of an Anglican religious order with a focus on welfare activities that was founded in Melbourne in 1888. In 1945, the Sisters of the Community of the Holy Name opened the Church of England Diocesan Mission House, later renamed the Hostel of the Holy Name, in Adelaide.</abstract>
+<abstract>The Community of the Holy Name in South Australia is part of an Anglican religious order with a focus on welfare activities that was founded in Melbourne in 1888. In 1945, the Sisters of the Community of the Holy Name opened the Church of England Diocesan Mission House, later renamed the Hostel of the Holy Name, in Adelaide. The Sisters ran the Hostel of the Holy Name until 1966 (at which time it was taken over by the Girls' Friendly Society).</abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00344b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01670b.htm">
+<relationEntry localType="Organisation">
+Anglican Diocese of Adelaide (1847 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00344b.htm">
 <relationEntry localType="Organisation">
 Church of England Diocesan Mission House (1945 - 1949)
 </relationEntry>

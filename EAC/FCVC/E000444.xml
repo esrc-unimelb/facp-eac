@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-08-16">2017-08-16</eventDateTime>
+<eventDateTime standardDateTime="2017-11-27">2017-11-27</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -114,7 +114,7 @@ The Victorian Infant Asylum (1877 - 1902)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000322b.htm">
 <relationEntry localType="Organisation">
-Charity Organisation Society of Melbourne (1887 - )
+Charity Organisation Society of Melbourne (1887 - 1947)
 </relationEntry>
 <dateRange>
 <fromDate standardDate="1887-01-01">1887</fromDate>
@@ -152,22 +152,6 @@ Charity Organisation Society of Melbourne (1887 - )
 <num type="issue">9</num>
 </bibseries>
 <extptr linktype="simple" href="https://www.prov.vic.gov.au/explore-collection/provenance-journal/provenance-2010/victoria-police-involvement-infant-life"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000167.htm">
-<relationEntry localType="published">Book: Single mothers and their children : disposal, punishment and survival in Australia</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Swain, Shurlee with Renate Howe</name>
-<title render="italic">Single mothers and their children : disposal, punishment and survival in Australia</title>
-<imprint>
-<place>Melbourne</place>
-<publisher>Cambridge University Press</publisher>
-<date>1995</date>
-</imprint>
 </bibref>
 </objectXMLWrap>
 
@@ -323,25 +307,6 @@ Charity Organisation Society of Melbourne (1887 - )
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000193.htm">
-<relationEntry localType="published">Book: Neglected and criminal: foundations of child welfare legislation in Victoria</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Jaggs, Donella</name>
-<title render="italic">Neglected and criminal: foundations of child welfare legislation in Victoria</title>
-<imprint>
-<place>Melbourne</place>
-<publisher>Centre for Youth and Community Studies, Phillip Institute of Technology</publisher>
-<date>1986</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000194.htm">
 <relationEntry localType="published">Resource Section: Infanticide</relationEntry>
 
@@ -363,6 +328,41 @@ Charity Organisation Society of Melbourne (1887 - )
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000193.htm">
+<relationEntry localType="published">Book: Neglected and criminal: foundations of child welfare legislation in Victoria</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jaggs, Donella</name>
+<title render="italic">Neglected and criminal: foundations of child welfare legislation in Victoria</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Centre for Youth and Community Studies, Phillip Institute of Technology</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000167.htm">
+<relationEntry localType="published">Book: Single mothers and their children : disposal, punishment and survival in Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Swain, Shurlee with Renate Howe</name>
+<title render="italic">Single mothers and their children : disposal, punishment and survival in Australia</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Cambridge University Press</publisher>
+<date>1995</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 </relations>
 </cpfDescription>

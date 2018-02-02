@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-08-31">2017-08-31</eventDateTime>
+<eventDateTime standardDateTime="2017-12-08">2017-12-08</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -112,7 +112,7 @@ After 1971, according to the Joint Select Committee, Elim changed, largely as a 
 </description>
 <relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00036b.htm">
 <relationEntry localType="Organisation">
-The Salvation Army (Australian Southern Territory (1883 - )
+The Salvation Army (Australian Southern Territory) (1883 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00205b.htm">
@@ -260,6 +260,38 @@ Salvation Army Records (c. 1897 - c. 1998)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00080b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000786.htm">
+<relationEntry localType="published">Resource: Official Committee Hansard. Commonwealth contribution to former forced adoption policies and practices. Friday 16 December 2011. Hobart</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Senate Community Affairs References Committee</name>
+<title render="italic">Official Committee Hansard. Commonwealth contribution to former forced adoption policies and practices. Friday 16 December 2011. Hobart</title>
+<imprint>
+<publisher>Parliament of Australia</publisher>
+<date>2011</date>
+</imprint>
+<extptr linktype="simple" href="https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2010-13/commcontribformerforcedadoption/hearings/index"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000779.htm">
+<relationEntry localType="published">Resource: Forced Adoptions History Project</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Forced Adoptions History Project</title>
+<imprint>
+<publisher>National Archives of Australia</publisher>
+<date>2013</date>
+</imprint>
+<extptr linktype="simple" href="http://forcedadoptions.naa.gov.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000590.htm">
 <relationEntry localType="published">Newspaper Article: The Salvation Army: its international work 1899</relationEntry>
@@ -534,6 +566,7 @@ Salvation Army Records (c. 1897 - c. 1998)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Adoption Origins Tasmania</repository>
 <unittitle>Elim</unittitle>
 <unitdate>2000</unitdate>
 <note label="rights">Reproduction rights owned by the Adoption Origins Tasmania</note>

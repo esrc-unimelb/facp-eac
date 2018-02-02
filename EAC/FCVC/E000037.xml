@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
+<eventDateTime standardDateTime="2017-11-23">2017-11-23</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -157,6 +157,22 @@ Berry Street - Child and Family Care (1975 - 1992)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001239.htm">
+<relationEntry localType="published">Resource: Berry Street 140 Years: restoring trust and hope</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cerreto, Alicia</name>
+<title render="italic">Berry Street 140 Years: restoring trust and hope</title>
+<imprint>
+<publisher>Berry Street</publisher>
+<date>2017</date>
+</imprint>
+<extptr linktype="simple" href="https://www.berrystreet.org.au/sites/default/files/Berry%20Street%20140%20-%20Restoring%20Trust%20and%20Hope%20%5Bweb%5D.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001158.htm">
 <relationEntry localType="published">Resource Section: The importance of photos</relationEntry>
 
@@ -280,11 +296,28 @@ Berry Street - Child and Family Care (1975 - 1992)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000573.htm">
+<relationEntry localType="digitalObject">Berry Street Babies' Home and Hospital, East Melbourne</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Berry Street Archives</repository>
+<unittitle>Berry Street Babies' Home and Hospital, East Melbourne</unittitle>
+<unitdate>c. 1965</unitdate>
+<abstract>This is a copy of a photograph of the Berry Street Babies' Home and Hospital. There is a sign that reads: 'Help the Berry Street Babies' Home &amp; Hospital. Donations please.'</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000545.htm">
 <relationEntry localType="digitalObject">Advice of admission of a child to an institution and claim for additional child endowment</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Heritage and Background Information Service, Berry Street</repository>
 <unittitle>Advice of admission of a child to an institution and claim for additional child endowment</unittitle>
 <unitdate>1970s</unitdate>
 <abstract>This is a copy of a form used by the Commonwealth Department of Social Services in the 1970s to administer child endowment payments to institutions. This form was provided to the Find &amp; Connect web resource by Berry Street's Heritage and Background Information Service and has been redacted to protect the privacy of individuals.</abstract>
@@ -297,15 +330,13 @@ Berry Street - Child and Family Care (1975 - 1992)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
 <unittitle>These Girls Love Babies</unittitle>
 <unitdate>2 July 1953</unitdate>
 <abstract>Caption reads, 'Baby John looks intrigued as he is weighed by Margaret Witton, a trained mothercraft nurse at Berry St. Foundling Home.'</abstract>
 </archref>
 </objectXMLWrap>
 
-<descriptiveNote>
-<p>Include in Gallery</p>
-</descriptiveNote>
 </resourceRelation>
 </relations>
 </cpfDescription>

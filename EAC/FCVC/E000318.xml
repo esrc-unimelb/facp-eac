@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-06">2017-09-06</eventDateTime>
+<eventDateTime standardDateTime="2017-11-23">2017-11-23</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -91,6 +91,11 @@
 <relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000126b.htm">
 <relationEntry localType="Organisation">
 Department of Industrial and Reformatory Schools (1864 - 1887)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000821b.htm">
+<relationEntry localType="Archival Item">
+Victorian Naval Training Ship for Boys Register (1865 - 1876)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000178b.htm">
@@ -159,21 +164,6 @@ The 'Sir Harry Smith' (1865 - 1873)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000191.htm">
-<relationEntry localType="published">Thesis: The Victorian Charity Network in the 1890s</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Swain, Shurlee</name>
-<title render="quoted">The Victorian Charity Network in the 1890s</title>
-<imprint>
-<publisher>Department of History, University of Melbourne</publisher>
-<date>1976</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000357.htm">
 <relationEntry localType="published">Book: Neglected or criminal? The Sunbury Industrial School - Sunbury and beyond</relationEntry>
 
@@ -224,6 +214,21 @@ The 'Sir Harry Smith' (1865 - 1873)
 <place>Melbourne</place>
 <publisher>Centre for Youth and Community Studies, Phillip Institute of Technology</publisher>
 <date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000191.htm">
+<relationEntry localType="published">Thesis: The Victorian Charity Network in the 1890s</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Swain, Shurlee</name>
+<title render="quoted">The Victorian Charity Network in the 1890s</title>
+<imprint>
+<publisher>Department of History, University of Melbourne</publisher>
+<date>1976</date>
 </imprint>
 </bibref>
 </objectXMLWrap>

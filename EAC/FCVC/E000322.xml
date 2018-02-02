@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
+<eventDateTime standardDateTime="2017-11-27">2017-11-27</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -45,34 +45,11 @@
 <nameEntry><part>Charity Organisation Society of Melbourne</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
-<nameEntry localType=""><part>Drummond Street Services</part>
-<useDates>
-<dateRange>
-<fromDate standardDate="2010-01-01">2010</fromDate>
-<toDate standardDate=""></toDate>
-</dateRange>
-</useDates>
-</nameEntry>
-<nameEntry localType=""><part>Citizens Welfare Service of Victoria</part>
-<useDates>
-<dateRange>
-<fromDate standardDate="1947-01-01">1947</fromDate>
-<toDate standardDate="1996-12-31">1996</toDate>
-</dateRange>
-</useDates>
-</nameEntry>
-<nameEntry localType=""><part>Drummond Street Relationship Centre</part>
-<useDates>
-<dateRange>
-<fromDate standardDate="1996-01-01">1996</fromDate>
-<toDate standardDate="2010-12-31">2010</toDate>
-</dateRange>
-</useDates>
-</nameEntry>
 </identity>
 <description><existDates>
 <dateRange>
 <fromDate standardDate="1887-01-01">1887</fromDate>
+<toDate standardDate="1947-12-31">1947</toDate>
 </dateRange>
 </existDates>
 <places>
@@ -86,18 +63,21 @@
 </function>
 </functions>
 <biogHist>
-<abstract>The Charity Organisation Society (COS) of Melbourne was established in 1887 to help co-ordinate Melbourne's charitable organisations and to foster the ideal of 'self-help' in the poor. The Society played a role in the development of the social work profession in Victoria. In 2014 it was known as Drummond Street Services.</abstract>
+<abstract>The Charity Organisation Society (COS) of Melbourne was established in 1887 to help co-ordinate Melbourne's charitable organisations and to foster the ideal of 'self-help' in the poor. The Society played a role in the development of the social work profession in Victoria. In 1947, the Society moved to new premises in Drummond Street, Carlton and became known as the Citizens Welfare Service of Victoria.</abstract>
 <p>In the 1920s, the COS moved to new premises at Morris House, at which other Victorian charitable organisations were colocated. This heralded a time of co-operation between charities and the standardising of social work practices by the promotion of social case work.</p>
 <p>The Society increasingly became involved in child welfare issues. One organisation also located at Morris House was the Victorian Society for the Prevention of Cruelty to Children, which benefited from access to the Central Register of help given by all relieving agencies maintained by the COS.</p>
 <p>In the post-Depression years, the Society expanded its casework and social work services to foster care placements.</p>
 <p>A collection of records at the State Library of Victoria relating to the Melbourne Orphanage contains case files and reports prepared by the Charity Organisation Society.</p>
 <p>The Society moved to premises at 197 Drummond St Carlton in 1947, when it changed its name to the Citizens Welfare Service of Victoria.</p>
-<p>The archives of the Citizens Welfare Service are held at the University of Melbourne Archives.</p>
-<p>The organisation was known as the Drummond Street Relationship Centre from 1996 until 2010, when it was renamed Drummond Street Services.</p>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000618b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001061b.htm">
+<relationEntry localType="Archival Series">
+Client Records, Citizens Welfare Service of Victoria; Charity Organisation Society of Melbourne
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000618b.htm">
 <relationEntry localType="Organisation">
 Victorian Society for the Prevention of Cruelty to Children (1896 - 1971)
 </relationEntry>
@@ -128,6 +108,11 @@ Baby Farming (c. 1867 - )
 <descriptiveNote>
 <p>The Charity Organisation Society was formed partly in response to concerns about baby farming.</p>
 </descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001059b.htm">
+<relationEntry localType="Organisation">
+Citizens Welfare Service of Victoria (1947 - 1996)
+</relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Charity Organisation Society of Melbourne', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
@@ -177,7 +162,7 @@ Baby Farming (c. 1867 - )
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
+<name type="author">Francis, Rosemary</name>
 <title render="quoted">Charity Organisation Society of Melbourne (1887 -)</title>
 <imprint>
 <publisher>National Foundation for Australian Women</publisher>
@@ -199,6 +184,7 @@ Baby Farming (c. 1867 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Donna Jaggs</repository>
 <unittitle>A guide to charity and to the philanthropic work of Victoria</unittitle>
 <unitdate>1912</unitdate>
 <abstract>This is a digital copy of the guide published by the Charity Organisation Society of Melbourne in 1912.</abstract>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-06-30">2017-06-30</eventDateTime>
+<eventDateTime standardDateTime="2017-11-23">2017-11-23</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -92,6 +92,11 @@ With the introduction of the Boarding Out system in 1872 and the opening of the 
 <relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000126b.htm">
 <relationEntry localType="Organisation">
 Department of Industrial and Reformatory Schools (1864 - 1887)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000821b.htm">
+<relationEntry localType="Archival Item">
+Victorian Naval Training Ship for Boys Register (1865 - 1876)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000441b.htm">
@@ -154,38 +159,6 @@ Reformatory for Boys (1864 - 1893)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000193.htm">
-<relationEntry localType="published">Book: Neglected and criminal: foundations of child welfare legislation in Victoria</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Jaggs, Donella</name>
-<title render="italic">Neglected and criminal: foundations of child welfare legislation in Victoria</title>
-<imprint>
-<place>Melbourne</place>
-<publisher>Centre for Youth and Community Studies, Phillip Institute of Technology</publisher>
-<date>1986</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000103.htm">
-<relationEntry localType="published">Report: The Development and Working of the Reformatory and Preventive Systems in the Colony of Victoria, Australia, 1864-1890</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Guillaume, George; Connor, Edward C.</name>
-<title render="italic">The Development and Working of the Reformatory and Preventive Systems in the Colony of Victoria, Australia, 1864-1890</title>
-<imprint>
-<place>Melbourne</place>
-<publisher>Government Printer</publisher>
-<date>1891</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000357.htm">
 <relationEntry localType="published">Book: Neglected or criminal? The Sunbury Industrial School - Sunbury and beyond</relationEntry>
 
@@ -204,6 +177,22 @@ Reformatory for Boys (1864 - 1893)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000193.htm">
+<relationEntry localType="published">Book: Neglected and criminal: foundations of child welfare legislation in Victoria</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Jaggs, Donella</name>
+<title render="italic">Neglected and criminal: foundations of child welfare legislation in Victoria</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Centre for Youth and Community Studies, Phillip Institute of Technology</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000191.htm">
 <relationEntry localType="published">Thesis: The Victorian Charity Network in the 1890s</relationEntry>
 
@@ -214,6 +203,22 @@ Reformatory for Boys (1864 - 1893)
 <imprint>
 <publisher>Department of History, University of Melbourne</publisher>
 <date>1976</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000103.htm">
+<relationEntry localType="published">Report: The Development and Working of the Reformatory and Preventive Systems in the Colony of Victoria, Australia, 1864-1890</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Guillaume, George; Connor, Edward C.</name>
+<title render="italic">The Development and Working of the Reformatory and Preventive Systems in the Colony of Victoria, Australia, 1864-1890</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Government Printer</publisher>
+<date>1891</date>
 </imprint>
 </bibref>
 </objectXMLWrap>

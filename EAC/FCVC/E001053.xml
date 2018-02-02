@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E001053</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2017-08-22">2017-08-22</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2017-08-24">2017-08-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E001053b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Good Shepherd Australia New Zealand</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2008-01-01">2008</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Catholic</term>
+</function>
+<function>
+<term>Religious Order</term>
+</function>
+<function>
+<term>Community Service Organisation</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Good Shepherd Australia New Zealand was established in 2008 as the formal framework for the mission of the Sisters of the Good Shepherd. In 2014, Good Shepherd Youth &amp; Family Service and Rosemount Good Shepherd Youth and Family Service (based in New South Wales) merged with Good Shepherd Australia New Zealand to become one unified organisation.</abstract>
+<p>Since 1981, the Good Shepherd Sisters had been involved in microfinance and the No Interest Loans Service (NILS). In 2012, the Sisters established Good Shepherd Microfinance to expand the NILS and offer other financial inclusion programs for people on low incomes.</p>
+<p>In 2014, Good Shepherd Youth &amp; Family Service and Rosemount Good Shepherd Youth &amp; Family Service merged with Good Shepherd Australia New Zealand to become one unified organisation.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000010b.htm">
+<relationEntry localType="Organisation">
+Good Shepherd Youth and Family Services (1976 - 2014)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000143b.htm">
+<relationEntry localType="Organisation">
+Sisters of the Good Shepherd (1863 - 2008)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000919b.htm">
+<relationEntry localType="Organisation">
+Good Shepherd Archive (1983 - )
+</relationEntry>
+<descriptiveNote>
+<p>The Good Shepherd Archive cares for the records of the Good Shepherd Sisters in Australia and New Zealand dating from 1863 until the present day.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Good Shepherd Australia New Zealand', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Good Shepherd Australia New Zealand</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E001053b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001233.htm">
+<relationEntry localType="published">Resource Section: Our history</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Our history</title>
+<imprint>
+<publisher>Good Shepherd Australia New Zealand</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.goodshep.org.au/about-us/our-history/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-08-14">2017-08-14</eventDateTime>
+<eventDateTime standardDateTime="2017-10-31">2017-10-31</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -48,7 +48,7 @@
 </identity>
 <description><existDates>
 <dateRange>
-<fromDate standardDate="1880-01-01">1880s</fromDate>
+<fromDate standardDate="1870-01-01">c. 1870</fromDate>
 <toDate standardDate="1926-12-31">1926</toDate>
 </dateRange>
 </existDates>
@@ -63,10 +63,23 @@
 </function>
 </functions>
 <biogHist>
-<abstract>The Sydney Female Refuge, at Glebe Point, dates from the 1880s. It housed women of all ages, including girls referred by the State Children's Relief Board and the Aborigines Protection Board because they were pregnant or had absconded from domestic service employment. It was handed over to Church of England Homes in 1926 and became known as 'Rosebank', a home for elderly women, which operated until 1938.</abstract>
-<p>Rosebank, as the Sydney Female Refuge was named in 1926, was a 'twilight home' for elderly women, which operated until 1938. Residents from Glebe were then moved to Rosebank-Waratah Eventide Home at 35 Marlborough Street, Drummoyne.</p>
+<abstract>The Sydney Female Refuge dates from around 1870. It was run by the Sydney Female Refuge Society, a Protestant organisation established in 1848, and mostly administered by a committee of women. The Refuge was located in Pitt Street, Sydney, next door to the Catholic refuge, the House of the Good Shepherd. Originally, it was established as a refuge for 'fallen women' (women working in prostitution) to be 'rescued'. It housed women of all ages. Around 1903 the Refuge moved to new premises in Glebe Point Road, Glebe. In 1926, the Refuge became a home for elderly women, known as Rosebank, which operated until 1938.</abstract>
+<p>In the Australian Women's Register entry about the Sydney Female Refuge Society, Francis and Carter write that the Ladies' Committee which ran the Refuge 'enforced strict moral codes coupled with religious instruction to rehabilitate the Refuge inmates'.</p>
+<p>According to Godden, although the Sydney Female Refuge was run by a committee of Protestant women, the institution accepted women of the 'other' faith (that is, Catholic). She writes that sectarianism similarly had little impact on the management of its next-door neighbour, the Catholic House of the Good Shepherd, and that the two institutions often co-operated.</p>
+<p>The minimum period of stay at the Sydney Female Refuge was officially 18 months, although in actuality this varied from resident to resident. Godden writes that the Refuge expected its 'inmates' to shed their past lives as completely as possible. The women wore new clothing provided for them by the Refuge.</p>
+<p>The Refuge had a commercial laundry where the women worked, which contributed to the cost of running the institution.</p>
+<p>The Refuge was not often successful in its aim to reform and redeem its inmates. The annual report of the Sydney Female Refuge Society for 1870 conceded that its failure rate was 72%. A resident who was placed in domestic service and remained there for 3 years was cited as a 'rare success'.</p>
+<p>Around 1903, the Refuge moved into new premises on Glebe Point Road, Glebe. According to Cooper, the move from Sydney was possibly due to the State Government's decision to reclaim the Pitt Street building for the railways. The new building in Glebe was known as Rosebank, and described as 'palatial building, standing in extensive grounds'.</p>
+<p>In 1926, the Sydney Female Refuge at Glebe closed, and Rosebank became a 'twilight home' for elderly women, which operated until 1938.</p>
 <chronList><chronItem>
-<dateRange><fromDate standardDate="1880-01-01">1880s</fromDate>
+<dateRange><fromDate standardDate="1870-01-01">c. 1870</fromDate>
+<toDate standardDate="1870-12-31">c. 1870</toDate>
+</dateRange>
+<placeEntry>Sydney</placeEntry>
+<event>Location - Sydney Female Refuge was situated in Pitt Street, Sydney.</event>
+</chronItem>
+<chronItem>
+<dateRange><fromDate standardDate="1903-01-01">c. 1903</fromDate>
 <toDate standardDate="1926-12-31">1926</toDate>
 </dateRange>
 <placeEntry>Glebe</placeEntry>
@@ -76,12 +89,17 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01265b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01719b.htm">
 <relationEntry localType="Organisation">
-Church of England Homes (c. 1884 - 1984)
+Sydney Female Refuge Society (1848 - 1926?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00150b.htm">
+<relationEntry localType="Organisation">
+House of the Good Shepherd (1848 - 1901)
 </relationEntry>
 <descriptiveNote>
-<p>Sydney Female Refuge was run by Church of England Homes</p>
+<p>The Sydney Female Refuge was situated next door to the House of the Good Shepherd from c.1870, in Pitt Street, Sydney.</p>
 </descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00034b.htm">
@@ -112,6 +130,69 @@ State Children's Relief Board (1881 - 1923)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01266b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001100.htm">
+<relationEntry localType="published">Resource Section: The Sydney Female Refuge Society</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Sydney Female Refuge Society</title>
+<imprint>
+<publisher>Paul F. Cooper</publisher>
+<date>2016</date>
+</imprint>
+<bibseries>
+<title render="italic">Philanthropists and philanthropy in Australian colonial history</title>
+</bibseries>
+<extptr linktype="simple" href="https://phinaucohi.wordpress.com/2016/05/04/sydney-female-refuge-society/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001099.htm">
+<relationEntry localType="published">Resource Section: Sydney Female Refuge Society (1848 - 1919?)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Francis, Rosemary and Carter, Carolyne</name>
+<title render="quoted">Sydney Female Refuge Society (1848 - 1919?)</title>
+<imprint>
+<publisher>National Foundation for Australian Women/University of Melbourne</publisher>
+<date>2004</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0961b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001098.htm">
+<relationEntry localType="published">Journal Article: Sectarianism and purity within the woman's sphere: Sydney refuges during the late nineteenth century</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Godden, Judith</name>
+<title render="quoted">Sectarianism and purity within the woman's sphere: Sydney refuges during the late nineteenth century</title>
+<imprint>
+<date>1987</date>
+</imprint>
+<bibseries>
+<title render="italic">Journal of Religious History</title>
+<num type="volume">14</num>
+<num type="pages">291-306</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000206.htm">
 <relationEntry localType="published">Report: Report of the State Children's Relief Board</relationEntry>
@@ -165,6 +246,20 @@ State Children's Relief Board (1881 - 1923)
 
 <descriptiveNote>
 <p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000802.htm">
+<relationEntry localType="digitalObject">Rosebank, the Sydney Female Refuge from 1903</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Rosebank, the Sydney Female Refuge from 1903</unittitle>
+<abstract>This is a copy of an image published to illustrate a post written by Paul F. Cooper about the history of the Sydney Female Refuge Society.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
 </descriptiveNote>
 </resourceRelation>
 </relations>

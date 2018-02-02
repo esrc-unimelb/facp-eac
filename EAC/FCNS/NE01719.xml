@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01719</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2017-10-11">2017-10-11</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2017-10-31">2017-10-31</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01719b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Sydney Female Refuge Society</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="acronym"><part>SFRS</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1848-01-01">1848</fromDate>
+<toDate standardDate="1926-12-31">1926?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Care Provider</term>
+</function>
+<function>
+<term>Protestant</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Sydney Female Refuge Society was established in 1848 with the motto 'GO, AND SIN NO MORE'. It was established by a group of Protestant philanthropists to assist and restore women working in prostitution, as well as single pregnant women. The Society ran the Sydney Female Refuge, located in Pitt Street, Sydney and later in Glebe.</abstract>
+<p>In the Australian Women's Register, Francis and Carter write that:</p>
+<p>'Although nominally under the control of men, in practice the Society was administered by women. Constitutionally the Ladies' Committee was an 'advisory body', but became increasingly powerful and by 1870 the women were firmly entrenched and resisted encroachment on to their sphere. In accordance with Protestant evangelical ideas all members of the Ladies' Committee were required to be married as a way of presenting to the inmates of the refuge the ideal of the respectable marriage.'</p>
+<p>There are records from the Sydney Female Refuge Society in a manuscript collection at the Mitchell Library at the State Library of New South Wales.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01266b.htm">
+<relationEntry localType="Organisation">
+Sydney Female Refuge (c. 1870 - 1926)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Sydney Female Refuge Society', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Sydney Female Refuge Society</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01719b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001099.htm">
+<relationEntry localType="published">Resource Section: Sydney Female Refuge Society (1848 - 1919?)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Francis, Rosemary and Carter, Carolyne</name>
+<title render="quoted">Sydney Female Refuge Society (1848 - 1919?)</title>
+<imprint>
+<publisher>National Foundation for Australian Women/University of Melbourne</publisher>
+<date>2004</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Women's Register</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.womenaustralia.info/biogs/AWE0961b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001100.htm">
+<relationEntry localType="published">Resource Section: The Sydney Female Refuge Society</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Sydney Female Refuge Society</title>
+<imprint>
+<publisher>Paul F. Cooper</publisher>
+<date>2016</date>
+</imprint>
+<bibseries>
+<title render="italic">Philanthropists and philanthropy in Australian colonial history</title>
+</bibseries>
+<extptr linktype="simple" href="https://phinaucohi.wordpress.com/2016/05/04/sydney-female-refuge-society/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

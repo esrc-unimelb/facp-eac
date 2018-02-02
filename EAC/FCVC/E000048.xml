@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-06">2017-09-06</eventDateTime>
+<eventDateTime standardDateTime="2017-11-22">2017-11-22</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -180,6 +180,22 @@ St Anthony's Home (1943 - 1976)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000370.htm">
+<relationEntry localType="published">Book: At a cost</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">McFadyen, Roy</name>
+<title render="italic">At a cost</title>
+<imprint>
+<place>Golden Beach, Qld</place>
+<publisher>Roy McFadyen</publisher>
+<date>2005</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
 <relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
 
@@ -197,22 +213,6 @@ St Anthony's Home (1943 - 1976)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000370.htm">
-<relationEntry localType="published">Book: At a cost</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">McFadyen, Roy</name>
-<title render="italic">At a cost</title>
-<imprint>
-<place>Golden Beach, Qld</place>
-<publisher>Roy McFadyen</publisher>
-<date>2005</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000007.htm">
 <relationEntry localType="published">Book: Holding on to Hope: a history of the founding agencies of MacKillop Family Services 1854-1997</relationEntry>
@@ -251,6 +251,7 @@ St Anthony's Home (1943 - 1976)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>MacKillop Family Services</repository>
 <unittitle>St Anthony's Home, Kew, children in cars</unittitle>
 <note label="rights">Permission to use or reproduce part or all of this image must be sought from MacKillop Family Services</note>
 </archref>
@@ -262,6 +263,7 @@ St Anthony's Home (1943 - 1976)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>MacKillop Family Services</repository>
 <unittitle>St Anthony's Home, Kew, bedroom</unittitle>
 <note label="rights">Permission to use or reproduce part or all of this image must be sought from MacKillop Family Services</note>
 </archref>
@@ -273,6 +275,7 @@ St Anthony's Home (1943 - 1976)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>MacKillop Family Services</repository>
 <unittitle>St Anthony's Home, Kew, buildings [rear]</unittitle>
 <note label="rights">Permission to use or reproduce part or all of this image must be sought from MacKillop Family Services</note>
 </archref>
@@ -284,6 +287,7 @@ St Anthony's Home (1943 - 1976)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>MacKillop Family Services</repository>
 <unittitle>St Anthony's Home, Kew, building</unittitle>
 <note label="rights">Permission to use or reproduce part or all of this image must be sought from MacKillop Family Services</note>
 </archref>

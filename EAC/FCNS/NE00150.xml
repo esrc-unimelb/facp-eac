@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-08-30">2017-08-30</eventDateTime>
+<eventDateTime standardDateTime="2017-10-31">2017-10-31</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -65,15 +65,21 @@
 <function>
 <term>Home</term>
 </function>
+<function>
+<term>Female Rescue Home</term>
+</function>
 </functions>
 <biogHist>
-<abstract>The House of the Good Shepherd on Pitt Street provided accommodation for females over the age of fourteen years. It opened in 1848, in the building of Carters' Barracks, and was initially staffed by the Irish Sisters of Charity. In 1857 a new order was established to run the institution called the Sisters of the Good Shepherd. Their name was changed in 1866 to the Sisters of the Good Samaritan and they ran the Home until its closure. The Home received women and girls from the courts, and via voluntary placement. In 1901 the site was reclaimed by the Government for Central Railway Station and residents were transferred to St Magdalen's Retreat at Tempe.</abstract>
+<abstract>The House of the Good Shepherd on Pitt Street provided accommodation for females over the age of fourteen years. It opened in 1848, in the building of Carters' Barracks, and was initially staffed by the Irish Sisters of Charity. In 1857 a new order was established to run the institution called the Sisters of the Good Shepherd. Their name was changed in 1866 to the Sisters of the Good Samaritan and they ran the Home until its closure. In 1901 the site was reclaimed by the Government for Central Railway Station and residents were transferred to St Magdalen's Retreat at Tempe.</abstract>
+<p>The House of the Good Shepherd received women and girls from the courts, and via voluntary placement. All of the residents agreed to stay for a minimum period of two years.</p>
+<p>From 1887, after the establishment of St Magdalen's Retreat in Tempe (described as a 'branch refuge' by Judith Godden), many residents from House of the Good Shepherd in Pitt Street were housed at St Magdalen's.</p>
+<p>In 1901, when the House of the Good Shepherd was closed, its residents were transferred to St Magdalen's Retreat.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1848-01-01">1848</fromDate>
 <toDate standardDate="1901-12-31">1901</toDate>
 </dateRange>
 <placeEntry>Sydney</placeEntry>
-<event>Location - House of the Good Shepherd was situated on Pitt Street, Sydney</event>
+<event>Location - House of the Good Shepherd was situated on Pitt Street, Sydney.</event>
 </chronItem>
 </chronList>
 
@@ -97,6 +103,14 @@ Sisters of the Good Samaritan (1866 - )
 <toDate standardDate="1901-12-31">1901</toDate>
 </dateRange>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00153b.htm">
+<relationEntry localType="Organisation">
+St Magdalen's Retreat (1887 - 1947)
+</relationEntry>
+<descriptiveNote>
+<p>From 1887, many inmates of the House of Good Shepherd were housed at St Magdalen's Retreat and when the House of Good Shepherd closed in 1901, its residents were transferred to Tempe.</p>
+</descriptiveNote>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01682b.htm">
 <relationEntry localType="Organisation">
 Carters' Barracks, Boys Dormitory (1820 - c. 1835)
@@ -105,22 +119,18 @@ Carters' Barracks, Boys Dormitory (1820 - c. 1835)
 <p>House of the Good Shepherd was located in the former building of Carters' Barracks, Boys Dormitory.</p>
 </descriptiveNote>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01266b.htm">
+<relationEntry localType="Organisation">
+Sydney Female Refuge (c. 1870 - 1926)
+</relationEntry>
+<descriptiveNote>
+<p>The Sydney Female Refuge was situated next door to the House of the Good Shepherd from c.1870, in Pitt Street, Sydney.</p>
+</descriptiveNote>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00869b.htm">
 <relationEntry localType="Archival Collection">
 Records held by the Good Samaritan Archives relating to Children's Homes (1879 - )
 </relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00153b.htm">
-<relationEntry localType="Organisation">
-St Magdalen's Retreat (1887 - 1947)
-</relationEntry>
-<dateRange>
-<fromDate standardDate="1901-01-01">1901</fromDate>
-<toDate standardDate="1901-12-31">1901</toDate>
-</dateRange>
-<descriptiveNote>
-<p>Girls were transferred to St Magdalen's Retreat from House of the Good Shepherd when it closed in 1901.</p>
-</descriptiveNote>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'House of the Good Shepherd', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
@@ -134,6 +144,25 @@ St Magdalen's Retreat (1887 - 1947)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00150b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001098.htm">
+<relationEntry localType="published">Journal Article: Sectarianism and purity within the woman's sphere: Sydney refuges during the late nineteenth century</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Godden, Judith</name>
+<title render="quoted">Sectarianism and purity within the woman's sphere: Sydney refuges during the late nineteenth century</title>
+<imprint>
+<date>1987</date>
+</imprint>
+<bibseries>
+<title render="italic">Journal of Religious History</title>
+<num type="volume">14</num>
+<num type="pages">291-306</num>
+</bibseries>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000986.htm">
 <relationEntry localType="published">Resource: Good Samaritan, Sisters of the</relationEntry>
@@ -174,12 +203,15 @@ St Magdalen's Retreat (1887 - 1947)
 </descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000040.htm">
-<relationEntry localType="digitalObject">House of the Good Shepherd, Pitt Street, Sydney</relationEntry>
+<relationEntry localType="digitalObject">House of the Good Shepherd</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<unittitle>House of the Good Shepherd, Pitt Street, Sydney</unittitle>
-<note label="rights">Reproduction rights owned by the State Library of New South Wales</note>
+<repository>State Library of New South Wales</repository>
+<unittitle>House of the Good Shepherd</unittitle>
+<unitdate>c. 1877</unitdate>
+<abstract>This is a digital copy of a photoprint in the State Library of NSW's collection, part of the album 'Photographs of Public and Other Buildings, &amp;c …/photographed by Charles Pickering'. This photograph has the title: '155. House of the Good Shepherd SH 734'.</abstract>
+<note label="rights">Out of copyright.</note>
 </archref>
 </objectXMLWrap>
 

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-07-07">2017-07-07</eventDateTime>
+<eventDateTime standardDateTime="2017-12-21">2017-12-21</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -42,8 +42,10 @@
 <cpfDescription>
 <identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000513b.htm</entityId>
 <entityType>corporateBody</entityType>
-<nameEntry><part>Nunawading Youth Residential Service</part>
+<nameEntry><part>Nunawading Youth Residential Centre</part>
 <authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="Also known as"><part>Nunawading Youth Residential Service</part>
 </nameEntry>
 </identity>
 <description><existDates>
@@ -64,15 +66,19 @@
 <function>
 <term>Care Provider</term>
 </function>
+<function>
+<term>Home</term>
+</function>
 </functions>
 <biogHist>
-<abstract>The Nunawading Youth Residential Service was established in 1991, on the former site of Winlaton. It accommodated young people from ten and fourteen years. It also provided youth training centre programs. In around 1992-93, its functions were consolidated at the former Baltara Reception Centre site and the new facility was named the 'Parkville Youth Residential Centre'.</abstract>
+<abstract>The Nunawading Youth Residential Centre was established in 1991, on the former site of Winlaton. It accommodated young people from ten and fourteen years who had been sentenced to detention. It also provided youth training centre programs. In around 1992-93, its functions were consolidated at the former Baltara Reception Centre site and the new facility at Parkville was named the Melbourne Youth Residential Centre.</abstract>
+<p>According to the Finding Records website, Nunawading Youth Residential Centre was a large complex with different sections, including: Winbirra Remand Centre (1991-92), Warrina Remand Centre (1992-93), Leawarra Girls' Hostel (1991-92). Some of these names were carried over from the institution formerly on the site, Winlaton.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1991-01-01">1991</fromDate>
 <toDate standardDate="1991-12-31">1991</toDate>
 </dateRange>
 <placeEntry>Nunawading</placeEntry>
-<event>Location - The Nunawading Youth Residential Service was located in Springvale Road, Nunawading</event>
+<event>Location - The Nunawading Youth Residential Centre was located in Springvale Road, Nunawading</event>
 </chronItem>
 </chronList>
 
@@ -125,17 +131,39 @@ Melbourne Youth Residential Centre (1999 - )
 </dateRange>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
-<relationEntry localType="published">'Nunawading Youth Residential Service', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+<relationEntry localType="published">'Nunawading Youth Residential Centre', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<title render="italic">Nunawading Youth Residential Service</title>
+<title render="italic">Nunawading Youth Residential Centre</title>
 <bibseries>
 <title render="italic">Find &amp; Connect - Victoria</title>
 </bibseries>
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000513b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001264.htm">
+<relationEntry localType="published">Resource Section: Nunawading Youth Residential Service (1991-93)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Nunawading Youth Residential Service (1991-93)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/NunawadingYouthResidentialCentre"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
 <relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
@@ -154,6 +182,33 @@ Melbourne Youth Residential Centre (1999 - )
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000583.htm">
+<relationEntry localType="digitalObject">Nunawading Youth Residential Centre, 1993</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Nunawading Youth Residential Centre, 1993</unittitle>
+<unitdate>1993</unitdate>
+<abstract>This is a copy of a photograph published on the Finding Records website, on the page 'Nunawading Youth Residential Centre history in brief', showing the front entrance.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000582.htm">
+<relationEntry localType="digitalObject">Leawarra Hostel, Nunawading Youth Residential Centre. Photograph taken during the closure of Nunawading Youth Residential Centre, 1993</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Leawarra Hostel, Nunawading Youth Residential Centre. Photograph taken during the closure of Nunawading Youth Residential Centre, 1993</unittitle>
+<unitdate>1993</unitdate>
+<abstract>This is a copy of a photograph published on the Finding Records website, on the page 'Nunawading Youth Residential Centre history in brief'.</abstract>
+</archref>
+</objectXMLWrap>
+
 </resourceRelation>
 </relations>
 </cpfDescription>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-08-11">2017-08-11</eventDateTime>
+<eventDateTime standardDateTime="2017-11-24">2017-11-24</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -64,6 +64,9 @@
 <function>
 <term>Church Agency</term>
 </function>
+<function>
+<term>Protestant</term>
+</function>
 </functions>
 <biogHist>
 <abstract>The Church of England Social Welfare Bureau was established in 1947. The Bureau provided advice, assistance and support to people in need. The Bureau was closely involved with the placement of children into Anglican Homes and into foster care. The Church of England Social Welfare Bureau changed its name to the Anglican Social Welfare Bureau in 1981.</abstract>
@@ -72,34 +75,24 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00809b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01670b.htm">
+<relationEntry localType="Organisation">
+Anglican Diocese of Adelaide (1847 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00809b.htm">
 <relationEntry localType="Glossary Term">
 Client Files (1966 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00725b.htm">
 <relationEntry localType="Archival Collection">
-Records related to Church of England Social Welfare Bureau (1947 - 1982)
+Records related to Church of England Social Welfare Bureau (1947 - 1991)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00006b.htm">
 <relationEntry localType="Organisation">
 Church of England in Australia and Tasmania (1788 - 1981)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00436b.htm">
-<relationEntry localType="Archival Series">
-Church of England Social Welfare day books (1967 - 1991)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00431b.htm">
-<relationEntry localType="Archival Series">
-Card Index - Church of England Social Welfare client files - Unmarried mothers (1955 - 1970)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00433b.htm">
-<relationEntry localType="Archival Series">
-Card Index - Church of England Social Welfare Bureau client files (1945 - 1949)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00289b.htm">
@@ -141,6 +134,38 @@ Anglican Social Welfare Bureau (1981 - 1988)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000012.htm">
+<relationEntry localType="published">Book: Rations, Residence, Resources: A history of social welfare in South Australia since 1836</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dickey, Brian</name>
+<title render="italic">Rations, Residence, Resources: A history of social welfare in South Australia since 1836</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Wakefield Press</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000001.htm">
+<relationEntry localType="published">Book: Giving a hand: A history of Anglicare SA since 1860</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dickey, Brian</name>
+<title render="italic">Giving a hand: A history of Anglicare SA since 1860</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Anglicare SA</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 </relations>
 </cpfDescription>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-06-16">2017-06-16</eventDateTime>
+<eventDateTime standardDateTime="2018-01-23">2018-01-23</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -70,7 +70,9 @@
 </functions>
 <biogHist>
 <abstract>Lawson Cottage in the Blue Mountains, was established by the Sydney City Mission in 1927. It housed groups of girls and boys from Sydney alternately for short periods. In 1929, Stonehaven at Springwood opened as a girls' Home and boys remained at Lawson. This soon reversed and girls returned to Lawson Cottage until the girls' home, Mt Gibraltar, was opened at Bowral in 1930.</abstract>
-<p>Lawson Cottage was originally used by the Sydney City Mission as a Missionaries Rest Home. It was located at Lawson the Blue Mountains, west of Sydney. In the years after World War I, the cottage was rarely used. After an unsuccessful attempt to sell the property, the Mission's Council decided to use it for the care of children. Begun as something of an experiment, the Lawson Cottage proved very successful and led to the establishment of much larger and grander children's homes for long-term care. The first residents, seven young girls, arrived in April 1927 and stayed for three months. They were followed by a group of boys and a pattern of caring for girls and boys alternately developed. In 1929 Stonehaven at Springwood was opened as a girls' home, while boys remained at Lawson. This arrangement was soon reversed, and the girls returned to Lawson until Mt Gibraltar at Bowral was opened.</p>
+<p>Lawson Cottage was originally used by the Sydney City Mission as a Missionaries Rest Home. It was located at Lawson the Blue Mountains, west of Sydney. In the years after World War I, the cottage was rarely used. After an unsuccessful attempt to sell the property, the Mission's Council decided to use it for the care of children.</p>
+<p>A newspaper article from 1927 states that the cottage of eight rooms was named "Stonbee" after the superintendent of South Sydney Mission, Harold Stonham Bowden, and Mr. Beeson of Turramurra.</p>
+<p>Begun as something of an experiment, the Lawson Cottage proved very successful and led to the establishment of much larger and grander children's homes for long-term care. The first residents, seven young girls, arrived in April 1927 and stayed for three months. They were followed by a group of boys and a pattern of caring for girls and boys alternately developed. In 1929 Stonehaven at Springwood was opened as a girls' home, while boys remained at Lawson. This arrangement was soon reversed, and the girls returned to Lawson until Mt Gibraltar at Bowral was opened.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1927-01-01">1927</fromDate>
 <toDate standardDate="1930-12-31">1930</toDate>
@@ -133,6 +135,28 @@ Stonehaven (1929 - 1951)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001113.htm">
+<relationEntry localType="published">Newspaper Article: "Stonbee"</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">"Stonbee"</title>
+<imprint>
+<date>1927</date>
+</imprint>
+<bibseries>
+<title render="italic"><span style="font-style:italic">The Methodist</span></title>
+<num type="pages">16</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article155364201"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000008.htm">
 <relationEntry localType="published">Book: The Heart of the City: the first 125 years of the Sydney City Mission</relationEntry>
 
@@ -169,6 +193,21 @@ Stonehaven (1929 - 1951)
 
 <descriptiveNote>
 <p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000807.htm">
+<relationEntry localType="digitalObject">South Sydney Mission Rest Home at Lawson</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>South Sydney Mission Rest Home at Lawson</unittitle>
+<unitdate>10 December 1927</unitdate>
+<abstract>This is an image of South Sydney Mission's Lawson Cottage, also known as "Stonbee", that was published in <span style="font-style:italic">The Methodist</span> in December 1927.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
 </descriptiveNote>
 </resourceRelation>
 </relations>

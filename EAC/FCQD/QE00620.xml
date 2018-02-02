@@ -31,7 +31,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-08-31">2017-08-31</eventDateTime>
+<eventDateTime standardDateTime="2017-10-25">2017-10-25</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -71,6 +71,9 @@
 </function>
 <function>
 <term>Reformatory</term>
+</function>
+<function>
+<term>Receiving Agency</term>
 </function>
 </functions>
 <biogHist>
@@ -147,6 +150,21 @@ Riverview Training Farm (1926 - 1956)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/qld/biogs/QE00620b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000655.htm">
+<relationEntry localType="published">Report: Lost Innocents: Righting the Record - Report on child migration</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Senate Community Affairs References Committee Secretariat, Parliament of Australia</name>
+<title render="italic">Lost Innocents: Righting the Record - Report on child migration</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/qld/bib/QP0000462.htm">
 <relationEntry localType="published">Resource: Caring for the Children: A history of institutional care provided by The Salvation Army for Australian children and youth (1893-1995)</relationEntry>
@@ -338,6 +356,7 @@ Riverview Training Farm (1926 - 1956)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Picture Queensland, John Oxley Library, State Library of Queensland</repository>
 <unittitle>Boys standing on the verandah of the Queensland Home for Boys, Riverview</unittitle>
 <unitdate>1910</unitdate>
 <note label="rights">Reproductiion rights owned by the State Library of Queensland</note>

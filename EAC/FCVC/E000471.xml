@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<eventDateTime standardDateTime="2017-12-15">2017-12-15</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -65,9 +65,14 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000470b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001058b.htm">
 <relationEntry localType="Organisation">
-Hayeslee House (1976 - 2012)
+Lisa Lodge (c. 1994 - 2012)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000470b.htm">
+<relationEntry localType="Organisation">
+Hayeslee House (1976 - 1994)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000469b.htm">
@@ -87,6 +92,22 @@ Lisa Lodge Girls' Hostel (1970 - 1994)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000471b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001368.htm">
+<relationEntry localType="published">Book: Lisa Lodge: A Passion for the Cause</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Noyce, Di</name>
+<title render="italic">Lisa Lodge: A Passion for the Cause</title>
+<imprint>
+<place>Ballarat</place>
+<publisher>Lisa Lodge</publisher>
+<date>2012</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
 <relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>

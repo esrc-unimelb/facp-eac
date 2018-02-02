@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E001061</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Series</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2017-11-27">2017-11-27</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2017-11-27">2017-11-27</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E001061b.htm</entityId>
+<entityId localType="University of Melbourne Archives Accession Number">2013.0119</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Client Records</part>
+<part localType="parent">Citizens Welfare Service of Victoria; Charity Organisation Society of Melbourne</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<biogHist>
+<abstract>Client Records is an archival series held at the University of Melbourne Archives. The series comprises various records created in the course of interactions between 'clients' and social workers of the Charity Organisation Society of Melbourne and its successor, the Citizens Welfare Society of Victoria.</abstract>
+<h4>Access Conditions</h4>
+<p>Restricted.</p>
+<h4>Records</h4>
+<p>These records were created by the Citizens Welfare Service and its predecessor the Charity Organisation Society. They were transferred to the RMIT Social Policy Archive and later transferred to University of Melbourne Archives.</p>
+<p>The records have not been listed in a finding aid, however some details about the records are available from the University of Melbourne Archives catalogue.</p>
+<p>The records in this series date from 1933 to 1987 and provide information about clients' interaction with social workers from the Charity Organisation Society or its successor, the Citizens Welfare Service. Some of the records within this series of Client Records are:</p>
+<p>Day books: these provide a record of inquiries from and interviews with clients by social workers.</p>
+<p>Diaries: these show the work patterns of social workers, with activities including individual and group consultations, home visits, 'duty', married couples group, 'student support group', meetings and visits to the Observatory Clinic.</p>
+<p>Short term contact client files: these are records of clients who had limited contact with the organisation, or who cancelled or failed to term up for appointments.</p>
+<p>Client Information Sheets: these contain summary personal details of clients, including presenting problems, nature of help requested, contact and outcome.</p>
+<p>Group records: this is a record book of "group records", that is group therapy or marriage guidance counselling.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000681b.htm">
+<relationEntry localType="Organisation">
+University of Melbourne Archives (1960 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000852b.htm">
+<relationEntry localType="Contact Details">
+University of Melbourne Archives - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001059b.htm">
+<relationEntry localType="Organisation">
+Citizens Welfare Service of Victoria (1947 - 1996)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000322b.htm">
+<relationEntry localType="Organisation">
+Charity Organisation Society of Melbourne (1887 - 1947)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Client Records', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Client Records</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E001061b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>
