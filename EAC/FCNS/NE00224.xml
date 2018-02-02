@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-08-30">2017-08-30</eventDateTime>
+<eventDateTime standardDateTime="2017-10-25">2017-10-25</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -77,6 +77,7 @@ Arncliffe Girls' Home</part>
 <p>The Nest Girls' Home was in a building called Dappeto that was once an oyster merchants' home, and the home of author Christina Stead's stepmother.</p>
 <p>The Home closed temporarily during World War II. On 25, 26 and 27 March 1942, 30 girls from The Nest, together with 44 girls from The Fold at Marrickville and three children from Bethesda Hospital, were transferred to Canowindra Girls' Home (Lyndon House Girls' Home). In January 1945 The Nest Girls' Home re-opened, and sixteen girls were transferred back from Canowindra to Arncliffe.</p>
 <p>Arncliffe Girls' Home closed in January 1969 and the girls were transferred to the Stanmore Children's Home (The Lodge Young Women's Hostel). The building, Dappeto, was restored and redeveloped as an aged care home.</p>
+<p>Arncliffe Girls' Home was mentioned in the Lost Innocents Report (2001) as an institution involved in the migration of children to Australia.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1930-01-01">1930</fromDate>
 <toDate standardDate="1941-12-31">1941</toDate>
@@ -158,6 +159,22 @@ Canowindra Girls' Home (1942 - 1977)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00224b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000996.htm">
+<relationEntry localType="published">Report: Lost Innocents: righting the record - report on child migration</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Senate Community Affairs References Committee Secretariat, Parliament of Australia</name>
+<title render="italic">Lost Innocents: righting the record - report on child migration</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2001</date>
+</imprint>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/completed_inquiries/1999-02/child_migrat/report/index.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000995.htm">
 <relationEntry localType="published">Book: Caring for the Children</relationEntry>
@@ -273,6 +290,7 @@ Canowindra Girls' Home (1942 - 1977)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Care Leavers Australia Network [CLAN]</repository>
 <unittitle>The Nest (Arncliffe Girls Home)</unittitle>
 </archref>
 </objectXMLWrap>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-06">2017-09-06</eventDateTime>
+<eventDateTime standardDateTime="2017-11-27">2017-11-27</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -69,7 +69,15 @@ Three families lived in our army hut - our address was Area 4, Hut 7C. We had an
 
 </biogHist>
 </description>
-<relations><resourceRelation resourceRelationType="subjectOf">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001063b.htm">
+<relationEntry localType="Archival Collection">
+Private and Professional Papers of Leonard Tierney (1933 - 1992)
+</relationEntry>
+<descriptiveNote>
+<p>Private and Professional Papers of Leonard Tierney contain records of Tierney's research with families at Camp Pell, as part of the Family Service Project.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Camp Pell', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
 
 <objectXMLWrap>
@@ -200,6 +208,7 @@ Three families lived in our army hut - our address was Area 4, Hut 7C. We had an
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Peter Dunn's Australia at War</repository>
 <unittitle>Building 33A used for housing after WW2</unittitle>
 <note label="rights">Margaret McKay</note>
 </archref>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E001055</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Contact Details</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2017-08-24">2017-08-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2017-08-24">2017-08-24</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E001055b.htm</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Royal Melbourne Hospital Archives - Contact Details</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><places>
+</places>
+<biogHist>
+<p>To request information from the Royal Melbourne Hospital Archives, contact the Archives Office.</p>
+<p>Phone: (03) 9342 4159</p>
+<p>Email: <citation xlink:type="simple" xlink:href="mailto:RMH-Archives@mh.org.au" class="extlink" title="[external site] RMH-Archives@mh.org.au"> RMH-Archives@mh.org.au</citation></p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001056b.htm">
+<relationEntry localType="Archival Collection">
+Records of the Immigrants' Aid Society (c. 1878 - c. 1902)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001054b.htm">
+<relationEntry localType="Organisation">
+Royal Melbourne Hospital Archives (1935? - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Royal Melbourne Hospital Archives - Contact Details', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Royal Melbourne Hospital Archives - Contact Details</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E001055b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

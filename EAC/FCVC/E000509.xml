@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
+<eventDateTime standardDateTime="2017-11-27">2017-11-27</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -110,6 +110,11 @@ Department of Community Welfare Services, State Government of Victoria (1978 - 1
 <toDate standardDate="1985-12-31">1985</toDate>
 </dateRange>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001062b.htm">
+<relationEntry localType="Archival Series">
+Welfare Photographs and Publications (c. 1956 - c. 1960)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000823b.htm">
 <relationEntry localType="Glossary Term">
 Congregate Care (1940? - 1970?)
@@ -138,25 +143,6 @@ Family Group Home
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000496.htm">
-<relationEntry localType="published">Report: Children's Welfare Department and Reformatory Schools. Report of the Secretary and Inspector.</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Children's Welfare Department and Reformatory Schools. Report of the Secretary and Inspector.</title>
-<imprint>
-<place>Melbourne</place>
-<publisher>Government Printer</publisher>
-<date>1924 - 1954</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000519.htm">
 <relationEntry localType="published">Resource Section: Submission no 239</relationEntry>
 
@@ -175,6 +161,25 @@ Family Group Home
 </bibref>
 </objectXMLWrap>
 
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000496.htm">
+<relationEntry localType="published">Report: Children's Welfare Department and Reformatory Schools. Report of the Secretary and Inspector.</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Children's Welfare Department and Reformatory Schools. Report of the Secretary and Inspector.</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Government Printer</publisher>
+<date>1924 - 1954</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
 <relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
@@ -261,6 +266,7 @@ Family Group Home
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Department of Human Services, State Government of Victoria</repository>
 <unittitle>Departmental Family Group Homes, November 1977</unittitle>
 <unitdate>11 November 2014</unitdate>
 <abstract>This is a digital copy of a document showing lists of Family Group Homes in the 1970s. The date 'November 1977' was supplied by staff of the Department of Human Services. There is an annotation on this copy of the document: "*alterations made to copy 11/11/14".</abstract>

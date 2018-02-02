@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E001057</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2017-09-15">2017-09-15</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2017-09-15">2017-09-15</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E001057b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Uniting - Connections</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2017-01-01">2017</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Records Access Service</term>
+</function>
+<function>
+<term>Records Holder</term>
+</function>
+<function>
+<term>Community Service Organisation</term>
+</function>
+<function>
+<term>Uniting Church</term>
+</function>
+<function>
+<term>Adoption Information Service</term>
+</function>
+<function>
+<term>Adoption Agency</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Uniting - Connections came into being in July 2017. Previously the organisation was called Connections UnitingCare. It is a community service organisation that is part of Uniting (Victoria and Tasmania) Limited. Uniting - Connections has an adoptions and permanent care program, and provides a range of services for children, young people and families. Its predecessor agencies include the Methodist and Presbyterian Babies' Homes.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000886b.htm">
+<relationEntry localType="Archival Collection">
+Records held by Uniting - Connections (1910 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000223b.htm">
+<relationEntry localType="Organisation">
+Connections UnitingCare (2000 - 2017)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000578b.htm">
+<relationEntry localType="Organisation">
+Adoption Information Service, Uniting - Connections (1984 - )
+</relationEntry>
+<descriptiveNote>
+<p>The Adoption Information Service is part of Uniting - Connections. People can request information about adoptions facilitated by Uniting - Connections and its predecessors through this service.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001036b.htm">
+<relationEntry localType="Organisation">
+Uniting (Victoria and Tasmania) Limited (2016 - )
+</relationEntry>
+<descriptiveNote>
+<p>Uniting - Connections is part of Uniting, the community services arm of the Uniting Church in Victoria and Tasmania.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Uniting - Connections', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Uniting - Connections</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E001057b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

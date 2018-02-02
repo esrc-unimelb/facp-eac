@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
+<eventDateTime standardDateTime="2017-12-15">2017-12-15</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -73,6 +73,7 @@
 </functions>
 <biogHist>
 <abstract>Ballarat Children's Homes was the new name given in 1968 to the former Ballarat Orphanage. It opened its first family group home in 1976. In 1984, the name changed to Ballarat Children's Homes and Family Services.</abstract>
+<p>In the mid 1980s, Ballarat Children's Homes established a hostel for boys called Raglan House, also known as Raglan House Youth Support Unit.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1968-01-01">1968</fromDate>
 <toDate standardDate="1984-12-31">1984</toDate>
@@ -94,6 +95,14 @@ Ballarat Orphanage (1909 - 1968)
 </dateRange>
 <descriptiveNote>
 <p>In 1968, Ballarat Orphanage changed its name to Ballarat Children's Homes.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000470b.htm">
+<relationEntry localType="Organisation">
+Hayeslee House (1976 - 1994)
+</relationEntry>
+<descriptiveNote>
+<p>Hayeslee House was first located in a property owned by Ballarat Children's Homes.</p>
 </descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000906b.htm">
@@ -135,6 +144,23 @@ Ballarat Children's Homes and Family Services (1984 - 1998)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000032b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001154.htm">
+<relationEntry localType="published">Report: Guide to Out-of-Home Care Services 1940-2000 - Volume Two: Data Base</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James Jenkinson Consulting</name>
+<title render="italic">Guide to Out-of-Home Care Services 1940-2000 - Volume Two: Data Base</title>
+<imprint>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001102.htm">
 <relationEntry localType="published">Report: Heritage Assessment of the Former Ballarat Orphanage, 200 Victoria Street, Ballarat East: prepared for the City of Ballarat Council</relationEntry>
@@ -186,6 +212,7 @@ Ballarat Children's Homes and Family Services (1984 - 1998)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Posted on Vimeo by Erin M McCuskey</repository>
 <unittitle>Deb's Story</unittitle>
 <unitdate>2011</unitdate>
 <abstract>Deborah Findlay is a Forgotten Australian. She grew up in the Ballarat Orphanage. She tells her story after the national Government made an apology to her and 500,000 other Forgotten Australians.</abstract>

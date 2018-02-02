@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-08-30">2017-08-30</eventDateTime>
+<eventDateTime standardDateTime="2017-11-22">2017-11-22</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -45,9 +45,11 @@
 <nameEntry><part>Reiby Training School</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
-<nameEntry localType=""><part>Reiby School for Girls</part>
+<nameEntry localType="also known as"><part>Reiby Training Centre</part>
 </nameEntry>
-<nameEntry localType=""><part>Reiby</part>
+<nameEntry localType="also known as"><part>Reiby School for Girls</part>
+</nameEntry>
+<nameEntry localType="also known as"><part>Reiby</part>
 </nameEntry>
 </identity>
 <description><existDates>
@@ -73,13 +75,16 @@
 </function>
 </functions>
 <biogHist>
-<abstract>Reiby Training School was established at Airds, near Campbelltown, by the Department of Youth and Community Services in 1973. It was a home for girls defined as delinquent. Reiby was transferred to the Department of Juvenile Justice in 1991 and became Reiby Juvenile Justice Centre.</abstract>
+<abstract>Reiby Training School was established at Airds, near Campbelltown, by the Department of Youth and Community Services in 1973. Initially, it was a home for girls defined as delinquent. In 1977, Reiby became coeducational (following the closure of the Ormond Training School). Reiby was transferred to the Department of Juvenile Justice in 1991 and became Reiby Juvenile Justice Centre.</abstract>
 <p>The 1974 Annual Report of the Youth and Community Services Department
- described the centre, which cost 'over $2,000,000', and its official opening:<br />
-'Officially opened by Sir Roden Cutler, V.C., K.C.M.G., K.C.V.O., C.B.E.,
+ described the centre, which cost 'over $2,000,000', and its official opening:</p>
+<p>'Officially opened by Sir Roden Cutler, V.C., K.C.M.G., K.C.V.O., C.B.E.,
 K.St.J., on 3 August 1973, Reiby is the most modern of the recently 
 completed, larger-type training schools. ... Accommodation is available 
 for up to 100 girls up to the age of 18 years with the majority of the population being composed of girls 15 years and over.'</p>
+<p>According to Quinn (2006), Reiby Training Centre provided accommodation for about 90 girls aged 14 to 16. 'It followed the prevailing model of four houses of twenty inmates each, as well as a privilege cottage. As had always been the practice with girls' institutions, it was surrounded by a wall' (p.301).</p>
+<p>Quinn also contends that that 'the principal benefit that Reiby brought was that its opening enabled, finally, the closure of the Parramatta Girls' Training School, after almost a century of operations as an industrial school' .</p>
+<p>Quinn also cites a survey that showed that between 1981 and 1984, 16% of girls and 20% of boys admitted to Reiby were Aboriginal (p.385).</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1973-01-01">1973</fromDate>
 <toDate standardDate="1991-12-31">1991</toDate>
@@ -115,6 +120,14 @@ Department of Youth and Community Services, State Government of New South Wales 
 <relationEntry localType="Organisation">
 Department of Juvenile Justice, State Government of New South Wales (1990 - )
 </relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01277b.htm">
+<relationEntry localType="Organisation">
+Ormond Training School (1962 - 1980)
+</relationEntry>
+<descriptiveNote>
+<p>Reiby Training School became a coeducational institution for school-age children following the closure of the Ormond Training School in 1977.</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00813b.htm">
 <relationEntry localType="Archival Series">
@@ -259,6 +272,7 @@ Reiby Juvenile Justice Centre (1991 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Care Leavers Australia Network [CLAN]</repository>
 <unittitle>Reiby</unittitle>
 </archref>
 </objectXMLWrap>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-08-14">2017-08-14</eventDateTime>
+<eventDateTime standardDateTime="2017-11-27">2017-11-27</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -96,6 +96,11 @@ Adoption of Children Act 1928 (1929 - 1959)
 Children's Welfare Act 1928 (1929 - 1955)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000191b.htm">
+<relationEntry localType="Legislation">
+Children's Welfare Act 1933 (1933 - 1955)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000827b.htm">
 <relationEntry localType="Archival Item">
 Donella Jaggs interviewed by Jill Barnard in the Forgotten Australians and Former Child Migrants oral history project [sound recording] (2011)
@@ -106,9 +111,9 @@ Donella Jaggs interviewed by Jill Barnard in the Forgotten Australians and Forme
 Children's Welfare Act 1924 (1924 - 1929)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000704b.htm">
-<relationEntry localType="Archival Collection">
-Victorian Government Records relating to Wardship and Adoption (1864 - )
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001062b.htm">
+<relationEntry localType="Archival Series">
+Welfare Photographs and Publications (c. 1956 - c. 1960)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000155b.htm">
@@ -129,9 +134,9 @@ Department for Reformatory Schools, State Government of Victoria (1901 - 1954)
 <p>In 1954 the Children's Welfare Department took over the functions of the Department of Reformatory Schools.</p>
 </descriptiveNote>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000191b.htm">
-<relationEntry localType="Legislation">
-Children's Welfare Act 1933 (1933 - 1955)
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000704b.htm">
+<relationEntry localType="Archival Collection">
+Victorian Government Records relating to Wardship and Adoption (1864 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000118b.htm">
@@ -287,25 +292,6 @@ Social Welfare Branch, State Government of Victoria (1960 - 1970)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000076.htm">
-<relationEntry localType="published">Book: Children Who Need Help</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Tierney, Leonard</name>
-<title render="italic">Children Who Need Help</title>
-<imprint>
-<place>Melbourne</place>
-<publisher>Melbourne University Press</publisher>
-<date>1963</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000496.htm">
 <relationEntry localType="published">Report: Children's Welfare Department and Reformatory Schools. Report of the Secretary and Inspector.</relationEntry>
 
@@ -337,6 +323,25 @@ Social Welfare Branch, State Government of Victoria (1960 - 1970)
 </bibref>
 </objectXMLWrap>
 
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000076.htm">
+<relationEntry localType="published">Book: Children Who Need Help</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tierney, Leonard</name>
+<title render="italic">Children Who Need Help</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Melbourne University Press</publisher>
+<date>1963</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000200.htm">
 <relationEntry localType="digitalObject">TV in a foster home, where three of our wards are sharing in a very happy family life</relationEntry>

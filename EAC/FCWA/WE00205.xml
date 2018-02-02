@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
+<eventDateTime standardDateTime="2017-10-25">2017-10-25</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -77,6 +77,9 @@
 <function>
 <term>Home</term>
 </function>
+<function>
+<term>Receiving Agency</term>
+</function>
 </functions>
 <biogHist>
 <abstract>The Seaforth Salvation Army Girls' Home opened in 1920 in Gosnells (Kelmscott), with girls transferred from the Salvation Army Girls' Home, Collie. In 1921 there were 30 girls. It closed in 1942, and some girls with an intellectual disability were transferred to Graceville. By 1945, the building became the Seaforth Toddlers' Home (1945-1949) and it was later used as an aged care facility.</abstract>
@@ -85,6 +88,7 @@
 <p>Part of the girls' training in citizenship included producing items for sale to raise funds for Salvation Army Homes. <span style="font-style:italic">The West Australian</span> reported that the girls had made 'fancy work, jams and pickles, woolen novelties and animals, painting, produce, cake, sweets, baby wear, refreshments and ice creams' for sale at the 1938 Seaforth Garden Fete and Work Display. The Secretary of the Child Welfare Department attended that fete and was quoted as saying that departmental officers regularly inspected the Home and 'had no complaint to find' with it, except for improvements which could not be made because of a lack of money.</p>
 <p>The Seaforth Salvation Army Girls' Home closed in 1942. At that stage, there were some girls with intellectual disabilities at Seaforth. These girls were transferred to the Salvation Army's Graceville Centre in Highgate.</p>
 <p>By July 1945, the Seaforth Salvation Army Girls' Home building was renovated to accommodate boys aged 2-6 years in the Seaforth Toddlers Home (1945-1949). When the Toddlers Home closed, it became an aged care facility.</p>
+<p>The Seaforth Home was mentioned in the Lost Innocents Report (2001) as an institution involved in the migration of children to Australia.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1920-01-01">c. 1920</fromDate>
 <toDate standardDate="1942-12-31">1942</toDate>
@@ -206,6 +210,23 @@ Graceville Centre (1903 - )
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00205b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000117.htm">
+<relationEntry localType="published">Report: Lost Innocents: Righting the Record Report on Child Migration</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Parliament of Australia Senate</name>
+<title render="italic">Lost Innocents: Righting the Record Report on Child Migration</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Senate Printing Unit</publisher>
+<date>2001</date>
+</imprint>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/completed_inquiries/1999-02/child_migrat/report/index.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000021.htm">
 <relationEntry localType="published">Report: Annual report of the State Children Department</relationEntry>
@@ -440,6 +461,7 @@ Graceville Centre (1903 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Salvation Army Heritage Museum WA, Seaforth photos file</repository>
 <unittitle>Penal ward before leaving</unittitle>
 <unitdate>1940s - 1970s</unitdate>
 <abstract>'Penal ward before leaving' is a digital copy of an undated photograph held in the <span style="font-style:italic">Seaforth photos</span> file at the Salvation Army Heritage Museum WA. A handwritten caption reads, 'Penal ward before leaving'. This image is attached to a piece of paper with another image showing a female Salvation Army officer with a toddler in her arms. It is unlikely that the image relates to the Seaforth Salvation Army Boys' Reformatory, as the conditions there had been condemned in a 1953 investigation.It is more likely that the image shows the Seaforth Salvation Army Girls' Home, which had closed by 1945. It is also possible that the image is from the Salvation Army's maternity home, Hillcrest, the Salvation Army Girls' Home, Cottesloe, or the Salvation Army Boys' Home, Nedlands. The inclusion of the words, 'before leaving' in the caption suggest that there was a staged attempt to introduce young people to different conditions before they left the institution.</abstract>
@@ -453,6 +475,7 @@ Graceville Centre (1903 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Salvation Army Heritage Museum WA, Seaforth Boys closed social work file</repository>
 <unittitle>Seaforth WA Children's Homes 1920's</unittitle>
 <unitdate>1920s - 1950s</unitdate>
 <abstract>'Seaforth WA Children's Homes 1920's' is a digital copy of an item held in the <span style="font-style:italic">Seaforth Boys closed social work</span> file at the Salvation Army Heritage Museum WA. It is a collection of photocopied images relating to the children's Homes run by the Salvation Army on the Seaforth site at Gosnells: Seaforth Boys' Home; Seaforth Salvation Army Girls' Home; and Seaforth Salvation Army Boys' Reformatory. There are images of children, staff, buildings and grounds. Some images have typewritten captions.</abstract>
@@ -466,6 +489,7 @@ Graceville Centre (1903 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Salvation Army Heritage Museum WA, Seaforth Boys closed social work file</repository>
 <unittitle>Seaforth History</unittitle>
 <unitdate>1920s - 1950s</unitdate>
 <abstract>'Seaforth history' is a digital copy of an undated item held in the <span style="font-style:italic">Seaforth Boys closed social work</span> file at the Salvation Army Heritage Museum WA. It is a typed list of major historical events (such as openings and closings) and key staff movements at the Seaforth Boys' Home and Reformatory. It is likely that the list was compiled from the official 'History Book' for the institution. The years 1939-1974 are covered, extending beyond the period when Seaforth was a children's Home.</abstract>
@@ -482,6 +506,7 @@ Graceville Centre (1903 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Salvation Army Heritage Museum WA, Seaforth photos file</repository>
 <unittitle>Seaforth Reformatory Girls</unittitle>
 <unitdate>1921</unitdate>
 <abstract>'Seaforth Reformatory Girls' is a digital copy of an image held in the <span style="font-style:italic">Seaforth photos</span> file at the Salvation Army Heritage Museum WA. A typed caption says that the image was published in the <span style="font-style:italic">War Cry</span> on 26 November 1921, and names the 'Lassie Officers'.</abstract>
@@ -498,6 +523,7 @@ Graceville Centre (1903 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Salvation Army Heritage Museum WA, Seaforth Boys closed social work file</repository>
 <unittitle>Saving a Nation's Daughters</unittitle>
 <unitdate>2 April 1927</unitdate>
 <abstract>'Saving a Nation's Daughters' is a digital copy of an item published in the <span style="font-style:italic">War Cry</span> on 2 April 1927, held in the <span style="font-style:italic">Seaforth Boys closed social work</span> file at the Salvation Army Heritage Museum WA. It has images of the Seaforth Salvation Army Girls' Home, including photographs of girls on the 'giant stride' and a young woman with a calf. It gives a glowing account of the Home, and describes it as a 'moral hospital' where girls, who were there through their own 'wrongdoing', could turn their lives around through Christian principles.</abstract>
@@ -514,6 +540,7 @@ Graceville Centre (1903 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Department for Child Protection and Family Support, Annual Report of the Child Welfare Department, 1928, after p.6</repository>
 <unittitle>Salvation Army Homes - Seaforth, Gosnells, 1928</unittitle>
 <unitdate>1928</unitdate>
 <abstract>'Salvation Army Homes - Seaforth, Gosnells, 1928' is a digital copy of an image included (after p.6) in the <span style="font-style:italic">Annual Report of the Child Welfare Department, 1928</span>.</abstract>
@@ -527,6 +554,7 @@ Graceville Centre (1903 - )
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Western Australia</repository>
 <unittitle>BA953/70: Unidentified group at Seaforth Boy's Home, Gosnells, 1926-1932</unittitle>
 <unitdate>1926 - 1932</unitdate>
 <abstract>This is a digitised copy of a photographic print and is part of the group of images 'Activities at Seaforth Boys' Home, Gosnells [picture]' and is held at the State Library of Western Australia. The images shows girls and adults at the Salvation Army Homes. Although the title refers to the Seaforth Boys' Homes, it is likely that this image may have been taken in the Seaforth Salvation Army Girls' Home, which was on the same piece of land.</abstract>

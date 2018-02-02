@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
+<eventDateTime standardDateTime="2017-11-16">2017-11-16</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -72,6 +72,9 @@
 </function>
 <function>
 <term>Family Group Home</term>
+</function>
+<function>
+<term>Receiving Home</term>
 </function>
 </functions>
 <biogHist>
@@ -180,6 +183,22 @@ Kildonan Homes for Children (c. 1960 - c. 1993)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000148b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001238.htm">
+<relationEntry localType="published">Resource: Elgar Road, Site History Project - a Deakin University weblog</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Elgar Road, Site History Project - a Deakin University weblog</title>
+<imprint>
+<publisher>Deakin University Archives</publisher>
+<date>2017</date>
+</imprint>
+<extptr linktype="simple" href="https://blogs.deakin.edu.au/kildonan-allambie/"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001223.htm">
 <relationEntry localType="published">Report: Amendment C157, City of Whitehorse, Proposed HO249, Former Kildonan Children's Home, Elgar Road, Burwood</relationEntry>
@@ -330,6 +349,7 @@ Kildonan Homes for Children (c. 1960 - c. 1993)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
 <unittitle>In the Churches: Social service work for to be extended</unittitle>
 <unitdate>12 July 1947</unitdate>
 <abstract>Caption reads, 'Block for infant children at Kildonan, Burwood.'</abstract>
@@ -342,6 +362,7 @@ Kildonan Homes for Children (c. 1960 - c. 1993)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
 <unittitle>[Kildonan: New Cottage Block]</unittitle>
 <unitdate>30 August 1947</unitdate>
 <abstract>Caption reads, 'The new cottage block being built for the Presbyterian and Scots Church Children's Aid Society, Kildonan Home, Burwood, to accommodate twenty adolescent girls and the staff. Martin and Tribe are the architects.'</abstract>

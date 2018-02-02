@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-06-05">2017-06-05</eventDateTime>
+<eventDateTime standardDateTime="2017-10-31">2017-10-31</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -78,12 +78,16 @@
 <function>
 <term>Receiving Home</term>
 </function>
+<function>
+<term>Receiving Agency</term>
+</function>
 </functions>
 <biogHist>
 <abstract>St John's Orphanage was founded by the Albury Foundation of the Sisters of Mercy in 1882 at Thurgoona. It was also known as St John's Home, Wirlinga. The Orphanage first housed girls aged 5 to 16 years and later accommodated 30 British war orphans. In later years it cared for both boys and girls. From 1976, St John's Orphanage was replaced by group homes; it closed in 1978.</abstract>
 <p>St John's Orphanage was founded by the Albury Foundation of the Sisters of Mercy in 1882 and was located at Thurgoona on the outskirts of Albury on the New South Wales-Victoria border. In 1907, the Sisters of Mercy, Goulburn Congregation was created, merging Goulburn with Yass and Albury foundations, and the control of St John's passed to the Goulburn Sisters.</p>
 <p>With changes in the welfare system the large institution was closed and in 1976-1978 opened as group homes for children.</p>
 <p>The site of St John's Orphanage Thurgoona was, at some stage before 2010, used by Guadalupe House.</p>
+<p>St John's Orphanage Thurgoona was mentioned in the Lost Innocents Report (2001) as an institution involved in the migration of children to Australia.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1882-01-01">1882</fromDate>
 <toDate standardDate="1978-12-31">1978</toDate>
@@ -138,6 +142,22 @@ Admission Register, St John's Orphanage, Thurgoona (1882 - 1995)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000996.htm">
+<relationEntry localType="published">Report: Lost Innocents: righting the record - report on child migration</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Senate Community Affairs References Committee Secretariat, Parliament of Australia</name>
+<title render="italic">Lost Innocents: righting the record - report on child migration</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2001</date>
+</imprint>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/completed_inquiries/1999-02/child_migrat/report/index.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000811.htm">
 <relationEntry localType="published">Newspaper Article: The Cry of the Children: Mr P McGarry Introduces a Deputation: The Chief Secretary's Sympathetic Words</relationEntry>
 
@@ -153,22 +173,6 @@ Admission Register, St John's Orphanage, Thurgoona (1882 - 1995)
 <title render="italic">Freeman's Journal</title>
 </bibseries>
 <extptr linktype="simple" href="http://trove.nla.gov.au/ndp/del/article/115595197"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000437.htm">
-<relationEntry localType="published">Resource Section: St. John's orphans reunited</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Pattison, Gaye</name>
-<title render="quoted">St. John's orphans reunited</title>
-<imprint>
-<publisher>ABC Radio, 774 ABC Melbourne</publisher>
-<date>2010</date>
-</imprint>
-<extptr linktype="simple" href="http://blogs.abc.net.au/victoria/2010/03/st-johns-orphans-reunited.html"></extptr>
 </bibref>
 </objectXMLWrap>
 

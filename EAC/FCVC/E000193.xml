@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
+<eventDateTime standardDateTime="2017-11-22">2017-11-22</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -168,6 +168,25 @@ Adoption and Family Records Service, Department of Human Services (c. 1984 - 201
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001353.htm">
+<relationEntry localType="published">Resource Section: Pirra Girls' Home (1961- around 1980)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Pirra Girls' Home (1961- around 1980)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/PirraGirlsHome"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001136.htm">
 <relationEntry localType="published">Resource: Geelong and District Orphanages</relationEntry>
 
@@ -220,22 +239,6 @@ Adoption and Family Records Service, Department of Human Services (c. 1984 - 201
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000730.htm">
-<relationEntry localType="published">Book: Defying the gatekeeper: one girl's true story of resistance and rebellion</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Spivey, Margaret</name>
-<title render="italic">Defying the gatekeeper: one girl's true story of resistance and rebellion</title>
-<imprint>
-<place>Melbourne</place>
-<publisher>Jo Jo Publishing</publisher>
-<date>2010</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000739.htm">
 <relationEntry localType="published">Conference Paper: Orphanage Education</relationEntry>
 
@@ -257,6 +260,22 @@ Adoption and Family Records Service, Department of Human Services (c. 1984 - 201
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000730.htm">
+<relationEntry localType="published">Book: Defying the gatekeeper: one girl's true story of resistance and rebellion</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Spivey, Margaret</name>
+<title render="italic">Defying the gatekeeper: one girl's true story of resistance and rebellion</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Jo Jo Publishing</publisher>
+<date>2010</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000549.htm">
 <relationEntry localType="published">Report: Annual report: Social Welfare Department</relationEntry>
@@ -340,6 +359,7 @@ Adoption and Family Records Service, Department of Human Services (c. 1984 - 201
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Department of Health and Human Services</repository>
 <unittitle>Pirra Children's Home - Winter Menu - 1970</unittitle>
 <unitdate>1970</unitdate>
 <abstract>These 4 images are of the 4 winter menu options for Pirra Girls' Home in the Winter of 1970. They were part of the Pirra Children's Home - General correspondence file (1970-1974) which documented the activities of government and non-government children's residential care agencies.</abstract>

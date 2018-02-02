@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-08-30">2017-08-30</eventDateTime>
+<eventDateTime standardDateTime="2017-11-07">2017-11-07</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -108,6 +108,14 @@ Health Department, State Government of New South Wales (1982 - )
 Inspector General of Mental Hospitals (1917 - 1958)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01638b.htm">
+<relationEntry localType="Archival Collection">
+New South Wales State Archives Collection (1788 - )
+</relationEntry>
+<descriptiveNote>
+<p>The New South Wales State Archives Collection contains records from state-managed mental health facilities including Stockton Mental Hospital.</p>
+</descriptiveNote>
+</cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Stockton Mental Hospital', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
 
@@ -120,6 +128,27 @@ Inspector General of Mental Hospitals (1917 - 1958)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01696b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000531.htm">
+<relationEntry localType="published">Resource Section: Mental Health Facilities Guide</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Mental Health Facilities Guide</title>
+<imprint>
+<publisher>State of New South Wales through the State Records Authority of NSW 2016</publisher>
+</imprint>
+<bibseries>
+<title render="italic">State Records Authority of New South Wales website</title>
+</bibseries>
+<extptr linktype="simple" href="https://www.records.nsw.gov.au/archives/collections-and-research/guides-and-indexes/mental-health-facilities-guide"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001002.htm">
 <relationEntry localType="published">Newspaper Article: Stockton Mental Hospital</relationEntry>
@@ -210,6 +239,7 @@ Inspector General of Mental Hospitals (1917 - 1958)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of New South Wales</repository>
 <unittitle>Stockton Mental Hospital</unittitle>
 <unitdate>14 January 1955</unitdate>
 <abstract>Taken for Newcastle Morning Herald.</abstract>

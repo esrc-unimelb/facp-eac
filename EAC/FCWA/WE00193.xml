@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
+<eventDateTime standardDateTime="2017-10-25">2017-10-25</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -62,6 +62,9 @@
 </function>
 <function>
 <term>Home</term>
+</function>
+<function>
+<term>Receiving Agency</term>
 </function>
 </functions>
 <biogHist>
@@ -165,6 +168,23 @@ Catholic Immigration Scheme (1947 - 1966)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000117.htm">
+<relationEntry localType="published">Report: Lost Innocents: Righting the Record Report on Child Migration</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Parliament of Australia Senate</name>
+<title render="italic">Lost Innocents: Righting the Record Report on Child Migration</title>
+<imprint>
+<place>Canberra</place>
+<publisher>Senate Printing Unit</publisher>
+<date>2001</date>
+</imprint>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/completed_inquiries/1999-02/child_migrat/report/index.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001194.htm">
 <relationEntry localType="published">Book: In her Footsteps</relationEntry>
 
@@ -223,6 +243,7 @@ Catholic Immigration Scheme (1947 - 1966)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Izzy Orloff collection, State Library of Western Australia</repository>
 <unittitle>St Joseph's Preventorium, Kellerberrin</unittitle>
 <unitdate>1938?</unitdate>
 <abstract>This is a digitised copy of a photographic print and is part of the 'Izzy Orloff collection' held at the State Library of Western Australia. The image shows the driveway and front of the Preventorium.</abstract>

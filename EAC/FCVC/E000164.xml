@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
+<eventDateTime standardDateTime="2017-11-22">2017-11-22</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -181,21 +181,6 @@ Orana, the Peace Memorial Homes for Children (1953 - 1988)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000555.htm">
-<relationEntry localType="published">Resource Section: Submission 169</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Submission 169</title>
-<bibseries>
-<title render="italic">Inquiry into Children in Institutional Care: Submissions received by the committee as at 17/3/05</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000714.htm">
 <relationEntry localType="published">Resource: "Stolen innocence": memoirs of a child migrant</relationEntry>
 
@@ -222,22 +207,6 @@ Orana, the Peace Memorial Homes for Children (1953 - 1988)
 <place>North Sydney</place>
 <publisher>Random House</publisher>
 <date>2007</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000141.htm">
-<relationEntry localType="published">Book: Empty Cradles</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Humphreys, Margaret</name>
-<title render="italic">Empty Cradles</title>
-<imprint>
-<place>Sydney</place>
-<publisher>Doubleday</publisher>
-<date>1994</date>
 </imprint>
 </bibref>
 </objectXMLWrap>
@@ -271,6 +240,21 @@ Orana, the Peace Memorial Homes for Children (1953 - 1988)
 <date>2010</date>
 </imprint>
 <extptr linktype="simple" href="http://www.nla.gov.au/digicoll/ListentotheForgottenAustralians.html"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000555.htm">
+<relationEntry localType="published">Resource Section: Submission 169</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Submission 169</title>
+<bibseries>
+<title render="italic">Inquiry into Children in Institutional Care: Submissions received by the committee as at 17/3/05</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -388,6 +372,22 @@ Great Hall, Parliament House</title>
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000141.htm">
+<relationEntry localType="published">Book: Empty Cradles</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Humphreys, Margaret</name>
+<title render="italic">Empty Cradles</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Doubleday</publisher>
+<date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000080.htm">
 <relationEntry localType="published">Book: Orphans of the Empire: the shocking story of child migration to Australia</relationEntry>
 
@@ -427,6 +427,7 @@ Great Hall, Parliament House</title>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Film and Sound Archive</repository>
 <unittitle>The Leaving of Liverpool</unittitle>
 <unitdate>1992</unitdate>
 <abstract>This website has two excerpts from 'The Leaving of Liverpool', a television program produced in 1992.</abstract>
@@ -442,6 +443,7 @@ Great Hall, Parliament House</title>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Posted on Youtube by NewsOnABC</repository>
 <unittitle>Prime Minister says sorry</unittitle>
 <unitdate>15 November 2009</unitdate>
 <abstract>The Prime Minister Kevin Rudd issues a national apology to the Forgotten Australians.</abstract>
@@ -455,6 +457,7 @@ Great Hall, Parliament House</title>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Al Jazeera</repository>
 <unittitle>Australia apology over abuse in state shelters - 16 Nov 09</unittitle>
 <unitdate>16 November 2009</unitdate>
 <abstract> Al Jazeera's Michelle Stone reports on the apology to 'forgotten Australians' and former child migrants.</abstract>

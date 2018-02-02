@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
+<eventDateTime standardDateTime="2017-11-23">2017-11-23</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -71,7 +71,7 @@
 <biogHist>
 <abstract>The Victorian Infant Asylum was established in 1877. Its stated aims were: to prevent infanticide, save infant life from the 'evils of baby farming', and to rescue mothers of illegitimate children from further degradation. In 1902, its name changed to the Victorian Infant Asylum and Foundling Hospital.</abstract>
 <p>The Victorian Infant Asylum was established in 1877. A group of women concerned about the welfare of 'unfortunates' - infants and unmarried pregnant young women - met in Melbourne on 15 June 1877.</p>
-<p>This group of 'ladies' came together under the patronage of Lady Bowen, the wife of the Governor. With money collected, a house in Hanover Street, Fitzroy was leased and the first 'inmate' was admitted to the Victorian Infant Asylum on 9 November 1877.</p>
+<p>This group of 'ladies' came together under the patronage of Lady Bowen, the wife of the Governor. With money collected, a house at 35 Hanover Street, Fitzroy was leased and the first 'inmate' was admitted to the Victorian Infant Asylum on 9 November 1877.</p>
 <p>The stated aims of the Victorian Infant Asylum were:</p>
 <list><item>The prevention of infanticide</item>
 <item>The saving of infant life from the evils of baby farming</item>
@@ -95,7 +95,7 @@
 <toDate standardDate="1877-12-31">1877</toDate>
 </dateRange>
 <placeEntry>Fitzroy</placeEntry>
-<event>Location - The Victorian Infant Asylum was established in a rented house in Hanover Street, Fitzroy</event>
+<event>Address - The Victorian Infant Asylum was established in a rented house at 35 Hanover Street, Fitzroy</event>
 </chronItem>
 <chronItem>
 <dateRange><fromDate standardDate="1882-01-01">1882</fromDate>
@@ -159,6 +159,25 @@ The Victorian Infant Asylum and Foundling Hospital (1902 - 1906)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001239.htm">
+<relationEntry localType="published">Resource: Berry Street 140 Years: restoring trust and hope</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cerreto, Alicia</name>
+<title render="italic">Berry Street 140 Years: restoring trust and hope</title>
+<imprint>
+<publisher>Berry Street</publisher>
+<date>2017</date>
+</imprint>
+<extptr linktype="simple" href="https://www.berrystreet.org.au/sites/default/files/Berry%20Street%20140%20-%20Restoring%20Trust%20and%20Hope%20%5Bweb%5D.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000758.htm">
 <relationEntry localType="published">Resource: Looking back, looking forward: the story of 'Berry Street' Child and Family Care 1877-1977</relationEntry>
 
@@ -213,6 +232,19 @@ The Victorian Infant Asylum and Foundling Hospital (1902 - 1906)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000572.htm">
+<relationEntry localType="digitalObject">House in Hanover Street (now number 35)</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Berry Street Archives</repository>
+<unittitle>House in Hanover Street (now number 35)</unittitle>
+<unitdate>c. 1865</unitdate>
+<abstract>This is a copy of an image of the building that was the first location of the Victorian Infant Asylum in Hanover Street, Fitzroy.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000341.htm">
 <relationEntry localType="digitalObject">'Conditions and rules for adopting children by the Victorian Infant Asylum'</relationEntry>
 
@@ -230,6 +262,7 @@ The Victorian Infant Asylum and Foundling Hospital (1902 - 1906)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Berry Street</repository>
 <unittitle>Victorian Infant Asylum, First Annual Report [front page]</unittitle>
 <unitdate>1878 - 2009</unitdate>
 <abstract>This is an image of the front page of the First Report of the Committee of Management of the Victorian Infant Asylum for the year ending June 30th 1878.</abstract>

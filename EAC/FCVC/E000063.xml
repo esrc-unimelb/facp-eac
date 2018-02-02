@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-18">2017-09-18</eventDateTime>
+<eventDateTime standardDateTime="2017-11-22">2017-11-22</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -272,7 +272,7 @@ St Augustine's Orphanage (1939 - 1966)
 <imprint>
 <date>2008-2011</date>
 </imprint>
-<extptr linktype="simple" href="http://www.sjc.vic.edu.au/About_History"></extptr>
+<extptr linktype="simple" href="http://www.sjc.vic.edu.au/new/about-sjc/history.html"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -345,25 +345,6 @@ St Augustine's Orphanage (1939 - 1966)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000007.htm">
-<relationEntry localType="published">Book: Holding on to Hope: a history of the founding agencies of MacKillop Family Services 1854-1997</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Barnard, Jill; Twigg, Karen</name>
-<title render="italic">Holding on to Hope: a history of the founding agencies of MacKillop Family Services 1854-1997</title>
-<imprint>
-<place>Melbourne</place>
-<publisher>Australian Scholarly Publishing</publisher>
-<date>2004</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000086.htm">
 <relationEntry localType="published">Book: St. Augustine's and the Christian Brothers: an archival history</relationEntry>
 
@@ -402,6 +383,25 @@ St Augustine's Orphanage (1939 - 1966)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000007.htm">
+<relationEntry localType="published">Book: Holding on to Hope: a history of the founding agencies of MacKillop Family Services 1854-1997</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Barnard, Jill; Twigg, Karen</name>
+<title render="italic">Holding on to Hope: a history of the founding agencies of MacKillop Family Services 1854-1997</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Australian Scholarly Publishing</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000133.htm">
 <relationEntry localType="digitalObject">Negative - Geelong, Victoria, circa 1920</relationEntry>
 
@@ -420,6 +420,7 @@ St Augustine's Orphanage (1939 - 1966)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>MacKillop Family Services</repository>
 <unittitle>St Augustine's Geelong, Roll Call 1932</unittitle>
 <unitdate>1932</unitdate>
 <note label="rights">Permission to use or reproduce part or all of this image must be sought from MacKillop Family Services</note>
@@ -432,6 +433,7 @@ St Augustine's Orphanage (1939 - 1966)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>MacKillop Family Services</repository>
 <unittitle>Boys at St Augustine's</unittitle>
 <note label="rights">Permission to use or reproduce part or all of this image must be sought from MacKillop Family Services</note>
 </archref>
@@ -443,6 +445,7 @@ St Augustine's Orphanage (1939 - 1966)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>MacKillop Family Services</repository>
 <unittitle>St Augustine's Building</unittitle>
 <note label="rights">Permission to use or reproduce part or all of this image must be sought from MacKillop Family Services</note>
 </archref>

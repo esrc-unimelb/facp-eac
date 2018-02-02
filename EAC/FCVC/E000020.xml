@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-15">2017-09-15</eventDateTime>
+<eventDateTime standardDateTime="2017-11-27">2017-11-27</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -96,6 +96,7 @@
 <p>In November 1955, the Methodist Peace Memorial Homes was declared an approved children's home under the Children's Welfare Act 1954.</p>
 <p>On 20 February 1987, there was a ceremony at the Burwood site for the redeveloped 'Orana Homes'. It was stage one of the re-development of the Burwood site. Orana Homes consisted of a mixture of 35 detached houses, town houses and flats, designed for families and the elderly. The Orana administration complex was on the site. It was a base for Orana's non-residential programmes of support for children and families, as well as its well established residential programmes.</p>
 <p>Despite this re-development, in 1988 the organisation began a relocation to Coolaroo, in Melbourne's north-west, where it became Orana Family Services.</p>
+<p>Orana, the Peace Memorial Homes for Children was mentioned in the Lost Innocents Report (2001) as an institution involved in the migration of children to Australia.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1953-01-01">1953</fromDate>
 <toDate standardDate="1953-12-31">1953</toDate>
@@ -123,6 +124,14 @@ Methodist Homes for Children (1891 - c. 1953)
 <relationEntry localType="Organisation">
 Methodist Church (c. 1851 - 1977)
 </relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001063b.htm">
+<relationEntry localType="Archival Collection">
+Private and Professional Papers of Leonard Tierney (1933 - 1992)
+</relationEntry>
+<descriptiveNote>
+<p>Private and Professional Papers of Leonard Tierney contain records relating to Orana, the Peace Memorial Homes for Children in the 'Child Welfare History' series.</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000746b.htm">
 <relationEntry localType="Archival Collection">
@@ -231,25 +240,6 @@ Orana Family Services (1988 - 2011)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000016.htm">
-<relationEntry localType="published">Book: All God's Children: a centenary history of the Methodist Homes for Children and the Orana Peace Memorial Homes</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Howe, Renate; Swain, Shurlee</name>
-<title render="italic">All God's Children: a centenary history of the Methodist Homes for Children and the Orana Peace Memorial Homes</title>
-<imprint>
-<place>Kambah, ACT</place>
-<publisher>Acorn Press</publisher>
-<date>1989</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000681.htm">
 <relationEntry localType="published">Resource Section: Our story</relationEntry>
 
@@ -325,6 +315,41 @@ Orana Family Services (1988 - 2011)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000044.htm">
+<relationEntry localType="published">Report: Lost Innocents: righting the record - report on child migration</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Senate Community Affairs References Committee Secretariat, Parliament of Australia</name>
+<title render="italic">Lost Innocents: righting the record - report on child migration</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2001</date>
+</imprint>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/completed_inquiries/1999-02/child_migrat/report/index.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000016.htm">
+<relationEntry localType="published">Book: All God's Children: a centenary history of the Methodist Homes for Children and the Orana Peace Memorial Homes</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Howe, Renate; Swain, Shurlee</name>
+<title render="italic">All God's Children: a centenary history of the Methodist Homes for Children and the Orana Peace Memorial Homes</title>
+<imprint>
+<place>Kambah, ACT</place>
+<publisher>Acorn Press</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000452.htm">
 <relationEntry localType="digitalObject">Family Cottages at 'Orana'.</relationEntry>
 
@@ -371,6 +396,7 @@ Orana Family Services (1988 - 2011)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Library of Australia</repository>
 <unittitle>Cottage home for children [editor's note: Orana, the Peace Memorial Homes for Children, Wattle Park]</unittitle>
 <unitdate>25 September 1948</unitdate>
 <abstract>This is a copy of an image from an article published in the <span style="font-style:italic">Argus</span> in 1948. The caption reads: "The Kindergarten Cottage for the new Methodist Children's Home, Wattle Park; Bates, Smart and McCutcheon, architects".</abstract>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-08-24">2017-08-24</eventDateTime>
+<eventDateTime standardDateTime="2017-12-21">2017-12-21</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -45,7 +45,7 @@
 <nameEntry><part>Sunbury Industrial School</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
-<nameEntry localType=""><part>Industrial School for Boys</part>
+<nameEntry localType="Also known as"><part>Industrial School for Boys</part>
 </nameEntry>
 </identity>
 <description><existDates>
@@ -68,16 +68,22 @@
 </function>
 </functions>
 <biogHist>
-<abstract>The Sunbury Industrial School was established in 1865. By the end of 1868, the institution housed 651 boys. In around 1880, boys from Sunbury were transferred to the Royal Park Industrial School in Parkville.</abstract>
+<abstract>The Sunbury Industrial School was established in 1865. It was located on Jacksons Hill, in Sunbury. By the end of 1868, the institution housed 651 boys. In around 1880, boys from Sunbury were transferred to the Royal Park Industrial School in Parkville.</abstract>
 <p>The Sunbury Industrial School was the first institution created by the government in 1865 in response to the Neglected and Criminal Children's Act 1864. This Act provided for the establishment of 'industrial schools' where children deemed to be 'neglected' were to be placed.</p>
-<p>Overcrowding was a huge problem at Sunbury during the 1860s - by the end of 1868, the institution housed 651 boys, even though it was only equipped for 450. In around 1880, boys from Sunbury were transferred to the Royal Park Industrial School in Parkville (in anticipation of the introduction of the boarding-out system, to replace industrial schools).</p>
+<p>The institution was on the top of Jacksons Hill, and in 1865 water had to be carted by a horse from the Jacksons Creek. There was insufficient water to clean the wards, bedding and clothes, let alone the children. The water situation had disastrous effects for the children in the Industrial School. In September 1865, it was reported that all but 20 of the 233 children at Sunbury had scabies; 100 had eczema and 38 had ophthalmia (an eye infection that could cause blindness in the nineteenth century).</p>
+<p>The first water tanks were built in October 1865. It was not only 1868 that the government signed a contract to install an 'Engine and Pumps etc' at the Industrial School. According to a heritage report for Hume City Council about the archaeological ruins of the water supply for the Industrial School (and later, the asylum), following the installation of the engine and pumps 'conditions, health and the death rate improved'.</p>
+<p>Overcrowding was a huge problem at Sunbury during the 1860s - by the end of 1868, the institution housed 651 boys, even though it was only equipped for 450.</p>
+<p>In around 1880, boys from Sunbury were transferred to the Royal Park Industrial School in Parkville (in anticipation of the introduction of the boarding-out system, to replace industrial schools).</p>
 <p>After the closure of the Sunbury Industrial School, the site was used for institutions for the mentally ill and intellectually disabled. From 1894 it was known as the Sunbury Lunatic Asylum. From 1968 to 1992 the site housed the Caloola Training Centre for the Intellectually Disabled.</p>
+<p>According to the Victorian Heritage Register's statement of significance for Caloola (Former Sunbury Mental Hospital):</p>
+<p>'The Industrial School consisted of ten basalt buildings (nine extant), designed under the direction of Public Works Department Inspector General William Wardell and constructed in 1865-66, four workrooms, kitchen, hospital, basalt farm building, road and stone wall remnants which were used to house and train neglected children in the 1860s. Boys in the Sunbury Industrial School worked on the farm and in the tailoring and shoe-making workshops to maintain themselves whilst in the institution and were given some basic education.'</p>
+<p>In 2004, as a result of research and advocacy by local residents and family historians, a monument to commemorate the children who had died at Sunbury Industrial School was unveiled at Sunbury Cemetery.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1865-01-01">1865</fromDate>
 <toDate standardDate="1865-12-31">1865</toDate>
 </dateRange>
 <placeEntry>Sunbury</placeEntry>
-<event>Location - The Victorian government opened its first Industrial School for neglected children on The Avenue, Sunbury</event>
+<event>Location - The Sunbury Industrial School was situated on The Avenue, Sunbury</event>
 </chronItem>
 </chronList>
 
@@ -91,6 +97,14 @@ Department of Industrial and Reformatory Schools (1864 - 1887)
 <fromDate standardDate="1865-01-01">1865</fromDate>
 <toDate standardDate="1880-12-31">1880?</toDate>
 </dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000514b.htm">
+<relationEntry localType="Organisation">
+Royal Park Industrial School (1875 - c. 1887)
+</relationEntry>
+<descriptiveNote>
+<p>In around 1880, boys from Sunbury Industrial School were transferred to the Royal Park Industrial School.</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000441b.htm">
 <relationEntry localType="Event">
@@ -151,6 +165,79 @@ Victorian Government Records relating to Wardship and Adoption (1864 - )
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001381.htm">
+<relationEntry localType="published">Article: The Children: The Plaque: The Story</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Wilson, Elizabeth</name>
+<title render="quoted">The Children: The Plaque: The Story</title>
+<imprint>
+<date>2004</date>
+</imprint>
+<bibseries>
+<title render="italic">Sunbury Family History Society</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.sunburyfhs.org.au/index.php?option=com_content&amp;view=article&amp;id=62&amp;Itemid=65"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001380.htm">
+<relationEntry localType="published">Report: Place: Asylum Water Supply - Ruins, Place No 179</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Place: Asylum Water Supply - Ruins, Place No 179</title>
+<imprint>
+<publisher>Hume City Council</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.hume.vic.gov.au/files/sharedassets/hume_website/building_and_planning/planning_guidelines/heritage_citations/heritage_citation_-_asylum_water_supply_ruins_sunbury.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001379.htm">
+<relationEntry localType="published">Resource Section: Caloola (Former Sunbury Mental Hospital)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Caloola (Former Sunbury Mental Hospital)</title>
+<imprint>
+<publisher>Heritage Council of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Victorian Heritage Database</title>
+</bibseries>
+<extptr linktype="simple" href="http://vhd.heritagecouncil.vic.gov.au/places/1131"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001377.htm">
+<relationEntry localType="published">Resource: Sunbury Industrial School Children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Sunbury Industrial School Children</title>
+<imprint>
+<publisher>Monument Australia</publisher>
+<date>2010</date>
+</imprint>
+<extptr linktype="simple" href="http://monumentaustralia.org.au/themes/people/tragedy/display/100850-sunbury-industrial-school-children-"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000357.htm">
 <relationEntry localType="published">Book: Neglected or criminal? The Sunbury Industrial School - Sunbury and beyond</relationEntry>
 
@@ -179,7 +266,7 @@ Victorian Government Records relating to Wardship and Adoption (1864 - )
 <imprint>
 <date>2005</date>
 </imprint>
-<extptr linktype="simple" href="http://www.mh.org.au/"></extptr>
+<extptr linktype="simple" href="https://www.thermh.org.au/about/about-rmh/our-history/history-royal-park-campus"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -204,6 +291,22 @@ Victorian Government Records relating to Wardship and Adoption (1864 - )
 
 <descriptiveNote>
 <p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000580.htm">
+<relationEntry localType="digitalObject">Sunbury Industrial School Children</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Monument Australia</repository>
+<unittitle>Sunbury Industrial School Children</unittitle>
+<unitdate>c. 2004</unitdate>
+<abstract>This is a copy of a photograph of a monument in Sunbury Cemetery, commemorating the children - buried in unmarked graves - who died at the Sunbury Industrial School between August 1865 and November 1878.</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
 </descriptiveNote>
 </resourceRelation>
 </relations>

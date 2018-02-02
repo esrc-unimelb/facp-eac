@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-06">2017-09-06</eventDateTime>
+<eventDateTime standardDateTime="2017-11-27">2017-11-27</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -103,6 +103,14 @@ Christian Brothers (1868 - )
 <fromDate standardDate="1966-01-01">1966</fromDate>
 <toDate standardDate="1988-12-31">1988</toDate>
 </dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001063b.htm">
+<relationEntry localType="Archival Collection">
+Private and Professional Papers of Leonard Tierney (1933 - 1992)
+</relationEntry>
+<descriptiveNote>
+<p>Private and Professional Papers of Leonard Tierney contain records relating to St Augustine's Boys' Home in the 'Child Welfare History' series.</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000791b.htm">
 <relationEntry localType="Event">
@@ -237,6 +245,7 @@ St Augustine's Adolescent and Family Services (1988 - 1997)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>MacKillop Family Services</repository>
 <unittitle>Boys at St Augustine's</unittitle>
 <note label="rights">Permission to use or reproduce part or all of this image must be sought from MacKillop Family Services</note>
 </archref>
@@ -248,6 +257,7 @@ St Augustine's Adolescent and Family Services (1988 - 1997)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>MacKillop Family Services</repository>
 <unittitle>St Augustine's Building</unittitle>
 <note label="rights">Permission to use or reproduce part or all of this image must be sought from MacKillop Family Services</note>
 </archref>

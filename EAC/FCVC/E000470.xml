@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
+<eventDateTime standardDateTime="2017-12-15">2017-12-15</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -45,19 +45,13 @@
 <nameEntry><part>Hayeslee House</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
-<nameEntry localType=""><part>Lisa Lodge</part>
-<useDates>
-<dateRange>
-<fromDate standardDate="1994-01-01">1994</fromDate>
-<toDate standardDate=""></toDate>
-</dateRange>
-</useDates>
+<nameEntry localType="Also known as"><part>Hayeslee Children's Home</part>
 </nameEntry>
 </identity>
 <description><existDates>
 <dateRange>
 <fromDate standardDate="1976-01-01">1976</fromDate>
-<toDate standardDate="2012-12-31">2012</toDate>
+<toDate standardDate="1994-12-31">1994</toDate>
 </dateRange>
 </existDates>
 <places>
@@ -72,27 +66,30 @@
 <function>
 <term>Home</term>
 </function>
+<function>
+<term>Adolescent Care</term>
+</function>
 </functions>
 <biogHist>
-<abstract>Hayeslee House was established in 1976 by the committee managing Lisa Lodge Girls' Hostel. It first accommodated adolescent girls being transferred from Nazareth House, Ballarat, which closed in 1976. In 1977 Hayeslee House moved to Sebastopol. Some time after the closure of the Lisa Lodge Hostel in 1994, Hayeslee House became known as 'Lisa Lodge'. In July 2012 Lisa Lodge merged with Berry Street.</abstract>
-<p>Hayeslee House was established in 1976 when the committee managing Lisa Lodge Girls' Hostel saw the need for a transition facility for a group of adolescent girls being transferred from Nazareth House, Ballarat, which closed in 1976.</p>
-<p>Hayeslee House was first established in a house lent to the committee by Ballarat Children's Homes. It was named after Sister Rita Hayes, the first superintendent of Lisa Lodge Hostel. In May 1977, it relocated to Clarkson Street, Sebastopol.</p>
+<abstract>Hayeslee House was established in 1976 in Ballarat. It was run by the committee that also managed Lisa Lodge Girls' Hostel. Initially, Hayeslee was created to accommodate adolescent girls being transferred from Nazareth House, Ballarat, which closed in 1976. Hayeslee House accommodated boys and girls, aged 11 to 15 from the Ballarat district. In 1977 Hayeslee House moved to Sebastopol. Some time after the closure of the Lisa Lodge Girls' Hostel in 1994, Hayeslee House also became known as Lisa Lodge.</abstract>
+<p>Hayeslee House was established in late 1976, initially as a transition facility for a group of adolescent girls being transferred from Nazareth House, Ballarat, which was closing. It was run by the same committee that managed Lisa Lodge Girls' Hostel.</p>
+<p>Hayeslee House accommodated children aged between 11 and 15, of both genders.</p>
+<p>Hayeslee House was first established in a house lent to the committee by Ballarat Children's Homes. This temporary location was in Geelong Road. Subsequently, the committee purchased 17 Clarkson Street, Sebastapol and Hayeslee House moved there in May 1977.</p>
+<p>It was named after Sister Rita Hayes, the first superintendent of Lisa Lodge Girls' Hostel.</p>
 <p>Hayeslee House was renamed 'Lisa Lodge' some time after the closure of the original Lisa Lodge Girls' Hostel, Ballarat, in 1994.</p>
-<p>In July 2012 Lisa Lodge merged with Berry Street to strengthen the services being provided in the Grampians Region.</p>
-<p>Previous clients of Lisa Lodge and Hayeslee may access their records by contacting the agency. An agency worker would clarify if the client wished to see their whole file or just obtain a specific piece of information. If they wish to see the whole file, third party information would be deleted and the enquiry processed according to freedom of information principles. Lisa Lodge would seek to give the maximum amount of information with the least restrictions possible and would prefer to provide information through face-to-face contact.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1976-01-01">1976</fromDate>
 <toDate standardDate="1976-12-31">1976</toDate>
 </dateRange>
 <placeEntry>Ballarat</placeEntry>
-<event>Location - Hayeslee House was located in Ballarat</event>
+<event>Location - Hayeslee House was temporarily located in Geelong Road, Ballarat</event>
 </chronItem>
 <chronItem>
 <dateRange><fromDate standardDate="1977-01-01">1977</fromDate>
 <toDate standardDate="1977-12-31">1977</toDate>
 </dateRange>
 <placeEntry>Sebastopol</placeEntry>
-<event>Location - Hayeslee House was located in Clarkson Street, Sebastapol (near Ballarat)</event>
+<event>Address - Hayeslee House was located at 17 Clarkson Street, Sebastapol (near Ballarat)</event>
 </chronItem>
 </chronList>
 
@@ -102,6 +99,14 @@
 <relationEntry localType="Organisation">
 Lisa Lodge - Hayeslee Committee (1970 - 2012)
 </relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000032b.htm">
+<relationEntry localType="Organisation">
+Ballarat Children's Homes (1968 - 1984)
+</relationEntry>
+<descriptiveNote>
+<p>Hayeslee House was first located in a property owned by Ballarat Children's Homes.</p>
+</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000169b.htm">
 <relationEntry localType="Organisation">
@@ -129,13 +134,10 @@ Hostel
 Berry Street Heritage Collection (c. 1877 - )
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000006b.htm">
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001058b.htm">
 <relationEntry localType="Organisation">
-Berry Street (1994 - )
+Lisa Lodge (c. 1994 - 2012)
 </relationEntry>
-<descriptiveNote>
-<p>Hayeslee House, renamed Lisa Lodge in 1994, merged with Berry Street in 2012.</p>
-</descriptiveNote>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Hayeslee House', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
@@ -149,6 +151,42 @@ Berry Street (1994 - )
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000470b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001368.htm">
+<relationEntry localType="published">Book: Lisa Lodge: A Passion for the Cause</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Noyce, Di</name>
+<title render="italic">Lisa Lodge: A Passion for the Cause</title>
+<imprint>
+<place>Ballarat</place>
+<publisher>Lisa Lodge</publisher>
+<date>2012</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001154.htm">
+<relationEntry localType="published">Report: Guide to Out-of-Home Care Services 1940-2000 - Volume Two: Data Base</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James Jenkinson Consulting</name>
+<title render="italic">Guide to Out-of-Home Care Services 1940-2000 - Volume Two: Data Base</title>
+<imprint>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
 <relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>

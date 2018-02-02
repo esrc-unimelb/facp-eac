@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-08-31">2017-08-31</eventDateTime>
+<eventDateTime standardDateTime="2017-12-05">2017-12-05</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -90,14 +90,14 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00006b.htm">
-<relationEntry localType="Organisation">
-Church of England in Australia and Tasmania (1788 - 1981)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00407b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00407b.htm">
 <relationEntry localType="Archival Collection">
 Lady Victoria Buxton Girls Club (1944 - 1960)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00006b.htm">
+<relationEntry localType="Organisation">
+Church of England in Australia and Tasmania (1788 - 1981)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01275b.htm">
@@ -208,6 +208,7 @@ Lady Victoria Buxton Girls Club (1917 - 1944)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia</repository>
 <unittitle>Lady Victoria Buxton</unittitle>
 <unitdate>1895</unitdate>
 <abstract>Lady Victoria Buxton, patron of the Lady Victoria Buxton Girls' Club</abstract>
@@ -221,6 +222,7 @@ Lady Victoria Buxton Girls Club (1917 - 1944)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>booksforcooks.com.au</repository>
 <unittitle>The Kookaburra Cookery Book 02</unittitle>
 <unitdate>1911 - c. 1940</unitdate>
 <abstract>The Kookaburra Cookery Book of Culinary and Household Recipes and Hints. This cookbook was created by the Committee of the Lady Victoria Buxton Girls' Club to raise funds for the Club.
@@ -236,6 +238,7 @@ This is a digital image of the book's title page taken in 2011.</abstract>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>booksforcooks.com.au</repository>
 <unittitle>The Kookaburra Cookery Book 01</unittitle>
 <unitdate>1911 - c. 1940</unitdate>
 <abstract>The Kookaburra Cookery Book of Culinary and Household Recipes and Hints. This cookbook was created by the Committee of the Lady Victoria Buxton Girls' Club to raise funds for the Club.
@@ -251,6 +254,7 @@ This is a digital image of the book's cover taken in 2011.</abstract>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of South Australia</repository>
 <unittitle>Lady Victoria Buxton Girls' Club - Lady Galway and others in Whitmore Square, Adelaide</unittitle>
 <unitdate>c. 1914</unitdate>
 <abstract>Lady Galway, wife of Sir Henry, Governor of South Australia, standing with other women and three men outside the premises of a women's club in Whitmore Square, Adelaide</abstract>

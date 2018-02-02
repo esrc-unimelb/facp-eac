@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
+<eventDateTime standardDateTime="2017-10-25">2017-10-25</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -104,6 +104,9 @@
 <function>
 <term>Orphanage</term>
 </function>
+<function>
+<term>Receiving Agency</term>
+</function>
 </functions>
 <biogHist>
 <abstract>The Seaforth Salvation Army Boys' Home, Gosnells (Kelmscott) was established in 1920. Boys from the Salvation Army Homes at Collie were transferred to Seaforth, and lived in different 'sections', including a separate facility for boys and young men with intellectual disabilities (1922-1950). Seaforth Boys' Home closed in 1955 and remaining boys were transferred to the Salvation Army Boys' Home, Nedlands. Those adults who had been in the 'backward' section remained on the Seaforth property which continued to be used by the Salvation Army as a residential care centre for adults.</abstract>
@@ -118,6 +121,7 @@
 <h4>'Backward' section</h4>
 <p>The Salvation Army opened a section for boys with intellectual disabilities at Seaforth in 1922. At the time this section opened, there were a range of terms used to describe children with disabilities - and boys with physical disabilities may also have been sent to this Home. Previously, these children would have been sent to the Claremont Hospital for the Insane. By 1925 there were 50 boys in this section of the Home, and they went to a school run by the Education Department on the Seaforth site. The dormitories, playgrounds, gardens and dining-room of the 'backward' section were separate from the other sections of Seaforth, and, apart from the Manager, had its own staff. Young men as old as 25 years were reportedly resident in the Home in 1929. Boys and young men were trained and worked in raffia and basket-making, embroidery, rug-making, toy-making and cabinetry. Not all boys stayed in the 'backward' section. Those who were deemed suitable for work in the general community were placed with employers.</p>
 <p>The 'backward' section closed on 29 July 1950. Some residents, who were no longer children, remained on the Seaforth property which, after August 1955, continued to be used by the Salvation Army as a residential care centre for adults.</p>
+<p>The Seaforth Home was mentioned in the Lost Innocents Report (2001) as an institution involved in the migration of children to Australia.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1901-01-01">1901</fromDate>
 <toDate standardDate="1957-12-31">1957</toDate>
@@ -254,17 +258,21 @@ Investigation into the Administration of the Child Welfare Department of Western
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000278.htm">
-<relationEntry localType="published">Book: Southern Soup-Soap-Salvation, a compendium of Salvation Army Social Services in the Australian Southern Territory</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001139.htm">
+<relationEntry localType="published">Newspaper Article: State Children [Annual Report, November 1922]</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Kirkham, Lt-Col John C</name>
-<title render="italic">Southern Soup-Soap-Salvation, a compendium of Salvation Army Social Services in the Australian Southern Territory</title>
+<name type="author"></name>
+<title render="quoted">State Children [Annual Report, November 1922]</title>
 <imprint>
-<publisher>The Salvation Army Australia Southern Territory Territorial Archives and Museum</publisher>
-<date>2003</date>
+<date>1922</date>
 </imprint>
+<bibseries>
+<title render="italic">The Daily News</title>
+<num type="pages">5</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article83155880"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -410,6 +418,28 @@ Investigation into the Administration of the Child Welfare Department of Western
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001122.htm">
+<relationEntry localType="published">Newspaper Article: Report Criticises Seaforth Boys' Home</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Report Criticises Seaforth Boys' Home</title>
+<imprint>
+<date>1954</date>
+</imprint>
+<bibseries>
+<title render="italic">The West Australian</title>
+<num type="pages">4</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article52959735"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
 <relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
 
@@ -428,17 +458,16 @@ Investigation into the Administration of the Child Welfare Department of Western
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000058.htm">
-<relationEntry localType="published">Book: The Scheme: the Christian Brothers and Childcare in Western Australia</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000278.htm">
+<relationEntry localType="published">Book: Southern Soup-Soap-Salvation, a compendium of Salvation Army Social Services in the Australian Southern Territory</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Coldrey, Barry M.</name>
-<title render="italic">The Scheme: the Christian Brothers and Childcare in Western Australia</title>
+<name type="author">Kirkham, Lt-Col John C</name>
+<title render="italic">Southern Soup-Soap-Salvation, a compendium of Salvation Army Social Services in the Australian Southern Territory</title>
 <imprint>
-<place>O'Connor, W.A.</place>
-<publisher> Argyle-Pacific Pub.</publisher>
-<date>1993</date>
+<publisher>The Salvation Army Australia Southern Territory Territorial Archives and Museum</publisher>
+<date>2003</date>
 </imprint>
 </bibref>
 </objectXMLWrap>
@@ -447,43 +476,22 @@ Investigation into the Administration of the Child Welfare Department of Western
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
-<relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000117.htm">
+<relationEntry localType="published">Report: Lost Innocents: Righting the Record Report on Child Migration</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Information Services, Department for Community Development</name>
-<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
+<name type="author">Parliament of Australia Senate</name>
+<title render="italic">Lost Innocents: Righting the Record Report on Child Migration</title>
 <imprint>
-<place>Perth</place>
-<publisher>Government of Western Australia</publisher>
-<date>2004</date>
+<place>Canberra</place>
+<publisher>Senate Printing Unit</publisher>
+<date>2001</date>
 </imprint>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/completed_inquiries/1999-02/child_migrat/report/index.htm"></extptr>
 </bibref>
 </objectXMLWrap>
 
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001139.htm">
-<relationEntry localType="published">Newspaper Article: State Children [Annual Report, November 1922]</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">State Children [Annual Report, November 1922]</title>
-<imprint>
-<date>1922</date>
-</imprint>
-<bibseries>
-<title render="italic">The Daily News</title>
-<num type="pages">5</num>
-</bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article83155880"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001355.htm">
 <relationEntry localType="published">Newspaper Article: West Australia</relationEntry>
@@ -610,21 +618,34 @@ Investigation into the Administration of the Child Welfare Department of Western
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001122.htm">
-<relationEntry localType="published">Newspaper Article: Report Criticises Seaforth Boys' Home</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000623.htm">
+<relationEntry localType="published">Book: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Report Criticises Seaforth Boys' Home</title>
+<name type="author">Information Services, Department for Community Development</name>
+<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
 <imprint>
-<date>1954</date>
+<place>Perth</place>
+<publisher>Government of Western Australia</publisher>
+<date>2004</date>
 </imprint>
-<bibseries>
-<title render="italic">The West Australian</title>
-<num type="pages">4</num>
-</bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article52959735"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000058.htm">
+<relationEntry localType="published">Book: The Scheme: the Christian Brothers and Childcare in Western Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Coldrey, Barry M.</name>
+<title render="italic">The Scheme: the Christian Brothers and Childcare in Western Australia</title>
+<imprint>
+<place>O'Connor, W.A.</place>
+<publisher> Argyle-Pacific Pub.</publisher>
+<date>1993</date>
+</imprint>
 </bibref>
 </objectXMLWrap>
 
@@ -637,6 +658,7 @@ Investigation into the Administration of the Child Welfare Department of Western
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Western Australia</repository>
 <unittitle>BA953/70: Unidentified group at Seaforth Boy's Home, Gosnells, 1926-1932</unittitle>
 <unitdate>1926 - 1932</unitdate>
 <abstract>This is a digitised copy of a photographic print and is part of the group of images 'Activities at Seaforth Boys' Home, Gosnells [picture]' and is held at the State Library of Western Australia. The images shows girls and adults at the Salvation Army Homes. Although the title refers to the Seaforth Boys' Homes, it is likely that this image may have been taken in the Seaforth Salvation Army Girls' Home, which was on the same piece of land.</abstract>
@@ -650,6 +672,7 @@ Investigation into the Administration of the Child Welfare Department of Western
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Salvation Army Heritage Museum WA, Seaforth photos file</repository>
 <unittitle>Seaforth School and Reformatory Boys</unittitle>
 <unitdate>1954?</unitdate>
 <abstract>'Seaforth School and Reformatory Boys' 1947' is a digital copy of four photocopied images mounted on a single piece of paper and held in the <span style="font-style:italic">Seaforth photos</span> file at the Salvation Army Heritage Museum WA. Handwritten captions identify the images as 'Seaforth School'; 'Seaforth - Reformatory boys'; 'Seaforth 7-7-54' (boys are named in the original held on the file); and 'Seaforth 1954 F. Dean &amp; Blinkie'. From the clothing, it seems likely that all images of the boys date from 1954.</abstract>
@@ -663,6 +686,7 @@ Investigation into the Administration of the Child Welfare Department of Western
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Salvation Army Heritage Museum WA, Seaforth photos file</repository>
 <unittitle>Seaforth Boy's Home circa 1948</unittitle>
 <unitdate>1948?</unitdate>
 <abstract>'Seaforth Boy's Home circa 1948' is adigital copy of an image mounted on a card titled, 'Young Australians', held in the <span style="font-style:italic">Seaforth photos</span> file at the Salvation Army Heritage Museum WA. A typed caption reads in part, 'Seaforth Boy's Home - circa 1948 I counted 73 boys + driver.'</abstract>
@@ -676,6 +700,7 @@ Investigation into the Administration of the Child Welfare Department of Western
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Salvation Army Heritage Museum WA, Seaforth photos file</repository>
 <unittitle>Seaforth House, 1958</unittitle>
 <unitdate>1958</unitdate>
 <abstract>'Seaforth House, 1958' is a digital copy of an image held in the <span style="font-style:italic">Seaforth photos</span> file at the Salvation Army Heritage Museum WA. A handwritten caption reads: 'Back of Seaforth House, Christmas 1958'.</abstract>
@@ -689,6 +714,7 @@ Investigation into the Administration of the Child Welfare Department of Western
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Salvation Army Heritage Museum WA, Seaforth photos file</repository>
 <unittitle>Seaforth MacKenzie Home at Seaforth Boy's Home, 1951</unittitle>
 <unitdate>1951</unitdate>
 <abstract>'Seaforth MacKenzie Home at Seaforth Boy's Home, 1951' is a digital copy of four images mounted on paper and held in the <span style="font-style:italic">Seaforth photos</span> file at the Salvation Army Heritage Museum WA. A typed caption identifies the images as a photograph of the homestead used for the Seaforth Boys' Home; a photograph of boys in the Canning River, tending cattle in 1951; buildings, including the workshop; and Brigadier Sam McCormack with boys in the workshop. As boys from the reformatory used the workshop, it is possible that the images are relevant to both the Seaforth Boys' Home and the Seaforth Salvation Army Boys' Reformatory.</abstract>
@@ -702,6 +728,7 @@ Investigation into the Administration of the Child Welfare Department of Western
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Salvation Army Heritage Museum WA, Seaforth Boys closed social work file</repository>
 <unittitle>Seaforth WA Children's Homes 1920's</unittitle>
 <unitdate>1920s - 1950s</unitdate>
 <abstract>'Seaforth WA Children's Homes 1920's' is a digital copy of an item held in the <span style="font-style:italic">Seaforth Boys closed social work</span> file at the Salvation Army Heritage Museum WA. It is a collection of photocopied images relating to the children's Homes run by the Salvation Army on the Seaforth site at Gosnells: Seaforth Boys' Home; Seaforth Salvation Army Girls' Home; and Seaforth Salvation Army Boys' Reformatory. There are images of children, staff, buildings and grounds. Some images have typewritten captions.</abstract>
@@ -715,6 +742,7 @@ Investigation into the Administration of the Child Welfare Department of Western
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Salvation Army Heritage Museum WA, Seaforth Boys closed social work file</repository>
 <unittitle>Seaforth History</unittitle>
 <unitdate>1920s - 1950s</unitdate>
 <abstract>'Seaforth history' is a digital copy of an undated item held in the <span style="font-style:italic">Seaforth Boys closed social work</span> file at the Salvation Army Heritage Museum WA. It is a typed list of major historical events (such as openings and closings) and key staff movements at the Seaforth Boys' Home and Reformatory. It is likely that the list was compiled from the official 'History Book' for the institution. The years 1939-1974 are covered, extending beyond the period when Seaforth was a children's Home.</abstract>
@@ -731,6 +759,7 @@ Investigation into the Administration of the Child Welfare Department of Western
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Salvation Army Heritage Museum WA, Seaforth Boys closed social work file</repository>
 <unittitle>Backward boys come to the front</unittitle>
 <unitdate>19 December 1925</unitdate>
 <abstract>'Backward boys come to the front' is a digital copy of an item published in the <span style="font-style:italic">War Cry</span> Christmas edition on 19 December 1925, held in the <span style="font-style:italic">Seaforth Boys closed social work</span> file at the Salvation Army Heritage Museum WA. Written by Captain Jean Brown, the item reports that the Seaforth Boys' Home has 50 boys in the 'backward' section. There are images of boys and staff, and a view of the Home, which is described as a 'village-like estate'. The item also describes the boys' 'general' section and the Seaforth Salvation Army Boys' Reformatory.</abstract>
@@ -747,6 +776,7 @@ Investigation into the Administration of the Child Welfare Department of Western
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Department for Child Protection and Family Support, Annual Report of the Child Welfare Department, 1928, after p.6</repository>
 <unittitle>Salvation Army Homes - Seaforth, Gosnells, 1928</unittitle>
 <unitdate>1928</unitdate>
 <abstract>'Salvation Army Homes - Seaforth, Gosnells, 1928' is a digital copy of an image included (after p.6) in the <span style="font-style:italic">Annual Report of the Child Welfare Department, 1928</span>.</abstract>
@@ -760,6 +790,7 @@ Investigation into the Administration of the Child Welfare Department of Western
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Western Australia</repository>
 <unittitle>BA953/52: Display of cane furniture made by the boys at Seaforth Boys' Home, Gosnells, 1930</unittitle>
 <unitdate>1930</unitdate>
 <abstract>This is a digitised copy of a photographic print and is part of the group of images 'Canework, woodwork and other goods made by the boys at Seaforth Boys' Home, Gosnells [picture]' held at the State Library of Western Australia. The image shows a selection of cane furniture made by the boys at the Home.</abstract>
@@ -773,6 +804,7 @@ Investigation into the Administration of the Child Welfare Department of Western
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Western Australia</repository>
 <unittitle>BA953/2: Dormitory at Seaforth Boys' Home, Gosnells, 1926-1932</unittitle>
 <unitdate>1926 - 1932</unitdate>
 <abstract>This is a digitised copy of a photographic print and is part of the group of images 'Buildings at Seaforth Boys' Home, Gosnells [picutre] held at the State Library of Western Australia. The image shows a dormitory at Seaforth Salvation Army Boys' Homes, Gosnells.</abstract>
@@ -786,6 +818,7 @@ Investigation into the Administration of the Child Welfare Department of Western
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Library of Western Australia</repository>
 <unittitle>BA953/3: Boys in the grounds of Seaforth Boys' Home, Gosnells, 1926-1932</unittitle>
 <unitdate>1926 - 1932</unitdate>
 <abstract>This is a digitised copy of a photographic print and is part of the group of images 'Activities at Seaforth Boys' Home, Gosnells [picture]' held at the State Library of Western Australia. The image shows boys on the sports field at Seaforth Salvation Army Boys' Home, Gosnells.</abstract>

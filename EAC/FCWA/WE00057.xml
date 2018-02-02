@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-14">2017-09-14</eventDateTime>
+<eventDateTime standardDateTime="2017-10-25">2017-10-25</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -97,6 +97,9 @@
 </function>
 <function>
 <term>School</term>
+</function>
+<function>
+<term>Receiving Agency</term>
 </function>
 </functions>
 <biogHist>
@@ -504,23 +507,25 @@ Child Abuse
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
-<relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000480.htm">
+<relationEntry localType="published">Resource Section: Submission No. 40 Inquiry into Children in Institutional Care: Submissions</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Information Services, Department for Community Development</name>
-<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
+<name type="author">Coldrey, Barry</name>
+<title render="quoted">Submission No. 40 Inquiry into Children in Institutional Care: Submissions</title>
 <imprint>
-<publisher>Government of Western Australia</publisher>
+<publisher>Commonwealth of Australia</publisher>
+<date>2003</date>
 </imprint>
-<extptr linktype="simple" href="http://signposts.cpfs.wa.gov.au/"></extptr>
+<bibseries>
+<title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
+<name type="author">Senate Community Affairs Committee</name>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
 </bibref>
 </objectXMLWrap>
 
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000478.htm">
 <relationEntry localType="published">Resource Section: Submission No. 25 Inquiry into Children in Institutional Care: Submissions</relationEntry>
@@ -637,25 +642,23 @@ Child Abuse
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000481.htm">
-<relationEntry localType="published">Resource Section: Submission No. 41 Inquiry into Children in Institutional Care: Submissions</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000001.htm">
+<relationEntry localType="published">Resource: Signposts: A Guide for Children and Young People in Care in WA from 1920</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Submission No. 41 Inquiry into Children in Institutional Care: Submissions</title>
+<name type="author">Information Services, Department for Community Development</name>
+<title render="italic">Signposts: A Guide for Children and Young People in Care in WA from 1920</title>
 <imprint>
-<publisher>Commonwealth of Australia</publisher>
-<date>2003</date>
+<publisher>Government of Western Australia</publisher>
 </imprint>
-<bibseries>
-<title render="italic">Inquiry into Children in Institutional Care - Submissions received by the committee as at 17/3/05</title>
-<name type="author">Senate Community Affairs Committee</name>
-</bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
+<extptr linktype="simple" href="http://signposts.cpfs.wa.gov.au/"></extptr>
 </bibref>
 </objectXMLWrap>
 
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000527.htm">
 <relationEntry localType="published">Resource Section: Minutes of Evidence Taken Before the Health Committee on 11 June 1998</relationEntry>
@@ -677,24 +680,27 @@ Child Abuse
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000482.htm">
-<relationEntry localType="published">Resource Section: Cosgrove, Oliver Manuscript Note</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000716.htm">
+<relationEntry localType="published">Newspaper Article: The Daily News [Christmas Cheer Fund]</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Cosgrove, Oliver Manuscript Note</title>
+<title render="quoted">The Daily News [Christmas Cheer Fund]</title>
 <imprint>
-<publisher>State Library of Western Australia</publisher>
-<date>1998</date>
+<date>1916</date>
 </imprint>
 <bibseries>
-<title render="italic">State Library of Western Australia website</title>
+<title render="italic">The Daily News</title>
+<num type="pages">10</num>
 </bibseries>
-<extptr linktype="simple" href="http://www.slwa.wa.gov.au/pdf/mn/mn1501_2000/mn1621.pdf"></extptr>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article81358001"></extptr>
 </bibref>
 </objectXMLWrap>
 
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000270.htm">
 <relationEntry localType="published">Book Section: Colonial Secretary's Department</relationEntry>
@@ -836,13 +842,13 @@ Child Abuse
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000587.htm">
-<relationEntry localType="published">Resource Section: Submission No. 483 Inquiry into Children in Institutional Care: Submissions</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000589.htm">
+<relationEntry localType="published">Resource Section: Submission No. 496 Inquiry into Children in Institutional Care: Submissions</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Submission No. 483 Inquiry into Children in Institutional Care: Submissions</title>
+<title render="quoted">Submission No. 496 Inquiry into Children in Institutional Care: Submissions</title>
 <imprint>
 <publisher>Commonwealth of Australia</publisher>
 <date>2004</date>
@@ -855,6 +861,25 @@ Child Abuse
 </bibref>
 </objectXMLWrap>
 
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000017.htm">
+<relationEntry localType="published">Report: Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Western Australia. Charities Department</name>
+<title render="italic">Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</title>
+<imprint>
+<place>Perth, [W.A.]</place>
+<publisher>Government Printer</publisher>
+<date>1899-1907</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001338.htm">
 <relationEntry localType="published">Resource: State wards Perth Australia</relationEntry>
@@ -971,28 +996,13 @@ Child Abuse
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000105.htm">
-<relationEntry localType="published">Resource: Forgotten Australians: A report on Australians who experienced institutional or out-of-home care as children</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000481.htm">
+<relationEntry localType="published">Resource Section: Submission No. 41 Inquiry into Children in Institutional Care: Submissions</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Parliament of Australia Senate</name>
-<title render="italic">Forgotten Australians: A report on Australians who experienced institutional or out-of-home care as children</title>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/completed_inquiries/2004-07/inst_care/report/index.htm"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000480.htm">
-<relationEntry localType="published">Resource Section: Submission No. 40 Inquiry into Children in Institutional Care: Submissions</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Coldrey, Barry</name>
-<title render="quoted">Submission No. 40 Inquiry into Children in Institutional Care: Submissions</title>
+<name type="author"></name>
+<title render="quoted">Submission No. 41 Inquiry into Children in Institutional Care: Submissions</title>
 <imprint>
 <publisher>Commonwealth of Australia</publisher>
 <date>2003</date>
@@ -1006,13 +1016,52 @@ Child Abuse
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000589.htm">
-<relationEntry localType="published">Resource Section: Submission No. 496 Inquiry into Children in Institutional Care: Submissions</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001081.htm">
+<relationEntry localType="published">Resource Section: Clontarf</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Heritage Council of Western Australia</name>
+<title render="quoted">Clontarf</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+<date>2015</date>
+</imprint>
+<bibseries>
+<title render="italic">inHerit</title>
+<name type="author">Western Australia State Heritage Office</name>
+</bibseries>
+<extptr linktype="simple" href="http://inherit.stateheritage.wa.gov.au/public/p/2401"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000482.htm">
+<relationEntry localType="published">Resource Section: Cosgrove, Oliver Manuscript Note</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Submission No. 496 Inquiry into Children in Institutional Care: Submissions</title>
+<title render="quoted">Cosgrove, Oliver Manuscript Note</title>
+<imprint>
+<publisher>State Library of Western Australia</publisher>
+<date>1998</date>
+</imprint>
+<bibseries>
+<title render="italic">State Library of Western Australia website</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.slwa.wa.gov.au/pdf/mn/mn1501_2000/mn1621.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000587.htm">
+<relationEntry localType="published">Resource Section: Submission No. 483 Inquiry into Children in Institutional Care: Submissions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Submission No. 483 Inquiry into Children in Institutional Care: Submissions</title>
 <imprint>
 <publisher>Commonwealth of Australia</publisher>
 <date>2004</date>
@@ -1025,25 +1074,6 @@ Child Abuse
 </bibref>
 </objectXMLWrap>
 
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000017.htm">
-<relationEntry localType="published">Report: Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Western Australia. Charities Department</name>
-<title render="italic">Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</title>
-<imprint>
-<place>Perth, [W.A.]</place>
-<publisher>Government Printer</publisher>
-<date>1899-1907</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000585.htm">
 <relationEntry localType="published">Resource Section: Submission No. 441 Inquiry into Children in Institutional Care: Submissions</relationEntry>
@@ -1165,47 +1195,37 @@ Child Abuse
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000716.htm">
-<relationEntry localType="published">Newspaper Article: The Daily News [Christmas Cheer Fund]</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000117.htm">
+<relationEntry localType="published">Report: Lost Innocents: Righting the Record Report on Child Migration</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">The Daily News [Christmas Cheer Fund]</title>
+<name type="author">Parliament of Australia Senate</name>
+<title render="italic">Lost Innocents: Righting the Record Report on Child Migration</title>
 <imprint>
-<date>1916</date>
+<place>Canberra</place>
+<publisher>Senate Printing Unit</publisher>
+<date>2001</date>
 </imprint>
-<bibseries>
-<title render="italic">The Daily News</title>
-<num type="pages">10</num>
-</bibseries>
-<extptr linktype="simple" href="http://nla.gov.au/nla.news-article81358001"></extptr>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/completed_inquiries/1999-02/child_migrat/report/index.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000105.htm">
+<relationEntry localType="published">Resource: Forgotten Australians: A report on Australians who experienced institutional or out-of-home care as children</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Parliament of Australia Senate</name>
+<title render="italic">Forgotten Australians: A report on Australians who experienced institutional or out-of-home care as children</title>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/completed_inquiries/2004-07/inst_care/report/index.htm"></extptr>
 </bibref>
 </objectXMLWrap>
 
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001081.htm">
-<relationEntry localType="published">Resource Section: Clontarf</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Heritage Council of Western Australia</name>
-<title render="quoted">Clontarf</title>
-<imprint>
-<publisher>Government of Western Australia</publisher>
-<date>2015</date>
-</imprint>
-<bibseries>
-<title render="italic">inHerit</title>
-<name type="author">Western Australia State Heritage Office</name>
-</bibseries>
-<extptr linktype="simple" href="http://inherit.stateheritage.wa.gov.au/public/p/2401"></extptr>
-</bibref>
-</objectXMLWrap>
-
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0001043.htm">
 <relationEntry localType="digitalObject">The Christian Brothers' Agricultural School, Tardun, Western Australia</relationEntry>
@@ -1231,6 +1251,7 @@ There are also photographs of the Clontarf Band, manual arts room and beehives, 
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>State Records Office Western Australia, Western Australia <span style="font-style:italic">Votes and Proceedings</span> 1918 Vol.2 Paper A2</repository>
 <unittitle>Report of the Select Committee of the Legislative Council on the State Children Act Amendment Bill</unittitle>
 <unitdate>19 November 1918</unitdate>
 <abstract>This is a digital copy of the report which is published in the Votes and Proceedings of the Parliament of Western Australia.</abstract>
@@ -1243,6 +1264,7 @@ There are also photographs of the Clontarf Band, manual arts room and beehives, 
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Department for Child Protection and Family Support, Annual Report of the State Children Department, 1927, after p.4</repository>
 <unittitle>The Band, Clontarf Boys' Orphanage, 1927</unittitle>
 <unitdate>1927</unitdate>
 <abstract>'The Band, Clontarf Boys' Orphanage, 1927' is a digital copy of an image included (after p.4) in the <span style="font-style:italic"> Annual Report of the State Children Department, 1927</span>.</abstract>
@@ -1256,6 +1278,7 @@ There are also photographs of the Clontarf Band, manual arts room and beehives, 
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Department for Child Protection and Family Support, Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools, Report 1906, before p.21</repository>
 <unittitle>Clontarf Orphanage Industrial School, Generator, 1906</unittitle>
 <unitdate>1907</unitdate>
 <abstract>'Clontarf Orphanage Industrial School, Generator, 1906' is a digital copy of an image included (before p.21) in the <span style="font-style:italic">Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</span> for the year ending 31 December 1906. It shows the generator used to produce electricity at Clontarf.</abstract>
@@ -1269,6 +1292,7 @@ There are also photographs of the Clontarf Band, manual arts room and beehives, 
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Department for Child Protection and Family Support, Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools, Report 1906, before p.21</repository>
 <unittitle>Clontarf Orphanage Industrial School for Roman Catholic Boys, 1906</unittitle>
 <unitdate>1907</unitdate>
 <abstract>'Clontarf Orphanage Industrial School for Roman Catholic Boys, 1906' is a digital copy of an image included (before p.21) in the <span style="font-style:italic">Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</span> for the year ending 31 December 1906.</abstract>
@@ -1282,6 +1306,7 @@ There are also photographs of the Clontarf Band, manual arts room and beehives, 
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Department for Child Protection and Family Support, Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools, Report 1906, before p.21</repository>
 <unittitle>Dormitory - Clontarf Orphanage Industrial School for Roman Catholic Boys, 1906</unittitle>
 <unitdate>1907</unitdate>
 <abstract>'Dormitory - Clontarf Orphanage Industrial School for Roman Catholic Boys, 1906' is a digital copy of an image included (before p.21) in the <span style="font-style:italic">Report by the Superintendent of Public Charities and Inspector of Industrial and Reformatory Schools</span> for the year ending 31 December 1906.</abstract>
@@ -1295,6 +1320,7 @@ There are also photographs of the Clontarf Band, manual arts room and beehives, 
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia</repository>
 <unittitle>CEMWA Response to Moss Questionnaire</unittitle>
 <unitdate>1951</unitdate>
 <abstract>'CEMWA Response to Moss Questionnaire' is an excerpt from the digital copy of the <span style="font-style:italic">Moss John - visiting Child Welfare Expert</span> file from the National Archives of Australia website. There is an undated letter from the Catholic Episcopal Migration and Welfare Association Inc, responding to questions about Bindoon, Clontarf, Castledare,Nazareth House, St Joseph's Orphanage (including St Vincent's Foundling Home), and Tardun. There is also a letter, dated 14 August 1951, from the Under Secretary for Lands and Immigration passing on further information about staffing at those institutions.</abstract>
@@ -1307,6 +1333,7 @@ There are also photographs of the Clontarf Band, manual arts room and beehives, 
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia</repository>
 <unittitle>Enquiry by Mr. John Moss. Points on which information is needed as to provision for the welfare of children emigrating from the United Kingdom to Australia</unittitle>
 <unitdate>10 May 1951</unitdate>
 <abstract>'Enquiry by Mr. John Moss. Points on which information is needed as to provision for the welfare of children emigrating from the United Kingdom to Australia' is an excerpt from the digital copy of the <span style="font-style:italic">Moss John - visiting Child Welfare Expert</span> file from the National Archives of Australia website. It is the questionnaire that was circulated to government, the organisations that received and placed child migrants, and the children's Homes where the children lived. This questionnaire was received by the Commonwealth Government on 10 May 1951.</abstract>
@@ -1319,6 +1346,7 @@ There are also photographs of the Clontarf Band, manual arts room and beehives, 
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Christian Brothers Institution Albums 1 &amp; 2 (Holy Spirit Collection)</repository>
 <unittitle>Clontarf Slideshow, Part 1</unittitle>
 <unitdate>1940s - 1970s</unitdate>
 <abstract>This is a Part 1 of a slideshow of photographs from the archives of the Christian Brothers Oceania Province. It was created by 'old boys' Peter Bent and Michael Hogan, with assistance from Ed Butler, using images from 'Institution Albums 1 and 2'. There are all sorts of scenes from life at Clontarf from the 1940s to 1970s. Many people assisted with the identification of boys, brothers and staff to create captions for the images in this slideshow. DVD copies of this slideshow are available from Tuart Place.
@@ -1336,6 +1364,7 @@ The Find &amp; Connect website has split the slideshow into two parts so that it
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>National Archives of Australia</repository>
 <unittitle>John Moss C.B.E. U.K. Child Welfare Expert. Visit to Australia. Part II</unittitle>
 <unitdate>1951 - 1952</unitdate>
 <abstract>This is a file held online by the National Archives of Australia. It has draft reports on the Australian institutions which took unaccompanied British child migrants after World War Two.</abstract>
@@ -1348,6 +1377,7 @@ The Find &amp; Connect website has split the slideshow into two parts so that it
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Christian Brothers Institution Albums 1 &amp; 2 (Holy Spirit Collection)</repository>
 <unittitle>Clontarf Slideshow , Part 2</unittitle>
 <unitdate>1940s - 1970s</unitdate>
 <abstract>This is a Part 2 of a slideshow of photographs from the archives of the Christian Brothers Oceania Province. It was created by 'old boys' Peter Bent and Michael Hogan, with assistance from Ed Butler, using images from 'Institution Albums 1 and 2'. There are all sorts of scenes from life at Clontarf from the 1940s to 1970s. Many people assisted with the identification of boys, brothers and staff to create captions for the images in this slideshow. DVD copies of this slideshow are available from Tuart Place.

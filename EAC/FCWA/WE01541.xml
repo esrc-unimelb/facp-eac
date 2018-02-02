@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>WE01541</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCWA</agencyCode>
+<agencyName>Find &amp; Connect - Western Australia</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2017-09-14">2017-09-14</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/wa/biogs/WE01541b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>Child Protection and Family Support</part>
+<part localType="parent">State of Western Australia</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType="acronym"><part>CPFS</part>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2017-07-01">July 2017</fromDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Government Agency</term>
+</function>
+<function>
+<term>Adoption Agency</term>
+</function>
+<function>
+<term>Records Access Service</term>
+</function>
+<function>
+<term>Records Holder</term>
+</function>
+<function>
+<term>Care Provider</term>
+</function>
+</functions>
+<biogHist>
+<abstract>Child Protection and Family Support is part of the Department of Communities, a department created on 1 July 2017. Child Protection and Family Support provides the services that were previously delivered by the Department for Child Protection and Family Support.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00481b.htm">
+<relationEntry localType="Archival Collection">
+Western Australian Government Records relating to Child Welfare and Protection (1894 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01118b.htm">
+<relationEntry localType="Organisation">
+Department for Child Protection and Family Support, State of Western Australia (2013 - 2017)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00578b.htm">
+<relationEntry localType="Organisation">
+Freedom of Information, Child Protection and Family Support (1992? - )
+</relationEntry>
+<descriptiveNote>
+<p><span style="font-style:italic">Freedom of Information </span> is the Department for Child Protection and Family Support's contact point for records enquiries. <span style="font-style:italic">Freedom of Information</span> encourages people to search for their records. However, they do ask people to be aware that files 'can be limited in the amount and type of information they hold. This is because the information which was recorded depended on the extent of contact with the person or the family. Sometimes records are incomplete, have pages missing or the writing has deteriorated and is unreadable, and some files have been destroyed. The Department is making every effort to preserve the remaining records.'</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/biogs/WE00640b.htm">
+<relationEntry localType="Organisation">
+Past Adoption Information and Services, Child Protection and Family Support (1994? - )
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Child Protection and Family Support', in <span style="font-style:italic">Find &amp; Connect - Western Australia</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Child Protection and Family Support</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Western Australia</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/wa/biogs/WE01541b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001520.htm">
+<relationEntry localType="published">Resource: Department of Communities, Government of Western Australia</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Department of Communities, Government of Western Australia</title>
+<imprint>
+<publisher>Government of Western Australia</publisher>
+<date>2017</date>
+</imprint>
+<extptr linktype="simple" href="https://www.communities.wa.gov.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

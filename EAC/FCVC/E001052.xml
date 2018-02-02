@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E001052</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Event</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2017-07-28">2017-07-28</eventDateTime>
+<agentType>human</agentType>
+<agent>Cate O'Neill</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2017-12-07">2017-12-07</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E001052b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>Case Study 30, August 2015, Melbourne</part>
+<part localType="parent">Royal Commission into Institutional Responses to Child Sexual Abuse</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="2015-01-01">2015</fromDate>
+<toDate standardDate="2015-12-31">2015</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>Case Study 30, August 2015, Melbourne was a public hearing of the Royal Commission into Institutional Responses to Child Sexual Abuse. It inquired into the experiences of former child residents at Turana Youth Training Centre, Winlaton Youth Training Centre and Baltara Reception Centre between the 1960s and early 1990s. In April 2016, the Royal Commission subsequently published its findings in the Report of Case Study No 30: The response of Turana, Winlaton and Baltara, and the Victoria Police and the Department of Health and Human Services Victoria to allegations of child sexual abuse.</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001017b.htm">
+<relationEntry localType="Organisation">
+Department of Health &amp; Human Services, State Government of Victoria (2015 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000812b.htm">
+<relationEntry localType="Event">
+Royal Commission into Institutional Responses to Child Sexual Abuse, Commonwealth Government
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000192b.htm">
+<relationEntry localType="Organisation">
+Winlaton (1956 - c. 1991)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000246b.htm">
+<relationEntry localType="Organisation">
+Baltara Reception Centre (1968 - c. 1992)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000626b.htm">
+<relationEntry localType="Organisation">
+Turana (1955 - 1993)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Case Study 30, August 2015, Melbourne', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Case Study 30, August 2015, Melbourne</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E001052b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001373.htm">
+<relationEntry localType="published">Resource Section: Case Study 30: Youth detention centres, Victoria</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Case Study 30: Youth detention centres, Victoria</title>
+<bibseries>
+<title render="italic">Royal Commission into Institutional Responses to Child Sexual Abuse</title>
+</bibseries>
+<extptr linktype="simple" href="https://www.childabuseroyalcommission.gov.au/case-studies/case-study-30-youth-detention-centres-victoria"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001370.htm">
+<relationEntry localType="published">Article: Family rape victims delivered to a worse hell</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hamilton, Madeleine</name>
+<title render="quoted">Family rape victims delivered to a worse hell</title>
+<imprint>
+<date>2015</date>
+</imprint>
+<extptr linktype="simple" href="https://www.eurekastreet.com.au/article.aspx?aeid=45429"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001230.htm">
+<relationEntry localType="published">Article: Ripple Effect</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Laurent, Nicola</name>
+<title render="quoted">Ripple Effect</title>
+<imprint>
+<publisher>Find &amp; Connect Web Resource Project for the Commonwealth of Australia</publisher>
+<date>2016</date>
+</imprint>
+<bibseries>
+<title render="italic">Find &amp; Connect web resource blog</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnectwrblog.info/2016/06/ripple-effect/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-08-30">2017-08-30</eventDateTime>
+<eventDateTime standardDateTime="2017-11-07">2017-11-07</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -45,15 +45,15 @@
 <nameEntry><part>Lynwood Hall</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
-<nameEntry localType=""><part>Linnwood Hall</part>
+<nameEntry localType="also known as"><part>Linnwood Hall</part>
 </nameEntry>
-<nameEntry localType=""><part>Guildford Domestic Science Training School</part>
+<nameEntry localType="also known as"><part>Guildford Domestic Science Training School</part>
 </nameEntry>
-<nameEntry localType=""><part>Guildford Special Training School</part>
+<nameEntry localType="also known as"><part>Guildford Special Training School</part>
 </nameEntry>
-<nameEntry localType=""><part>Guildford Hostel</part>
+<nameEntry localType="also known as"><part>Guildford Hostel</part>
 </nameEntry>
-<nameEntry localType=""><part>Lynnwood Hall</part>
+<nameEntry localType="also known as"><part>Lynnwood Hall</part>
 </nameEntry>
 <nameEntry localType="This is the original name of the property."><part>Linnwood</part>
 </nameEntry>
@@ -211,6 +211,22 @@ Faulds House (1976 - 1988)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001101.htm">
+<relationEntry localType="published">Resource: The Life of Riley</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">The Life of Riley</title>
+<imprint>
+<publisher>Christina Green</publisher>
+<date>2014</date>
+</imprint>
+<extptr linktype="simple" href="http://lifeofriley.net.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000843.htm">
 <relationEntry localType="published">Resource Section: Linnwood House, 1891 built by George and Susan McCredie under Threat because of Lack of Funds for ongoing maintenance and future conservation</relationEntry>
 
@@ -225,7 +241,7 @@ Faulds House (1976 - 1988)
 <title render="italic">Heritage Watch NSW</title>
 <name type="author">Greater Western Sydney Heritage Action Group and the NSW Heritage Network Inc - Linked To Protect</name>
 </bibseries>
-<extptr linktype="simple" href="http://www.heritagewatchnsw.org.au/challoner-cottage-mittagong.php"></extptr>
+<extptr linktype="simple" href="http://web.archive.org/web/20170218092124/http://www.heritagewatchnsw.org.au/linnwood-house-guildford.php"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -399,6 +415,21 @@ Faulds House (1976 - 1988)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000804.htm">
+<relationEntry localType="digitalObject">Linnwood Hall</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Linnwood Hall</unittitle>
+<unitdate>c. 2011</unitdate>
+<abstract>This is a copy of a photograph of Linnwood Hall that is published on 'The Life of Riley' website (the autobiography by Christina Green).</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/objects/ND0000586.htm">
 <relationEntry localType="digitalObject">Lynwood Hall grounds</relationEntry>
 
@@ -430,6 +461,7 @@ Faulds House (1976 - 1988)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Leonie Knapman</repository>
 <unittitle>Lynnwood Hall dormitory</unittitle>
 <unitdate>c. 1948</unitdate>
 <abstract>This is a digital copy of a photograph from an album collected by Child Welfare Department officers in the late 1940s. From the collection of Leonie Knapman.</abstract>
@@ -443,6 +475,7 @@ Faulds House (1976 - 1988)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Care Leavers Australia Network [CLAN]</repository>
 <unittitle>Lynwood Hall</unittitle>
 </archref>
 </objectXMLWrap>

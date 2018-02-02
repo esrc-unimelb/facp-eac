@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-08-11">2017-08-11</eventDateTime>
+<eventDateTime standardDateTime="2017-11-24">2017-11-24</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -84,17 +84,12 @@ Client Files (1966 - )
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00725b.htm">
 <relationEntry localType="Archival Collection">
-Records related to Church of England Social Welfare Bureau (1947 - 1982)
+Records related to Church of England Social Welfare Bureau (1947 - 1991)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00001b.htm">
 <relationEntry localType="Organisation">
 Anglican Church of Australia (1981 - )
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE00436b.htm">
-<relationEntry localType="Archival Series">
-Church of England Social Welfare day books (1967 - 1991)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/biogs/SE01318b.htm">
@@ -160,6 +155,38 @@ Anglican Community Services (1988 - 1997)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000012.htm">
+<relationEntry localType="published">Book: Rations, Residence, Resources: A history of social welfare in South Australia since 1836</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dickey, Brian</name>
+<title render="italic">Rations, Residence, Resources: A history of social welfare in South Australia since 1836</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Wakefield Press</publisher>
+<date>1986</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/sa/bib/SP0000001.htm">
+<relationEntry localType="published">Book: Giving a hand: A history of Anglicare SA since 1860</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dickey, Brian</name>
+<title render="italic">Giving a hand: A history of Anglicare SA since 1860</title>
+<imprint>
+<place>Adelaide</place>
+<publisher>Anglicare SA</publisher>
+<date>2003</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 </relations>
 </cpfDescription>

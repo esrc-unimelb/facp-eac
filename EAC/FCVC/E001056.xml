@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>E001056</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCVC</agencyCode>
+<agencyName>Find &amp; Connect - Victoria</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Archival Collection</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2017-08-24">2017-08-24</eventDateTime>
+<agentType>human</agentType>
+<agent>Helen Morgan</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2017-11-10">2017-11-10</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E001056b.htm</entityId>
+<entityId localType="legal number">Accession 1346</entityId>
+<entityType>concept</entityType>
+<nameEntry><part>Records of the Immigrants' Aid Society</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1878-01-01">c. 1878</fromDate>
+<toDate standardDate="1902-12-31">c. 1902</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<biogHist>
+<abstract>The Records of the Immigrants' Aid Society are held by the Royal Melbourne Hospital Archives. The Immigrants' Aid Society was a predecessor institution to the Royal Melbourne Hospital - Royal Park Campus (formerly known as Mount Royal Hospital).</abstract>
+<h4>Access Conditions</h4>
+<p>You can request information from the Royal Melbourne Hospital Archives.</p>
+<p>Access to patient medical records is restricted. Please note that enquiries to access patient medical records after 1910 must be made through the hospital's Freedom of Information officer.</p>
+<h4>Records</h4>
+<p>The Royal Melbourne Hospital Archives hold records of the Immigrants' Aid Society (Accession 1346) including admissions (from 1885), roll books (from 1880), an index to inmates (1884-85, 1889), statistical register of inmates (1878-1884), and minutes. Salient information from the minutes of the monthly committee meetings, including names and details of those who died in the Home, was regularly reported in the Melbourne newspapers in the nineteenth century.</p>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001054b.htm">
+<relationEntry localType="Organisation">
+Royal Melbourne Hospital Archives (1935? - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001055b.htm">
+<relationEntry localType="Contact Details">
+Royal Melbourne Hospital Archives - Contact Details
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000351b.htm">
+<relationEntry localType="Organisation">
+Immigrants' Aid Society (1853 - c. 1902)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'Records of the Immigrants' Aid Society', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">Records of the Immigrants' Aid Society</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Victoria</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E001056b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

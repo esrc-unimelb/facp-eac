@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-08-24">2017-08-24</eventDateTime>
+<eventDateTime standardDateTime="2017-12-21">2017-12-21</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -45,7 +45,7 @@
 <nameEntry><part>Royal Park Industrial School</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
-<nameEntry localType=""><part>Boys' Industrial School (Receiving Depot), Royal Park</part>
+<nameEntry localType="Also known as"><part>Boys' Industrial School (Receiving Depot), Royal Park</part>
 <useDates>
 <dateRange>
 <fromDate standardDate="1883-01-01">1883</fromDate>
@@ -53,7 +53,7 @@
 </dateRange>
 </useDates>
 </nameEntry>
-<nameEntry localType=""><part>Girls' Industrial School (Receiving Depot), Royal Park</part>
+<nameEntry localType="Also known as"><part>Girls' Industrial School (Receiving Depot), Royal Park</part>
 <useDates>
 <dateRange>
 <fromDate standardDate="1883-01-01">1883</fromDate>
@@ -109,6 +109,14 @@ Department of Industrial and Reformatory Schools (1864 - 1887)
 <toDate standardDate="1887-12-31">c. 1887</toDate>
 </dateRange>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000314b.htm">
+<relationEntry localType="Organisation">
+Sunbury Industrial School (1865 - 1880?)
+</relationEntry>
+<descriptiveNote>
+<p>In around 1880, boys from Sunbury Industrial School were transferred to the Royal Park Industrial School.</p>
+</descriptiveNote>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000704b.htm">
 <relationEntry localType="Archival Collection">
 Victorian Government Records relating to Wardship and Adoption (1864 - )
@@ -163,6 +171,43 @@ Royal Park Depot (c. 1880 - 1955)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001382.htm">
+<relationEntry localType="published">Resource Section: North West Hospital, Parkville Campus</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">North West Hospital, Parkville Campus</title>
+<imprint>
+<publisher>Heritage Council of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Victorian Heritage Database</title>
+</bibseries>
+<extptr linktype="simple" href="http://vhd.heritagecouncil.vic.gov.au/places/899"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001376.htm">
+<relationEntry localType="published">Article: Lost &amp; Found: State Children in Victoria</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Golding, Frank</name>
+<title render="quoted">Lost &amp; Found: State Children in Victoria</title>
+<imprint>
+<publisher>Frank Golding</publisher>
+<date>2017</date>
+</imprint>
+<bibseries>
+<title render="italic">Frank Golding: author, researcher, historian and consultant specialising in child welfare</title>
+</bibseries>
+<extptr linktype="simple" href="http://frankgolding.com/lost-and-found-state-children-in-victoria-1/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000494.htm">
 <relationEntry localType="published">Report: Industrial and Reformatory Schools. Report of the Inspector/Secretary</relationEntry>
 
@@ -200,6 +245,39 @@ Royal Park Depot (c. 1880 - 1955)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000131.htm">
+<relationEntry localType="published">Resource Section: RMH Royal Park Campus - a brief history 1853-2005</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">RMH Royal Park Campus - a brief history 1853-2005</title>
+<imprint>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="https://www.thermh.org.au/about/about-rmh/our-history/history-royal-park-campus"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
+<relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James Jenkinson Consulting</name>
+<title render="italic">Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</title>
+<imprint>
+<publisher>Unpublished</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000025.htm">
 <relationEntry localType="published">Resource Section: Royal Park Depot</relationEntry>
 
@@ -219,37 +297,20 @@ Royal Park Depot (c. 1880 - 1955)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
-<relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000581.htm">
+<relationEntry localType="digitalObject">Royal Park, training school and benevolent home for homeless children 1874-5</relationEntry>
 
 <objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">James Jenkinson Consulting</name>
-<title render="italic">Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</title>
-<imprint>
-<publisher>Unpublished</publisher>
-<date>2001</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000131.htm">
-<relationEntry localType="published">Resource Section: RMH Royal Park Campus - a brief history 1853-2005</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">RMH Royal Park Campus - a brief history 1853-2005</title>
-<imprint>
-<date>2005</date>
-</imprint>
-<extptr linktype="simple" href="http://www.mh.org.au/"></extptr>
-</bibref>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Royal Park, training school and benevolent home for homeless children 1874-5</unittitle>
+<unitdate>2000</unitdate>
+<abstract>This is a copy of a photograph of buildings that once were the Royal Park Industrial School (and after that housed other institutions).</abstract>
+<note label="rights">Copyright Graeme Butler</note>
+</archref>
 </objectXMLWrap>
 
 <descriptiveNote>
-<p>Source used to compile entry</p>
+<p>Include in Gallery</p>
 </descriptiveNote>
 </resourceRelation>
 </relations>
