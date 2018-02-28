@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
+<eventDateTime standardDateTime="2018-02-02">2018-02-02</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -86,6 +86,11 @@
 Melbourne Legacy (1923 - )
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000323b.htm">
 <relationEntry localType="Glossary Term">
 Hostel
@@ -130,23 +135,24 @@ Blamey House (c. 1949 - c. 1977)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
-<relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001347.htm">
+<relationEntry localType="published">Resource Section: Legacy - hostels and homes</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">James Jenkinson Consulting</name>
-<title render="italic">Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</title>
+<name type="author"></name>
+<title render="quoted">Legacy - hostels and homes</title>
 <imprint>
-<publisher>Unpublished</publisher>
-<date>2001</date>
+<publisher>State of Victoria</publisher>
 </imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/Legacy"></extptr>
 </bibref>
 </objectXMLWrap>
 
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000043.htm">
 <relationEntry localType="published">Report: Protecting Vulnerable Children: a national challenge: Second report on the inquiry into children in institutional or out-of-home care</relationEntry>
@@ -167,20 +173,22 @@ Blamey House (c. 1949 - c. 1977)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000435.htm">
-<relationEntry localType="digitalObject">Veteran's 'Adopt' Violin Prodigy</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
+<relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
 
 <objectXMLWrap>
-<archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
-<unittitle>Veteran's 'Adopt' Violin Prodigy</unittitle>
-<unitdate>12 September 1951</unitdate>
-<abstract>Caption reads, 'John Heywood, 11, arrives from Hamilton, a 154 year-old Lipollo fiddle under his arm, a brilliant career ahead.'</abstract>
-</archref>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James Jenkinson Consulting</name>
+<title render="italic">Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</title>
+<imprint>
+<publisher>Unpublished</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
 </objectXMLWrap>
 
 <descriptiveNote>
-<p>Include in Gallery</p>
+<p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
 </relations>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-06">2017-09-06</eventDateTime>
+<eventDateTime standardDateTime="2018-01-17">2018-01-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -103,14 +103,14 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000730b.htm">
-<relationEntry localType="Archival Collection">
-Anglicare Victoria Records (1886 - )
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000234b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000234b.htm">
 <relationEntry localType="Organisation">
 Anglican Church of Australia (1788 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000730b.htm">
+<relationEntry localType="Archival Collection">
+Anglicare Victoria Records (1886 - )
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000114b.htm">
@@ -124,6 +124,11 @@ Child Rescue (c. 1880 - c. 1910)
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000633b.htm">
 <relationEntry localType="Glossary Term">
 City Mission (c. 1854 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000458b.htm">
@@ -157,11 +162,6 @@ St Faith's (1975 - c. 1984)
 The Homes for Children and Family Counselling Service (1968 - c. 1975)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001026b.htm">
-<relationEntry localType="Organisation">
-Mission House (1886 - c. 1997)
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000101b.htm">
 <relationEntry localType="Organisation">
 Darling Babies' Home (1927 - 1967)
@@ -190,6 +190,11 @@ Napier House (1990? - 1997?)
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000106b.htm">
 <relationEntry localType="Organisation">
 St David's Hostel (c. 1973 - 1997?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001026b.htm">
+<relationEntry localType="Organisation">
+Mission House (1886 - c. 1997)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000099b.htm">
@@ -237,6 +242,25 @@ Anglicare Victoria (1997 - )
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000097b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001253.htm">
+<relationEntry localType="published">Resource Section: Mission to the Streets and Lanes (1886-1997)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Mission to the Streets and Lanes (1886-1997)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/Mission-to-the-Streets-and-Lanes"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000773.htm">
 <relationEntry localType="published">Resource Section: Submission number 285</relationEntry>

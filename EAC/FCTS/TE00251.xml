@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-11-07">2017-11-07</eventDateTime>
+<eventDateTime standardDateTime="2018-02-02">2018-02-02</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -107,14 +107,6 @@ Moral Imbecile (1920 - 1963)
 State Psychological Clinic (1922 - 1964)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00171b.htm">
-<relationEntry localType="Glossary Term">
-Eugenics (c. 1900 - c. 1940)
-</relationEntry>
-<descriptiveNote>
-<p>Eugenicist ideas contributed to the <span style="font-style:italic">Mental Deficiency Act</span>.</p>
-</descriptiveNote>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00241b.htm">
 <relationEntry localType="Organisation">
 Royal Derwent Hospital (1968 - 2000)
@@ -136,6 +128,14 @@ New Town Rest Home (1934 - 1936)
 <p>Children and adults diagnosed with intellectual disabilities living at the New Town Rest Home were detained there under the <span style="font-style:italic">Mental Deficiency Act</span>.</p>
 </descriptiveNote>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00297b.htm">
+<relationEntry localType="Organisation">
+St John's Park (1936 - 1994)
+</relationEntry>
+<descriptiveNote>
+<p>A number of children and adults living at St John's Park were detained there under the <span style="font-style:italic">Mental Deficiency Act</span>.</p>
+</descriptiveNote>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00080b.htm">
 <relationEntry localType="Organisation">
 Elim Maternity Hospital (1897 - c. 1973)
@@ -149,9 +149,9 @@ Mentally Defective (c. 1920 - c. 1960)
 <p>The term mentally defective was often used to describe adults and children detained under the <span style="font-style:italic">Mental Deficiency Act</span>.</p>
 </descriptiveNote>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01038b.htm">
-<relationEntry localType="Concept">
-Tasmanian State Government (1901 - )
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00171b.htm">
+<relationEntry localType="Glossary Term">
+Eugenics (c. 1900 - c. 1940)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00203b.htm">
@@ -199,13 +199,10 @@ Criminal Code Act 1924 (1924 - 1934)
 Law in Tasmania (1825 - )
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00297b.htm">
-<relationEntry localType="Organisation">
-St John's Park (1936 - 1994)
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01038b.htm">
+<relationEntry localType="Concept">
+Tasmanian State Government (1901 - )
 </relationEntry>
-<descriptiveNote>
-<p>A number of children and adults living at St John's Park were detained there under the <span style="font-style:italic">Mental Deficiency Act</span>.</p>
-</descriptiveNote>
 </cpfRelation>
 <cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00010b.htm">
 <relationEntry localType="Legislation">
@@ -324,23 +321,6 @@ Mental Health Act 1963 (1963 - 1999)
 </bibref>
 </objectXMLWrap>
 
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000141.htm">
-<relationEntry localType="published">Statute: Mental Deficiency Act 1920 (TAS)</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Mental Deficiency Act 1920 (TAS)</title>
-<imprint>
-<date>1920</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 </relations>
 </cpfDescription>

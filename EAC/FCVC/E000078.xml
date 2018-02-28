@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-11-07">2017-11-07</eventDateTime>
+<eventDateTime standardDateTime="2018-01-17">2018-01-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -142,6 +142,11 @@ Mission of St James and St John (1919 - 1997)
 <p>The Mission of St James and St John took over management of Andrew Kerr Memorial Home in 1941.</p>
 </descriptiveNote>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000730b.htm">
 <relationEntry localType="Archival Collection">
 Anglicare Victoria Records (1886 - )
@@ -187,6 +192,25 @@ Peninsula Family Services (1980 - )
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000078b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001288.htm">
+<relationEntry localType="published">Resource Section: Andrew Kerr Memorial Home (c. 1920 - 1980)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Andrew Kerr Memorial Home (c. 1920 - 1980)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/AndrewKerrMemorialHome"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001041.htm">
 <relationEntry localType="published">Newspaper Article: Kind Hearts Gave Them a Home</relationEntry>
@@ -242,24 +266,6 @@ Peninsula Family Services (1980 - )
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
-<relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">James Jenkinson Consulting</name>
-<title render="italic">Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</title>
-<imprint>
-<publisher>Unpublished</publisher>
-<date>2001</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000057.htm">
 <relationEntry localType="published">Book: Billylids and 'Home Kids': The Story of The Mission of St James and St John 1919-1994</relationEntry>
 
@@ -271,6 +277,24 @@ Peninsula Family Services (1980 - )
 <place>Surrey Hills, Victoria</place>
 <publisher>The Mission of St. James and St. John</publisher>
 <date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
+<relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James Jenkinson Consulting</name>
+<title render="italic">Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</title>
+<imprint>
+<publisher>Unpublished</publisher>
+<date>2001</date>
 </imprint>
 </bibref>
 </objectXMLWrap>

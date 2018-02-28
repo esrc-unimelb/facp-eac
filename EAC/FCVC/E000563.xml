@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-06">2017-09-06</eventDateTime>
+<eventDateTime standardDateTime="2018-01-17">2018-01-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -90,6 +90,11 @@
 Catholic Church in Australia (c. 1788 - )
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'St Mary's School for the Deaf', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
 
@@ -102,6 +107,25 @@ Catholic Church in Australia (c. 1788 - )
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000563b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001300.htm">
+<relationEntry localType="published">Resource Section: St Mary's School for the Deaf (1950-85)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">St Mary's School for the Deaf (1950-85)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/St-Marys-school-for-the-deaf"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000351.htm">
 <relationEntry localType="published">Book: Across the decades: celebrating 50 years of education at St. Mary's School for Children with Impaired Hearing</relationEntry>

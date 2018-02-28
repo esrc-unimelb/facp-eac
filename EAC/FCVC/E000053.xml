@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-06-26">2017-06-26</eventDateTime>
+<eventDateTime standardDateTime="2018-01-17">2018-01-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -42,7 +42,7 @@
 <cpfDescription>
 <identity><entityId>http://www.findandconnect.gov.au/ref/vic/biogs/E000053b.htm</entityId>
 <entityType>corporateBody</entityType>
-<nameEntry><part>St Joseph's Home for Children [Surrey Hills]</part>
+<nameEntry><part>St Joseph's Home for Children</part>
 <part localType="parent">Sisters of St Joseph</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
@@ -81,6 +81,7 @@
 <p>The Temporary Care Unit (formerly 'Karingal') provided emergency care for up to 3 months to children aged 12 months to 12 years. Social workers assisted in supporting the family as a whole. The Catholic Family Welfare Bureau referred children to the Temporary Care Unit and provided any further family support or placements.</p>
 <p>In the mid 1970s St Joseph's Surrey Hills established a service presence in Melbourne's under-resourced western suburbs. In 1979 a Family Group Home operated in Pascoe Vale.</p>
 <p>In 1981 the management and administration of St Joseph Homes for Children was consolidated at Flemington. The Surrey Hills Home closed in the move to smaller family group home care and an acknowledged oversupply of residential child care facilities in the eastern suburbs. St Joseph's extended its family group home program into the inner eastern and north western suburbs, and the Temporary Care Unit was relocated to the inner suburbs.</p>
+<p>After the closure of Surrey Hills, the organisation purchased houses in Finsbury Street, Flemington, to use for family group residential care. In the 1980s, the staff of St Joseph's were based in a row of shop fronts in Pin Oak Crescent, Flemington.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1967-01-01">1967</fromDate>
 <toDate standardDate="1981-12-31">1981</toDate>
@@ -120,6 +121,11 @@ Sisters of St Joseph (1890 - )
 <toDate standardDate="1991-12-31">1991</toDate>
 </dateRange>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000159b.htm">
 <relationEntry localType="Event">
 Inquiry into Children in Institutional Care (2003 - 2005)
@@ -137,7 +143,7 @@ St Anthony's Home (1943 - 1976)
 </cpfRelation>
 <cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000379b.htm">
 <relationEntry localType="Organisation">
-St Joseph's Home for Children [Flemington], Christian Brothers (1991 - 1997)
+St Joseph's Home for Children, Christian Brothers (1991 - 1997)
 </relationEntry>
 <dateRange>
 <fromDate standardDate="1991-01-01">1991</fromDate>
@@ -148,17 +154,55 @@ St Joseph's Home for Children [Flemington], Christian Brothers (1991 - 1997)
 </descriptiveNote>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
-<relationEntry localType="published">'St Joseph's Home for Children [Surrey Hills]', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
+<relationEntry localType="published">'St Joseph's Home for Children', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<title render="italic">St Joseph's Home for Children [Surrey Hills]</title>
+<title render="italic">St Joseph's Home for Children</title>
 <bibseries>
 <title render="italic">Find &amp; Connect - Victoria</title>
 </bibseries>
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000053b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001376.htm">
+<relationEntry localType="published">Article: Lost &amp; Found: State Children in Victoria</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Golding, Frank</name>
+<title render="quoted">Lost &amp; Found: State Children in Victoria</title>
+<imprint>
+<publisher>Frank Golding</publisher>
+<date>2017</date>
+</imprint>
+<bibseries>
+<title render="italic">Frank Golding: author, researcher, historian and consultant specialising in child welfare</title>
+</bibseries>
+<extptr linktype="simple" href="http://frankgolding.com/lost-and-found-state-children-in-victoria-1/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001316.htm">
+<relationEntry localType="published">Resource Section: St Joseph's Home(s) for Children (1888-1997)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">St Joseph's Home(s) for Children (1888-1997)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/St-Josephs-Home-for-Children"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001108.htm">
 <relationEntry localType="published">Resource Section: Heritage Display</relationEntry>
@@ -195,6 +239,35 @@ St Joseph's Home for Children [Flemington], Christian Brothers (1991 - 1997)
 
 <descriptiveNote>
 <p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000579.htm">
+<relationEntry localType="digitalObject">Houses in Finsbury Street, Flemington</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>Frank Golding</repository>
+<unittitle>Houses in Finsbury Street, Flemington</unittitle>
+<unitdate>c. 2017</unitdate>
+<abstract>This photograph shows houses in Finsbury Street, Flemington that were purchased by St Joseph's Home for Children in the 1980s and used as family group residential care. The image is published in a blog post by Frank Golding from 2017 about the history of children's Homes in the North Melbourne area.</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000578.htm">
+<relationEntry localType="digitalObject">St Joseph's shopfront, Pin Oak Crescent, Flemington</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>MacKillop Family Services</repository>
+<unittitle>St Joseph's shopfront, Pin Oak Crescent, Flemington</unittitle>
+<unitdate>1981?</unitdate>
+<abstract>This is a copy of a photograph of the shops where staff of St Joseph's Home for Chidlren were based from the 1980s</abstract>
+</archref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Include in Gallery</p>
 </descriptiveNote>
 </resourceRelation>
 </relations>

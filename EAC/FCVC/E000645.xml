@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-03-21">2016-03-21</eventDateTime>
+<eventDateTime standardDateTime="2018-01-31">2018-01-31</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -56,17 +56,17 @@
 </places>
 <functions>
 <function>
-<term>Non-denominational</term>
-</function>
-<function>
 <term>Care Provider</term>
 </function>
 <function>
 <term>Community Service Organisation</term>
 </function>
+<function>
+<term>Foster Care</term>
+</function>
 </functions>
 <biogHist>
-<abstract>The South Western Community Care Association Inc. was formed in 1991, through the amalgamation of Glenelg Foster Care, Currawong House Hamilton, South Western Tenant Support Services and Warrnambool Community Legal Aid Service. In 1998, it changed its name to Community Connections (Vic).</abstract>
+<abstract>The South Western Community Care Association Inc. was formed in 1991, through the amalgamation of Glenelg Foster Care, Currawong House Hamilton, South Western Tenant Support Services and Warrnambool Community Legal Aid Service. From 1991 to 1995, South Western Community Care Association was auspiced by Lutheran Children's Homes. In 1998, the organisation changed its name to Community Connections (Vic).</abstract>
 
 </biogHist>
 </description>
@@ -80,6 +80,15 @@ Currawong House (1976 - 1991)
 Glenelg Foster Care (1983? - 1991)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001066b.htm">
+<relationEntry localType="Organisation">
+Lutheran Children's Homes (c. 1973 - 2002)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1991-01-01">1991</fromDate>
+<toDate standardDate="1995-12-31">1995</toDate>
+</dateRange>
+</cpfRelation>
 <cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000644b.htm">
 <relationEntry localType="Organisation">
 Community Connections (Vic) Ltd (1998 - 2012?)
@@ -87,9 +96,6 @@ Community Connections (Vic) Ltd (1998 - 2012?)
 <dateRange>
 <fromDate standardDate="1998-01-01">1998</fromDate>
 </dateRange>
-<descriptiveNote>
-<p>South Western Community Care Association Inc was formed in 1991 through the amalgamation of Currawong House Hamilton, Glenelg Foster Care, South Western Tenant Support Services and Warrnambool Community Legal Aid Service.</p>
-</descriptiveNote>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'South Western Community Care Association Inc.', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
@@ -103,6 +109,25 @@ Community Connections (Vic) Ltd (1998 - 2012?)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000645b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001328.htm">
+<relationEntry localType="published">Resource Section: Lutheran Children's Home (1950-76)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Lutheran Children's Home (1950-76)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/LutheranChildrensHome"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
 <relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-07-03">2017-07-03</eventDateTime>
+<eventDateTime standardDateTime="2018-01-17">2018-01-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -112,6 +112,11 @@ Ballarat Town and City Mission (1867 - )
 <p>The Ballarat Town and City Mission took over the management of Alexandra Babies' Home in c.1921.</p>
 </descriptiveNote>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000743b.htm">
 <relationEntry localType="Archival Collection">
 Alexandra Babies' Home (and Toddlers' Home) Records (1909 - 1973)
@@ -172,6 +177,25 @@ Ballarat Orphanage (1909 - 1968)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000239b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001292.htm">
+<relationEntry localType="published">Resource Section: Alexandra Babies' Home (1909 - 1974)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Alexandra Babies' Home (1909 - 1974)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/AlexandraBabiesHome"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001163.htm">
 <relationEntry localType="published">Resource Section: More photographs unearthed</relationEntry>

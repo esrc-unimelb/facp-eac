@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-11-22">2017-11-22</eventDateTime>
+<eventDateTime standardDateTime="2018-01-17">2018-01-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -119,6 +119,11 @@ Sisters of St Joseph (1890 - )
 <fromDate standardDate="1901-01-01">1901</fromDate>
 <toDate standardDate="1975-12-31">1975</toDate>
 </dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000723b.htm">
 <relationEntry localType="Archival Series">
@@ -221,61 +226,42 @@ St Joseph's Babies' Home (1975 - 1985)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000689.htm">
-<relationEntry localType="published">Article: Claims of sexual abuse by intellectually disabled</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Ewing, Tania</name>
-<title render="quoted">Claims of sexual abuse by intellectually disabled</title>
-<imprint>
-<date>1998</date>
-</imprint>
-<bibseries>
-<title render="italic">The Age</title>
-</bibseries>
-<extptr linktype="simple" href="https://web.archive.org/web/20150425170152/http://www.childrenshomes.com.au/childrens-homes-articles/1998/5/23/claims-of-sexual-abuse-by-intellectually-disabled/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000018.htm">
-<relationEntry localType="published">Resource Section: Broadmeadows Babies Home</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Swain, Shurlee</name>
-<title render="quoted">Broadmeadows Babies Home</title>
-<imprint>
-<publisher>The University of Melbourne</publisher>
-<date>2008</date>
-</imprint>
-<bibseries>
-<title render="italic">eMelbourne: the city past and present</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.emelbourne.net.au/biogs/EM00241b.htm"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000208.htm">
-<relationEntry localType="published">Resource Section: Submission no 264</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000699.htm">
+<relationEntry localType="published">Newspaper Article: Orphanage cemeteries in Broadmeadows</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Submission no 264</title>
+<title render="quoted">Orphanage cemeteries in Broadmeadows</title>
 <imprint>
-<publisher>Commonwealth of Australia</publisher>
-<date>2005</date>
+<date>1996</date>
 </imprint>
 <bibseries>
-<title render="italic">Inquiry Into Institutional Care: Submissions received as at 17/03/05</title>
+<title render="italic">The Age</title>
+<num type="pages">B1</num>
 </bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
 </bibref>
 </objectXMLWrap>
 
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000007.htm">
+<relationEntry localType="published">Book: Holding on to Hope: a history of the founding agencies of MacKillop Family Services 1854-1997</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Barnard, Jill; Twigg, Karen</name>
+<title render="italic">Holding on to Hope: a history of the founding agencies of MacKillop Family Services 1854-1997</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Australian Scholarly Publishing</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000221.htm">
 <relationEntry localType="published">Book: After the orphanage: life beyond the children's home</relationEntry>
@@ -395,32 +381,17 @@ St Joseph's Babies' Home (1975 - 1985)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000007.htm">
-<relationEntry localType="published">Book: Holding on to Hope: a history of the founding agencies of MacKillop Family Services 1854-1997</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Barnard, Jill; Twigg, Karen</name>
-<title render="italic">Holding on to Hope: a history of the founding agencies of MacKillop Family Services 1854-1997</title>
-<imprint>
-<place>Melbourne</place>
-<publisher>Australian Scholarly Publishing</publisher>
-<date>2004</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000561.htm">
-<relationEntry localType="published">Resource Section: Submission no 283</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000514.htm">
+<relationEntry localType="published">Resource Section: Submission no 166</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Submission no 283</title>
+<title render="quoted">Submission no 166</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2005</date>
+</imprint>
 <bibseries>
 <title render="italic">Inquiry into Children in Institutional Care: Submissions received by the committee as at 17/3/05</title>
 </bibseries>
@@ -429,39 +400,77 @@ St Joseph's Babies' Home (1975 - 1985)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001163.htm">
-<relationEntry localType="published">Resource Section: More photographs unearthed</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">O'Neill, Cate</name>
-<title render="quoted">More photographs unearthed</title>
-<imprint>
-<publisher>eScholarship Research Centre, the University of Melbourne</publisher>
-<date>2016</date>
-</imprint>
-<bibseries>
-<title render="italic">Find &amp; Connect web resource blog</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.findandconnectwrblog.info/2016/01/more-photographs-unearthed/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000699.htm">
-<relationEntry localType="published">Newspaper Article: Orphanage cemeteries in Broadmeadows</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000208.htm">
+<relationEntry localType="published">Resource Section: Submission no 264</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Orphanage cemeteries in Broadmeadows</title>
+<title render="quoted">Submission no 264</title>
 <imprint>
-<date>1996</date>
+<publisher>Commonwealth of Australia</publisher>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">Inquiry Into Institutional Care: Submissions received as at 17/03/05</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000018.htm">
+<relationEntry localType="published">Resource Section: Broadmeadows Babies Home</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Swain, Shurlee</name>
+<title render="quoted">Broadmeadows Babies Home</title>
+<imprint>
+<publisher>The University of Melbourne</publisher>
+<date>2008</date>
+</imprint>
+<bibseries>
+<title render="italic">eMelbourne: the city past and present</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.emelbourne.net.au/biogs/EM00241b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000689.htm">
+<relationEntry localType="published">Article: Claims of sexual abuse by intellectually disabled</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ewing, Tania</name>
+<title render="quoted">Claims of sexual abuse by intellectually disabled</title>
+<imprint>
+<date>1998</date>
 </imprint>
 <bibseries>
 <title render="italic">The Age</title>
-<num type="pages">B1</num>
 </bibseries>
+<extptr linktype="simple" href="https://web.archive.org/web/20150425170152/http://www.childrenshomes.com.au/childrens-homes-articles/1998/5/23/claims-of-sexual-abuse-by-intellectually-disabled/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001249.htm">
+<relationEntry localType="published">Resource Section: St Joseph's Foundling Hospital (1901-75); Babies' Home (1976-97)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">St Joseph's Foundling Hospital (1901-75); Babies' Home (1976-97)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/St-JosephsFoundling-Hospital-Babies-Home"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -619,6 +628,25 @@ St Joseph's Babies' Home (1975 - 1985)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001163.htm">
+<relationEntry localType="published">Resource Section: More photographs unearthed</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">O'Neill, Cate</name>
+<title render="quoted">More photographs unearthed</title>
+<imprint>
+<publisher>eScholarship Research Centre, the University of Melbourne</publisher>
+<date>2016</date>
+</imprint>
+<bibseries>
+<title render="italic">Find &amp; Connect web resource blog</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnectwrblog.info/2016/01/more-photographs-unearthed/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001158.htm">
 <relationEntry localType="published">Resource Section: The importance of photos</relationEntry>
 
@@ -638,17 +666,13 @@ St Joseph's Babies' Home (1975 - 1985)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000514.htm">
-<relationEntry localType="published">Resource Section: Submission no 166</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000561.htm">
+<relationEntry localType="published">Resource Section: Submission no 283</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Submission no 166</title>
-<imprint>
-<publisher>Commonwealth of Australia</publisher>
-<date>2005</date>
-</imprint>
+<title render="quoted">Submission no 283</title>
 <bibseries>
 <title render="italic">Inquiry into Children in Institutional Care: Submissions received by the committee as at 17/3/05</title>
 </bibseries>

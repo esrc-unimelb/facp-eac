@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-03-21">2016-03-21</eventDateTime>
+<eventDateTime standardDateTime="2018-01-31">2018-01-31</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -58,9 +58,6 @@
 </places>
 <functions>
 <function>
-<term>Non-denominational</term>
-</function>
-<function>
 <term>Care Provider</term>
 </function>
 <function>
@@ -68,7 +65,7 @@
 </function>
 </functions>
 <biogHist>
-<abstract>Community Connections came into being in 1998. Previously, it was known as the South Western Community Care Association Inc, which was founded in 1991. It has offices in Warrnambool, Geelong, Hamilton, Colac, Camperdown and Portland. This organisation stopped being a care provider in 2012. OzChild took over Community Connections in 2012.</abstract>
+<abstract>Community Connections came into being in 1998. Previously, it was known as the South Western Community Care Association Inc, which was founded in 1991. It had offices in Warrnambool, Geelong, Hamilton, Colac, Camperdown and Portland. This organisation stopped being a care provider in 2012. OzChild took over Community Connections in 2012.</abstract>
 
 </biogHist>
 </description>
@@ -79,14 +76,6 @@ South Western Community Care Association Inc. (1991 - 1998)
 <dateRange>
 <fromDate standardDate="1998-01-01">1998</fromDate>
 </dateRange>
-<descriptiveNote>
-<p>South Western Community Care Association Inc was formed in 1991 through the amalgamation of Currawong House Hamilton, Glenelg Foster Care, South Western Tenant Support Services and Warrnambool Community Legal Aid Service.</p>
-</descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000643b.htm">
-<relationEntry localType="Organisation">
-Glenelg Foster Care (1983? - 1991)
-</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000370b.htm">
 <relationEntry localType="Organisation">
@@ -95,6 +84,9 @@ OzChild (1993 - )
 <dateRange>
 <fromDate standardDate="2012-01-01">2012</fromDate>
 </dateRange>
+<descriptiveNote>
+<p>OzChild took over Community Connections (Vic) Ltd in 2012.</p>
+</descriptiveNote>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Community Connections (Vic) Ltd', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
@@ -108,6 +100,28 @@ OzChild (1993 - )
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000644b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001328.htm">
+<relationEntry localType="published">Resource Section: Lutheran Children's Home (1950-76)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Lutheran Children's Home (1950-76)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/LutheranChildrensHome"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001101.htm">
 <relationEntry localType="published">Resource Section: Notice of Proposed Deregistration - Voluntary - Community Connections (Victoria) Limited</relationEntry>
@@ -128,28 +142,6 @@ OzChild (1993 - )
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001100.htm">
-<relationEntry localType="published">Resource Section: Community Connections buildings on market</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Alexander, Mary</name>
-<title render="quoted">Community Connections buildings on market</title>
-<imprint>
-<publisher>Fairfax Regional Media</publisher>
-<date>2014</date>
-</imprint>
-<bibseries>
-<title render="italic">The Standard: Weekend Magazine, Warrnambool</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.standard.net.au/story/2136150/community-connections-buildings-on-market/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001099.htm">
 <relationEntry localType="published">Resource Section: Embattled Community Connections shuts its doors</relationEntry>
 
@@ -165,6 +157,28 @@ OzChild (1993 - )
 <title render="italic">The Standard: Weekend Magazine, Warrnambool</title>
 </bibseries>
 <extptr linktype="simple" href="http://www.standard.net.au/story/70211/embattled-community-connections-shuts-its-doors/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001100.htm">
+<relationEntry localType="published">Resource Section: Community Connections buildings on market</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Alexander, Mary</name>
+<title render="quoted">Community Connections buildings on market</title>
+<imprint>
+<publisher>Fairfax Regional Media</publisher>
+<date>2014</date>
+</imprint>
+<bibseries>
+<title render="italic">The Standard: Weekend Magazine, Warrnambool</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.standard.net.au/story/2136150/community-connections-buildings-on-market/"></extptr>
 </bibref>
 </objectXMLWrap>
 

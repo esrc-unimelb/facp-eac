@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-11-27">2017-11-27</eventDateTime>
+<eventDateTime standardDateTime="2018-01-17">2018-01-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -152,6 +152,11 @@ Wesley Central Parish Mission (1977 - 2001)
 <toDate standardDate="1986-12-31">1986</toDate>
 </dateRange>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000746b.htm">
 <relationEntry localType="Archival Collection">
 Records held by Uniting Church Archives (1923 - 1994)
@@ -244,13 +249,13 @@ Tally Ho Youth Services (1986 - 1989)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000516.htm">
-<relationEntry localType="published">Resource Section: Submission no 188</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000526.htm">
+<relationEntry localType="published">Resource Section: Submission no 342</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Submission no 188</title>
+<title render="quoted">Submission no 342</title>
 <imprint>
 <publisher>Commonwealth of Australia</publisher>
 <date>2005</date>
@@ -259,47 +264,6 @@ Tally Ho Youth Services (1986 - 1989)
 <title render="italic">Inquiry into Children in Institutional Care: Submissions received by the committee as at 17/3/05</title>
 </bibseries>
 <extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000028.htm">
-<relationEntry localType="published">Resource Section: Tally Ho Boys' Village</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Swain, Shurlee</name>
-<title render="quoted">Tally Ho Boys' Village</title>
-<imprint>
-<publisher>The University of Melbourne</publisher>
-<date>2008</date>
-</imprint>
-<bibseries>
-<title render="italic">eMelbourne: the city past and present</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.emelbourne.net.au/biogs/EM01465b.htm"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000029.htm">
-<relationEntry localType="published">Resource Section: Cole, George Henry (1859 - 1919)</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">McCalman, Janet</name>
-<title render="quoted">Cole, George Henry (1859 - 1919)</title>
-<imprint>
-<publisher>Australian National University</publisher>
-<date>2006</date>
-</imprint>
-<bibseries>
-<title render="italic">Australian Dictionary of Biography Online Edition</title>
-</bibseries>
-<extptr linktype="simple" href="http://adb.anu.edu.au/biography/cole-george-henry-5722"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -323,21 +287,6 @@ Tally Ho Youth Services (1986 - 1989)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000121.htm">
-<relationEntry localType="published">Book: Delinquent Angel</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Georgeff, Diana</name>
-<title render="italic">Delinquent Angel</title>
-<imprint>
-<publisher>Random House</publisher>
-<date>2007</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000211.htm">
 <relationEntry localType="published">Resource: Victoria Government Gazette Online Archive 1836-1997</relationEntry>
 
@@ -357,6 +306,25 @@ Tally Ho Youth Services (1986 - 1989)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000005.htm">
+<relationEntry localType="published">Book: The Challenge of the City: the centenary history of Wesley Central Mission 1893-1993</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Howe, Renate; Swain, Shurlee</name>
+<title render="italic">The Challenge of the City: the centenary history of Wesley Central Mission 1893-1993</title>
+<imprint>
+<place>Flemington</place>
+<publisher>Hyland House</publisher>
+<date>1993</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000221.htm">
 <relationEntry localType="published">Book: After the orphanage: life beyond the children's home</relationEntry>
 
@@ -368,6 +336,21 @@ Tally Ho Youth Services (1986 - 1989)
 <place>Sydney</place>
 <publisher>University of New South Wales Press</publisher>
 <date>2009</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000121.htm">
+<relationEntry localType="published">Book: Delinquent Angel</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Georgeff, Diana</name>
+<title render="italic">Delinquent Angel</title>
+<imprint>
+<publisher>Random House</publisher>
+<date>2007</date>
 </imprint>
 </bibref>
 </objectXMLWrap>
@@ -421,17 +404,16 @@ Tally Ho Youth Services (1986 - 1989)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000005.htm">
-<relationEntry localType="published">Book: The Challenge of the City: the centenary history of Wesley Central Mission 1893-1993</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000483.htm">
+<relationEntry localType="published">Journal: Hops Steps and Jumps</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Howe, Renate; Swain, Shurlee</name>
-<title render="italic">The Challenge of the City: the centenary history of Wesley Central Mission 1893-1993</title>
+<name type="author"></name>
+<title render="italic">Hops Steps and Jumps</title>
 <imprint>
-<place>Flemington</place>
-<publisher>Hyland House</publisher>
-<date>1993</date>
+<publisher>Children's Welfare Association of Victoria</publisher>
+<date>1975-1979</date>
 </imprint>
 </bibref>
 </objectXMLWrap>
@@ -440,13 +422,35 @@ Tally Ho Youth Services (1986 - 1989)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000512.htm">
-<relationEntry localType="published">Resource Section: Submission no 153</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000028.htm">
+<relationEntry localType="published">Resource Section: Tally Ho Boys' Village</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Swain, Shurlee</name>
+<title render="quoted">Tally Ho Boys' Village</title>
+<imprint>
+<publisher>The University of Melbourne</publisher>
+<date>2008</date>
+</imprint>
+<bibseries>
+<title render="italic">eMelbourne: the city past and present</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.emelbourne.net.au/biogs/EM01465b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000516.htm">
+<relationEntry localType="published">Resource Section: Submission no 188</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Submission no 153</title>
+<title render="quoted">Submission no 188</title>
 <imprint>
 <publisher>Commonwealth of Australia</publisher>
 <date>2005</date>
@@ -459,40 +463,21 @@ Tally Ho Youth Services (1986 - 1989)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001106.htm">
-<relationEntry localType="published">Book: For whom the trail is steep</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001271.htm">
+<relationEntry localType="published">Resource Section: Tally Ho Boys Training Farm (1903-78)</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="italic">For whom the trail is steep</title>
+<title render="quoted">Tally Ho Boys Training Farm (1903-78)</title>
 <imprint>
-<place>Melbourne</place>
-<publisher>Central Mission Boys' Training Farm</publisher>
-<date>1940</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000526.htm">
-<relationEntry localType="published">Resource Section: Submission no 342</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Submission no 342</title>
-<imprint>
-<publisher>Commonwealth of Australia</publisher>
-<date>2005</date>
+<publisher>State of Victoria</publisher>
 </imprint>
 <bibseries>
-<title render="italic">Inquiry into Children in Institutional Care: Submissions received by the committee as at 17/3/05</title>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
 </bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/Tally-Ho-Training-Farm"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -641,16 +626,36 @@ Tally Ho Youth Services (1986 - 1989)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000483.htm">
-<relationEntry localType="published">Journal: Hops Steps and Jumps</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000029.htm">
+<relationEntry localType="published">Resource Section: Cole, George Henry (1859 - 1919)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">McCalman, Janet</name>
+<title render="quoted">Cole, George Henry (1859 - 1919)</title>
+<imprint>
+<publisher>Australian National University</publisher>
+<date>2006</date>
+</imprint>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online Edition</title>
+</bibseries>
+<extptr linktype="simple" href="http://adb.anu.edu.au/biography/cole-george-henry-5722"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001106.htm">
+<relationEntry localType="published">Book: For whom the trail is steep</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="italic">Hops Steps and Jumps</title>
+<title render="italic">For whom the trail is steep</title>
 <imprint>
-<publisher>Children's Welfare Association of Victoria</publisher>
-<date>1975-1979</date>
+<place>Melbourne</place>
+<publisher>Central Mission Boys' Training Farm</publisher>
+<date>1940</date>
 </imprint>
 </bibref>
 </objectXMLWrap>
@@ -658,6 +663,25 @@ Tally Ho Youth Services (1986 - 1989)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000512.htm">
+<relationEntry localType="published">Resource Section: Submission no 153</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Submission no 153</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2005</date>
+</imprint>
+<bibseries>
+<title render="italic">Inquiry into Children in Institutional Care: Submissions received by the committee as at 17/3/05</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000528.htm">
 <relationEntry localType="digitalObject">Tally Ho Boys Village</relationEntry>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-06">2017-09-06</eventDateTime>
+<eventDateTime standardDateTime="2018-02-08">2018-02-08</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -120,6 +120,11 @@
 Sisters of the Good Shepherd (1863 - 2008)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000729b.htm">
 <relationEntry localType="Archival Collection">
 Good Shepherd Archive collection of records of provision of residential care in Victoria (1863 - c. 1981)
@@ -153,7 +158,7 @@ Reformatory (1864 - c. 1954)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000144b.htm">
 <relationEntry localType="Organisation">
-Convent of the Good Shepherd, Abbotsford (1863 - 1971)
+Convent of the Good Shepherd, Abbotsford (1863 - 1974)
 </relationEntry>
 <descriptiveNote>
 <p>The Convent at Oakleigh was established due to overcrowding at the Reformatory and Convent at Abbotsford.</p>
@@ -171,6 +176,25 @@ Convent of the Good Shepherd, Abbotsford (1863 - 1971)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000188b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001332.htm">
+<relationEntry localType="published">Resource Section: Convent of the Good Shepherd, Oakleigh (1883-1981)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Convent of the Good Shepherd, Oakleigh (1883-1981)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/ConventoftheGoodShepherd"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000655.htm">
 <relationEntry localType="published">Newspaper Article: Girls' Training Home, Oakleigh - a noble charitable institution - extensive additions and improvements - self-sacrifice of the Daughters of the Good Shepherd</relationEntry>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
+<eventDateTime standardDateTime="2018-01-17">2018-01-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -96,6 +96,11 @@
 Mission to the Streets and Lanes (1886 - 1997)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000730b.htm">
 <relationEntry localType="Archival Collection">
 Anglicare Victoria Records (1886 - )
@@ -126,6 +131,25 @@ Babies' Home
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000101b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001308.htm">
+<relationEntry localType="published">Resource Section: Darling Babies Home (1927-67)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Darling Babies Home (1927-67)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/DarlingBabiesHome"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000886.htm">
 <relationEntry localType="published">Newspaper Article: Children's Home After Five Years</relationEntry>
@@ -176,6 +200,25 @@ Babies' Home
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000115.htm">
+<relationEntry localType="published">Book: Out of the Silence: a study of a religious community for women: the Community of the Holy Name</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Strahan, Lynne</name>
+<title render="italic">Out of the Silence: a study of a religious community for women: the Community of the Holy Name</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Oxford University Press</publisher>
+<date>1988</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000117.htm">
 <relationEntry localType="published">Resource Section: Silcock, Emma Caroline (1858 - 1931)</relationEntry>
 
@@ -191,25 +234,6 @@ Babies' Home
 <title render="italic">Australian Dictionary of Biography Online Edition</title>
 </bibseries>
 <extptr linktype="simple" href="http://adb.anu.edu.au/biography/silcock-emma-caroline-8427"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000115.htm">
-<relationEntry localType="published">Book: Out of the Silence: a study of a religious community for women: the Community of the Holy Name</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Strahan, Lynne</name>
-<title render="italic">Out of the Silence: a study of a religious community for women: the Community of the Holy Name</title>
-<imprint>
-<place>Melbourne</place>
-<publisher>Oxford University Press</publisher>
-<date>1988</date>
-</imprint>
 </bibref>
 </objectXMLWrap>
 

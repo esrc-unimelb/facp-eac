@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-12-07">2017-12-07</eventDateTime>
+<eventDateTime standardDateTime="2018-01-31">2018-01-31</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -167,9 +167,9 @@ Health and Community Services, State Government of Victoria (1992 - 1995)
 <toDate standardDate="1993-12-31">1993</toDate>
 </dateRange>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000818b.htm">
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001052b.htm">
 <relationEntry localType="Event">
-Reformatories, Youth Training Centres, Juvenile Justice Centres and Youth Justice Centres: the government response to juvenile correction (1887 - )
+Case Study 30, August 2015, Melbourne, Royal Commission into Institutional Responses to Child Sexual Abuse
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000085b.htm">
@@ -195,6 +195,19 @@ Welfare Photographs and Publications (c. 1956 - c. 1960)
 Inquiry into Children in Institutional Care (2003 - 2005)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001068b.htm">
+<relationEntry localType="Organisation">
+Foster Care Westernport (1979 - 1991)
+</relationEntry>
+<descriptiveNote>
+<p>Sometimes children from Winlaton spent holidays in foster homes provided by Foster Care Westernport.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000818b.htm">
+<relationEntry localType="Event">
+Reformatories, Youth Training Centres, Juvenile Justice Centres and Youth Justice Centres: the government response to juvenile correction (1887 - )
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000917b.htm">
 <relationEntry localType="Organisation">
 Ivanhoe Girls' Hostel (1965? - 1993?)
@@ -202,11 +215,6 @@ Ivanhoe Girls' Hostel (1965? - 1993?)
 <descriptiveNote>
 <p>Some young women from Winlaton went on to live at Ivanhoe Girls' Hostel</p>
 </descriptiveNote>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001052b.htm">
-<relationEntry localType="Event">
-Case Study 30, August 2015, Melbourne, Royal Commission into Institutional Responses to Child Sexual Abuse
-</relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000323b.htm">
 <relationEntry localType="Glossary Term">
@@ -249,7 +257,7 @@ Adoption and Family Records Service, Department of Human Services (c. 1984 - 201
 </cpfRelation>
 <cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000513b.htm">
 <relationEntry localType="Organisation">
-Nunawading Youth Residential Service (1991 - 1993?)
+Nunawading Youth Residential Centre (1991 - 1993?)
 </relationEntry>
 <descriptiveNote>
 <p>The Nunawading Youth Residential Service operated from the former site of Winlaton.</p>
@@ -268,18 +276,21 @@ Nunawading Youth Residential Service (1991 - 1993?)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000387.htm">
-<relationEntry localType="published">Book: Sins of the mothers: a memoir of abandonment, love and redemption</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000208.htm">
+<relationEntry localType="published">Resource Section: Submission no 264</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Davis, Donna with Amy Willesee</name>
-<title render="italic">Sins of the mothers: a memoir of abandonment, love and redemption</title>
+<name type="author"></name>
+<title render="quoted">Submission no 264</title>
 <imprint>
-<place>Sydney</place>
-<publisher>Pan Macmillan</publisher>
-<date>2006</date>
+<publisher>Commonwealth of Australia</publisher>
+<date>2005</date>
 </imprint>
+<bibseries>
+<title render="italic">Inquiry Into Institutional Care: Submissions received as at 17/03/05</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -305,6 +316,67 @@ Nunawading Youth Residential Service (1991 - 1993?)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000730.htm">
+<relationEntry localType="published">Book: Defying the gatekeeper: one girl's true story of resistance and rebellion</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Spivey, Margaret</name>
+<title render="italic">Defying the gatekeeper: one girl's true story of resistance and rebellion</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Jo Jo Publishing</publisher>
+<date>2010</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000638.htm">
+<relationEntry localType="published">Resource Section: Submission no 448</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Submission no 448</title>
+<bibseries>
+<title render="italic">Inquiry into Children in Institutional Care: Submissions received by the committee as at 17/3/05</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000612.htm">
+<relationEntry localType="published">Resource Section: Submission no 468</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Submission no 468</title>
+<bibseries>
+<title render="italic">Inquiry into Children in Institutional Care: Submissions received by the committee as at 17/3/05</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000603.htm">
+<relationEntry localType="published">Resource Section: Submission no 513</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Submission no 513</title>
+<bibseries>
+<title render="italic">Inquiry into Children in Institutional Care: Submissions received by the committee as at 17/3/05</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000600.htm">
 <relationEntry localType="published">Resource Section: Submission no 532</relationEntry>
 
@@ -320,20 +392,27 @@ Nunawading Youth Residential Service (1991 - 1993?)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000564.htm">
-<relationEntry localType="published">Resource Section: Submission no 293</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000763.htm">
+<relationEntry localType="published">Resource Section: Submission number 130 and attachment</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Submission no 293</title>
+<title render="quoted">Submission number 130 and attachment</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2011</date>
+</imprint>
 <bibseries>
-<title render="italic">Inquiry into Children in Institutional Care: Submissions received by the committee as at 17/3/05</title>
+<title render="italic">Commonwealth Contribution to Former Forced Adoption Policies and Practices: submissions received by the Committee</title>
 </bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2010-13/commcontribformerforcedadoption/submissions"></extptr>
 </bibref>
 </objectXMLWrap>
 
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000523.htm">
 <relationEntry localType="published">Resource Section: Submission no 279</relationEntry>
@@ -354,6 +433,28 @@ Nunawading Youth Residential Service (1991 - 1993?)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000772.htm">
+<relationEntry localType="published">Resource Section: Submission number 271</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Submission number 271</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2011</date>
+</imprint>
+<bibseries>
+<title render="italic">Commonwealth Contribution to Former Forced Adoption Policies and Practices: submissions received by the Committee</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2010-13/commcontribformerforcedadoption/submissions"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000514.htm">
 <relationEntry localType="published">Resource Section: Submission no 166</relationEntry>
 
@@ -365,21 +466,6 @@ Nunawading Youth Residential Service (1991 - 1993?)
 <publisher>Commonwealth of Australia</publisher>
 <date>2005</date>
 </imprint>
-<bibseries>
-<title render="italic">Inquiry into Children in Institutional Care: Submissions received by the committee as at 17/3/05</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000612.htm">
-<relationEntry localType="published">Resource Section: Submission no 468</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Submission no 468</title>
 <bibseries>
 <title render="italic">Inquiry into Children in Institutional Care: Submissions received by the committee as at 17/3/05</title>
 </bibseries>
@@ -404,17 +490,18 @@ Nunawading Youth Residential Service (1991 - 1993?)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000638.htm">
-<relationEntry localType="published">Resource Section: Submission no 448</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000387.htm">
+<relationEntry localType="published">Book: Sins of the mothers: a memoir of abandonment, love and redemption</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Submission no 448</title>
-<bibseries>
-<title render="italic">Inquiry into Children in Institutional Care: Submissions received by the committee as at 17/3/05</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
+<name type="author">Davis, Donna with Amy Willesee</name>
+<title render="italic">Sins of the mothers: a memoir of abandonment, love and redemption</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Pan Macmillan</publisher>
+<date>2006</date>
+</imprint>
 </bibref>
 </objectXMLWrap>
 
@@ -454,41 +541,6 @@ Nunawading Youth Residential Service (1991 - 1993?)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000329.htm">
-<relationEntry localType="published">Resource: Inside: Life in Children's Homes</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">National Museum of Australia</name>
-<title render="italic">Inside: Life in Children's Homes</title>
-<imprint>
-<publisher>Australian Government</publisher>
-<date>2010</date>
-</imprint>
-<extptr linktype="simple" href="http://nma.gov.au/blogs/inside/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000208.htm">
-<relationEntry localType="published">Resource Section: Submission no 264</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Submission no 264</title>
-<imprint>
-<publisher>Commonwealth of Australia</publisher>
-<date>2005</date>
-</imprint>
-<bibseries>
-<title render="italic">Inquiry Into Institutional Care: Submissions received as at 17/03/05</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
 <relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
 
@@ -507,51 +559,53 @@ Nunawading Youth Residential Service (1991 - 1993?)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000052.htm">
-<relationEntry localType="published">Resource Section: Ms Kate Gaffney (submission 207)</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000564.htm">
+<relationEntry localType="published">Resource Section: Submission no 293</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Gaffney, Kate</name>
-<title render="quoted">Ms Kate Gaffney (submission 207)</title>
-<imprint>
-<date>2003</date>
-</imprint>
+<name type="author"></name>
+<title render="quoted">Submission no 293</title>
 <bibseries>
-<title render="italic">Inquiry into Institutional Care: Submissions received as at 17/03/05</title>
+<title render="italic">Inquiry into Children in Institutional Care: Submissions received by the committee as at 17/3/05</title>
 </bibseries>
 <extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
 </bibref>
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000496.htm">
-<relationEntry localType="published">Report: Children's Welfare Department and Reformatory Schools. Report of the Secretary and Inspector.</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001062.htm">
+<relationEntry localType="published">Report: Annual Report for the Year 1960</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Children's Welfare Department and Reformatory Schools. Report of the Secretary and Inspector.</title>
+<name type="author">Victoria. Children's Welfare Department</name>
+<title render="italic">Annual Report for the Year 1960</title>
 <imprint>
 <place>Melbourne</place>
-<publisher>Government Printer</publisher>
-<date>1924 - 1954</date>
+<publisher>Victorian Government</publisher>
+<date>1961</date>
 </imprint>
+<extptr linktype="simple" href="http://www.parliament.vic.gov.au/papers/govpub/VPARL1961-62No3.pdf"></extptr>
 </bibref>
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000935.htm">
-<relationEntry localType="published">Resource: Revolving Door - Gillian's Story</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001372.htm">
+<relationEntry localType="published">Article: A process of survival</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Beesley, Alexandra and Beesley David</name>
-<title render="italic">Revolving Door - Gillian's Story</title>
+<name type="author">Hamilton, Madeleine</name>
+<title render="quoted">A process of survival</title>
 <imprint>
-<date>2007</date>
+<date>2014</date>
 </imprint>
-<extptr linktype="simple" href="http://www.beeworld.net.au/rdoor/ward.htm"></extptr>
+<bibseries>
+<title render="italic">Overland</title>
+<num type="issue">215</num>
+</bibseries>
+<extptr linktype="simple" href="https://overland.org.au/previous-issues/issue-215/feature-madeleine-hamilton/"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -585,6 +639,25 @@ Nunawading Youth Residential Service (1991 - 1993?)
 <date>2015</date>
 </imprint>
 <extptr linktype="simple" href="https://www.eurekastreet.com.au/article.aspx?aeid=45429"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001265.htm">
+<relationEntry localType="published">Resource Section: Winlaton</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Winlaton</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/Winlaton"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -624,6 +697,22 @@ Nunawading Youth Residential Service (1991 - 1993?)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000751.htm">
+<relationEntry localType="published">Book: The little mongrel - free to a good home</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Fawdry, Merlene</name>
+<title render="italic">The little mongrel - free to a good home</title>
+<edition>2011</edition>
+<imprint>
+<publisher>Fixwrite</publisher>
+<date>2007</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001063.htm">
 <relationEntry localType="published">Report: Report of the Director for the Year 1959</relationEntry>
 
@@ -641,17 +730,17 @@ Nunawading Youth Residential Service (1991 - 1993?)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000603.htm">
-<relationEntry localType="published">Resource Section: Submission no 513</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001373.htm">
+<relationEntry localType="published">Resource Section: Case Study 30: Youth detention centres, Victoria</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">Submission no 513</title>
+<title render="quoted">Case Study 30: Youth detention centres, Victoria</title>
 <bibseries>
-<title render="italic">Inquiry into Children in Institutional Care: Submissions received by the committee as at 17/3/05</title>
+<title render="italic">Royal Commission into Institutional Responses to Child Sexual Abuse</title>
 </bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
+<extptr linktype="simple" href="https://www.childabuseroyalcommission.gov.au/case-studies/case-study-30-youth-detention-centres-victoria"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -675,21 +764,17 @@ Nunawading Youth Residential Service (1991 - 1993?)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001372.htm">
-<relationEntry localType="published">Article: A process of survival</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000935.htm">
+<relationEntry localType="published">Resource: Revolving Door - Gillian's Story</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Hamilton, Madeleine</name>
-<title render="quoted">A process of survival</title>
+<name type="author">Beesley, Alexandra and Beesley David</name>
+<title render="italic">Revolving Door - Gillian's Story</title>
 <imprint>
-<date>2014</date>
+<date>2007</date>
 </imprint>
-<bibseries>
-<title render="italic">Overland</title>
-<num type="issue">215</num>
-</bibseries>
-<extptr linktype="simple" href="https://overland.org.au/previous-issues/issue-215/feature-madeleine-hamilton/"></extptr>
+<extptr linktype="simple" href="http://www.beeworld.net.au/rdoor/ward.htm"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -706,6 +791,24 @@ Nunawading Youth Residential Service (1991 - 1993?)
 <publisher>Monash University</publisher>
 <date>1998</date>
 </imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000052.htm">
+<relationEntry localType="published">Resource Section: Ms Kate Gaffney (submission 207)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Gaffney, Kate</name>
+<title render="quoted">Ms Kate Gaffney (submission 207)</title>
+<imprint>
+<date>2003</date>
+</imprint>
+<bibseries>
+<title render="italic">Inquiry into Institutional Care: Submissions received as at 17/03/05</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/submissions/sublist"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -729,96 +832,47 @@ Nunawading Youth Residential Service (1991 - 1993?)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000772.htm">
-<relationEntry localType="published">Resource Section: Submission number 271</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000329.htm">
+<relationEntry localType="published">Resource: Inside: Life in Children's Homes</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Submission number 271</title>
+<name type="author">National Museum of Australia</name>
+<title render="italic">Inside: Life in Children's Homes</title>
 <imprint>
-<publisher>Commonwealth of Australia</publisher>
-<date>2011</date>
-</imprint>
-<bibseries>
-<title render="italic">Commonwealth Contribution to Former Forced Adoption Policies and Practices: submissions received by the Committee</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2010-13/commcontribformerforcedadoption/submissions"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000763.htm">
-<relationEntry localType="published">Resource Section: Submission number 130 and attachment</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="quoted">Submission number 130 and attachment</title>
-<imprint>
-<publisher>Commonwealth of Australia</publisher>
-<date>2011</date>
-</imprint>
-<bibseries>
-<title render="italic">Commonwealth Contribution to Former Forced Adoption Policies and Practices: submissions received by the Committee</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2010-13/commcontribformerforcedadoption/submissions"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000751.htm">
-<relationEntry localType="published">Book: The little mongrel - free to a good home</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Fawdry, Merlene</name>
-<title render="italic">The little mongrel - free to a good home</title>
-<edition>2011</edition>
-<imprint>
-<publisher>Fixwrite</publisher>
-<date>2007</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000730.htm">
-<relationEntry localType="published">Book: Defying the gatekeeper: one girl's true story of resistance and rebellion</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Spivey, Margaret</name>
-<title render="italic">Defying the gatekeeper: one girl's true story of resistance and rebellion</title>
-<imprint>
-<place>Melbourne</place>
-<publisher>Jo Jo Publishing</publisher>
+<publisher>Australian Government</publisher>
 <date>2010</date>
 </imprint>
+<extptr linktype="simple" href="http://nma.gov.au/blogs/inside/"></extptr>
 </bibref>
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001062.htm">
-<relationEntry localType="published">Report: Annual Report for the Year 1960</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000496.htm">
+<relationEntry localType="published">Report: Children's Welfare Department and Reformatory Schools. Report of the Secretary and Inspector.</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Victoria. Children's Welfare Department</name>
-<title render="italic">Annual Report for the Year 1960</title>
+<name type="author"></name>
+<title render="italic">Children's Welfare Department and Reformatory Schools. Report of the Secretary and Inspector.</title>
 <imprint>
 <place>Melbourne</place>
-<publisher>Victorian Government</publisher>
-<date>1961</date>
+<publisher>Government Printer</publisher>
+<date>1924 - 1954</date>
 </imprint>
-<extptr linktype="simple" href="http://www.parliament.vic.gov.au/papers/govpub/VPARL1961-62No3.pdf"></extptr>
 </bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000582.htm">
+<relationEntry localType="digitalObject">Leawarra Hostel, Nunawading Youth Residential Centre. Photograph taken during the closure of Nunawading Youth Residential Centre, 1993</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Leawarra Hostel, Nunawading Youth Residential Centre. Photograph taken during the closure of Nunawading Youth Residential Centre, 1993</unittitle>
+<unitdate>1993</unitdate>
+<abstract>This is a copy of a photograph published on the Finding Records website, on the page 'Nunawading Youth Residential Centre history in brief'.</abstract>
+</archref>
 </objectXMLWrap>
 
 </resourceRelation>

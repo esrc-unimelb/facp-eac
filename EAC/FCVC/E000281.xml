@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-07-03">2017-07-03</eventDateTime>
+<eventDateTime standardDateTime="2018-02-01">2018-02-01</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -102,7 +102,12 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000738b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000738b.htm">
 <relationEntry localType="Archival Collection">
 Records of Gordon Homes for Boys and Girls, [manuscript] (c. 1887 - c. 1947)
 </relationEntry>
@@ -168,6 +173,25 @@ Gordon Homes for Boys (1951 - 1969)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000281b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001259.htm">
+<relationEntry localType="published">Resource Section: Gordon Institute</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Gordon Institute</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/GordonInstitute"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000656.htm">
 <relationEntry localType="published">Newspaper Article: Social work of the Church: child rescue agencies of Melbourne</relationEntry>
@@ -338,7 +362,7 @@ Gordon Homes for Boys (1951 - 1969)
 <archref xmlns="urn:isbn:1-931666-22-9">
 <unittitle>Social work of the church: child rescue agencies of Melbourne</unittitle>
 <unitdate>23 June 1899</unitdate>
-<abstract>This is a copy of an article published in the Methodist newspaper, the <span style="font-style:italic">Spectator</span> in June 1899.</abstract>
+<abstract>This document is a copy of an article published in the Methodist newspaper, <span style="font-style:italic">The Spectator</span> in June 1899.</abstract>
 </archref>
 </objectXMLWrap>
 

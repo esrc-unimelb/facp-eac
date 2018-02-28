@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2014-10-08">2014-10-08</eventDateTime>
+<eventDateTime standardDateTime="2018-02-20">2018-02-20</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -48,8 +48,8 @@
 </identity>
 <description><existDates>
 <dateRange>
-<fromDate standardDate="1940-01-01">1940s</fromDate>
-<toDate standardDate="1970-12-31">1970s</toDate>
+<fromDate standardDate="1950-01-01">1950</fromDate>
+<toDate standardDate="1951-12-31">1951</toDate>
 </dateRange>
 </existDates>
 <places>
@@ -66,13 +66,13 @@
 </function>
 </functions>
 <biogHist>
-<abstract>The Country Women's Association hostel, Murwillumbah opened around the 1940s. It was a boarding hostel for high school girls and closed around 1970.</abstract>
+<abstract>The Country Women's Association hostel, Murwillumbah openedin 1950. It was a boarding hostel for high school girls. In 1951, following discussion of the hostel's financial and progress reports at a public meeting of the Murwillumbah Parents and Citizen's Association, the decision was made to close the hostel. Some of the 15 girls who had stayed at the hostel were able to travel to Murwillumbah by bus, and alternate accommodation in the town was found for the others.</abstract>
 <chronList><chronItem>
-<dateRange><fromDate standardDate="1945-01-01">1945?</fromDate>
-<toDate standardDate="1970-12-31">1970s</toDate>
+<dateRange><fromDate standardDate="1950-01-01">1950</fromDate>
+<toDate standardDate="1951-12-31">1951</toDate>
 </dateRange>
 <placeEntry>Murwillumbah</placeEntry>
-<event>Location - CWA Hostel Murwillumbah was situated at Murwillumbah</event>
+<event>Location - CWA Hostel Murwillumbah was situated on James Street, Murwillumbah</event>
 </chronItem>
 </chronList>
 
@@ -98,6 +98,44 @@ Country Women's Association of New South Wales (1922 - )
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01313b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001123.htm">
+<relationEntry localType="published">Newspaper Article: From cities and towns</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">From cities and towns</title>
+<imprint>
+<date>1951</date>
+</imprint>
+<bibseries>
+<title render="italic">The Courier-Mail</title>
+<num type="pages">8</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article50090522"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001122.htm">
+<relationEntry localType="published">Newspaper Article: Murwillumbah</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Murwillumbah</title>
+<imprint>
+<date>1951</date>
+</imprint>
+<bibseries>
+<title render="italic">The Kyogle Examiner</title>
+<num type="pages">6</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article235376924"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000566.htm">
 <relationEntry localType="published">Book: Serving the country : the history of the Country Women's Association of New South Wales</relationEntry>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2014-10-08">2014-10-08</eventDateTime>
+<eventDateTime standardDateTime="2018-02-20">2018-02-20</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -44,6 +44,8 @@
 <entityType>corporateBody</entityType>
 <nameEntry><part>Country Women's Association Hostel, Dubbo</part>
 <authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+<nameEntry localType=""><part>Matthew Robinson Girls' Hostel</part>
 </nameEntry>
 <nameEntry localType=""><part>CWA Hostel, Dubbo</part>
 </nameEntry>
@@ -71,19 +73,27 @@
 </functions>
 <biogHist>
 <abstract>The Country Women's Association Hostel, Dubbo was opened by the Dubbo Country Women's Association around 1945. It was a boarding hostel to help girls attend secondary school, and closed around 1958.</abstract>
-<p>Country Women's Association Hostel, Dubbo was opened after a Country Women's Association member, Mrs Matthew Robinson, donated a house in memory of her husband.</p>
+<p>Country Women's Association Hostel, Dubbo was opened after a Country Women's Association member, Mrs Matthew Robinson, donated a house in memory of her husband. The Hostel was previously owned by the Presbyterian Church, from which they operated a hostel for boys called St Andrew's Presbyterian Hostel.</p>
 <chronList><chronItem>
 <dateRange><fromDate standardDate="1945-01-01">c. 1945</fromDate>
 <toDate standardDate="1958-12-31">c. 1958</toDate>
 </dateRange>
 <placeEntry>Dubbo</placeEntry>
-<event>Location - CWA Hostel, Dubbo was situated at Dubbo</event>
+<event>Location - CWA Hostel, Dubbo was situated on the corner of Fitzroy and Bishop streets, Dubbo.</event>
 </chronItem>
 </chronList>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01306b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01720b.htm">
+<relationEntry localType="Organisation">
+St Andrew's Presbyterian Boys' Hostel (1923 - 1945?)
+</relationEntry>
+<descriptiveNote>
+<p>The Country Women's Association Hostel, Dubbo, was situated on the same site as St Andrew's Presbyterian Boys' Hostel.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01306b.htm">
 <relationEntry localType="Organisation">
 Country Women's Association of New South Wales (1922 - )
 </relationEntry>
@@ -103,6 +113,25 @@ Country Women's Association of New South Wales (1922 - )
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01309b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001118.htm">
+<relationEntry localType="published">Newspaper Article: Dubbo Girls' Hostel</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Dubbo Girls' Hostel</title>
+<imprint>
+<date>1945</date>
+</imprint>
+<bibseries>
+<title render="italic">The Dubbo Liberal and Macquarie Advocate</title>
+<num type="pages">1</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article133034807"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000566.htm">
 <relationEntry localType="published">Book: Serving the country : the history of the Country Women's Association of New South Wales</relationEntry>

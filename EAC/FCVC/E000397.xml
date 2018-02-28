@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-13">2017-09-13</eventDateTime>
+<eventDateTime standardDateTime="2018-01-17">2018-01-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -96,6 +96,11 @@
 Minton Boys Home (1924 - 1943)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000723b.htm">
 <relationEntry localType="Archival Series">
 'Closed' Agency and General Correspondence Files (1923 - 1983)
@@ -132,6 +137,44 @@ The Menzies Home for Children (1961 - 2000)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001298.htm">
+<relationEntry localType="published">Resource Section: The Menzies Home for Boys (1943-61)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Menzies Home for Boys (1943-61)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/The-Menzies-Home-for-Boys"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000125.htm">
+<relationEntry localType="published">Book: 'One Thousand White Onions': a history of caring for children since 1865</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Davies, Shirley</name>
+<title render="italic">'One Thousand White Onions': a history of caring for children since 1865</title>
+<imprint>
+<place>Frankston</place>
+<publisher>Menzies Inc.</publisher>
+<date>2005</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000633.htm">
 <relationEntry localType="published">Resource Section: Submission no 432</relationEntry>
 
@@ -161,6 +204,21 @@ The Menzies Home for Children (1961 - 2000)
 <place>Frankston, Vic</place>
 <publisher>The Menzies Homes for Children</publisher>
 <date>1980</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000121.htm">
+<relationEntry localType="published">Book: Delinquent Angel</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Georgeff, Diana</name>
+<title render="italic">Delinquent Angel</title>
+<imprint>
+<publisher>Random House</publisher>
+<date>2007</date>
 </imprint>
 </bibref>
 </objectXMLWrap>
@@ -206,40 +264,6 @@ The Menzies Home for Children (1961 - 2000)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000125.htm">
-<relationEntry localType="published">Book: 'One Thousand White Onions': a history of caring for children since 1865</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Davies, Shirley</name>
-<title render="italic">'One Thousand White Onions': a history of caring for children since 1865</title>
-<imprint>
-<place>Frankston</place>
-<publisher>Menzies Inc.</publisher>
-<date>2005</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000121.htm">
-<relationEntry localType="published">Book: Delinquent Angel</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Georgeff, Diana</name>
-<title render="italic">Delinquent Angel</title>
-<imprint>
-<publisher>Random House</publisher>
-<date>2007</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000522.htm">
 <relationEntry localType="digitalObject">The Home on the Hill at the top of Olivers Hill</relationEntry>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
+<eventDateTime standardDateTime="2018-02-02">2018-02-02</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -75,6 +75,11 @@
 <relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000888b.htm">
 <relationEntry localType="Archival Collection">
 Legacy Records (1942? - 1982?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000889b.htm">
@@ -120,59 +125,24 @@ Holmbush (1942 - 1956)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000915.htm">
-<relationEntry localType="published">Book: The torch: a picture of Legacy</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001347.htm">
+<relationEntry localType="published">Resource Section: Legacy - hostels and homes</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Ellis, Malcolm Henry</name>
-<title render="italic">The torch: a picture of Legacy</title>
-<edition>2nd</edition>
+<name type="author"></name>
+<title render="quoted">Legacy - hostels and homes</title>
 <imprint>
-<place>Sydney</place>
-<publisher>Angus and Robertson</publisher>
-<date>1970</date>
+<publisher>State of Victoria</publisher>
 </imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/Legacy"></extptr>
 </bibref>
 </objectXMLWrap>
 
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
-<relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">James Jenkinson Consulting</name>
-<title render="italic">Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</title>
-<imprint>
-<publisher>Unpublished</publisher>
-<date>2001</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000043.htm">
-<relationEntry localType="published">Report: Protecting Vulnerable Children: a national challenge: Second report on the inquiry into children in institutional or out-of-home care</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Senate Community Affairs References Committee Secretariat, Parliament of Australia</name>
-<title render="italic">Protecting Vulnerable Children: a national challenge: Second report on the inquiry into children in institutional or out-of-home care</title>
-<imprint>
-<publisher>Commonwealth of Australia</publisher>
-<date>2005</date>
-</imprint>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/report2/index"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000015.htm">
 <relationEntry localType="published">Resource: Finding Your Story: a resource manual to the records of the Stolen Generations</relationEntry>
@@ -193,21 +163,74 @@ Holmbush (1942 - 1956)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000434.htm">
-<relationEntry localType="digitalObject">The Story of Legacy is a Story of Human Kindness: Where no Trumpets Flourish</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000915.htm">
+<relationEntry localType="published">Book: The torch: a picture of Legacy</relationEntry>
 
 <objectXMLWrap>
-<archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
-<unittitle>The Story of Legacy is a Story of Human Kindness: Where no Trumpets Flourish</unittitle>
-<unitdate>16 May 1952</unitdate>
-<abstract>Caption reads, 'Next move: Success. She is ambitious, this child whom Legacy is helping. And, like her, many others will realise their dreams because of what Legacy is doing, quietly, efficiently.'</abstract>
-</archref>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Ellis, Malcolm Henry</name>
+<title render="italic">The torch: a picture of Legacy</title>
+<edition>2nd</edition>
+<imprint>
+<place>Sydney</place>
+<publisher>Angus and Robertson</publisher>
+<date>1970</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000043.htm">
+<relationEntry localType="published">Report: Protecting Vulnerable Children: a national challenge: Second report on the inquiry into children in institutional or out-of-home care</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Senate Community Affairs References Committee Secretariat, Parliament of Australia</name>
+<title render="italic">Protecting Vulnerable Children: a national challenge: Second report on the inquiry into children in institutional or out-of-home care</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+<date>2005</date>
+</imprint>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2004-07/inst_care/report2/index"></extptr>
+</bibref>
 </objectXMLWrap>
 
 <descriptiveNote>
-<p>Include in Gallery</p>
+<p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
+<relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James Jenkinson Consulting</name>
+<title render="italic">Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</title>
+<imprint>
+<publisher>Unpublished</publisher>
+<date>2001</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000436.htm">
+<relationEntry localType="digitalObject">Gift from the Victorian Red Cross to the Legacy Club</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<repository>The Argus</repository>
+<unittitle>Gift from the Victorian Red Cross to the Legacy Club</unittitle>
+<unitdate>10 December 1945</unitdate>
+<abstract>This is a copy of an image published in <span style="font-style:italic">The Argus</span> on Monday 10 December 1945. The image shows the Home that will become the next Melbourne Legacy Home.
+
+Caption reads, 'Gift from the Victorian Red Cross to the Legacy Club, this house, Stanhope, at the corner of Burke and Cotham roads, Kew, will be remodelled and furnished at a complete cost of [twenty-thousand pounds]. It will be used as a residence for legacy children while finishing their education.</abstract>
+</archref>
+</objectXMLWrap>
+
 </resourceRelation>
 </relations>
 </cpfDescription>

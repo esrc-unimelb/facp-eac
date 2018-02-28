@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2014-08-27">2014-08-27</eventDateTime>
+<eventDateTime standardDateTime="2018-02-01">2018-02-01</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -56,18 +56,26 @@
 </places>
 <functions>
 <function>
-<term>Non-denominational</term>
+<term>Care Provider</term>
 </function>
 <function>
-<term>Care Provider</term>
+<term>Foster Care</term>
+</function>
+<function>
+<term>Community Service Organisation</term>
 </function>
 </functions>
 <biogHist>
-<abstract>Family Focus was established in 1991. Formerly, it was known as the Victorian Children's Aid Society. In 1993, Family Focus amalgamated with Family Action and the National Children's Bureau of Australia to form a new organisation, OzChild.</abstract>
+<abstract>Family Focus was established in 1991, when the Victorian Children's Aid Society amalgamated with Foster Care Westernport. In 1993, Family Focus amalgamated with Family Action and the National Children's Bureau of Australia to form a new organisation, OzChild.</abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000278b.htm">
+<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001068b.htm">
+<relationEntry localType="Organisation">
+Foster Care Westernport (1979 - 1991)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000278b.htm">
 <relationEntry localType="Organisation">
 Victorian Children's Aid Society (1920 - 1991)
 </relationEntry>
@@ -97,6 +105,25 @@ OzChild (1993 - )
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000276b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001385.htm">
+<relationEntry localType="published">Resource: Foster Care Westernport: a legacy of generosity</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Griffiths, Ciara and Gilkerson, Darcy</name>
+<title render="italic">Foster Care Westernport: a legacy of generosity</title>
+<imprint>
+<publisher>OzChild</publisher>
+<date>2017</date>
+</imprint>
+<extptr linktype="simple" href="https://www.ozchild.org.au/wp-content/uploads/2017/09/WesternportFosterCare-full-PDF.pdf"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000074.htm">
 <relationEntry localType="published">Resource Section: Victorian Children's Aid Society (1893 - 1991)</relationEntry>

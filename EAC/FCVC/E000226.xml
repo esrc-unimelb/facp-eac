@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-15">2017-09-15</eventDateTime>
+<eventDateTime standardDateTime="2018-01-17">2018-01-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -118,6 +118,11 @@ Uniting Church in Australia (1977 - )
 <toDate standardDate="1991-12-31">1991</toDate>
 </dateRange>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000746b.htm">
 <relationEntry localType="Archival Collection">
 Records held by Uniting Church Archives (1923 - 1994)
@@ -155,6 +160,25 @@ Copelen Child and Family Services (1991 - 1998)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000226b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001262.htm">
+<relationEntry localType="published">Resource Section: Child Care Services of the Uniting Church</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Child Care Services of the Uniting Church</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/Child-Care-Services-of-the-Uniting-Church"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000823.htm">
 <relationEntry localType="published">Report: The Copelen Street Family Centre : a descriptive and evaluation report</relationEntry>
@@ -236,22 +260,6 @@ Copelen Child and Family Services (1991 - 1998)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000545.htm">
-<relationEntry localType="published">Book: Copelen Street family services - formerly Methodist Babies' Home South Yarra: sixtieth anniversary 1929-1989</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Copelen Street family services - formerly Methodist Babies' Home South Yarra: sixtieth anniversary 1929-1989</title>
-<imprint>
-<place>South Yarra</place>
-<publisher>Copelen Street Family Services</publisher>
-<date>1989</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000443.htm">
 <relationEntry localType="published">Resource: Reconnections and Recollections: Charting the History of Connections UnitingCare</relationEntry>
 
@@ -270,6 +278,22 @@ Copelen Child and Family Services (1991 - 1998)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000545.htm">
+<relationEntry localType="published">Book: Copelen Street family services - formerly Methodist Babies' Home South Yarra: sixtieth anniversary 1929-1989</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Copelen Street family services - formerly Methodist Babies' Home South Yarra: sixtieth anniversary 1929-1989</title>
+<imprint>
+<place>South Yarra</place>
+<publisher>Copelen Street Family Services</publisher>
+<date>1989</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000045.htm">
 <relationEntry localType="published">Report: 'Historical Details'</relationEntry>

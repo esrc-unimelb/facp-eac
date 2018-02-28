@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-08-31">2017-08-31</eventDateTime>
+<eventDateTime standardDateTime="2018-01-31">2018-01-31</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -147,6 +147,27 @@ Kalumburu Mission (1931 - 1982)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000252.htm">
+<relationEntry localType="published">Newspaper Article: The Aborigines Question. Evidence Taken by Dr. Roth</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Aborigines Question. Evidence Taken by Dr. Roth</title>
+<imprint>
+<place>Perth</place>
+<publisher>Charles Harper, J.W. Hackett, James Gibey, for the Western mail office</publisher>
+<date>1905</date>
+</imprint>
+<bibseries>
+<title render="italic">Western Mail</title>
+<num type="pages">12-20</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article37382023"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0000788.htm">
 <relationEntry localType="published">CD Rom: The habits of New Norcia</relationEntry>
 
@@ -171,6 +192,8 @@ Kalumburu Mission (1931 - 1982)
 <name type="author"></name>
 <title render="quoted">No heading [New Norcia]</title>
 <imprint>
+<place>Perth</place>
+<publisher>Charles Harper, J.W. Hackett, James Gibey, for the Western mail office</publisher>
 <date>1905</date>
 </imprint>
 <bibseries>
@@ -190,6 +213,8 @@ Kalumburu Mission (1931 - 1982)
 <name type="author"></name>
 <title render="quoted">New Norcia Monastery</title>
 <imprint>
+<place>Perth</place>
+<publisher>Charles Harper, J.W. Hackett, James Gibey, for the Western mail office</publisher>
 <date>1916</date>
 </imprint>
 <bibseries>
@@ -209,6 +234,8 @@ Kalumburu Mission (1931 - 1982)
 <name type="author"></name>
 <title render="quoted">New Norcia Mission for Aborigines</title>
 <imprint>
+<place>Perth</place>
+<publisher>Charles Harper, J.W. Hackett, James Gibey, for the Western mail office</publisher>
 <date>1908</date>
 </imprint>
 <bibseries>
@@ -303,19 +330,6 @@ Kalumburu Mission (1931 - 1982)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000114.htm">
-<relationEntry localType="digitalObject">New Norcia evidence to the Roth royal commission</relationEntry>
-
-<objectXMLWrap>
-<archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
-<unittitle>New Norcia evidence to the Roth royal commission</unittitle>
-<unitdate>25 February 1905</unitdate>
-<abstract>This digital copy of an article from <span style="font-style:italic">The Western Mail </span> in February 1905 gives an account of testimony by Father Edmund McCormick on behalf of the New Norcia Mission.</abstract>
-</archref>
-</objectXMLWrap>
-
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000003.htm">
 <relationEntry localType="digitalObject">The Benedictine Monastery at New Norcia, Western Australia [picture]</relationEntry>

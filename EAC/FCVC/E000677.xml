@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-11-21">2017-11-21</eventDateTime>
+<eventDateTime standardDateTime="2018-01-17">2018-01-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -85,7 +85,12 @@
 
 </biogHist>
 </description>
-<relations><resourceRelation resourceRelationType="subjectOf">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
 <relationEntry localType="published">'Yooralla', in <span style="font-style:italic">Find &amp; Connect - Victoria</span>, </relationEntry>
 
 <objectXMLWrap>
@@ -97,6 +102,26 @@
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000677b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001240.htm">
+<relationEntry localType="published">Resource Section: Yooralla Hospital School for Crippled Children and Adults (1918-1977)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Yooralla Hospital School for Crippled Children and Adults (1918-1977)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+<date>2016</date>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/Yooralla-Hospital-School-for-Crippled-Children-and-Adults"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000752.htm">
 <relationEntry localType="published">Book: The society: being some account of the Victorian Society for Crippled Children and Adults</relationEntry>

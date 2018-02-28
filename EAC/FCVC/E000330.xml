@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
+<eventDateTime standardDateTime="2018-02-02">2018-02-02</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -92,6 +92,11 @@
 Melbourne Legacy (1923 - )
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000331b.htm">
 <relationEntry localType="Organisation">
 Holmbush (1942 - 1956)
@@ -132,6 +137,25 @@ Blamey House (c. 1949 - c. 1977)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000330b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001347.htm">
+<relationEntry localType="published">Resource Section: Legacy - hostels and homes</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Legacy - hostels and homes</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/Legacy"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000620.htm">
 <relationEntry localType="published">Resource Section: Submission no 370</relationEntry>
@@ -189,14 +213,16 @@ Blamey House (c. 1949 - c. 1977)
 </descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000436.htm">
-<relationEntry localType="digitalObject">[Gift from the Victorian Red Cross to the Legacy Club.]</relationEntry>
+<relationEntry localType="digitalObject">Gift from the Victorian Red Cross to the Legacy Club</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
-<unittitle>[Gift from the Victorian Red Cross to the Legacy Club.]</unittitle>
+<repository>The Argus</repository>
+<unittitle>Gift from the Victorian Red Cross to the Legacy Club</unittitle>
 <unitdate>10 December 1945</unitdate>
-<abstract>Caption reads, 'Gift from the Victorian Red Cross to the Legacy Club, this house, Stanhope, at the corner of Burke and Cotham roads, Kew, will be remodelled and furnished at a complete cost of [twenty-thousand pounds]. It will be used as a residence for legacy children while finishing their education.</abstract>
+<abstract>This is a copy of an image published in <span style="font-style:italic">The Argus</span> on Monday 10 December 1945. The image shows the Home that will become the next Melbourne Legacy Home.
+
+Caption reads, 'Gift from the Victorian Red Cross to the Legacy Club, this house, Stanhope, at the corner of Burke and Cotham roads, Kew, will be remodelled and furnished at a complete cost of [twenty-thousand pounds]. It will be used as a residence for legacy children while finishing their education.</abstract>
 </archref>
 </objectXMLWrap>
 

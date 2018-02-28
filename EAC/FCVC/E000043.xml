@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-06-26">2017-06-26</eventDateTime>
+<eventDateTime standardDateTime="2017-12-20">2017-12-20</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -165,7 +165,7 @@ St Augustine's Adolescent and Family Services (1988 - 1997)
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000379b.htm">
 <relationEntry localType="Organisation">
-St Joseph's Home for Children [Flemington], Christian Brothers (1991 - 1997)
+St Joseph's Home for Children, Christian Brothers (1991 - 1997)
 </relationEntry>
 <dateRange>
 <fromDate standardDate="1991-01-01">1991</fromDate>
@@ -204,6 +204,25 @@ St Joseph's Home for Children [Flemington], Christian Brothers (1991 - 1997)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000007.htm">
+<relationEntry localType="published">Book: Holding on to Hope: a history of the founding agencies of MacKillop Family Services 1854-1997</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Barnard, Jill; Twigg, Karen</name>
+<title render="italic">Holding on to Hope: a history of the founding agencies of MacKillop Family Services 1854-1997</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Australian Scholarly Publishing</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000032.htm">
 <relationEntry localType="published">Resource Section: Christian Brothers</relationEntry>
 
@@ -241,25 +260,6 @@ St Joseph's Home for Children [Flemington], Christian Brothers (1991 - 1997)
 </bibref>
 </objectXMLWrap>
 
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000007.htm">
-<relationEntry localType="published">Book: Holding on to Hope: a history of the founding agencies of MacKillop Family Services 1854-1997</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Barnard, Jill; Twigg, Karen</name>
-<title render="italic">Holding on to Hope: a history of the founding agencies of MacKillop Family Services 1854-1997</title>
-<imprint>
-<place>Melbourne</place>
-<publisher>Australian Scholarly Publishing</publisher>
-<date>2004</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 </relations>
 </cpfDescription>
