@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-11-10">2017-11-10</eventDateTime>
+<eventDateTime standardDateTime="2017-12-21">2017-12-21</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -178,6 +178,25 @@ Reformatory (1864 - c. 1954)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001376.htm">
+<relationEntry localType="published">Article: Lost &amp; Found: State Children in Victoria</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Golding, Frank</name>
+<title render="quoted">Lost &amp; Found: State Children in Victoria</title>
+<imprint>
+<publisher>Frank Golding</publisher>
+<date>2017</date>
+</imprint>
+<bibseries>
+<title render="italic">Frank Golding: author, researcher, historian and consultant specialising in child welfare</title>
+</bibseries>
+<extptr linktype="simple" href="http://frankgolding.com/lost-and-found-state-children-in-victoria-1/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001237.htm">
 <relationEntry localType="published">Book: Mount Royal Hospital: a social history</relationEntry>
 
@@ -258,20 +277,17 @@ Reformatory (1864 - c. 1954)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000133.htm">
-<relationEntry localType="published">Newspaper Article: [The barracks south of Prince's Bridge]</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000131.htm">
+<relationEntry localType="published">Resource Section: RMH Royal Park Campus - a brief history 1853-2005</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">[The barracks south of Prince's Bridge]</title>
+<title render="quoted">RMH Royal Park Campus - a brief history 1853-2005</title>
 <imprint>
-<date>1860</date>
+<date>2005</date>
 </imprint>
-<bibseries>
-<title render="italic">The Argus</title>
-<num type="pages">5</num>
-</bibseries>
+<extptr linktype="simple" href="https://www.thermh.org.au/about/about-rmh/our-history/history-royal-park-campus"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -300,17 +316,20 @@ Reformatory (1864 - c. 1954)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000131.htm">
-<relationEntry localType="published">Resource Section: RMH Royal Park Campus - a brief history 1853-2005</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000133.htm">
+<relationEntry localType="published">Newspaper Article: [The barracks south of Prince's Bridge]</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
 <name type="author"></name>
-<title render="quoted">RMH Royal Park Campus - a brief history 1853-2005</title>
+<title render="quoted">[The barracks south of Prince's Bridge]</title>
 <imprint>
-<date>2005</date>
+<date>1860</date>
 </imprint>
-<extptr linktype="simple" href="https://www.thermh.org.au/about/about-rmh/our-history/history-royal-park-campus"></extptr>
+<bibseries>
+<title render="italic">The Argus</title>
+<num type="pages">5</num>
+</bibseries>
 </bibref>
 </objectXMLWrap>
 

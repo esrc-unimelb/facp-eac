@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
+<eventDateTime standardDateTime="2018-02-02">2018-02-02</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -123,6 +123,11 @@ Harelands (c. 1952 - 1977)
 Melbourne Legacy (1923 - )
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000843b.htm">
 <relationEntry localType="Organisation">
 Blamey House (1977 - 1980)
@@ -156,6 +161,25 @@ Stanhope (c. 1945 - 1982)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000327b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001347.htm">
+<relationEntry localType="published">Resource Section: Legacy - hostels and homes</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Legacy - hostels and homes</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/Legacy"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000211.htm">
 <relationEntry localType="published">Resource: Victoria Government Gazette Online Archive 1836-1997</relationEntry>
@@ -218,10 +242,12 @@ Stanhope (c. 1945 - 1982)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
+<repository>The West Australian</repository>
 <unittitle>Legacy Children at Blamey House</unittitle>
 <unitdate>9 December 1949</unitdate>
-<abstract>Caption reads, 'Blarney House, which was a wartime hostel for servicemen in Melbourne, has been acquired by the Legacy Club for children of deceased servicemen. It is set in spacious grounds and at present has 13 boys and girls staying there. A nine-year-old boy ringing a ship's bell which calls the children from play to their meals.'</abstract>
+<abstract>This is a copy of an image published in <span style="font-style:italic">The West Australian</span> on Friday 9 December 1949. The image shows a boy ringing a bell, with children in the background, at Blamey House.
+
+Caption reads, 'Blarney House, which was a wartime hostel for servicemen in Melbourne, has been acquired by the Legacy Club for children of deceased servicemen. It is set in spacious grounds and at present has 13 boys and girls staying there. A nine-year-old boy ringing a ship's bell which calls the children from play to their meals.'</abstract>
 </archref>
 </objectXMLWrap>
 

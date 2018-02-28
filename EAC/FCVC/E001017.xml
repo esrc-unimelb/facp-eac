@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-11-21">2017-11-21</eventDateTime>
+<eventDateTime standardDateTime="2017-12-21">2017-12-21</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -72,7 +72,17 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000736b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001065b.htm">
+<relationEntry localType="Archival Series">
+Departmental Children's Homes (1955 - 1987)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000736b.htm">
 <relationEntry localType="Archival Series">
 Client Files, Lutheran Peace Memorial Children's Home (c. 1950 - c. 1980)
 </relationEntry>
@@ -112,11 +122,6 @@ The Ward Records Plan Project (2012 - )
 Public Record Office Victoria (1973 - )
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000598b.htm">
-<relationEntry localType="Glossary Term">
-Child Protection Files, State of Victoria (1989 - )
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000662b.htm">
 <relationEntry localType="Organisation">
 Family Information, Networks and Discovery, Department of Health &amp; Human Services (2010 - )
@@ -154,6 +159,21 @@ Acheron Youth Training Centre (c. 1966 - )
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E001017b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001373.htm">
+<relationEntry localType="published">Resource Section: Case Study 30: Youth detention centres, Victoria</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Case Study 30: Youth detention centres, Victoria</title>
+<bibseries>
+<title render="italic">Royal Commission into Institutional Responses to Child Sexual Abuse</title>
+</bibseries>
+<extptr linktype="simple" href="https://www.childabuseroyalcommission.gov.au/case-studies/case-study-30-youth-detention-centres-victoria"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001230.htm">
 <relationEntry localType="published">Article: Ripple Effect</relationEntry>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>NE01720</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCNS</agencyCode>
+<agencyName>Find &amp; Connect - New South Wales</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Organisation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2018-02-20">2018-02-20</eventDateTime>
+<agentType>human</agentType>
+<agent>Constance Thurley-Hart</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2018-02-20">2018-02-20</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/nsw/biogs/NE01720b.htm</entityId>
+<entityType>corporateBody</entityType>
+<nameEntry><part>St Andrew's Presbyterian Boys' Hostel</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1923-01-01">1923</fromDate>
+<toDate standardDate="1945-12-31">1945?</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Home</term>
+</function>
+<function>
+<term>Hostel</term>
+</function>
+<function>
+<term>Presbyterian</term>
+</function>
+</functions>
+<biogHist>
+<abstract>St Andrew's Presbyterian Boys' Hostel, Dubbo, was a boarding hostel that provided accommodation to boys from remote areas so they could attend high school in Dubbo. The hostel was owned by the Presbyterian Church.</abstract>
+<p>St Andrew's Presbyterian Boys' Hostel, Dubbo, was officially opened in June 1923, however it began operating in January 1923. The Dubbo hostel was the fifth Presbyterian boarding hostel to open in New South Wales, other hostels having previously been opened in Wagga Wagga, Parkes, Glen Innes, and Stanmore.</p>
+<p>The average number of boys in residence for the year 1925 was reported to be 23.5, however by July 1930 there were only two boys in residence. In 1932 the decision was made to sell the hostel, however over the next decade no buyer was found and so the hostel re-opened in 1942 following extensive renovations. At its reopening on the 1st of April 1942 the hostel provided residence to 22 boys, with accommodation for a total of 33 boys. By 1945 the hostel was purchased on behalf of the Country Women's Association to be used as a boarding hostel for girls and was renamed the Matthew Robinson Girls' Hostel.</p>
+<chronList><chronItem>
+<dateRange><fromDate standardDate="1923-01-01">1923</fromDate>
+<toDate standardDate="1945-12-31">1945</toDate>
+</dateRange>
+<placeEntry>Dubbo</placeEntry>
+<event>Location - St Andrew's Presbyterian Boys' Hostel was situated on the corner of Bishop and Fitzroy streets, Dubbo.</event>
+</chronItem>
+</chronList>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00278b.htm">
+<relationEntry localType="Organisation">
+Presbyterian Church of Australia (1803 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01309b.htm">
+<relationEntry localType="Organisation">
+Country Women's Association Hostel, Dubbo (c. 1945 - c. 1958)
+</relationEntry>
+<descriptiveNote>
+<p>The Country Women's Association Hostel, Dubbo, was situated on the same site as St Andrew's Presbyterian Boys' Hostel.</p>
+</descriptiveNote>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'St Andrew's Presbyterian Boys' Hostel', in <span style="font-style:italic">Find &amp; Connect - New South Wales</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">St Andrew's Presbyterian Boys' Hostel</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - New South Wales</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE01720b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001121.htm">
+<relationEntry localType="published">Newspaper Article: St Andrew's Presbyterian Church: Annual Congregational Meeting</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">St Andrew's Presbyterian Church: Annual Congregational Meeting</title>
+<imprint>
+<date>1926</date>
+</imprint>
+<bibseries>
+<title render="italic">The Dubbo Liberal and Macquarie Advocate</title>
+<num type="pages">2</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article76091265"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001120.htm">
+<relationEntry localType="published">Newspaper Article: No Buyer To Be Found For Building, So Modern Hostel Result</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">No Buyer To Be Found For Building, So Modern Hostel Result</title>
+<imprint>
+<date>1942</date>
+</imprint>
+<bibseries>
+<title render="italic">The Dubbo Liberal and Macquarie Advocate</title>
+<num type="pages">8</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article135898485"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001119.htm">
+<relationEntry localType="published">Newspaper Article: Presbyterian Boy's Hostel: Official Opening</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Presbyterian Boy's Hostel: Official Opening</title>
+<imprint>
+<date>1923</date>
+</imprint>
+<bibseries>
+<title render="italic">The Dubbo Liberal and Macquarie Advocate</title>
+<num type="pages">2</num>
+</bibseries>
+<extptr linktype="simple" href="http://nla.gov.au/nla.news-article78984652"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-11-23">2017-11-23</eventDateTime>
+<eventDateTime standardDateTime="2018-02-02">2018-02-02</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -109,6 +109,11 @@ The Foundling Hospital and Infants' Home (1906 - 1964)
 <p>In 1964, the Foundling Hospital and Infants' Home changed its name to Berry Street Babies' Home and Hospital.</p>
 </descriptiveNote>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000693b.htm">
 <relationEntry localType="Archival Collection">
 Berry Street Heritage Collection (c. 1877 - )
@@ -156,6 +161,25 @@ Berry Street - Child and Family Care (1975 - 1992)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000037b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001284.htm">
+<relationEntry localType="published">Resource Section: The Victorian Infant Asylum (1877-1902) later known as Berry Street</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Victorian Infant Asylum (1877-1902) later known as Berry Street</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/BerryStreet"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001239.htm">
 <relationEntry localType="published">Resource: Berry Street 140 Years: restoring trust and hope</relationEntry>
@@ -326,14 +350,15 @@ Berry Street - Child and Family Care (1975 - 1992)
 
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000398.htm">
-<relationEntry localType="digitalObject">These Girls Love Babies</relationEntry>
+<relationEntry localType="digitalObject">[Baby looks intrigued]</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
-<unittitle>These Girls Love Babies</unittitle>
+<unittitle>[Baby looks intrigued]</unittitle>
 <unitdate>2 July 1953</unitdate>
-<abstract>Caption reads, 'Baby John looks intrigued as he is weighed by Margaret Witton, a trained mothercraft nurse at Berry St. Foundling Home.'</abstract>
+<abstract>This is a copy of an image published in <span style="font-style:italic">The Argus</span> on Thursday 2 July 1953. The image shows a baby and mothercraft nurse from Berry Street Babies' Home and Hospital.
+
+The caption read, Baby looks intrigued as he is weighed by Margaret Witton, a trained mothercraft nurse at Berry St. Foundling Home [altered from original].</abstract>
 </archref>
 </objectXMLWrap>
 

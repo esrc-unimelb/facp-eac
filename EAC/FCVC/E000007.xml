@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-11-22">2017-11-22</eventDateTime>
+<eventDateTime standardDateTime="2018-02-02">2018-02-02</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -135,7 +135,12 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000748b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000748b.htm">
 <relationEntry localType="Organisation">
 Diamond Valley Youth Hostel (1979 - 1986)
 </relationEntry>
@@ -170,6 +175,44 @@ Sutherland Child Youth and Family Services (1991 - 1994)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001376.htm">
+<relationEntry localType="published">Article: Lost &amp; Found: State Children in Victoria</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Golding, Frank</name>
+<title render="quoted">Lost &amp; Found: State Children in Victoria</title>
+<imprint>
+<publisher>Frank Golding</publisher>
+<date>2017</date>
+</imprint>
+<bibseries>
+<title render="italic">Frank Golding: author, researcher, historian and consultant specialising in child welfare</title>
+</bibseries>
+<extptr linktype="simple" href="http://frankgolding.com/lost-and-found-state-children-in-victoria-1/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001317.htm">
+<relationEntry localType="published">Resource Section: Sutherland Homes for Children (1908-91)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Sutherland Homes for Children (1908-91)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/Sutherland-Homes-for-Children"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000538.htm">
 <relationEntry localType="published">Book: Sutherland Home School 3660: June 3, 1910 -1975</relationEntry>
 
@@ -203,25 +246,6 @@ Sutherland Child Youth and Family Services (1991 - 1994)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000211.htm">
-<relationEntry localType="published">Resource: Victoria Government Gazette Online Archive 1836-1997</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Victoria Government Gazette Online Archive 1836-1997</title>
-<imprint>
-<publisher>State Library of Victoria</publisher>
-<date>2009</date>
-</imprint>
-<extptr linktype="simple" href="http://gazette.slv.vic.gov.au/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000184.htm">
 <relationEntry localType="published">Resource Section: Sutherland Homes for Children</relationEntry>
 
@@ -240,6 +264,25 @@ Sutherland Child Youth and Family Services (1991 - 1994)
 </bibref>
 </objectXMLWrap>
 
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000211.htm">
+<relationEntry localType="published">Resource: Victoria Government Gazette Online Archive 1836-1997</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Victoria Government Gazette Online Archive 1836-1997</title>
+<imprint>
+<publisher>State Library of Victoria</publisher>
+<date>2009</date>
+</imprint>
+<extptr linktype="simple" href="http://gazette.slv.vic.gov.au/"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000135.htm">
 <relationEntry localType="published">Newspaper Article: Christmas Appeals: special need for help</relationEntry>
@@ -295,40 +338,28 @@ Sutherland Child Youth and Family Services (1991 - 1994)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000395.htm">
-<relationEntry localType="digitalObject">Freckle-faced Philanthropist : Please Let Me Help</relationEntry>
-
-<objectXMLWrap>
-<archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
-<unittitle>Freckle-faced Philanthropist : Please Let Me Help</unittitle>
-<unitdate>10 December 1954</unitdate>
-</archref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000394.htm">
-<relationEntry localType="digitalObject">The Sutherland Homes: New Buildings to be Opened</relationEntry>
+<relationEntry localType="digitalObject">New buildings, Sutherland Home, at Diamond Creek</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
-<unittitle>The Sutherland Homes: New Buildings to be Opened</unittitle>
+<unittitle>New buildings, Sutherland Home, at Diamond Creek</unittitle>
 <unitdate>8 March 1929</unitdate>
-<abstract>Caption reads,' New buildings, Sutherland Home at Diamond Creek.' Includes ground floor and elevation to Yan Yean Road.</abstract>
+<abstract>This is a copy of an image published in the <span style="font-style:italic">Advertiser</span> on Friday 8 March 1929. The image shows the plans for the front of the building and the ground floor for the new building at Sutherland Homes for Children.</abstract>
 </archref>
 </objectXMLWrap>
 
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000393.htm">
-<relationEntry localType="digitalObject">It's Home for 50 Little Children</relationEntry>
+<relationEntry localType="digitalObject">The baby of the Home</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
-<unittitle>It's Home for 50 Little Children</unittitle>
+<unittitle>The baby of the Home</unittitle>
 <unitdate>18 April 1950</unitdate>
-<abstract>Caption reads, 'The baby of the Home, Geoffery, looks very pensive as he takes his turn in the rocker in the nursery.'</abstract>
+<abstract>This is a copy of an image published in <span style="font-style:italic">The Argus</span> on Tuesday 18 April 1950. The image shows a baby on a rocking horse.
+
+The caption reads: The baby of the Home looks very pensive as he takes his turn in the rocker in the nursery [altered from original caption].</abstract>
 </archref>
 </objectXMLWrap>
 
@@ -338,10 +369,12 @@ Sutherland Child Youth and Family Services (1991 - 1994)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
+<repository>The Argus</repository>
 <unittitle>Sutherland Homes for Children</unittitle>
 <unitdate>25 March 1929</unitdate>
-<abstract>Caption reads, 'A new building for the Sutherland Homes for Children was opened by His Excellency the Governor (Lord Somers) at Greensborough on Saturday afternoon.'</abstract>
+<abstract>This is a copy of an illustrated article published in <span style="font-style:italic">The Argus</span> on Monday 25 March 1929. The image shows children, staff and adults outside the Sutherland Homes for Children for its opening.
+
+The original caption reads, 'A new building for the Sutherland Homes for Children was opened by His Excellency the Governor (Lord Somers) at Greensborough on Saturday afternoon. Left: Lord Somers, accompanies on arrival by Mr. Smith M.L.C. walking between a guard of honour consisting of children from the Homes and Boy Scouts. Right: General view as Lord Somers declared the building open.'</abstract>
 </archref>
 </objectXMLWrap>
 
@@ -351,10 +384,12 @@ Sutherland Child Youth and Family Services (1991 - 1994)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
+<repository>The Argus</repository>
 <unittitle>Happy Children at Play</unittitle>
 <unitdate>6 August 1938</unitdate>
-<abstract>Caption reads, 'Everything is upside down to these children at the Sutherland Homes, Greensborough. They keep warm with their exercises on the parallel bars.'</abstract>
+<abstract>This is a copy of an image published in <span style="font-style:italic">The Argus</span> on Saturday 6 August 1938. The image shows children hanging upside down on exercise bars.
+
+The original captions read: 'Everything is upside down to these children at the Sutherland Homes, Greensborough. They keep warm with their exercises on the parallel bars.'</abstract>
 </archref>
 </objectXMLWrap>
 

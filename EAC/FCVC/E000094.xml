@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-06">2017-09-06</eventDateTime>
+<eventDateTime standardDateTime="2018-02-02">2018-02-02</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -116,6 +116,11 @@
 Mission of St James and St John (1919 - 1997)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000730b.htm">
 <relationEntry localType="Archival Collection">
 Anglicare Victoria Records (1886 - )
@@ -174,6 +179,25 @@ St Paul's Home For Boys (1955 - 1979)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000094b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001364.htm">
+<relationEntry localType="published">Resource Section: St Paul's Training School for Boys (1928-79)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">St Paul's Training School for Boys (1928-79)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/StPaulTraining"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000633.htm">
 <relationEntry localType="published">Resource Section: Submission no 432</relationEntry>
@@ -244,24 +268,6 @@ St Paul's Home For Boys (1955 - 1979)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
-<relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">James Jenkinson Consulting</name>
-<title render="italic">Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</title>
-<imprint>
-<publisher>Unpublished</publisher>
-<date>2001</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000057.htm">
 <relationEntry localType="published">Book: Billylids and 'Home Kids': The Story of The Mission of St James and St John 1919-1994</relationEntry>
 
@@ -273,6 +279,24 @@ St Paul's Home For Boys (1955 - 1979)
 <place>Surrey Hills, Victoria</place>
 <publisher>The Mission of St. James and St. John</publisher>
 <date>1994</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
+<relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">James Jenkinson Consulting</name>
+<title render="italic">Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</title>
+<imprint>
+<publisher>Unpublished</publisher>
+<date>2001</date>
 </imprint>
 </bibref>
 </objectXMLWrap>
@@ -314,14 +338,16 @@ St Paul's Home For Boys (1955 - 1979)
 
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000388.htm">
-<relationEntry localType="digitalObject">Chapel at St. Paul's Training School, Newhaven</relationEntry>
+<relationEntry localType="digitalObject">The Chapel at St. Paul's Training School, Newhaven</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
-<unittitle>Chapel at St. Paul's Training School, Newhaven</unittitle>
+<repository>The Argus</repository>
+<unittitle>The Chapel at St. Paul's Training School, Newhaven</unittitle>
 <unitdate>31 July 1937 -  31 July 1937</unitdate>
-<abstract>Caption reads, 'The Chapel at St. Paul's Training School, Newhaven. The blackwood furnishings were made by the boys at the school.'</abstract>
+<abstract>This is a copy of an illustrated article published in <span style="font-style:italic">The Argus</span> on Saturday 31 July 1937, p.33. The image shows the chapel ath the school.
+
+The original caption reads: 'The Chapel at St. Paul's Training School, Newhaven. The blackwood furnishings were made by the boys at the school.'</abstract>
 </archref>
 </objectXMLWrap>
 

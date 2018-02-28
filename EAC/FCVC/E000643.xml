@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<eventDateTime standardDateTime="2018-01-31">2018-01-31</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -63,18 +63,13 @@
 </function>
 </functions>
 <biogHist>
-<abstract>Glenelg Foster Care was established in the 1980s, when the Lutheran Church decided to move its child care services from Melbourne to the Glenelg region in south western Victoria. In 1991, Glenelg Foster Care amalgamated with other agencies to form the South Western Community Care Association Inc.</abstract>
+<abstract>Glenelg Foster Care was established in 1983 by Lutheran Children's Homes. The Lutheran Church had decided to move its child care services from cottage homes in eastern Melbourne, to foster care services in the Glenelg region in south western Victoria. Glenelg Foster Care's headquarters were in Warrnambool. In 1991, Glenelg Foster Care amalgamated with other agencies to form the South Western Community Care Association Inc.</abstract>
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="temporal-earlier" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000332b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001066b.htm">
 <relationEntry localType="Organisation">
-Lutheran Children's Home (1950 - c. 1983)
-</relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000644b.htm">
-<relationEntry localType="Organisation">
-Community Connections (Vic) Ltd (1998 - 2012?)
+Lutheran Children's Homes (c. 1973 - 2002)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000645b.htm">
@@ -94,6 +89,28 @@ South Western Community Care Association Inc. (1991 - 1998)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000643b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001328.htm">
+<relationEntry localType="published">Resource Section: Lutheran Children's Home (1950-76)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Lutheran Children's Home (1950-76)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/LutheranChildrensHome"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
 <relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>

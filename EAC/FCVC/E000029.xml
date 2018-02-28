@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-11-16">2017-11-16</eventDateTime>
+<eventDateTime standardDateTime="2018-01-31">2018-01-31</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -107,6 +107,19 @@ Glastonbury - Geelong Protestant Orphanage (1955 - 1977)
 <p>In 1977, Glastonbury - Geelong Protestant Orphanage changed its name to Glastonbury Children's Home.</p>
 </descriptiveNote>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001068b.htm">
+<relationEntry localType="Organisation">
+Foster Care Westernport (1979 - 1991)
+</relationEntry>
+<descriptiveNote>
+<p>Sometimes children from Glastonbury Children's Home spent holidays in foster homes provided by Foster Care Westernport.</p>
+</descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000689b.htm">
 <relationEntry localType="Archival Collection">
 Glastonbury and Geelong Orphanage Records (c. 1855 - 1992)
@@ -149,6 +162,25 @@ Glastonbury Child and Family Services (1984 - 2011)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000029b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001257.htm">
+<relationEntry localType="published">Resource Section: Geelong Orphan Asylum</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Geelong Orphan Asylum</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/GeelongOrphanAsylum"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000002.htm">
 <relationEntry localType="published">Book: Advancing This Good Work: a history of Glastonbury Child &amp; Family Services</relationEntry>

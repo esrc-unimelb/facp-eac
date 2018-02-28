@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-11-23">2017-11-23</eventDateTime>
+<eventDateTime standardDateTime="2017-12-21">2017-12-21</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -84,6 +84,11 @@
 Social Welfare Department, State Government of Victoria (1970 - 1978)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000274b.htm">
 <relationEntry localType="Organisation">
 The Salvation Army Westcare (c. 1980 - )
@@ -107,6 +112,11 @@ Victorian Government Records relating to Wardship and Adoption (1864 - )
 Community Welfare Services Act 1978 (1979 - 1983)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001065b.htm">
+<relationEntry localType="Archival Series">
+Departmental Children's Homes (1955 - 1987)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000625b.htm">
 <relationEntry localType="Event">
 Introduction of the annual review of wardship (1983)
@@ -127,29 +137,20 @@ Child Welfare Practice and Legislation Review (c. 1982 - 1984)
 <p>The Child Welfare Practice and Legislation Review presented a discussion paper to the Department of Community Welfare Services in September 1983.</p>
 </descriptiveNote>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000917b.htm">
-<relationEntry localType="Organisation">
-Ivanhoe Girls' Hostel (1965? - 1993?)
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000510b.htm">
 <relationEntry localType="Organisation">
 Miralee Reception Centre (1963 - 1986?)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000917b.htm">
+<relationEntry localType="Organisation">
+Ivanhoe Girls' Hostel (1965? - 1993?)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000238b.htm">
 <relationEntry localType="Organisation">
 Acheron Youth Training Centre (c. 1966 - )
 </relationEntry>
-</cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000163b.htm">
-<relationEntry localType="Organisation">
-Northcote Farm School (1937 - 1979)
-</relationEntry>
-<dateRange>
-<fromDate standardDate="1978-01-01">1978</fromDate>
-<toDate standardDate="1979-12-31">1979</toDate>
-</dateRange>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000626b.htm">
 <relationEntry localType="Organisation">
@@ -185,6 +186,15 @@ Family Group Home Program (1956 - 1990?)
 <dateRange>
 <fromDate standardDate="1978-01-01">1978</fromDate>
 <toDate standardDate="1985-12-31">1985</toDate>
+</dateRange>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000163b.htm">
+<relationEntry localType="Organisation">
+Northcote Farm School (1937 - 1979)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1978-01-01">1978</fromDate>
+<toDate standardDate="1979-12-31">1979</toDate>
 </dateRange>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000247b.htm">
@@ -277,6 +287,21 @@ Community Services Victoria, State Government of Victoria (1985 - 1992)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000489.htm">
+<relationEntry localType="published">Journal: Victorian Year Book</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Victorian Year Book</title>
+<imprint>
+<publisher>Australian Bureau of Statistics, Victorian Office</publisher>
+<date>1873 - 2002</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000491.htm">
 <relationEntry localType="published">Report: Annual report: Department of Community Welfare Services, Victoria</relationEntry>
 
@@ -295,21 +320,6 @@ Community Services Victoria, State Government of Victoria (1985 - 1992)
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000489.htm">
-<relationEntry localType="published">Journal: Victorian Year Book</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Victorian Year Book</title>
-<imprint>
-<publisher>Australian Bureau of Statistics, Victorian Office</publisher>
-<date>1873 - 2002</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000194.htm">
 <relationEntry localType="digitalObject">The Community Welfare Services Act 1978</relationEntry>

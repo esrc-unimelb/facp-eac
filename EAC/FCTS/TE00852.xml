@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-10-10">2017-10-10</eventDateTime>
+<eventDateTime standardDateTime="2018-01-25">2018-01-25</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -42,7 +42,7 @@
 <cpfDescription>
 <identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE00852b.htm</entityId>
 <entityType>event</entityType>
-<nameEntry><part>Education Act 1885</part>
+<nameEntry><part>Education Act 1885 (TAS)</part>
 <authorizedForm>AACR2</authorizedForm>
 </nameEntry>
 </identity>
@@ -93,34 +93,17 @@ Education Act (1905 - 1932)
 </relationEntry>
 </cpfRelation>
 <resourceRelation resourceRelationType="subjectOf">
-<relationEntry localType="published">'Education Act 1885', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+<relationEntry localType="published">'Education Act 1885 (TAS)', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<title render="italic">Education Act 1885</title>
+<title render="italic">Education Act 1885 (TAS)</title>
 <bibseries>
 <title render="italic">Find &amp; Connect - Tasmania</title>
 </bibseries>
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00852b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000647.htm">
-<relationEntry localType="published">Statute: Education Act</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Education Act</title>
-<imprint>
-<date>1885</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 </relations>
 </cpfDescription>

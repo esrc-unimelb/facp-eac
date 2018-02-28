@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-11-15">2017-11-15</eventDateTime>
+<eventDateTime standardDateTime="2018-01-17">2018-01-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -132,6 +132,11 @@ From 1977, all records relating to individuals, placements and adoptions at Beth
 Geelong Female Refuge (1868 - 1928)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000704b.htm">
 <relationEntry localType="Archival Collection">
 Victorian Government Records relating to Wardship and Adoption (1864 - )
@@ -196,6 +201,25 @@ Bethany Community Support (1977 - )
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001275.htm">
+<relationEntry localType="published">Resource Section: Geelong Female Refuge/Bethany Babies' Home (1868-current)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Geelong Female Refuge/Bethany Babies' Home (1868-current)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/BethanyBabiesHome"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001136.htm">
 <relationEntry localType="published">Resource: Geelong and District Orphanages</relationEntry>
 
@@ -233,22 +257,6 @@ Bethany Community Support (1977 - )
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000253.htm">
-<relationEntry localType="published">Book: A refuge at Kildare: the history of the Geelong Female Refuge and Bethany Babies' Home</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Swain, Shurlee</name>
-<title render="italic">A refuge at Kildare: the history of the Geelong Female Refuge and Bethany Babies' Home</title>
-<imprint>
-<place>North Geelong</place>
-<publisher>Bethany Child and Family Support</publisher>
-<date>1985</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000221.htm">
 <relationEntry localType="published">Book: After the orphanage: life beyond the children's home</relationEntry>
 
@@ -260,6 +268,22 @@ Bethany Community Support (1977 - )
 <place>Sydney</place>
 <publisher>University of New South Wales Press</publisher>
 <date>2009</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000253.htm">
+<relationEntry localType="published">Book: A refuge at Kildare: the history of the Geelong Female Refuge and Bethany Babies' Home</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Swain, Shurlee</name>
+<title render="italic">A refuge at Kildare: the history of the Geelong Female Refuge and Bethany Babies' Home</title>
+<imprint>
+<place>North Geelong</place>
+<publisher>Bethany Child and Family Support</publisher>
+<date>1985</date>
 </imprint>
 </bibref>
 </objectXMLWrap>

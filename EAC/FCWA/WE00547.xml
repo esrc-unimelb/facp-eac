@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-08-31">2017-08-31</eventDateTime>
+<eventDateTime standardDateTime="2018-02-01">2018-02-01</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -100,18 +100,21 @@ Tuart Place (2012 - )
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/objects/WD0000071.htm">
-<relationEntry localType="digitalObject">Helpful Editorial</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/wa/bib/WP0001536.htm">
+<relationEntry localType="published">Newspaper Article: Helpful editorial</relationEntry>
 
 <objectXMLWrap>
-<archref xmlns="urn:isbn:1-931666-22-9">
-<repository><span style="font-style:italic">The West Australian</span></repository>
-<unittitle>Helpful Editorial</unittitle>
-<unitdate>14 August 2009</unitdate>
-<abstract>This letter to the Editor of <span style="font-style:italic">The West Australian</span> supports that newspaper's condemnation of the reduction in maximum payout to Redress WA applicants. It also questions the Government's statements about the number of valid applications received.</abstract>
-<physdesc>Digital version of a photocopy of a letter on page 22.<geogname></geogname>
-</physdesc>
-</archref>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Dr Philippa White and Dr Debra Rosser</name>
+<title render="quoted">Helpful editorial</title>
+<imprint>
+<date>2009</date>
+</imprint>
+<bibseries>
+<title render="italic">The West Australian</title>
+<num type="pages">22</num>
+</bibseries>
+</bibref>
 </objectXMLWrap>
 
 </resourceRelation>

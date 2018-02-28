@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-11-27">2017-11-27</eventDateTime>
+<eventDateTime standardDateTime="2018-01-17">2018-01-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -112,6 +112,11 @@ St John's Homes for Boys (c. 1924 - 1958)
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000234b.htm">
 <relationEntry localType="Organisation">
 Anglican Church of Australia (1788 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001063b.htm">
@@ -200,6 +205,25 @@ Anglicare Victoria (1997 - )
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001301.htm">
+<relationEntry localType="published">Resource Section: St John's Home for Boys (and girls) (1926-96)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">St John's Home for Boys (and girls) (1926-96)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/St-Johns-Home-for-Boys"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000890.htm">
 <relationEntry localType="published">Newspaper Article: Tuned-in Grandfather</relationEntry>
 
@@ -214,6 +238,24 @@ Anglicare Victoria (1997 - )
 <title render="italic">The Sun News-Pictorial</title>
 <num type="pages">41</num>
 </bibseries>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000215.htm">
+<relationEntry localType="published">Resource Section: History - St John's Boys' Home</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Da Costa-Adams, Robin</name>
+<title render="quoted">History - St John's Boys' Home</title>
+<imprint>
+<date>2008</date>
+</imprint>
+<bibseries>
+<title render="italic">Shrublands website</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.shrublands.com.au/"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -237,40 +279,6 @@ Anglicare Victoria (1997 - )
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000251.htm">
-<relationEntry localType="published">Book: Reminiscences of St. John's Home for Boys</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Hutchinson, John</name>
-<title render="italic">Reminiscences of St. John's Home for Boys</title>
-<imprint>
-<place>Ringwood East</place>
-<publisher>St John Old Boys &amp; Girls Association</publisher>
-<date>2004</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000215.htm">
-<relationEntry localType="published">Resource Section: History - St John's Boys' Home</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Da Costa-Adams, Robin</name>
-<title render="quoted">History - St John's Boys' Home</title>
-<imprint>
-<date>2008</date>
-</imprint>
-<bibseries>
-<title render="italic">Shrublands website</title>
-</bibseries>
-<extptr linktype="simple" href="http://www.shrublands.com.au/"></extptr>
-</bibref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
 <relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
 
@@ -288,6 +296,22 @@ Anglicare Victoria (1997 - )
 <descriptiveNote>
 <p>Source used to compile entry</p>
 </descriptiveNote>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000251.htm">
+<relationEntry localType="published">Book: Reminiscences of St. John's Home for Boys</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Hutchinson, John</name>
+<title render="italic">Reminiscences of St. John's Home for Boys</title>
+<imprint>
+<place>Ringwood East</place>
+<publisher>St John Old Boys &amp; Girls Association</publisher>
+<date>2004</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000501.htm">
 <relationEntry localType="digitalObject">Opening of St John's cottage home, Nunawading</relationEntry>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-11-23">2017-11-23</eventDateTime>
+<eventDateTime standardDateTime="2018-02-02">2018-02-02</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -126,6 +126,11 @@ The Foundling Hospital and Infants' Home (Incorporated) (1914 - 1964)
 <fromDate standardDate="1914-01-01">1914</fromDate>
 </dateRange>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000693b.htm">
 <relationEntry localType="Archival Collection">
 Berry Street Heritage Collection (c. 1877 - )
@@ -200,6 +205,25 @@ Berry Street Babies' Home and Hospital (1964 - 1975)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001284.htm">
+<relationEntry localType="published">Resource Section: The Victorian Infant Asylum (1877-1902) later known as Berry Street</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Victorian Infant Asylum (1877-1902) later known as Berry Street</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/BerryStreet"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001239.htm">
 <relationEntry localType="published">Resource: Berry Street 140 Years: restoring trust and hope</relationEntry>
 
@@ -231,6 +255,25 @@ Berry Street Babies' Home and Hospital (1964 - 1975)
 </bibref>
 </objectXMLWrap>
 
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000014.htm">
+<relationEntry localType="published">Book: Looking Back, Looking Forward: the story of 'Berry Street' Child and Family Care</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Penwill, Beryl</name>
+<title render="italic">Looking Back, Looking Forward: the story of 'Berry Street' Child and Family Care</title>
+<imprint>
+<place>Melbourne</place>
+<publisher>Berry Street Child and Family Care</publisher>
+<date>1979</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000135.htm">
 <relationEntry localType="published">Newspaper Article: Christmas Appeals: special need for help</relationEntry>
@@ -268,33 +311,31 @@ Berry Street Babies' Home and Hospital (1964 - 1975)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000014.htm">
-<relationEntry localType="published">Book: Looking Back, Looking Forward: the story of 'Berry Street' Child and Family Care</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Penwill, Beryl</name>
-<title render="italic">Looking Back, Looking Forward: the story of 'Berry Street' Child and Family Care</title>
-<imprint>
-<place>Melbourne</place>
-<publisher>Berry Street Child and Family Care</publisher>
-<date>1979</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000397.htm">
-<relationEntry localType="digitalObject">Foundlings or Not, All are Well Cared For</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000152.htm">
+<relationEntry localType="digitalObject">Foundling Hospital Gift Cot</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
-<unittitle>Foundlings or Not, All are Well Cared For</unittitle>
+<repository>The Argus</repository>
+<unittitle>Foundling Hospital Gift Cot</unittitle>
+<unitdate>25 August 1923</unitdate>
+<abstract>This is a copy of an illustrated article published in <span style="font-style:italic">The Argus</span> on Saturday 25 August 1923, p.27. The image shows staff and children from The Foundling Hospital and Infants' Home.
+
+The original caption reads: 'Of the displays made by charitable institutions sharing in the Wattle Day collection yesterday, none made greater appeal to the sympathies of the public than that of the Foundling Hospital and Infants' Home, East Melbourne and Beaconsfield, of which Mrs. Montague Cohen is president. Sister Sutherland is seen in charge of a gift cot in Collins street, near the Equitable Building corner. The twins in the cot were the centre of much interest throughout the day.'</abstract>
+</archref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000397.htm">
+<relationEntry localType="digitalObject">Foundlings or not, all are well cared for</relationEntry>
+
+<objectXMLWrap>
+<archref xmlns="urn:isbn:1-931666-22-9">
+<unittitle>Foundlings or not, all are well cared for</unittitle>
 <unitdate>27 July 1923</unitdate>
+<abstract>This is a copy of an image published in <span style="font-style:italic">The Argus</span> on Friday 27 July 1923. The image shows babies from The Foundling Hospital and Infants' Home.
+
+The original caption reads, 'Scenes at the home on the occasion of the annual meeting yesterday are depicted.'</abstract>
 </archref>
 </objectXMLWrap>
 
@@ -304,10 +345,12 @@ Berry Street Babies' Home and Hospital (1964 - 1975)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
+<repository>The Argus</repository>
 <unittitle>Berry Street Foundling Hospital</unittitle>
 <unitdate>19 December 1922</unitdate>
-<abstract>Caption reads, 'Each year at about Christmas time the boarded-out children and their fostermothers are entertained at the Foundling Hospital and Infants' Home Berry Street, East Melbourne. There was a happy party yesterday, and Father Christmas had a busy time.'</abstract>
+<abstract>This is a copy of an image published in <span style="font-style:italic">The Argus</span> on Tuesday 19 December 1922. The image shows children at a party.
+
+The original caption reads, 'Each year at about Christmas time the boarded-out children and their fostermothers are entertained at the Foundling Hospital and Infants' Home Berry Street, East Melbourne. There was a happy party yesterday, and Father Christmas had a busy time.'</abstract>
 </archref>
 </objectXMLWrap>
 

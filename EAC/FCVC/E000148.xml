@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-11-16">2017-11-16</eventDateTime>
+<eventDateTime standardDateTime="2018-02-02">2018-02-02</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -116,6 +116,11 @@ Kildonan, North Melbourne (1890 - c. 1937)
 Presbyterian Church of Victoria (c. 1838 - )
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000746b.htm">
 <relationEntry localType="Archival Collection">
 Records held by Uniting Church Archives (1923 - 1994)
@@ -183,6 +188,25 @@ Kildonan Homes for Children (c. 1960 - c. 1993)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000148b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001331.htm">
+<relationEntry localType="published">Resource Section: Kildonan Homes for Children (1881-2001)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Kildonan Homes for Children (1881-2001)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/Kildonan-Homes-for-Children"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001238.htm">
 <relationEntry localType="published">Resource: Elgar Road, Site History Project - a Deakin University weblog</relationEntry>
@@ -345,27 +369,28 @@ Kildonan Homes for Children (c. 1960 - c. 1993)
 
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000432.htm">
-<relationEntry localType="digitalObject">In the Churches: Social service work for to be extended</relationEntry>
+<relationEntry localType="digitalObject">Block for infant children at Kildonan, Burwood.</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
-<unittitle>In the Churches: Social service work for to be extended</unittitle>
+<unittitle>Block for infant children at Kildonan, Burwood.</unittitle>
 <unitdate>12 July 1947</unitdate>
-<abstract>Caption reads, 'Block for infant children at Kildonan, Burwood.'</abstract>
+<abstract>This is a copy of an image published in <span style="font-style:italic">The Argus</span> on Saturday 12 July 1947. The image shows the building for infants at Kildonan, Burwood.</abstract>
 </archref>
 </objectXMLWrap>
 
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000431.htm">
-<relationEntry localType="digitalObject">[Kildonan: New Cottage Block]</relationEntry>
+<relationEntry localType="digitalObject">The New Cottage</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
-<unittitle>[Kildonan: New Cottage Block]</unittitle>
+<repository>The Argus</repository>
+<unittitle>The New Cottage</unittitle>
 <unitdate>30 August 1947</unitdate>
-<abstract>Caption reads, 'The new cottage block being built for the Presbyterian and Scots Church Children's Aid Society, Kildonan Home, Burwood, to accommodate twenty adolescent girls and the staff. Martin and Tribe are the architects.'</abstract>
+<abstract>This is a copy of an image published in <span style="font-style:italic">The Argus</span> on Saturday 30 August 1947. The image shows a drawing of the new cottage at Kildonan, Burwood.
+
+Caption reads, 'The new cottage block being built for the Presbyterian and Scots Church Children's Aid Society, Kildonan Home, Burwood, to accommodate twenty adolescent girls and the staff. Martin and Tribe are the architects.'</abstract>
 </archref>
 </objectXMLWrap>
 

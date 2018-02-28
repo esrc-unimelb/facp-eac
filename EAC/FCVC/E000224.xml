@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-15">2017-09-15</eventDateTime>
+<eventDateTime standardDateTime="2018-02-02">2018-02-02</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -106,6 +106,11 @@
 <relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000231b.htm">
 <relationEntry localType="Organisation">
 Presbyterian Church of Victoria (c. 1838 - )
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000746b.htm">
@@ -182,6 +187,25 @@ Canterbury Family Centre (1977 - 2000)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000224b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001303.htm">
+<relationEntry localType="published">Resource Section: Presbyterian Babies Home (1928-78)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Presbyterian Babies Home (1928-78)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/Presbyterian-Babies-Home"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000816.htm">
 <relationEntry localType="published">Report: Victorian Heritage Database place details:19 Canterbury Road</relationEntry>
@@ -285,10 +309,12 @@ Canterbury Family Centre (1977 - 2000)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
+<repository>The Argus</repository>
 <unittitle>Care of Babies</unittitle>
 <unitdate>31 July 1933</unitdate>
-<abstract>Caption reads, 'The Moderator (the Right Rev. R. W. Macaulay) laying the foundation-stone of the new wards for babies at the rear of Linda, the Presbyterian Babies' Home in Canterbury Road, Camberwell. The sum of £2,000 is still needed to open the wards without debt. On the Moderator's left is Mr. Edgar, M.L.C., beside the convener of the Babies' Home (the Rev. P. L. Forster). On the extreme left is Mr. Gray, M.L.A.'</abstract>
+<abstract>This is a copy of an image published in <span style="font-style:italic">The Argus</span> on Monday 31 July 1933.
+
+The caption reads, 'The Moderator (the Right Rev. R. W. Macaulay) laying the foundation-stone of the new wards for babies at the rear of Linda, the Presbyterian Babies' Home in Canterbury Road, Camberwell. The sum of £2,000 is still needed to open the wards without debt. On the Moderator's left is Mr. Edgar, M.L.C., beside the convener of the Babies' Home (the Rev. P. L. Forster). On the extreme left is Mr. Gray, M.L.A.'</abstract>
 </archref>
 </objectXMLWrap>
 
@@ -337,10 +363,12 @@ Canterbury Family Centre (1977 - 2000)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
+<repository>The Argus</repository>
 <unittitle>Wattle Day in the City</unittitle>
 <unitdate>26 August 1933</unitdate>
-<abstract>This is a digital copy of an illustrated article published in the <span style="font-style:italic">Argus</span>.</abstract>
+<abstract>This is a copy of an illustrated article published in <span style="font-style:italic">The Argus</span> on Saturday 26 August 1933, p.21. The image shows a baby and adults collecting money for Wattle Day.
+
+The original caption reads: Child, from the Presbyterian Home, accepts a contribution on behalf of the babies [altered from original caption].</abstract>
 </archref>
 </objectXMLWrap>
 

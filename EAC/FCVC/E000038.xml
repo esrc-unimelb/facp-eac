@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-11-16">2017-11-16</eventDateTime>
+<eventDateTime standardDateTime="2018-01-17">2018-01-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -101,6 +101,11 @@ Berry Street Babies' Home and Hospital (1964 - 1975)
 <p>In 1975, Berry Street Babies' Home and Hospital changed its name to Berry Street - Child and Family Care.</p>
 </descriptiveNote>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000138b.htm">
 <relationEntry localType="Organisation">
 St Cuthbert's Home for Boys (1948 - 1977)
@@ -138,6 +143,25 @@ Berry Street Incorporated (1992 - 1994)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000038b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001284.htm">
+<relationEntry localType="published">Resource Section: The Victorian Infant Asylum (1877-1902) later known as Berry Street</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">The Victorian Infant Asylum (1877-1902) later known as Berry Street</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/BerryStreet"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001239.htm">
 <relationEntry localType="published">Resource: Berry Street 140 Years: restoring trust and hope</relationEntry>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-10-31">2017-10-31</eventDateTime>
+<eventDateTime standardDateTime="2018-02-02">2018-02-02</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -127,6 +127,16 @@ Records held by Uniting - Connections (1910 - )
 Presbyterian and Methodist Child Care Service (1971 - 1977?)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000669b.htm">
+<relationEntry localType="Glossary Term">
+Babies' Home
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000638b.htm">
 <relationEntry localType="Glossary Term">
 Mothercraft Nurse
@@ -150,11 +160,6 @@ Kildonan Homes for Children (c. 1960 - c. 1993)
 Adoption of Children Act 1928 (1929 - 1959)
 </relationEntry>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000669b.htm">
-<relationEntry localType="Glossary Term">
-Babies' Home
-</relationEntry>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000139b.htm">
 <relationEntry localType="Organisation">
 Girls' Memorial Home (1922 - 1973)
@@ -174,15 +179,6 @@ Methodist Homes for Children (1891 - c. 1953)
 <p>Young children at the Methodist Babies' Home who had not been adopted by the age of 4 were transferred to the Methodist Homes for Children.</p>
 </descriptiveNote>
 </cpfRelation>
-<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000020b.htm">
-<relationEntry localType="Organisation">
-Orana, the Peace Memorial Homes for Children (1953 - 1988)
-</relationEntry>
-<dateRange>
-<fromDate standardDate="1959-01-01">1959</fromDate>
-<toDate standardDate="1959-12-31">1959</toDate>
-</dateRange>
-</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000503b.htm">
 <relationEntry localType="Event">
 Medical experiments (c. 1945 - c. 1970)
@@ -194,6 +190,15 @@ Medical experiments (c. 1945 - c. 1970)
 <descriptiveNote>
 <p>CSL conducted trials at Methodist Babies' Home</p>
 </descriptiveNote>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000020b.htm">
+<relationEntry localType="Organisation">
+Orana, the Peace Memorial Homes for Children (1953 - 1988)
+</relationEntry>
+<dateRange>
+<fromDate standardDate="1959-01-01">1959</fromDate>
+<toDate standardDate="1959-12-31">1959</toDate>
+</dateRange>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000224b.htm">
 <relationEntry localType="Organisation">
@@ -224,6 +229,43 @@ Copelen Street Family Centre (1974 - 1991)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001359.htm">
+<relationEntry localType="published">Resource Section: Methodist Babies Home</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Methodist Babies Home</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/MethodistBabiesHome"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000756.htm">
+<relationEntry localType="published">Resource: Commonwealth Contribution to Former Forced Adoption Policies and Practices: submissions received by the Committee</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="italic">Commonwealth Contribution to Former Forced Adoption Policies and Practices: submissions received by the Committee</title>
+<imprint>
+<publisher>Commonwealth of Australia</publisher>
+</imprint>
+<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2010-13/commcontribformerforcedadoption/submissions"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001163.htm">
 <relationEntry localType="published">Resource Section: More photographs unearthed</relationEntry>
 
@@ -243,17 +285,21 @@ Copelen Street Family Centre (1974 - 1991)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000756.htm">
-<relationEntry localType="published">Resource: Commonwealth Contribution to Former Forced Adoption Policies and Practices: submissions received by the Committee</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000651.htm">
+<relationEntry localType="published">Resource Section: Barnett, Frederick Oswald (1883 - 1972)</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author"></name>
-<title render="italic">Commonwealth Contribution to Former Forced Adoption Policies and Practices: submissions received by the Committee</title>
+<name type="author">Russell, E.W.</name>
+<title render="quoted">Barnett, Frederick Oswald (1883 - 1972)</title>
 <imprint>
-<publisher>Commonwealth of Australia</publisher>
+<publisher>Australian National University</publisher>
+<date>2006</date>
 </imprint>
-<extptr linktype="simple" href="http://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2010-13/commcontribformerforcedadoption/submissions"></extptr>
+<bibseries>
+<title render="italic">Australian Dictionary of Biography Online Edition</title>
+</bibseries>
+<extptr linktype="simple" href="http://adb.anu.edu.au/biography/barnett-frederick-oswald-5138"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -281,21 +327,18 @@ Copelen Street Family Centre (1974 - 1991)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000651.htm">
-<relationEntry localType="published">Resource Section: Barnett, Frederick Oswald (1883 - 1972)</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000016.htm">
+<relationEntry localType="published">Book: All God's Children: a centenary history of the Methodist Homes for Children and the Orana Peace Memorial Homes</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Russell, E.W.</name>
-<title render="quoted">Barnett, Frederick Oswald (1883 - 1972)</title>
+<name type="author">Howe, Renate; Swain, Shurlee</name>
+<title render="italic">All God's Children: a centenary history of the Methodist Homes for Children and the Orana Peace Memorial Homes</title>
 <imprint>
-<publisher>Australian National University</publisher>
-<date>2006</date>
+<place>Kambah, ACT</place>
+<publisher>Acorn Press</publisher>
+<date>1989</date>
 </imprint>
-<bibseries>
-<title render="italic">Australian Dictionary of Biography Online Edition</title>
-</bibseries>
-<extptr linktype="simple" href="http://adb.anu.edu.au/biography/barnett-frederick-oswald-5138"></extptr>
 </bibref>
 </objectXMLWrap>
 
@@ -442,25 +485,6 @@ Copelen Street Family Centre (1974 - 1991)
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000016.htm">
-<relationEntry localType="published">Book: All God's Children: a centenary history of the Methodist Homes for Children and the Orana Peace Memorial Homes</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Howe, Renate; Swain, Shurlee</name>
-<title render="italic">All God's Children: a centenary history of the Methodist Homes for Children and the Orana Peace Memorial Homes</title>
-<imprint>
-<place>Kambah, ACT</place>
-<publisher>Acorn Press</publisher>
-<date>1989</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000454.htm">
 <relationEntry localType="digitalObject">Methodist Babies' Home, South Yarra [photo set]</relationEntry>
 
@@ -518,10 +542,12 @@ Copelen Street Family Centre (1974 - 1991)
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
+<repository>The Argus</repository>
 <unittitle>Opening of the Methodist Babies' Home</unittitle>
 <unitdate>9 December 1929</unitdate>
-<abstract>Caption reads, 'The new Methodist Babies' Home, on a fine site overlooking the river at South Yarra was opened on Saturday by Mr. F. J. Cato. Methodists from all parts of Victoria attended. The gathering in front of the home.</abstract>
+<abstract>This is a copy of an image published in <span style="font-style:italic">The Argus</span> on Monday 9 December 1929. The image shows the outside of the Methodist Babies' Home and the crowds on its opening day.
+
+The original caption reads, 'The new Methodist Babies' Home, on a fine site overlooking the river at South Yarra was opened on Saturday by Mr. F. J. Cato. Methodists from all parts of Victoria attended. The gathering in front of the home.</abstract>
 </archref>
 </objectXMLWrap>
 
@@ -540,14 +566,13 @@ Copelen Street Family Centre (1974 - 1991)
 
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000308.htm">
-<relationEntry localType="digitalObject">A career for girls: mothercraft nurse [editor's note: Methodist Babies' Home]</relationEntry>
+<relationEntry localType="digitalObject">A career for girls: mothercraft nurse</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>National Library of Australia</repository>
-<unittitle>A career for girls: mothercraft nurse [editor's note: Methodist Babies' Home]</unittitle>
+<unittitle>A career for girls: mothercraft nurse</unittitle>
 <unitdate>27 December 1949</unitdate>
-<abstract>This is a copy of an article published in the <span style="font-style:italic">Argus</span> in 1949. It included a photograph of mothercraft trainee nurse April Adams feeding 'Ken', a four month old baby living at Methodist Babies' Home.</abstract>
+<abstract>This is a copy of an image published in <span style="font-style:italic">The Argus</span> on 27 December 1949. The image shows a photograph of a mothercraft trainee nurse feeding a baby at the Methodist Babies' Home.</abstract>
 </archref>
 </objectXMLWrap>
 

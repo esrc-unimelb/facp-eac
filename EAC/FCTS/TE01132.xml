@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="shared/cpf.rng" type="xml"?>
+<eac-cpf xmlns="urn:isbn:1-931666-33-4" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-33-4 http://eac.staatsbibliothek-berlin.de/schema/cpf.xsd">
+<control>
+<recordId>TE01132</recordId>
+<maintenanceStatus>revised</maintenanceStatus>
+<maintenanceAgency>
+<agencyCode>AU-VU:FCTS</agencyCode>
+<agencyName>Find &amp; Connect - Tasmania</agencyName>
+<descriptiveNote>
+<p></p>
+</descriptiveNote>
+</maintenanceAgency>
+<languageDeclaration>
+<language languageCode="eng">English</language>
+<script scriptCode="Latn">Latin</script>
+</languageDeclaration>
+<conventionDeclaration>
+<abbreviation>AACR2</abbreviation>
+<citation>Anglo-American Cataloguing Rules</citation>
+</conventionDeclaration>
+<localControl localType="typeOfEntity">
+<term>Legislation</term>
+</localControl>
+<maintenanceHistory>
+<maintenanceEvent>
+<eventType>created</eventType>
+<eventDateTime standardDateTime="2018-02-05">2018-02-05</eventDateTime>
+<agentType>human</agentType>
+<agent>Kirsten Wright</agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+<maintenanceEvent>
+<eventType>updated</eventType>
+<eventDateTime standardDateTime="2018-02-05">2018-02-05</eventDateTime>
+<agentType>human</agentType>
+<agent></agent>
+<eventDescription></eventDescription>
+</maintenanceEvent>
+</maintenanceHistory>
+</control>
+<cpfDescription>
+<identity><entityId>http://www.findandconnect.gov.au/ref/tas/biogs/TE01132b.htm</entityId>
+<entityType>event</entityType>
+<nameEntry><part>The Cape Barren Island Reserve Act 1912</part>
+<authorizedForm>AACR2</authorizedForm>
+</nameEntry>
+</identity>
+<description><existDates>
+<dateRange>
+<fromDate standardDate="1912-01-01">1912</fromDate>
+<toDate standardDate="1945-12-31">1945</toDate>
+</dateRange>
+</existDates>
+<places>
+</places>
+<functions>
+<function>
+<term>Principal Act</term>
+</function>
+</functions>
+<biogHist>
+<abstract>The Cape Barren Island Reserve Act 1912 (3 George V, No 16), had the full title 'An Act to provide for the subdivision of the Cape Barren Island Reserve, and for other purposes'. It provided for the subdivision of the Cape Barren Island Reserve into homesteads and agricultural blocks specifically for the use of the descendants of people living in the Furneaux Group of islands. Those named in the schedule and their descendants and widows could apply to occupy the land rent free. Licenses could be bequeathed to widows or descendants but if a widow married a white man she lost the licence. The residents had to live continuously in their houses for six months of the year. Anyone over twenty-one years of age who was not a licenced occupier or lessee could be removed from the Reserve. The Cape Barren Island Reserve Act 1912 was repealed by the Cape Barren Island Reserve Act 1945 (9 George VI, No 14).</abstract>
+
+</biogHist>
+</description>
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE00093b.htm">
+<relationEntry localType="Place">
+Cape Barren Island Reserve (1881 - 1951)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="temporal-later" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01133b.htm">
+<relationEntry localType="Legislation">
+The Cape Barren Island Reserve Act 1945 (1945 - 1951)
+</relationEntry>
+</cpfRelation>
+<resourceRelation resourceRelationType="subjectOf">
+<relationEntry localType="published">'The Cape Barren Island Reserve Act 1912', in <span style="font-style:italic">Find &amp; Connect - Tasmania</span>, </relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<title render="italic">The Cape Barren Island Reserve Act 1912</title>
+<bibseries>
+<title render="italic">Find &amp; Connect - Tasmania</title>
+</bibseries>
+<extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/tas/biogs/TE01132b.htm"></extptr>
+</bibref>
+</objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/tas/bib/TP0000027.htm">
+<relationEntry localType="published">Resource Section: Tasmania: legislation</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Tasmania: legislation</title>
+<imprint>
+<publisher>Australian Institute of Aboriginal and Torres Strait Islander Studies</publisher>
+<date>2008</date>
+</imprint>
+<bibseries>
+<title render="italic">To remove and protect: laws that changed Aboriginal lives</title>
+</bibseries>
+<extptr linktype="simple" href="http://aiatsis.gov.au/collections/collections-online/digitised-collections/remove-and-protect/tasmania"></extptr>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
+</relations>
+</cpfDescription>
+</eac-cpf>

@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-05">2017-09-05</eventDateTime>
+<eventDateTime standardDateTime="2018-01-17">2018-01-17</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -106,6 +106,11 @@
 Mission of St James and St John (1919 - 1997)
 </relationEntry>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000730b.htm">
 <relationEntry localType="Archival Collection">
 Anglicare Victoria Records (1886 - )
@@ -157,6 +162,25 @@ St Luke's Anglicare (1979 - 2014)
 </bibref>
 </objectXMLWrap>
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001248.htm">
+<relationEntry localType="published">Resource Section: St Luke's Toddlers' Home (1927-77)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">St Luke's Toddlers' Home (1927-77)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services.</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/St-Lukes-Toddlers-Home"></extptr>
+</bibref>
+</objectXMLWrap>
+
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001123.htm">
 <relationEntry localType="published">Resource Section: Langley Hall Bendigo - History</relationEntry>
 
@@ -207,6 +231,26 @@ St Luke's Anglicare (1979 - 2014)
 </objectXMLWrap>
 
 </resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000056.htm">
+<relationEntry localType="published">Book: Commissioned To Care: The Golden Jubilee History of The Mission of St. James and St. John 1919-1969</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Cole, Dr Keith</name>
+<title render="italic">Commissioned To Care: The Golden Jubilee History of The Mission of St. James and St. John 1919-1969</title>
+<edition>first</edition>
+<imprint>
+<place>North Melbourne, Australia</place>
+<publisher>The Ruskin Press Pty Ltd</publisher>
+<date>1969</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
+<descriptiveNote>
+<p>Source used to compile entry</p>
+</descriptiveNote>
+</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000087.htm">
 <relationEntry localType="published">Book: Memories Still Linger: the story of a forgotten child</relationEntry>
 
@@ -222,25 +266,6 @@ St Luke's Anglicare (1979 - 2014)
 </bibref>
 </objectXMLWrap>
 
-</resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000075.htm">
-<relationEntry localType="published">Book: Doorways: celebrating 25 years of St Luke's</relationEntry>
-
-<objectXMLWrap>
-<bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Holton, John</name>
-<title render="italic">Doorways: celebrating 25 years of St Luke's</title>
-<imprint>
-<place>Bendigo</place>
-<publisher>St Luke's Innovative Resources</publisher>
-<date>2004</date>
-</imprint>
-</bibref>
-</objectXMLWrap>
-
-<descriptiveNote>
-<p>Source used to compile entry</p>
-</descriptiveNote>
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000066.htm">
 <relationEntry localType="published">Report: Guide to out-of-home care services 1940-2000 - Volume One: Agency Descriptions</relationEntry>
@@ -260,18 +285,17 @@ St Luke's Anglicare (1979 - 2014)
 <p>Source used to compile entry</p>
 </descriptiveNote>
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000056.htm">
-<relationEntry localType="published">Book: Commissioned To Care: The Golden Jubilee History of The Mission of St. James and St. John 1919-1969</relationEntry>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000075.htm">
+<relationEntry localType="published">Book: Doorways: celebrating 25 years of St Luke's</relationEntry>
 
 <objectXMLWrap>
 <bibref xmlns="urn:isbn:1-931666-22-9">
-<name type="author">Cole, Dr Keith</name>
-<title render="italic">Commissioned To Care: The Golden Jubilee History of The Mission of St. James and St. John 1919-1969</title>
-<edition>first</edition>
+<name type="author">Holton, John</name>
+<title render="italic">Doorways: celebrating 25 years of St Luke's</title>
 <imprint>
-<place>North Melbourne, Australia</place>
-<publisher>The Ruskin Press Pty Ltd</publisher>
-<date>1969</date>
+<place>Bendigo</place>
+<publisher>St Luke's Innovative Resources</publisher>
+<date>2004</date>
 </imprint>
 </bibref>
 </objectXMLWrap>

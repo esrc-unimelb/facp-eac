@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2016-04-26">2016-04-26</eventDateTime>
+<eventDateTime standardDateTime="2018-02-01">2018-02-01</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -93,7 +93,12 @@
 
 </biogHist>
 </description>
-<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000762b.htm">
+<relations><cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000762b.htm">
 <relationEntry localType="Archival Collection">
 bestchance Child Family Care Records (1895? - )
 </relationEntry>
@@ -157,6 +162,25 @@ Burwood Children's Home (c. 1972 - c. 1986)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000337b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001274.htm">
+<relationEntry localType="published">Resource Section: Burwood Boys'/Children's Home (1895-1986)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Burwood Boys'/Children's Home (1895-1986)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/Burwood-Boys-Childrens-Home"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000900.htm">
 <relationEntry localType="published">Newspaper Article: Victoria's Unwanted Children - 6: Willing Hearts Handicapped by Lack of Cash</relationEntry>
@@ -339,7 +363,7 @@ Burwood Children's Home (c. 1972 - c. 1986)
 <archref xmlns="urn:isbn:1-931666-22-9">
 <unittitle>Social work of the church: child rescue agencies of Melbourne</unittitle>
 <unitdate>23 June 1899</unitdate>
-<abstract>This is a copy of an article published in the Methodist newspaper, the <span style="font-style:italic">Spectator</span> in June 1899.</abstract>
+<abstract>This document is a copy of an article published in the Methodist newspaper, <span style="font-style:italic">The Spectator</span> in June 1899.</abstract>
 </archref>
 </objectXMLWrap>
 

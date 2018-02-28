@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-09-12">2017-09-12</eventDateTime>
+<eventDateTime standardDateTime="2018-02-08">2018-02-08</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -125,7 +125,7 @@ Patrick Sephton interviewed by Ann-Mari Jordens in the Bringing them home oral h
 </relationEntry>
 </cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00951b.htm">
-<relationEntry localType="Glossary Term">
+<relationEntry localType="Concept">
 Aboriginal School (1915 - 1972)
 </relationEntry>
 <descriptiveNote>
@@ -256,6 +256,22 @@ Bimbadeen Girls Home (1969 - 1974)
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/nsw/biogs/NE00031b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0001112.htm">
+<relationEntry localType="published">Book: If everyone cared</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author">Tucker, Margaret</name>
+<title render="italic">If everyone cared</title>
+<imprint>
+<place>Sydney</place>
+<publisher>Ure Smith</publisher>
+<date>1977</date>
+</imprint>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/nsw/bib/NP0000161.htm">
 <relationEntry localType="published">Report: Bringing them home: National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families</relationEntry>
@@ -534,10 +550,10 @@ Its been a long journey of healing for former residents of the Cootamundra Girls
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<repository>State Records New South Wales</repository>
+<repository>State Archives and Records Authority of New South Wales</repository>
 <unittitle>Cootamundra Training Home for Girls - front view</unittitle>
 <unitdate>c. 1911 - c. 1940</unitdate>
-<note label="rights">Reproduction rights owned by State Records N.S.W.</note>
+<note label="rights">Reproduction rights owned by State Archives and Records Authority of New South Wales</note>
 </archref>
 </objectXMLWrap>
 

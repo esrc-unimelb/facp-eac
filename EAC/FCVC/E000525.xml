@@ -32,7 +32,7 @@
 </maintenanceEvent>
 <maintenanceEvent>
 <eventType>updated</eventType>
-<eventDateTime standardDateTime="2017-11-27">2017-11-27</eventDateTime>
+<eventDateTime standardDateTime="2018-02-02">2018-02-02</eventDateTime>
 <agentType>human</agentType>
 <agent></agent>
 <eventDescription></eventDescription>
@@ -145,6 +145,11 @@ Melbourne City Mission (1979 - c. 2000)
 <toDate standardDate="1982-12-31">c. 1982</toDate>
 </dateRange>
 </cpfRelation>
+<cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E001064b.htm">
+<relationEntry localType="Archival Series">
+Voluntary Children's Homes Files (1921 - 1989)
+</relationEntry>
+</cpfRelation>
 <cpfRelation cpfRelationType="associative" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/biogs/E000159b.htm">
 <relationEntry localType="Event">
 Inquiry into Children in Institutional Care (2003 - 2005)
@@ -180,6 +185,25 @@ Family Information, Networks and Discovery, Department of Health &amp; Human Ser
 <extptr linktype="simple" href="http://www.findandconnect.gov.au/ref/vic/biogs/E000525b.htm"></extptr>
 </bibref>
 </objectXMLWrap>
+</resourceRelation>
+<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00001322.htm">
+<relationEntry localType="published">Resource Section: Hartnett House (1900-83)</relationEntry>
+
+<objectXMLWrap>
+<bibref xmlns="urn:isbn:1-931666-22-9">
+<name type="author"></name>
+<title render="quoted">Hartnett House (1900-83)</title>
+<imprint>
+<publisher>State of Victoria</publisher>
+</imprint>
+<bibseries>
+<title render="italic">Finding Records</title>
+<name type="author">Department of Health and Human Services</name>
+</bibseries>
+<extptr linktype="simple" href="https://www.findingrecords.dhhs.vic.gov.au/collectionresultspage/HartnettHouse"></extptr>
+</bibref>
+</objectXMLWrap>
+
 </resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/bib/P00000579.htm">
 <relationEntry localType="published">Newspaper Article: Apology heals pain</relationEntry>
@@ -257,26 +281,15 @@ Family Information, Networks and Discovery, Department of Health &amp; Human Ser
 </objectXMLWrap>
 
 </resourceRelation>
-<resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000467.htm">
-<relationEntry localType="digitalObject">Further expansion of city mission part 2</relationEntry>
-
-<objectXMLWrap>
-<archref xmlns="urn:isbn:1-931666-22-9">
-<unittitle>Further expansion of city mission part 2</unittitle>
-<unitdate>22 October 1965</unitdate>
-<abstract>This is a copy of the newspaper article which appeared in The Age on 22 October 1965, page 9 referring to the function of Hartnett House.</abstract>
-</archref>
-</objectXMLWrap>
-
-</resourceRelation>
 <resourceRelation resourceRelationType="other" xlink:type="simple" xlink:href="http://www.findandconnect.gov.au/ref/vic/objects/D00000466.htm">
-<relationEntry localType="digitalObject">Further expansion of city mission</relationEntry>
+<relationEntry localType="digitalObject">Further expansion of City Mission</relationEntry>
 
 <objectXMLWrap>
 <archref xmlns="urn:isbn:1-931666-22-9">
-<unittitle>Further expansion of city mission</unittitle>
-<unitdate>1965</unitdate>
-<abstract>This is a copy of an article which appeared in The Age newspaper on 22 October 1965 describing the function of Harntett House.</abstract>
+<repository>The Age</repository>
+<unittitle>Further expansion of City Mission</unittitle>
+<unitdate>22 October 1965</unitdate>
+<abstract>This is a copy of an article which appeared in <span style="font-style:italic">The Age</span> on 22 October 1965 describing the function of Harntett House. It was written by Beatrice, Neilson.</abstract>
 </archref>
 </objectXMLWrap>
 
